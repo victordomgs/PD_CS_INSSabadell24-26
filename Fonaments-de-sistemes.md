@@ -337,18 +337,18 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   - **Mòdems:** Dispositius de comunicació que permeten a l'ordinador enviar i rebre dades a través d'una xarxa, normalment connectada a internet.
 
   <div style="text-align: center;">
-    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_04.png" alt="Dispositius d'entrada i sortida" width="640" height="auto"/>
-    <p><em>Figura 4: Dispositius d'entrada i sortida. Font: IOC XTEC</em></p>
+    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_04.png" alt="Esquema dels elements de les unitats funcionals d’un ordinador" width="640" height="auto"/>
+    <p><em>Figura 4: Esquema dels elements de les unitats funcionals d’un ordinador. Font: IOC XTEC</em></p>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_05.png" alt="Unitats d'emmagatzematge" width="640" height="auto"/>
-    <p><em>Figura 5: Unitats d'emmagatzematge. Font: IOC XTEC</em></p>
+    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_05.png" alt="Esquema dels elements de les unitats funcionals d’un ordinador" width="640" height="auto"/>
+    <p><em>Figura 5: Esquema dels elements de les unitats funcionals d’un ordinador. Font: IOC XTEC</em></p>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_06.png" alt="Tipus de processadors" width="640" height="auto"/>
-    <p><em>Figura 5: Tipus de processadors. Font: IOC XTEC</em></p>
+    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_06.png" alt="Estructura funcional dels ordinadors" width="640" height="auto"/>
+    <p><em>Figura 5: Estructura funcional dels ordinadors. Font: IOC XTEC</em></p>
   </div>
 
 
