@@ -42,6 +42,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   Seguint amb les **dades**, no totes les dades són del mateix tipus. Depenent del tipus de dada, podrem fer diferents coses amb elles, com calcular, analitzar o organitzar. 
 
   **Dades numèriques**
+  
     Són aquelles dades que contenen nombres i amb les quals es poden realitzar operacions matemàtiques (sumar, restar, multiplicar, etc.).
 
   💡Ex:
@@ -53,6 +54,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   | **Dates o hores**    | 2023, 15:30                   |
 
   **Dades Alfabètiques**
+  
   Són dades que només contenen **lletres**. Aquestes dades no es poden utilitzar per fer operacions matemàtiques, però són útils per identificar o descriure coses.
 
   💡Ex:
@@ -64,6 +66,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   | **Comptes d'usuari**    | "usuari123", "admin"            |
 
   **Dades Alfanumèriques**
+  
   Són una combinació de **números** i **lletres**. Aquest tipus de dades es fa servir molt en adreces, codis o contrasenyes. Tot i que inclouen números, no es poden fer operacions matemàtiques amb elles, ja que la seva finalitat és identificar o codificar informació, no realitzar càlculs.
 
 💡Ex:
@@ -76,6 +79,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
 
 
   **Dades Temporals**
+  
   Aquest tipus de dades es relacionen amb el **temps** i s’utilitzen per representar dates, hores o durades. Poden ser tant numèriques com alfanumèriques (si inclouen lletres, per exemple, noms de mesos).
 
   💡Ex:
@@ -87,6 +91,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   | **Durada**        | "3 hores", "2 dies"             |
 
   **Dades Booleanes**
+  
   Les dades booleanes representen només dues opcions possibles: **cert** o **fals**. Són molt útils en informàtica per fer preguntes de veritat o falsedat, com en els tests i condicions.
 
   💡Ex:
@@ -97,6 +102,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   | **Sí/No**         | "Sí", "No"                      |
 
   **Dades Categòriques**
+  
   Aquestes dades pertanyen a categories o grups. No tenen un ordre numèric, però ens permeten agrupar elements en diferents classes. Són útils per classificar la informació.
 
   💡Ex:
