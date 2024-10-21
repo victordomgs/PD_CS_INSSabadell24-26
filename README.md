@@ -18,6 +18,5 @@ Els sistemes informàtics ens permeten processar dades automàticament, cosa que
   Les dades són fets o xifres que no tenen significat per elles mateixes fins que no es processen o organitzen.
 
   💡Ex: ```"23", "50", "29", "8"```
-  
   </br>
   Són només números sense context. Podrien representar moltes coses diferents (edats, temperatures, hores del dia, etc.), però per si soles no ens donen cap informació útil.
