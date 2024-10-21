@@ -166,7 +166,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
 
   <div style="text-align: center;">
   <img src="https://parceladigital.com/subidos/1611221350x_xt_color.jpg" alt="XT color" width="320" height="180"/>
-  <p><em>Figura 1: Imagen de un IBM PC XT. Fuente: <a href="https://parceladigital.com/subidos/1611221350x_xt_color.jpg">Parceladigital</a></em></p>
+  <p><em>Figura 1: Imatge d'un IBM PC XT. Font: <a href="https://parceladigital.com/subidos/1611221350x_xt_color.jpg">Parceladigital</a></em></p>
   </div>
 
   - **Manual:** El tractament es fa completament a mà, com emplenar documents.
@@ -239,7 +239,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
 
   <div style="text-align: center;">
     <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_02.png" alt="Estructura d'un ordinador" width="640" height="auto"/>
-    <p><em>Figura 1: Estructura funcional d'un ordinador. Font: IOC XTEC</em></p>
+    <p><em>Figura 2: Estructura funcional d'un ordinador. Font: IOC XTEC</em></p>
   </div>
 
   ## 1.2.1. El maquinari (hardware)
@@ -258,7 +258,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
 
   <div style="text-align: center;">
     <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_03b.png" alt="Esquema de la CPU" width="640" height="auto"/>
-    <p><em>Figura 2: Esquema de la CPU. Font: IOC XTEC</em></p>
+    <p><em>Figura 3: Esquema de la CPU. Font: IOC XTEC</em></p>
   </div>
 
  **Funcionament bàsic de la CPU**
