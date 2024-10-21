@@ -7,7 +7,7 @@
 
 ### Contingut:
 
-[1. Estructura d'un ordinador](#1. Estructura d'un ordinador)
+- [1. Estructura d'un ordinador](#1-estructura-dun-ordinador)
 
 ## 1. Estructura d'un ordinador
 
