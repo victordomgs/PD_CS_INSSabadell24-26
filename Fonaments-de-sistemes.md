@@ -15,7 +15,7 @@
     - [1.2.1. El maquinari (hardware)](#121-el-maquinari-hardware)
       - [1.2.1.1. La CPU (Unitat central de processament)](#1211-la-cpu-unitat-central-de-processament)
       - [1.2.1.2. Memòria](#1212-memòria)
-      - [1.2.1.3. Dispositius d'entrada i sortida (I/O)](#1213-dispositiu-d'entrada-i-sortida-io)
+      - [1.2.1.3. Dispositius d'entrada i sortida](#1213-dispositiu-d'entrada-i-sortida)
 
 ## 1. Estructura i esquema funcional d'un ordinador
 
@@ -329,7 +329,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   
   **Dispositius d'entrada i sortida**
   
-  Els **dispositius d'entrada i sortida (I/O)** tenen la capacitat de realitzar tant la funció d'entrada com la de sortida de dades. Aquests perifèrics permeten la comunicació bidireccional entre l'ordinador i altres dispositius o l'usuari.
+  Els **dispositius d'entrada i sortida** tenen la capacitat de realitzar tant la funció d'entrada com la de sortida de dades. Aquests perifèrics permeten la comunicació bidireccional entre l'ordinador i altres dispositius o l'usuari.
 
   - **Unitats de disc:** Dispositius que permeten la lectura i escriptura de dades en suports de memòria com discos durs (HDD), unitats de disc òptic (CD/DVD) o unitats d'estat sòlid (SSD).
   - **Pantalles tàctils:** Combinen la funció de monitor (dispositiu de sortida) amb la d'entrada, ja que permeten a l'usuari interaccionar amb el sistema mitjançant tocs o gestos sobre la pantalla.
