@@ -180,9 +180,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   
   La informàtica va sorgir amb l'objectiu d'ajudar les persones a realitzar tasques repetitives i rutinàries, especialment en càlculs i gestions, on la repetició és comuna. La idea central és que una màquina pot fer aquestes tasques amb més rapidesa i precisió, encara que sempre sota el control humà.
 
-  El terme informàtica va aparèixer a França l'any 1962 amb la denominació "informatique", resultat de la contracció de les paraules:
-
-  ```INFORmation autoMATIQUE```
+  📖 El terme informàtica va aparèixer a França l'any 1962 amb la denominació "informatique", resultat de la contracció de les paraules: INFORmation autoMATIQUE
 
   **Tasques principals de la informàtica**
   
