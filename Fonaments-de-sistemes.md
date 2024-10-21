@@ -10,7 +10,7 @@
 - [1. Estructura i esquema funcional d'un ordinador](#1-estructura-i-esquema-funcional-dun-ordinador)
   - [1.1. Dades, informació i coneixement](#11-dades-informació-i-coneixement)
     - [1.1.1. Tipologia de dades](#111-tipologia-de-dades)
-    - [1.1.2. Tractament de la informació](#111-tractament-de-la-informació)
+    - [1.1.2. Tractament de la informació](#112-tractament-de-la-informació)
   - [1.2. Els ordinadors](#12-els-ordinadors)
     - [1.2.1. El maquinari (hardware)](#121-el-maquinari)
       - [1.2.1.1. La CPU (Unitat central de processament)](#1211-la-cpu)
