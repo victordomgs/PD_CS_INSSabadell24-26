@@ -34,13 +34,17 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
 
   El **coneixement** és la comprensió profunda i l'aplicació de la informació. Es produeix quan una persona interpreta la informació, la compara amb altres fets o experiències, i l'aplica per entendre el món o prendre  decisions.
 
-  💡Ex: ```Si les temperatures són tan extremes com es va registrar (50°C dimarts i 8°C dijous), probablement es tracta d'un canvi climàtic extrem en la zona, el que pot afectar les collites i la salut pública. És important prendre mesures per protegir les persones i les infraestructures davant d'aquests canvis de temperatura.```
+  💡Ex: ```"Si les temperatures són tan extremes com es va registrar (50°C dimarts i 8°C dijous), probablement es tracta d'un canvi climàtic extrem en la zona, el que pot afectar les collites i la salut pública. És important prendre mesures per protegir les persones i les infraestructures davant d'aquests canvis de temperatura."```
 
   Aquí, el coneixement no només és la comprensió de les dades (temperatures extremes), sinó també la capacitat de fer connexions entre aquestes dades, entendre les seves implicacions i aplicar aquest coneixement a un context pràctic.
 
-    ## 1.1.1. Tipologia de dades
-    Seguint amb les **dades**, no totes les dades són del mateix tipus. Depenent del tipus de dada, podrem fer diferents coses amb elles, com calcular, analitzar o organitzar. 
+  ## 1.1.1. Tipologia de dades
+  Seguint amb les **dades**, no totes les dades són del mateix tipus. Depenent del tipus de dada, podrem fer diferents coses amb elles, com calcular, analitzar o organitzar. 
 
-    **Dades numèriques**
+  **Dades numèriques**
     Són aquelles dades que contenen nombres i amb les quals es poden realitzar operacions matemàtiques (sumar, restar, multiplicar, etc.).
+
+    💡Ex: ```Quantitats: 25, 100, 3,14
+Mesures: 1,75 metres, 20°C
+Dates o hores: 2023, 15:30```
     
