@@ -52,4 +52,69 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   | **Mesures**          | 1,75 metres, 20°C             |
   | **Dates o hores**    | 2023, 15:30                   |
 
-    
+  **Dades Alfabètiques**
+  Són dades que només contenen **lletres**. Aquestes dades no es poden utilitzar per fer operacions matemàtiques, però són útils per identificar o descriure coses.
+
+  💡Ex:
+  
+  | **Tipus de dada**       | **Exemple**                     |
+  |-------------------------|---------------------------------|
+  | **Nom**                 | "Maria", "Joan"                 |
+  | **Ciutat**              | "Barcelona", "Madrid"           |
+  | **Comptes d'usuari**    | "usuari123", "admin"            |
+
+  **Dades Alfanumèriques**
+  Són una combinació de **números** i **lletres**. Aquest tipus de dades es fa servir molt en adreces, codis o contrasenyes. Tot i que inclouen números, no es poden fer operacions matemàtiques amb elles, ja que la seva finalitat és identificar o codificar informació, no realitzar càlculs.
+
+💡Ex:
+
+  | **Tipus de dada**       | **Exemple**                     |
+  |-------------------------|---------------------------------|
+  | **Adreces postals**     | "c/ Muntaner, 100, 3r"          |
+  | **Codis de productes**  | "A12B34"                        |
+  | **Contrasenyes**        | "Passw0rd123"                   |
+
+
+  **Dades Temporals**
+  Aquest tipus de dades es relacionen amb el **temps** i s’utilitzen per representar dates, hores o durades. Poden ser tant numèriques com alfanumèriques (si inclouen lletres, per exemple, noms de mesos).
+
+  💡Ex:
+
+  | **Tipus de dada** | **Exemple**                     |
+  |-------------------|---------------------------------|
+  | **Data**          | "12/04/2023", "2024-03-15"      |
+  | **Hora**          | "14:30", "23:59"                |
+  | **Durada**        | "3 hores", "2 dies"             |
+
+  **Dades Booleanes**
+  Les dades booleanes representen només dues opcions possibles: **cert** o **fals**. Són molt útils en informàtica per fer preguntes de veritat o falsedat, com en els tests i condicions.
+
+  💡Ex:
+
+  | **Tipus de dada** | **Exemple**                     |
+  |-------------------|---------------------------------|
+  | **Cert/Fals**     | "True" (cert), "False" (fals)   |
+  | **Sí/No**         | "Sí", "No"                      |
+
+  **Dades Categòriques**
+  Aquestes dades pertanyen a categories o grups. No tenen un ordre numèric, però ens permeten agrupar elements en diferents classes. Són útils per classificar la informació.
+
+  💡Ex:
+
+  | **Tipus de dada**         | **Exemple**                     |
+  |---------------------------|---------------------------------|
+  | **Colors**                | "Vermell", "Blau", "Verd"       |
+  | **Tipus de vehicles**     | "Cotxe", "Moto", "Bicicleta"    |
+  | **Estats d'un producte**  | "Nou", "Usat", "Reparat"        |
+
+  **Resum de la classificació**
+
+  | **Tipus de dada**  | **Exemple**                           | **Característiques**                            |
+  |--------------------|---------------------------------------|-------------------------------------------------|
+  | **Numèriques**     | 25, 100, 3.14                         | Permet fer operacions matemàtiques              |
+  | **Alfabètiques**   | "Maria", "Joan"                       | Són lletres, no es poden fer càlculs            |
+  | **Alfanumèriques** | "A12B34", "c/ Muntaner, 100, 3r"      | Combinen lletres i números, no operen           |
+  | **Temporals**      | "2023-03-12", "14:30"                 | Relacionades amb dates i hores                  |
+  | **Booleanes**      | True, False, Sí, No                   | Només dues opcions: cert o fals                 |
+  | **Categòriques**   | "Vermell", "Cotxe", "Nou"             | Agrupacions o categories sense ordre            |
+
