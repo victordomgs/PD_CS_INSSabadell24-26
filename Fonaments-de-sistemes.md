@@ -11,6 +11,7 @@
   - [1.1. Dades, informació i coneixement](#11-dades-informació-i-coneixement)
     - [1.1.1. Tipologia de dades](#111-tipologia-de-dades)
     - [1.1.2. Tractament de la informació](#111-tractament-de-la-informació)
+  - [1.2. Els ordinadors](#11-els-ordinadors)
 
 
 ## 1. Estructura i esquema funcional d'un ordinador
@@ -170,3 +171,33 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   - **Automàtic:** Des dels anys 40, amb l’aparició dels ordinadors i altres dispositius automàtics, les màquines poden processar informació de manera independent.
   
   Aquestes etapes han culminat en l'aparició de la **informàtica**, que es refereix específicament al tractament automàtic de la informació, impulsant l'ús dels **ordinadors** i altres tecnologies modernes.
+
+  ## 1.2. Dades, informació i coneixement
+
+  La física, la química, la meteorologia i altres ciències expliquen i justifiquen fets del nostre entorn. De manera similar, la **informàtica** és una ciència que estudia el tractament de la informació, cosa que és possible gràcies a l'ús de diverses eines, entre elles, l'ordinador.
+
+  **La informàtica**
+  
+  La informàtica va sorgir amb l'objectiu d'ajudar les persones a realitzar tasques repetitives i rutinàries, especialment en càlculs i gestions, on la repetició és comuna. La idea central és que una màquina pot fer aquestes tasques amb més rapidesa i precisió, encara que sempre sota el control humà.
+
+  El terme informàtica va aparèixer a França l'any 1962 amb la denominació "informatique", resultat de la contracció de les paraules:
+
+  ```INFORmation autoMATIQUE```
+
+  **Tasques principals de la informàtica**
+  
+  Les tasques que engloba la informàtica inclouen:
+
+  - **Desenvolupament i millora de màquines noves**, com els ordinadors i altres elements relacionats.
+  - **Desenvolupament i millora de mètodes de treball automàtics**, basats en el sistema operatiu.
+  - **Creació d'aplicacions informàtiques**, conegudes com a programes o paquets informàtics.
+  
+  El terme sistema informàtic es refereix al conjunt d'elements necessaris per dur a terme i utilitzar aplicacions informàtiques. Això inclou el maquinari, el programari i els elements humans.
+
+  **Components d'un sistema informàtic**
+  
+  Un sistema informàtic es compon de tres elements interrelacionats:
+
+  - **Part física (maquinari o hardware)**: Tots els components que es poden veure i tocar, com els monitors, impressores, ratolins, etc.
+  - **Part lògica (programari o software)**: Tots els elements intangibles, com els programes, sistemes operatius i aplicacions.
+  - **Part humana**: Les persones són l'element més important en un sistema informàtic, ja que sense elles no existirien ni el maquinari ni el programari.
