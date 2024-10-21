@@ -15,7 +15,7 @@
     - [1.2.1. El maquinari (hardware)](#121-el-maquinari-hardware)
       - [1.2.1.1. La CPU (Unitat central de processament)](#1211-la-cpu-unitat-central-de-processament)
       - [1.2.1.2. Memòria](#1212-memòria)
-      - [1.2.1.3. Dispositius d'entrada i sortida (I/O)](#1213-dispositiu-dentrada-i-sortida-io)
+      - [1.2.1.3. Dispositius d'entrada i sortida (I/O)](#1213-dispositius-dentrada-i-sortida-io)
 
 ## 1. Estructura i esquema funcional d'un ordinador
 
