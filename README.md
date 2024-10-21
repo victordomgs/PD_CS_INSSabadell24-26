@@ -31,6 +31,6 @@ Teoria-de-sistemes-i-computacio/
 ├── Pensament-computacional.md   # Principis del pensament computacional i la resolució de problemes
 ├── Organitzacio-de-computadors.md   # Estructura i funcionament intern dels ordinadors
 ├── Xarxes.md   # Conceptes fonamentals sobre les xarxes de comunicació
-├── LICENSE                    # Llicència del projecte
-└── README.md                  # El que estàs llegint ara mateix!
+├── LICENSE   # Llicència del projecte
+└── README.md
 ```
