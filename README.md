@@ -41,5 +41,6 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
     ## 1.1.1. Tipologia de dades
     Seguint amb les **dades**, no totes les dades són del mateix tipus. Depenent del tipus de dada, podrem fer diferents coses amb elles, com calcular, analitzar o organitzar. 
 
-    <u>Dades numèriques</u>
+    **Dades numèriques**
+    Són aquelles dades que contenen nombres i amb les quals es poden realitzar operacions matemàtiques (sumar, restar, multiplicar, etc.).
     
