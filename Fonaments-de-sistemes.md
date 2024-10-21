@@ -2,6 +2,9 @@
 <div align="center">
 
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<a href="https://frontal.ies-sabadell.cat/eso-moodle/"><img src="https://img.shields.io/badge/Moodle-Accedeix-%230081C3" alt="Enllaç a Moodle"/>
+</a>
+
 
 </div>
 
