@@ -113,6 +113,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   | **Tipus de vehicles**     | "Cotxe", "Moto", "Bicicleta"    |
   | **Estats d'un producte**  | "Nou", "Usat", "Reparat"        |
 
+  
   **Resum de la classificació**
 
   | **Tipus de dada**  | **Exemple**                           | **Característiques**                            |
