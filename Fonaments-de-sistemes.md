@@ -256,6 +256,11 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   - La **Unitat Aritmètica i Lògica (ALU)** és la part de la CPU encarregada de realitzar les operacions matemàtiques i lògiques. L'ALU treballa amb les dades que li subministra la Unitat de Control i torna els resultats d'aquestes operacions a altres components de la CPU, com els registres o la memòria.
   - Els **registres** són petites àrees de memòria d'alta velocitat dins la CPU que s'utilitzen per emmagatzemar dades temporals que es necessiten durant l'execució de les instruccions. Els registres són molt més ràpids que la memòria RAM i proporcionen un accés immediat a les dades que es processen a cada moment.
 
+  <div style="text-align: center;">
+    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_03b.png" alt="Esquema de la CPU" width="640" height="auto"/>
+    <p><em>Figura 2: Esquema de la CPU. Font: IOC XTEC</em></p>
+  </div>
+
  **Funcionament bàsic de la CPU**
 
  | **Fase**         | **Descripció**                                                                                                                                                            |
