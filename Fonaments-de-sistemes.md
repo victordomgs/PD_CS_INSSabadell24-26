@@ -12,7 +12,7 @@
     - [1.1.1. Tipologia de dades](#111-tipologia-de-dades)
     - [1.1.2. Tractament de la informació](#112-tractament-de-la-informació)
   - [1.2. Els ordinadors](#12-els-ordinadors)
-    - [1.2.1. El maquinari (hardware)](#121-el-maquinari)
+    - [1.2.1. El maquinari (hardware)](#121-el-maquinari-hardware)
       - [1.2.1.1. La CPU (Unitat central de processament)](#1211-la-cpu)
       - [1.2.1.2. Memòria](#1212-memoria)
       - [1.2.1.3. Dispositius d'entrada i sortida (I/O)](#1213-dispositiu-d'entrada-i-sortida)
