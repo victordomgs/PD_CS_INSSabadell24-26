@@ -160,7 +160,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   
   El tractament de la informació ha anat evolucionant al llarg de la història, des de processos manuals fins als actuals processos automàtics:
 
-  ![XT color](https://parceladigital.com/subidos/1611221350x_xt_color.jpg)
+  <img src="https://parceladigital.com/subidos/1611221350x_xt_color.jpg" alt="XT color" width="640" height="360"/>
   *Figura 1: Imagen de un IBM PC XT. Fuente: [Parceladigital](https://parceladigital.com/subidos/1611221350x_xt_color.jpg).*
 
   **Manual:** El tractament es fa completament a mà, com emplenar documents.
