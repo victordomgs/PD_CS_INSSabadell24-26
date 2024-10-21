@@ -17,7 +17,6 @@
       - [1.2.1.2. Memòria](#1212-memoria)
       - [1.2.1.3. Dispositius d'entrada i sortida (I/O)](#1213-dispositiu-d'entrada-i-sortida)
 
-
 ## 1. Estructura i esquema funcional d'un ordinador
 
 Els sistemes informàtics ens permeten processar **dades** automàticament, cosa que no podríem fer sense ells. Les persones aprenem del que ens envolta i, mitjançant la **informació**, podem millorar o canviar els nostres **coneixements**. 
@@ -25,7 +24,6 @@ Els sistemes informàtics ens permeten processar **dades** automàticament, cosa
 Els ordinadors estan formats per diferents parts que ajuden a processar la informació i també permeten que les persones interactuïn amb aquesta. 
 
 En resum, la informàtica és una eina per treballar la informació, i l’ordinador és el mitjà que fa possible aquesta interacció entre les persones i l'informació.
-
 
   ## 1.1. Dades, informació i coneixement
   Les **dades** són fets o xifres que no tenen significat per elles mateixes fins que no es processen o organitzen.
@@ -273,3 +271,35 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   ## 1.2.1.2. Memòria
 
   La memòria és un component fonamental d'un ordinador, responsable d'emmagatzemar dades i instruccions que la CPU necessita per executar operacions. La memòria permet que el processador tingui accés ràpid a la informació requerida per realitzar les seves tasques.
+
+  **Memòria principal (RAM)**
+  
+  La **RAM (Random Access Memory)** és la memòria principal de l'ordinador, on es carreguen les dades i les instruccions que la CPU necessita mentre s'està executant un programa. La RAM és volàtil, això significa que la informació emmagatzemada es perd quan l'ordinador s'apaga.
+
+  - **Funció:** Emmagatzema temporalment dades i programes en ús per la CPU.
+  - **Velocitat:** És ràpida, permet accedir a qualsevol part de la memòria de manera immediata.
+  - **Capacitat:** Normalment té una capacitat limitada en comparació amb l'emmagatzematge secundari.
+
+  **Memòria ROM**
+  
+  La **ROM (Read-Only Memory)** és un tipus de memòria no volàtil, això vol dir que conserva les dades fins i tot quan l'ordinador s'apaga. La informació emmagatzemada a la ROM generalment és escrita pel fabricant i no es pot modificar fàcilment.
+
+  - **Funció:** Conté instruccions permanents necessàries per arrencar el sistema, com el BIOS (Basic Input/Output System).
+  - **Característica:** Només permet la lectura de dades; no es pot escriure a la ROM durant el funcionament normal de l'ordinador.
+  - **Exemples d'ús:** BIOS, firmware de dispositius.
+  
+  **Memòria cau (cache)**
+  
+  La **memòria cau (cache)** és una memòria de petita capacitat però molt ràpida que es troba entre la CPU i la RAM. La seva funció principal és accelerar l'accés de la CPU a les dades que s'usen amb més freqüència.
+
+  - **Funció:** Emmagatzema còpies de dades de la memòria principal que s'utilitzen freqüentment per reduir el temps que triga la CPU a accedir a la informació.
+  - **Tipus:** Hi ha diferents nivells de memòria cau (L1, L2, L3), sent L1 la més ràpida però de menor capacitat, i L3 la més lenta però de major capacitat.
+  - **Impacte en el rendiment:** Redueix els colls d'ampolla entre la velocitat de la CPU i la memòria principal.
+
+  **Emmagatzematge secundari**
+
+  L'**emmagatzematge secundari** és l'espai on es guarden dades de manera permanent. A diferència de la RAM, no és volàtil, per tant, la informació es manté emmagatzemada encara que s'apagui l'ordinador.
+
+  - **Exemples:** Discos durs (HDD), unitats d'estat sòlid (SSD), discos òptics (CD/DVD), i unitats USB.
+  - **Funció:** Emmagatzema de manera permanent dades, programes, fitxers i el sistema operatiu.
+  - **Característica:** Té molta més capacitat que la memòria RAM, però és més lenta.
