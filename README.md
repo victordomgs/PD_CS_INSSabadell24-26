@@ -44,7 +44,11 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   **Dades numèriques**
     Són aquelles dades que contenen nombres i amb les quals es poden realitzar operacions matemàtiques (sumar, restar, multiplicar, etc.).
 
-    💡Ex: ```Quantitats: 25, 100, 3,14
-Mesures: 1,75 metres, 20°C
-Dates o hores: 2023, 15:30```
+    💡Ex: 
+  | **Tipus de dada**    | **Exemple**                   |
+  |----------------------|-------------------------------|
+  | **Quantitats**       | 25, 100, 3.14                 |
+  | **Mesures**          | 1,75 metres, 20°C             |
+  | **Dates o hores**    | 2023, 15:30                   |
+
     
