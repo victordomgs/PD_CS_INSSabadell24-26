@@ -8,8 +8,8 @@
 ### Contingut:
 
 - [1. Estructura i esquema funcional d'un ordinador](#1-estructura-i-esquema-funcional-dun-ordinador)
-  - [1.1. Dades, informació i coneixement](#1.1-dades-informació-i-coneixement)
-    - [1.1.1. Tipologia de dades](#1.1.1-tipologia-de-dades)
+  - [1.1. Dades, informació i coneixement](#11-dades-informació-i-coneixement)
+    - [1.1.1. Tipologia de dades](#111-tipologia-de-dades)
 
 ## 1. Estructura i esquema funcional d'un ordinador
 
