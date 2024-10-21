@@ -14,7 +14,8 @@
   - [1.2. Els ordinadors](#12-els-ordinadors)
     - [1.2.1. El maquinari (hardware)](#121-el-maquinari)
       - [1.2.1.1. La CPU (Unitat central de processament)](#1211-la-cpu)
-      - 
+      - [1.2.1.2. Memòria](#1212-memoria)
+      - [1.2.1.3. Dispositius d'entrada i sortida (I/O)](#1213-dispositiu-d'entrada-i-sortida)
 
 
 ## 1. Estructura i esquema funcional d'un ordinador
@@ -268,3 +269,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
 | **Fetch (Cerca)**      | - La CPU localitza la següent instrucció a la memòria (RAM).<br>- Utilitza el comptador de programa (PC), que conté l'adreça de la pròxima instrucció.<br>- L'instrucció es transfereix des de la memòria a un registre dins la CPU, com el registre d'instruccions. |
 | **Decode (Descodificació)** | - Un cop l'instrucció està al registre d'instruccions, la Unitat de Control descodifica la instrucció.<br>- La Unitat de Control determina quines accions s'han de dur a terme, incloent operadors i dades a manipular. |
 | **Execute (Execució)**  | - L'instrucció es processa. Si requereix operacions aritmètiques o lògiques, la Unitat de Control envia l'ordre a l'ALU.<br>- Els resultats es guarden en un registre o es tornen a la memòria.<br>- El comptador de programa s'incrementa per passar a la següent instrucció, repetint el cicle. |
+
+  ## 1.2.1.2. Memòria
+
+  La memòria és un component fonamental d'un ordinador, responsable d'emmagatzemar dades i instruccions que la CPU necessita per executar operacions. La memòria permet que el processador tingui accés ràpid a la informació requerida per realitzar les seves tasques.
