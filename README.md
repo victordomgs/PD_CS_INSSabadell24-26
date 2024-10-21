@@ -25,6 +25,7 @@ El propòsit d’aquest repositori és servir com a material didàctic per apren
 
 ## 📂 Estructura del repositori
 
+```bash
 Teoria-de-sistemes-i-computacio/
 ├── Fonaments-de-sistemes.md   # Introducció als conceptes bàsics dels sistemes informàtics
 ├── Pensament-computacional.md   # Principis del pensament computacional i la resolució de problemes
@@ -32,3 +33,4 @@ Teoria-de-sistemes-i-computacio/
 ├── Xarxes.md   # Conceptes fonamentals sobre les xarxes de comunicació
 ├── LICENSE                    # Llicència del projecte
 └── README.md                  # El que estàs llegint ara mateix!
+```
