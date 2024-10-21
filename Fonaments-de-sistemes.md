@@ -152,9 +152,9 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
 
   Cada fase té característiques importants:
 
-  **Entrada:** Recollida d'informació per ser tractada, com llegir llibres o obtenir dades digitals. Aquest procés inclou la selecció, verificació i emmagatzematge de la informació en un suport adequat.
-  **Procés:** Manipulació de la informació, ja sigui mitjançant càlculs matemàtics o operacions lògiques.
-  **Sortida:** Comunicació dels resultats, que poden ser presentats externament o utilitzats en altres processos.
+  - **Entrada:** Recollida d'informació per ser tractada, com llegir llibres o obtenir dades digitals. Aquest procés inclou la selecció, verificació i emmagatzematge de la informació en un suport adequat.
+  - **Procés:** Manipulació de la informació, ja sigui mitjançant càlculs matemàtics o operacions lògiques.
+  - **Sortida:** Comunicació dels resultats, que poden ser presentats externament o utilitzats en altres processos.
   
   **Evolució històrica del tractament de la informació**
   
@@ -165,8 +165,8 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   <p><em>Figura 1: Imagen de un IBM PC XT. Fuente: <a href="https://parceladigital.com/subidos/1611221350x_xt_color.jpg">Parceladigital</a></em></p>
   </div>
 
-  **Manual:** El tractament es fa completament a mà, com emplenar documents.
-  **Mecànic:** Utilitza màquines amb assistència humana, com les màquines d’escriure o calculadores.
-  **Automàtic:** Des dels anys 40, amb l’aparició dels ordinadors i altres dispositius automàtics, les màquines poden processar informació de manera independent.
+  - **Manual:** El tractament es fa completament a mà, com emplenar documents.
+  - **Mecànic:** Utilitza màquines amb assistència humana, com les màquines d’escriure o calculadores.
+  - **Automàtic:** Des dels anys 40, amb l’aparició dels ordinadors i altres dispositius automàtics, les màquines poden processar informació de manera independent.
   
   Aquestes etapes han culminat en l'aparició de la **informàtica**, que es refereix específicament al tractament automàtic de la informació, impulsant l'ús dels **ordinadors** i altres tecnologies modernes.
