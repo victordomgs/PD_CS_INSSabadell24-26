@@ -11,7 +11,10 @@
   - [1.1. Dades, informació i coneixement](#11-dades-informació-i-coneixement)
     - [1.1.1. Tipologia de dades](#111-tipologia-de-dades)
     - [1.1.2. Tractament de la informació](#111-tractament-de-la-informació)
-  - [1.2. Els ordinadors](#11-els-ordinadors)
+  - [1.2. Els ordinadors](#12-els-ordinadors)
+    - [1.2.1. El maquinari (hardware)](#121-el-maquinari)
+      - [1.2.1.1. La CPU (Unitat central de processament)](#1211-la-cpu)
+      - 
 
 
 ## 1. Estructura i esquema funcional d'un ordinador
@@ -172,7 +175,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   
   Aquestes etapes han culminat en l'aparició de la **informàtica**, que es refereix específicament al tractament automàtic de la informació, impulsant l'ús dels **ordinadors** i altres tecnologies modernes.
 
-  ## 1.2. Dades, informació i coneixement
+  ## 1.2. Els ordinadors
 
   La física, la química, la meteorologia i altres ciències expliquen i justifiquen fets del nostre entorn. De manera similar, la **informàtica** és una ciència que estudia el tractament de la informació, cosa que és possible gràcies a l'ús de diverses eines, entre elles, l'ordinador.
 
@@ -199,3 +202,64 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   - **Part física (maquinari o hardware)**: Tots els components que es poden veure i tocar, com els monitors, impressores, ratolins, etc.
   - **Part lògica (programari o software)**: Tots els elements intangibles, com els programes, sistemes operatius i aplicacions.
   - **Part humana**: Les persones són l'element més important en un sistema informàtic, ja que sense elles no existirien ni el maquinari ni el programari.
+
+  **Característiques principals d'un ordinador**
+  
+  Un ordinador té les següents característiques principals:
+
+  - **Fa una acció a la vegada:** Un ordinador executa una tasca a la vegada en cada cicle de processament.
+  - **Capacitat per a fer càlculs matemàtics:** Pot sumar, restar, multiplicar i dividir.
+  - **Realitza operacions lògiques:** Compara lletres, nombres i altres dades per determinar resultats vertaders o falsos.
+  - **Alta velocitat: Opera a grans** velocitats, permetent realitzar moltes operacions en poc temps.
+  - **Exactitud i precisió:** Fa exactament el que se li indica segons les instruccions.
+  - **Eficàcia:** Pot treballar durant llargs períodes sense interrupció.
+  - **Manipulació de grans quantitats d’informació:** Pot processar i manejar dades massives de manera eficient.
+  - **Fiabilitat:** Verifica l'exactitud de les seves operacions internes (autocomprovació).
+  - **Capacitat per manipular símbols:** Pot treballar amb diversos tipus de dades i símbols, no només números.
+  - **Evolució constant:** Els ordinadors es tornen cada vegada més petits, més útils i menys costosos.
+  
+  **Programes i aplicacions informàtiques**
+  
+  El conjunt d'accions que s'ordena i executa un ordinador es coneix com a programa. En general, un programa és un conjunt d’instruccions que es segueixen en un ordre determinat per resoldre un problema concret.
+
+  Una **aplicació informàtica** és un conjunt d’un o més programes dissenyats per realitzar una tasca específica en un sistema informàtic.
+
+  **Components fonamentals d’un ordinador**
+
+  L’ordinador està format per dos elements principals:
+
+  - **Maquinari (hardware):** Inclou tots els components físics que es poden veure i tocar, com el monitor, el teclat, la CPU, etc.
+  - **Programari (software):** Fa referència als components no físics, com els programes, les aplicacions i els sistemes operatius.
+  
+  També cal destacar altres elements com:
+
+  - **Usuari i programador:** L’usuari és la persona que utilitza l’ordinador, mentre que el programador és qui escriu els programes en llenguatges de programació perquè l’ordinador pugui executar-los.
+  - **Dades i informació:** Les dades són els fets o materials originals no processats, mentre que la informació és el resultat de les dades ja processades.
+  - **Documentació:** Conjunt d’instruccions o manuals que expliquen a l'usuari com utilitzar l’ordinador i els programes informàtics.
+
+  <div style="text-align: center;">
+    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_02.png" alt="Estructura d'un ordinador" width="640" height="auto"/>
+    <p><em>Figura 1: Estructura funcional d'un ordinador. Font: IOC XTEC</em></p>
+  </div>
+
+  ## 1.2.1. El maquinari (hardware)
+  
+  ## 1.2.1.1. La CPU (Unitat central de processament)
+
+  La **CPU (Unitat Central de Processament)** és el component fonamental d'un ordinador encarregat de processar les dades i executar les instruccions d'un programa. També es coneix com el **processador** o "cervell" de l'ordinador, ja que controla totes les operacions que es realitzen dins el sistema.
+
+  **Parts de la CPU**
+
+  La CPU està formada per diverses parts que treballen conjuntament per executar les instruccions que rep. Les parts principals de la CPU són:
+
+  - La **Unitat de Control (CU)** és responsable de dirigir i coordinar totes les operacions de l'ordinador.
+  - La **Unitat Aritmètica i Lògica (ALU)** és la part de la CPU encarregada de realitzar les operacions matemàtiques i lògiques. L'ALU treballa amb les dades que li subministra la Unitat de Control i torna els resultats d'aquestes operacions a altres components de la CPU, com els registres o la memòria.
+  - Els **registres** són petites àrees de memòria d'alta velocitat dins la CPU que s'utilitzen per emmagatzemar dades temporals que es necessiten durant l'execució de les instruccions. Els registres són molt més ràpids que la memòria RAM i proporcionen un accés immediat a les dades que es processen a cada moment.
+
+ **Funcionament bàsic de la CPU**
+
+ | **Fase**         | **Descripció**                                                                                                                                                            |
+|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Fetch (Cerca)**      | - La CPU localitza la següent instrucció a la memòria (RAM).<br>- Utilitza el comptador de programa (PC), que conté l'adreça de la pròxima instrucció.<br>- L'instrucció es transfereix des de la memòria a un registre dins la CPU, com el registre d'instruccions. |
+| **Decode (Descodificació)** | - Un cop l'instrucció està al registre d'instruccions, la Unitat de Control descodifica la instrucció.<br>- La Unitat de Control determina quines accions s'han de dur a terme, incloent operadors i dades a manipular. |
+| **Execute (Execució)**  | - L'instrucció es processa. Si requereix operacions aritmètiques o lògiques, la Unitat de Control envia l'ordre a l'ALU.<br>- Els resultats es guarden en un registre o es tornen a la memòria.<br>- El comptador de programa s'incrementa per passar a la següent instrucció, repetint el cicle. |
