@@ -10,6 +10,8 @@
 - [1. Estructura i esquema funcional d'un ordinador](#1-estructura-i-esquema-funcional-dun-ordinador)
   - [1.1. Dades, informació i coneixement](#11-dades-informació-i-coneixement)
     - [1.1.1. Tipologia de dades](#111-tipologia-de-dades)
+    - [1.1.2. Tractament de la informació](#111-tractament-de-la-informació)
+
 
 ## 1. Estructura i esquema funcional d'un ordinador
 
@@ -18,6 +20,7 @@ Els sistemes informàtics ens permeten processar **dades** automàticament, cosa
 Els ordinadors estan formats per diferents parts que ajuden a processar la informació i també permeten que les persones interactuïn amb aquesta. 
 
 En resum, la informàtica és una eina per treballar la informació, i l’ordinador és el mitjà que fa possible aquesta interacció entre les persones i l'informació.
+
 
   ## 1.1. Dades, informació i coneixement
   Les **dades** són fets o xifres que no tenen significat per elles mateixes fins que no es processen o organitzen.
@@ -37,6 +40,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   💡Ex: ```"Si les temperatures són tan extremes com es va registrar (50°C dimarts i 8°C dijous), probablement es tracta d'un canvi climàtic extrem en la zona, el que pot afectar les collites i la salut pública. És important prendre mesures per protegir les persones i les infraestructures davant d'aquests canvis de temperatura."```
 
   Aquí, el coneixement no només és la comprensió de les dades (temperatures extremes), sinó també la capacitat de fer connexions entre aquestes dades, entendre les seves implicacions i aplicar aquest coneixement a un context pràctic.
+
 
   ## 1.1.1. Tipologia de dades
   Seguint amb les **dades**, no totes les dades són del mateix tipus. Depenent del tipus de dada, podrem fer diferents coses amb elles, com calcular, analitzar o organitzar. 
@@ -125,3 +129,5 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   | **Booleanes**      | True, False, Sí, No                   | Només dues opcions: cert o fals                 |
   | **Categòriques**   | "Vermell", "Cotxe", "Nou"             | Agrupacions o categories sense ordre            |
 
+
+  ## 1.1.2. Tractament de la informació
