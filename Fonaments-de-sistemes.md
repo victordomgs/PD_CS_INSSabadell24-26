@@ -303,3 +303,52 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   - **Exemples:** Discos durs (HDD), unitats d'estat sòlid (SSD), discos òptics (CD/DVD), i unitats USB.
   - **Funció:** Emmagatzema de manera permanent dades, programes, fitxers i el sistema operatiu.
   - **Característica:** Té molta més capacitat que la memòria RAM, però és més lenta.
+
+  ## 1.2.1.3. Dispositius d'entrada i sortida (I/O)
+
+  Els dispositius d'entrada i sortida, també coneguts com a **perifèrics**, són elements externs que permeten la interacció entre l'ordinador i l'usuari o altres sistemes. Aquests dispositius serveixen per introduir dades a l'ordinador, mostrar resultats o permetre la comunicació entre sistemes.
+
+  **Dispositius d'entrada**
+  
+  Els **dispositius d'entrada** són aquells que permeten a l'usuari o altres sistemes introduir dades o instruccions dins l'ordinador. Aquests dispositius transformen les dades físiques en senyals digitals que l'ordinador pot processar.
+
+  - **Teclat:** El dispositiu d'entrada més comú. Permet introduir caràcters, números i símbols utilitzant una disposició de tecles.
+  - **Ratolí:** Un dispositiu apuntador que permet controlar el cursor a la pantalla. Facilita la selecció d'opcions en interfícies gràfiques.
+   -**Escàner:** Converteix documents físics, com imatges o text, en format digital que pot ser processat per l'ordinador.
+  - **Micròfon:** Permet l'entrada d'àudio, convertint les ones sonores en senyals digitals.
+   -**Càmera web:** Captura imatges i vídeo que poden ser utilitzats en temps real per aplicacions com videoconferències o gravacions.
+
+  **Dispositius de sortida**
+  
+  Els **dispositius de sortida** permeten a l'ordinador enviar informació a l'usuari o a altres sistemes. La funció principal d'aquests dispositius és mostrar o transmetre el resultat de les operacions processades per l'ordinador.
+
+  - **Monitor:** Mostra visualment la informació generada per l'ordinador, com el resultat d'operacions, imatges, textos o vídeos. El monitor és un dels dispositius de sortida més importants.
+  - **Impressora:** Converteix la informació digital en una còpia física, com la impressió de documents o imatges sobre paper.
+  - **Altaveus:** Converteixen els senyals digitals en so, permetent escoltar àudio o música.
+  - **Projector:** Dispositiu de sortida que projecta imatges o vídeos en una pantalla gran, sovint utilitzat en presentacions.
+  
+  **Dispositius d'entrada i sortida**
+  
+  Els **dispositius d'entrada i sortida (I/O)** tenen la capacitat de realitzar tant la funció d'entrada com la de sortida de dades. Aquests perifèrics permeten la comunicació bidireccional entre l'ordinador i altres dispositius o l'usuari.
+
+  - **Unitats de disc:** Dispositius que permeten la lectura i escriptura de dades en suports de memòria com discos durs (HDD), unitats de disc òptic (CD/DVD) o unitats d'estat sòlid (SSD).
+  - **Pantalles tàctils:** Combinen la funció de monitor (dispositiu de sortida) amb la d'entrada, ja que permeten a l'usuari interaccionar amb el sistema mitjançant tocs o gestos sobre la pantalla.
+  - **Memòries USB:** Dispositius d'emmagatzematge externs que permeten llegir i escriure dades des de i cap a l'ordinador.
+  - **Mòdems:** Dispositius de comunicació que permeten a l'ordinador enviar i rebre dades a través d'una xarxa, normalment connectada a internet.
+
+  <div style="text-align: center;">
+    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_04.png" alt="Dispositius d'entrada i sortida" width="640" height="auto"/>
+    <p><em>Figura 4: Dispositius d'entrada i sortida. Font: IOC XTEC</em></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_05.png" alt="Unitats d'emmagatzematge" width="640" height="auto"/>
+    <p><em>Figura 5: Unitats d'emmagatzematge. Font: IOC XTEC</em></p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_06.png" alt="Tipus de processadors" width="640" height="auto"/>
+    <p><em>Figura 5: Tipus de processadors. Font: IOC XTEC</em></p>
+  </div>
+
+
