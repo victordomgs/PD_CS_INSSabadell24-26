@@ -213,7 +213,7 @@ En resum, la informàtica és una eina per treballar la informació, i l’ordin
   - **Fa una acció a la vegada:** Un ordinador executa una tasca a la vegada en cada cicle de processament.
   - **Capacitat per a fer càlculs matemàtics:** Pot sumar, restar, multiplicar i dividir.
   - **Realitza operacions lògiques:** Compara lletres, nombres i altres dades per determinar resultats vertaders o falsos.
-  - **Alta velocitat: Opera a grans** velocitats, permetent realitzar moltes operacions en poc temps.
+  - **Alta velocitat:** Opera a grans velocitats, permetent realitzar moltes operacions en poc temps.
   - **Exactitud i precisió:** Fa exactament el que se li indica segons les instruccions.
   - **Eficàcia:** Pot treballar durant llargs períodes sense interrupció.
   - **Manipulació de grans quantitats d’informació:** Pot processar i manejar dades massives de manera eficient.
