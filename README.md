@@ -2,7 +2,7 @@
 
 👋 **Benvingut/da al repositori de Teoria de Sistemes i Computació!** 
 
-Aquí trobaràs tota la informació necessària per adquirir un coneixements bàsics sobre els fonaments de sistemes, l'organització de computadores, les xarxes de comunicació, i altres temes relacionats. Si alguna vegada t'has plantejat com funcionen els ordinadors o les xarxes, aquest repositori et proporcionarà els recursos necessaris per entendre-ho en profunditat.
+Aquí trobaràs tota la informació necessària per adquirir uns coneixements bàsics sobre els fonaments de sistemes, l'organització de computadores, les xarxes de comunicació, i altres temes relacionats. Si alguna vegada t'has plantejat com funcionen els ordinadors o les xarxes, aquest repositori et proporcionarà els recursos necessaris per entendre-ho en profunditat.
 
 ---
 
