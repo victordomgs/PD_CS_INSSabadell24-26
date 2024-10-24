@@ -36,15 +36,15 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   Son solo números sin contexto. Podrían representar muchas cosas diferentes (edades, temperaturas, horas del día, etc.), pero por sí solas no nos dan ningún tipo de información útil.
 
-  La **informació** es genera quan les dades són organitzades o processades per donar-los significat. Quan les dades es relacionen entre si o es presenten en un context, comencen a tenir un significat i utilitat.
+  La **información** se genera cuando los datos son organizados o procesados para darles significado. Cuando los datos se relacionan entre si o se presentan en su contexto, comienzan a tener un significado y una utilidad. 
+  
+  💡Ej: ```"Las temperaturas durante la semana pasada fueron de 23°C el lunes, 50°C el martes, 29°C el miércoles i 8°C el jueves."```
 
-  💡Ex: ```"Les temperatures durant la setmana passada van ser de 23°C dilluns, 50°C dimarts, 29°C dimecres i 8°C dijous."```
+  Ahora los datos tienen un contexto y pueden entenderse mejor: son temperaturas que han estado registradas durante la semana. 
 
-  Ara les dades tenen un context i podem entendre-les millor: són temperatures que han estat registrades durant una setmana.
+  El **conocimiento** es la comprensión profunda y la aplicación de la información. Se produce cuando una persona interpreta la información, la compara con otros hechos o experiencias, y la aplica para entender el mundo o tomar decisiones.
 
-  El **coneixement** és la comprensió profunda i l'aplicació de la informació. Es produeix quan una persona interpreta la informació, la compara amb altres fets o experiències, i l'aplica per entendre el món o prendre  decisions.
-
-  💡Ex: ```"Si les temperatures són tan extremes com es va registrar (50°C dimarts i 8°C dijous), probablement es tracta d'un canvi climàtic extrem en la zona, el que pot afectar les collites i la salut pública. És important prendre mesures per protegir les persones i les infraestructures davant d'aquests canvis de temperatura."```
+  💡Ej: ```"Si las temperaturas son tan extremas como se registraron (50 °C martes y 8 °C jueves), probablemente se trata de un cambio climático extremo en la zona, el cual puede afectar las cosechas y la salud pública. Es importante tomar medidas para proteger las personas y las infraestructuras ante estos cambios de temperatura."```
 
   Aquí, el coneixement no només és la comprensió de les dades (temperatures extremes), sinó també la capacitat de fer connexions entre aquestes dades, entendre les seves implicacions i aplicar aquest coneixement a un context pràctic.
 
