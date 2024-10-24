@@ -1,4 +1,4 @@
-<h1 align="center">Fonaments de sistemes  
+<h1 align="center">Fundamentos de sistemas 
 <div align="center">
 
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
@@ -11,30 +11,30 @@
 
 ### Contingut:
 
-- [1. Estructura i esquema funcional d'un ordinador](#1-estructura-i-esquema-funcional-dun-ordinador)
-  - [1.1. Dades, informació i coneixement](#11-dades-informació-i-coneixement)
-    - [1.1.1. Tipologia de dades](#111-tipologia-de-dades)
-    - [1.1.2. Tractament de la informació](#112-tractament-de-la-informació)
-  - [1.2. Els ordinadors](#12-els-ordinadors)
-    - [1.2.1. El maquinari (hardware)](#121-el-maquinari-hardware)
-      - [1.2.1.1. La CPU (Unitat central de processament)](#1211-la-cpu-unitat-central-de-processament)
-      - [1.2.1.2. Memòria](#1212-memòria)
-      - [1.2.1.3. Dispositius d'entrada i sortida (I/O)](#1213-dispositius-dentrada-i-sortida-io)
+- [1. Estructura y esquema funcional de un ordenador](#1-estructura-y-esquema-funcional-de-un-ordenador)
+  - [1.1. Datos, información y conocimiento](#11-datos-información-y-conocimiento)
+    - [1.1.1. Tipologia de datos](#111-tipologia-de-datos)
+    - [1.1.2. Tratamiento de la información](#112-tratamiento-de-la-información)
+  - [1.2. Los ordenadores](#12-los-ordenadores)
+    - [1.2.1. La maquinaria (hardware)](#121-la-maquinaria-hardware)
+      - [1.2.1.1. La CPU (Unidad central de procesamiento)](#1211-la-cpu-unidad-central-de-procesamiento)
+      - [1.2.1.2. Memoria](#1212-memoria)
+      - [1.2.1.3. Dispositivos de entrada y salida (I/O)](#1213-dispositivos-de-entrada-y-salida-io)
 
-## 1. Estructura i esquema funcional d'un ordinador
+## 1. Estructura i esquema funcional de un ordenador
 
-Els sistemes informàtics ens permeten processar **dades** automàticament, cosa que no podríem fer sense ells. Les persones aprenem del que ens envolta i, mitjançant la **informació**, podem millorar o canviar els nostres **coneixements**. 
+Los sistemas informáticos nos permiten procesar **datos** automáticamente, cosa que no podríamos hacer sin ellos. Las personas aprendemos de lo que nos rodea y, mediante la **información**, podemos mejorar o cambiar nuestros **conocimientos**.
 
-Els ordinadors estan formats per diferents parts que ajuden a processar la informació i també permeten que les persones interactuïn amb aquests. 
+Los ordenadores están formados por diferentes partes que ayudan a procesar la información y también permiten que las personas interactúen con estos.  
 
-En resum, la informàtica és una eina per treballar la informació, i l’ordinador és el mitjà que fa possible aquesta interacció entre les persones i l'informació.
+En resumen, la informática es una herramienta para trabajar la información, y el ordenador es el medio mediante el cual se hace posible esta interacción entre las personas y la información. 
 
-  ## 1.1. Dades, informació i coneixement
-  Les **dades** són fets o xifres que no tenen significat per elles mateixes fins que no es processen o organitzen.
+  ## 1.1. Datos, información y conocimiento
+  Los **datos** son hechos o cifras que no tienen significado por ellos mismos hasta que no se procesan y organizan. 
 
-  💡Ex: ```"23", "50", "29", "8"```
-  
-  Són només números sense context. Podrien representar moltes coses diferents (edats, temperatures, hores del dia, etc.), però per si soles no ens donen cap informació útil.
+  💡Ej: ```"23", "50", "29", "8"```
+
+  Son solo números sin contexto. Podrían representar muchas cosas diferentes (edades, temperaturas, horas del día, etc.), pero por sí solas no nos dan ningún tipo de información útil.
 
   La **informació** es genera quan les dades són organitzades o processades per donar-los significat. Quan les dades es relacionen entre si o es presenten en un context, comencen a tenir un significat i utilitat.
 
