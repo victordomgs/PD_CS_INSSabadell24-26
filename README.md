@@ -1,36 +1,37 @@
-# 🎓 Teoria de Sistemes i Computació 📚
+# 🎓 Teoria de Sistemas y Computación 📚
 
-👋 **Benvingut/da al repositori de Teoria de Sistemes i Computació!** 
+👋 **Bienvenidos/das al repositorio de Teoria de Sistemas y Computación!** 
 
-Aquí trobaràs tota la informació necessària per adquirir uns coneixements bàsics sobre els fonaments de sistemes, l'organització de computadores, les xarxes de comunicació, i altres temes relacionats. Si alguna vegada t'has plantejat com funcionen els ordinadors o les xarxes, aquest repositori et proporcionarà els recursos necessaris per entendre-ho en profunditat.
-
----
-
-## 🚀 Contingut del repositori
-
-A continuació, es presenten els principals temes tractats en aquest repositori:
-
-- 📖 **Fonaments de sistemes**: Les bases teòriques i pràctiques necessàries per comprendre el funcionament dels sistemes informàtics.
-- 🧠 **Pensament computacional**: Una introducció a com els ordinadors processen la informació i resolen problemes de manera eficient.
-- 💻 **Organització de computadors**: Una visió detallada de la configuració interna dels ordinadors i el seu funcionament.
-- 🌐 **Xarxes**: Un estudi sobre el funcionament de les xarxes de comunicació i la seva importància en la connectivitat actual.
+Aquí encontrarás toda la información necesaria para adquirir unos conocimientos básicos sobre los fundamentos de sistemas, la organización de computadores, las redes de comunicación, y otros temas relacionados. Si alguna vez te has planteado como funcionan los ordenadores o las redes, este repositorio te proporcionará los recursos necesarios para entenderlo en profundidad. 
 
 ---
 
-## 🎯 Objectiu
+## 🚀 Contenido del repositorio
 
-El propòsit d’aquest repositori és servir com a material didàctic per aprendre els conceptes fonamentals dels sistemes i la computació, mitjançant exemples i teoria. També trobaràs activitats per practicar i posar en acció tot el que has après.
+A continuación, se presentan los principales temas tratados en este repositorio:
+
+- 📖 **Fundamentos de sistemas**: Las bases teóricas y prácticas necesarias para comprender el funcionamiento de los sistemas informáticos.
+- 🧠 **Pensamiento computacional**: Una introducción a como los ordenadores procesan la información y resuelven problemas de manera eficiente.
+- 💻 **Organización de computadores**: Una visión detallada de la configuración interna de los ordenadores y de su funcionamiento.
+- 🌐 **Redes**: Un estudio sobre el funcionamiento de las redes de comunicación y de su importáncia con la conectividad actual.
+- 
+
+---
+
+## 🎯 Objectivo
+
+El propósito de este repositorio es ser utilizado como material didáctico para aprender los conceptos fundamentales de los sistemas y de la computación, mediante ejemplos y teoria. También encontrarás actividades para practicar y poner en acción todo lo que hemos aprendido. 
 
 ---
 
 ## 📂 Estructura del repositori
 
 ```bash
-Teoria-de-sistemes-i-computacio/
-├── Fonaments-de-sistemes.md   # Introducció als conceptes bàsics dels sistemes informàtics
-├── Pensament-computacional.md   # Principis del pensament computacional i la resolució de problemes
-├── Organitzacio-de-computadors.md   # Estructura i funcionament intern dels ordinadors
-├── Xarxes.md   # Conceptes fonamentals sobre les xarxes de comunicació
-├── LICENSE   # Llicència del projecte
+Teoria-de-sistemas-i-computacion/
+├── Fundamentos-de-sistemas.md   # Introducción a los conceptos básicos de los sistemas informáticos.
+├── Pensamiento-computacional.md   # Principios del pensamiento computacional y la resolución de problemas.
+├── Organización-de-computadores.md   # Estructura y funcionamiento interno de los ordenadores.
+├── Redes.md   # Conceptos fundamentales sobre las redes de comunicación.
+├── LICENSE   # Licéncia del proyecto del projecte
 └── README.md
 ```
