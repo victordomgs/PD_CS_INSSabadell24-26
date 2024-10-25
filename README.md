@@ -14,7 +14,6 @@ A continuación, se presentan los principales temas tratados en este repositorio
 - 🧠 **Pensamiento computacional**: Una introducción a como los ordenadores procesan la información y resuelven problemas de manera eficiente.
 - 💻 **Organización de computadores**: Una visión detallada de la configuración interna de los ordenadores y de su funcionamiento.
 - 🌐 **Redes**: Un estudio sobre el funcionamiento de las redes de comunicación y de su importáncia con la conectividad actual.
-- 
 
 ---
 
