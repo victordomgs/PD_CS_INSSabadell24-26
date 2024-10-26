@@ -417,7 +417,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   ## 1.2.2.1.1. Software de sistema
   El **software de sistema** es el conjunto de programas que gestiona y controla los recursos del hardware y proporciona una base para que otros programas funcionen. Es esencial para el funcionamiento del ordenador y ayuda a gestionar los recursos internos.
 
-  💡Ej: El sistema operativo, como Windows, macOS o Linux, es el software de sistema más importante. También se incluyen los controladores de dispositivos, que permiten que el sistema operativo se comunique con componentes específicos del hardware, como impresoras, tarjetas gráficas y otros periféricos.
+  💡Ej: Sistemas operativos: como Windows, macOS o Linux. Son algunos de los software de sistemas más importante. También se incluyen los controladores de dispositivos, que permiten que el sistema operativo se comunique con componentes específicos del hardware, como impresoras, tarjetas gráficas y otros periféricos.
 
   <div style="text-align: center;">
   <img src="https://www.adslzone.net/app/uploads-adslzone.net/2017/06/windows-linux-1200x675.jpg" alt="Windows y Linux" width="320" height="180"/>
