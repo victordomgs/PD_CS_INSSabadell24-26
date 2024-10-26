@@ -128,7 +128,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   **Datos alfanuméricos**
   
-  Son una combinación de **números** y **letras**. Este tipo de datos se usa mucho en direcciones, códigos o contraseñas. A pesar de que incluyen números, no se pueden hacer operaciones matemáticas con ellas, puesto que su finalidad es identificar o codificar información, no realizar cálculos.
+  Son una combinación de **números** y **letras**. Este tipo de datos se usa mucho en direcciones, códigos o contraseñas. A pesar de que incluyen números, no se pueden hacer operaciones matemáticas con ellos, puesto que su finalidad es identificar o codificar información, no realizar cálculos.
 
 💡Ej:
 
@@ -141,7 +141,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   **Datos temporales**
   
-  Este tipo de datos se relacionan con el **tiempo** y se utilizan para representar fechas, horas o duraciones. Pueden ser tanto numéricas como alfanuméricas (si incluyen letras, por ejemplo, nombres de meses).
+  Este tipo de datos se relacionan con el **tiempo** y se utilizan para representar fechas, horas o duraciones. Pueden ser tanto numéricos como alfanuméricos (si incluyen letras, por ejemplo, nombres de meses).
 
   💡Ej:
 
@@ -151,7 +151,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   | **Hora**          | "14:30", "23:59"                |
   | **Duración**        | "3 hores", "2 dies"             |
 
-  **Dades booleanos**
+  **Datos booleanos**
   
   Los datos booleanos representan solo dos opciones posibles: **cierto** o **falso**. Son muy útiles en informática para hacer preguntas de verdad o falsedad, como en los tests y condiciones.
 
@@ -164,7 +164,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   **Datos categóricos**
   
-  Estos datos pertenecen a categorías o grupos. No tienen un orden numérico, pero nos permiten agrupar elementos en diferentes clases. Son útiles para clasificar la información.
+  Estos datos pertenecen a categorías o grupos. No tienen un orden numérico, pero nos permiten agrupar los elementos en diferentes clases. Son útiles para clasificar la información.
 
   💡Ej:
 
