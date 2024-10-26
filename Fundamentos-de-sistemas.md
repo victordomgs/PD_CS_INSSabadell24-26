@@ -32,6 +32,7 @@
         - [1.2.2.3.1. Software propietario vs. software libre](#12231-software-propietario-vs-software-libre)
         - [1.2.2.3.2. Código abierto (open-source) y sus implicaciones](#12232-código-abierto-open-source-y-sus-implicaciones)
         - [1.2.2.3.3. Licencias comunes: GPL, MIT, Creative Commons](#12233-licencias-comunes-gpl-mit-creative-commons)
+          
 - [2. Almacenamiento de datos](#2-almacenamiento-de-datos)
   - [2.1. Importancia y aplicaciones del almacenamiento de datos](#21-importancia-y-aplicaciones-del-almacenamiento-de-datos)
   - [2.2. Tipos de almacenamiento](#22-tipos-de-almacenamiento)
@@ -43,6 +44,7 @@
   - [2.4. Derechos digitales y protección de datos](#24-derechos-digitales-y-protección-de-datos)
     - [2.4.1. Legislación sobre protección de datos](#241-legislación-sobre-protección-de-datos-gdpr-lopd)
     - [2.4.2. Privacidad y ética en el tratamiento de datos personales](#242-privacidad-y-ética-en-el-tratamiento-de-datos-personales)
+      
 - [3. Sistemas de información en las organizaciones](#3-sistemas-de-información-en-las-organizaciones)
   - [3.1. Relación de los sistemas de información con el entorno organizacional](#31-relación-de-los-sistemas-de-información-con-el-entorno-organizacional)
     - [3.1.1. La información en las organizaciones](#311-la-información-en-las-organizaciones)
@@ -59,6 +61,7 @@
     - [3.4.1. El proyecto de implantación](#341-el-proyecto-de-implantación)
     - [3.4.2. El mantenimiento y la adaptación de las soluciones](#342-el-mantenimiento-y-la-adaptación-de-las-soluciones)
     - [3.4.3. La evolución y la migración de las soluciones](#343-la-evolución-y-la-migración-de-las-soluciones)
+      
 - [4. Tecnología y sociedad](#4-tecnología-y-sociedad)
   - [4.1. La digitalización en la vida cotidiana](#41-la-digitalización-en-la-vida-cotidiana)
     - [4.1.1. La tecnología en el hogar](#411-la-tecnología-en-el-hogar)
