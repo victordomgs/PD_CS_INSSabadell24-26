@@ -8,7 +8,7 @@
 
 </div>
 
-La representación de la información es un concepto clave en la informática, que permite transformar datos de cualquier tipo (como texto, imágenes, audio y video) en formatos que puedan ser procesados y almacenados por sistemas digitales. El código binario es la base de esta representación en los dispositivos electrónicos y computadoras, ya que utiliza combinaciones de dos valores, 0 y 1, para codificar y manipular cualquier tipo de información. Esta transformación a formato binario es fundamental para que la tecnología digital pueda operar de manera precisa, eficiente y fiable, facilitando la comunicación y el procesamiento de datos en el mundo actual.
+La **representación de la información** es un concepto clave en la informática, que permite transformar datos de cualquier tipo (como texto, imágenes, audio y video) en formatos que puedan ser procesados y almacenados por sistemas digitales. El **código binario** es la base de esta representación en los dispositivos electrónicos y computadoras, ya que utiliza combinaciones de dos valores, 0 y 1, para codificar y manipular cualquier tipo de información. Esta transformación a formato binario es fundamental para que la tecnología digital pueda operar de manera precisa, eficiente y fiable, facilitando la comunicación y el procesamiento de datos en el mundo actual.
 
 ### Contenido:
 
