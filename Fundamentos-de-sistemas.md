@@ -682,7 +682,7 @@ en marcha con garantías de funcionamiento. Todas estas tareas implican necesari
   Otra actividad en paralelo es la **gestión del proyecto**, que va más allá de planificarlo inicialmente y considera también la coordinación de los recursos asignados, el seguimiento de la evolución de las tareas, la gestión de los imprevistos que puedan surgir, el desempeño de las metas de control, etc. Todas estas tareas pretenden garantizar el avance del proyecto y la consecución de los objetivos previstos.
 
   <div style="text-align: center;">
-  <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%2014.%20Fundamentos%20de%20sistemas.png" alt="Descripción de la imagen" width="845" height="457"/>
+  <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%2014.%20Fundamentos%20de%20sistemas.png" alt="Descripción de la imagen" width="650" height="351"/>
   <p><em>Figura 14: Actividades del proyecto de implantación de un sistema de información. Fuente: <a href="https://openaccess.uoc.edu/bitstream/10609/148041/2/IntroduccionALosSistemasDeInformacionEnLasOrganizaciones.pdf">UOC</a></em></p>
   </div>
 
