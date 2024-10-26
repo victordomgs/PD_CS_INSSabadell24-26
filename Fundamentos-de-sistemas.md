@@ -421,7 +421,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
   <img src="https://www.adslzone.net/app/uploads-adslzone.net/2017/06/windows-linux-1200x675.jpg" alt="Windows y Linux" width="320" height="180"/>
-  <p><em>Figura 6: Comparativa entre Windows y Linux. Fuente: <a href="https://www.adslzone.net/2017/06/01/es-realmente-mas-seguro-linux-que-windows/">ADSLZone</a></em></p>
+  <p><em>Figura 6: Software de sistema. Fuente: <a href="https://www.adslzone.net/2017/06/01/es-realmente-mas-seguro-linux-que-windows/">ADSLZone</a></em></p>
   </div>
 
   ## 1.2.2.1.2. Software de aplicación
