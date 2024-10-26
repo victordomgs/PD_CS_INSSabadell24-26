@@ -591,8 +591,10 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   <p><em>Figura 12: Funciones intrínsecas del sistema de información. Fuente: <a href="https://cv.uoc.edu/UOC/a/moduls/90/90_329/web/main/m1/nv0_2.html">UOC</a></em></p>
   </div>
 
-  ## 3.1.1. La función de los sistemas de información en la comunicación interna y externa
-  Además, los sistemas de información facilitan la comunicación fluida y eficiente dentro y fuera de la organización:
+  ## 3.1.1. La información en las organizaciones
+  El tipo de información y como esta se gestiona varia según el tipo de organización. Además, no es fácil encontrar puntos en común, pero todas sin excepción comparten de alguna manera una cadena de proceso que genera el valor del producto o servicio final. 
+
+  ```📖 La cadena de valor de una organización es un modelo que reúne todos aquellos recursos y procesos que intervienen en el funcionamiento cotidiano para cumplir su objetivo final. Cabe distinguir entre las actividades primarias, que intervienen directamente en la generación del valor de los productos o servicios, y las actividades de apoyo, que sirven de ayuda a las primarias para aportar la gestión, el control y el seguimiento necesarios para que su realización sea eficiente y efectiva.```
 
   - **Comunicación interna:** Ayudan a compartir información entre los diferentes departamentos y niveles de la organización, lo que permite una mejor coordinación y alineación de los objetivos.
   - **Comunicación externa:** Facilitan la interacción con clientes, proveedores y otras entidades externas, permitiendo la automatización de ciertos procesos, como la atención al cliente o la gestión de la cadena de suministro.
