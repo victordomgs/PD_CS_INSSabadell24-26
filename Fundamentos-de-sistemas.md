@@ -16,7 +16,7 @@
     - [1.1.1. Tipologia de datos](#111-tipologia-de-datos)
     - [1.1.2. Tratamiento de la información](#112-tratamiento-de-la-información)
   - [1.2. Los ordenadores](#12-los-ordenadores)
-    - [1.2.1. La maquinaria (hardware)](#121-la-maquinaria-hardware)
+    - [1.2.1. Hardware](#121-hardware)
       - [1.2.1.1. La CPU (Unidad central de procesamiento)](#1211-la-cpu-unidad-central-de-procesamiento)
       - [1.2.1.2. Memoria](#1212-memoria)
       - [1.2.1.3. Dispositivos de entrada y salida (I/O)](#1213-dispositivos-de-entrada-y-salida-io)
