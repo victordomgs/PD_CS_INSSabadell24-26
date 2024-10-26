@@ -9,7 +9,7 @@
 
 </div>
 
-### Contingut:
+### Contenido:
 
 - [1. Estructura y esquema funcional de un ordenador](#1-estructura-y-esquema-funcional-de-un-ordenador)
   - [1.1. Datos, información y conocimiento](#11-datos-información-y-conocimiento)
