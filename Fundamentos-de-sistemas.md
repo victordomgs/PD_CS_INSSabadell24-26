@@ -469,11 +469,6 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   💡Ej: LibreOffice y GIMP son software libre, accesible y modificable para todos los usuarios.
 
-  <div style="text-align: center;">
-  <img src="https://lizgod.wordpress.com/wp-content/uploads/2014/08/6cd7c-diapositiva6.jpg" alt="Estructura de un sistema informático" width="480" height="360"/>
-  <p><em>Figura 3: Software libre vs. software propietario. Fuente: <a href="https://lizgod.wordpress.com/software-propietario/">Lizgod Blog</a></em></p>
-  </div>
-  
   ## 1.2.2.3.2. Código abierto (open-source) y sus implicaciones
   El **software de código abierto** permite que el código fuente esté disponible para cualquier persona que quiera verlo, modificarlo y distribuirlo. Este tipo de software fomenta la innovación, ya que otros programadores pueden mejorar el código.
 
