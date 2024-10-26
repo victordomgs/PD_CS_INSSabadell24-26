@@ -522,3 +522,53 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   - **OneDrive:** El servicio de almacenamiento en la nube de Microsoft que ofrece integración con el sistema operativo Windows y el paquete de Office, facilitando el trabajo colaborativo y el acceso a los archivos desde diferentes dispositivos.
   
   El almacenamiento en la nube proporciona beneficios como la accesibilidad desde cualquier lugar con conexión a Internet, la escalabilidad y las opciones de respaldo de datos. No obstante, también tiene desafíos, como la dependencia de una conexión a Internet y la necesidad de confiar en el proveedor de servicios para la seguridad y privacidad de los datos.
+
+  ## 2.3. Seguridad y privacidad de la información
+  La seguridad y privacidad de la información son fundamentales para proteger los datos personales y sensibles en un mundo cada vez más digitalizado. La seguridad de la información se refiere a las prácticas y tecnologías empleadas para evitar el acceso no autorizado, mientras que la privacidad de la información se enfoca en proteger los datos personales de cada individuo y garantizar que se usen solo para los fines previstos.
+
+  ## 2.3.1. Conceptos básicos de ciberseguridad
+  La ciberseguridad es el conjunto de prácticas y tecnologías diseñadas para proteger los sistemas informáticos, redes y datos frente a amenazas digitales. Los conceptos básicos incluyen:
+
+  - **Amenazas:** Son los riesgos que pueden comprometer la seguridad de la información. Incluyen virus, malware, ataques de phishing, y otras tácticas empleadas por ciberdelincuentes para acceder a datos sensibles.
+  - **Vulnerabilidades:** Son las debilidades en un sistema que pueden ser explotadas por una amenaza. Por ejemplo, una contraseña débil o un sistema sin actualizar son vulnerabilidades que pueden facilitar el acceso no autorizado.
+  - **Medidas de protección:** Son las herramientas y prácticas utilizadas para reducir los riesgos de ciberataques. Incluyen el uso de antivirus, cortafuegos (firewalls), autenticación de múltiples factores y actualizaciones de software.
+  
+  La ciberseguridad es clave para mantener la integridad, disponibilidad, confidencialidad y autenticidad de los datos personales y empresariales.
+
+  ## 2.3.2. Buenas prácticas para proteger la información personal
+  La protección de la información personal depende en gran medida de las prácticas que cada individuo implemente. Algunas buenas prácticas para proteger la información personal incluyen:
+
+  - **Crear contraseñas seguras:** Utilizar contraseñas largas y complejas que combinen letras, números y símbolos. Evitar el uso de información fácil de adivinar, como fechas de nacimiento o nombres.
+  - **Activar la autenticación de múltiples factores (MFA):** La MFA es un sistema de seguridad que requiere más de un método de verificación, como una contraseña y un código enviado al teléfono, lo que aumenta la seguridad de las cuentas.
+  - **Ser cauteloso con los enlaces y archivos adjuntos:** No hacer clic en enlaces o abrir archivos de remitentes desconocidos, ya que podrían contener virus o redirigir a sitios de phishing.
+  - **Mantener el software actualizado:** Instalar las actualizaciones de software y aplicaciones para corregir vulnerabilidades de seguridad conocidas.
+  - **Configurar la privacidad en redes sociales:** Revisar y ajustar la configuración de privacidad en las plataformas sociales para controlar quién puede ver la información personal compartida en línea.
+  
+  Adoptar estas prácticas ayuda a reducir el riesgo de robo de identidad y otros tipos de ciberataques.
+
+  ## 2.4. Derechos digitales y protección de datos
+  Los derechos digitales son los derechos de los individuos a la privacidad y el control sobre su información personal en el entorno digital. La protección de datos es el conjunto de políticas y medidas legales que regulan cómo se recopila, almacena y utiliza la información personal, garantizando el respeto de la privacidad y la seguridad   de los datos.
+
+  ## 2.4.1. Legislación sobre protección de datos
+  La legislación sobre protección de datos establece las normas y principios que deben cumplir las organizaciones y personas al manejar datos personales. Algunas leyes importantes incluyen:
+
+  - **Reglamento General de Protección de Datos (GDPR):** Esta es una regulación de la Unión Europea que establece estrictas normas para la recolección, almacenamiento y procesamiento de datos personales de los ciudadanos europeos. Obliga a las empresas a obtener el consentimiento explícito del usuario y garantiza el derecho de los individuos a   acceder, corregir y eliminar sus datos.
+
+  <div style="text-align: center;">
+  <img src="https://d2z0k1elb7rxgj.cloudfront.net/uploads/2019/12/gdpr-guidelines-1024x531.png" alt="Directrices del GDPR" width="930" height="482"/>
+  <p><em>Figura 10: Directrices del GDPR. Fuente: <a href="https://www.emotiv.com/blogs/glossary/gdpr">EMOTIV</a></em></p>
+  </div>
+
+  - **Ley Orgánica de Protección de Datos (LOPD):** En España, la LOPD complementa el GDPR y regula la protección de datos personales, especificando cómo deben ser tratados en el ámbito nacional.
+  
+  Estas leyes buscan proteger la privacidad de los ciudadanos y sancionar a quienes incumplen las normas de protección de datos.
+
+  ## 2.4.2. Privacidad y ética en el tratamiento de datos personales
+  El tratamiento de datos personales no solo requiere el cumplimiento de leyes, sino también un enfoque ético. La ética en el manejo de datos personales se centra en:
+
+  - **Consentimiento informado:** Las organizaciones deben informar a los individuos sobre qué datos recopilan, para qué fines y cómo los utilizarán, y deben obtener su consentimiento explícito.
+  - **Transparencia:** Las organizaciones deben ser claras sobre sus prácticas de manejo de datos y facilitar el acceso de los usuarios a la información almacenada sobre ellos.
+  - **Limitación de uso:** Los datos personales solo deben utilizarse para los fines para los que fueron recopilados y no deben compartirse sin autorización.
+  - **Responsabilidad:** Las organizaciones tienen la responsabilidad de proteger los datos y responder ante cualquier violación de privacidad.
+  
+  Adoptar un enfoque ético en el tratamiento de los datos personales es fundamental para preservar la confianza de los usuarios y proteger sus derechos en el entorno digital.
