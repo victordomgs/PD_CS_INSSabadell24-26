@@ -391,8 +391,8 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   </div>
 
   <div style="text-align: center;">
-    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_05.png" alt="Esquema de los elementos de las unidades funcionales de un ordenador" width="640" height="auto"/>
-    <p><em>Figura 5: Esquema de los elementos de las unidades funcionales de un ordenador. Font: IOC XTEC</em></p>
+    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_05.png" alt="Interconexión de las unidades funcionales de un ordenador mediante buses" width="640" height="auto"/>
+    <p><em>Figura 5: Interconexión de las unidades funcionales de un ordenador mediante buses. Font: IOC XTEC</em></p>
   </div>
 
   <div style="text-align: center;">
