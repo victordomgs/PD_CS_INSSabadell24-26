@@ -594,10 +594,17 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   ## 3.1.1. La información en las organizaciones
   El tipo de información y como esta se gestiona varia según el tipo de organización. Además, no es fácil encontrar puntos en común, pero todas sin excepción comparten de alguna manera una cadena de proceso que genera el valor del producto o servicio final. 
 
-  ```📖 La cadena de valor de una organización es un modelo que reúne todos aquellos recursos y procesos que intervienen en el funcionamiento cotidiano para cumplir su objetivo final. Cabe distinguir entre las actividades primarias, que intervienen directamente en la generación del valor de los productos o servicios, y las actividades de apoyo, que sirven de ayuda a las primarias para aportar la gestión, el control y el seguimiento necesarios para que su realización sea eficiente y efectiva.```
+  La **cadena de valor** de una organización es un modelo que reúne todos aquellos recursos y procesos que intervienen en el funcionamiento cotidiano para cumplir su objetivo final. Cabe distinguir entre las actividades primarias, que intervienen directamente en la generación del valor de los productos o servicios, y las actividades de apoyo, que sirven de ayuda a las primarias para aportar la gestión, el control y el seguimiento necesarios para que su realización sea eficiente y efectiva.
 
-  - **Comunicación interna:** Ayudan a compartir información entre los diferentes departamentos y niveles de la organización, lo que permite una mejor coordinación y alineación de los objetivos.
-  - **Comunicación externa:** Facilitan la interacción con clientes, proveedores y otras entidades externas, permitiendo la automatización de ciertos procesos, como la atención al cliente o la gestión de la cadena de suministro.
+  De acuerdo con los planteamientos de Porter y Millar: 
+
+  - Las **actividades primarias** estarían formadas por los procesos básicos de la organización: la logística de entrada, las operaciones o la producción, la logística de salida, el marketing y las ventas, y los servicios.
+  - Las **actividades de apoyo** corresponderían al conjunto de procesos que ayudan a las actividades primarias, como podrían ser el abastecimiento de los materiales, la gestión de la infraestructura organizativa (por ejemplo, la planificación, la contabilidad, etc.), la gestión de los recursos humanos, el desarrollo de la tecnología o de innovaciones, etc.
+
+  <div style="text-align: center;">
+  <img src="https://www.josepdeulofeu.com/wp-content/uploads/2020/06/image-107-1024x554.png" alt="Niveles del LOPD" width="930" height="503"/>
+  <p><em>Figura 13: Cadena de valor de porter. Fuente: <a href="https://www.josepdeulofeu.com/ade/cadena-de-valor/">Josep Deulofeu</a></em></p>
+  </div>
   
   ## 3.1.2. Adaptación a los cambios en el entorno
   Los sistemas de información también permiten a las organizaciones adaptarse rápidamente a los cambios en su entorno:
