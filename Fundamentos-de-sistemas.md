@@ -577,3 +577,46 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   - **Responsabilidad:** Las organizaciones tienen la responsabilidad de proteger los datos y responder ante cualquier violación de privacidad.
   
   Adoptar un enfoque ético en el tratamiento de los datos personales es fundamental para preservar la confianza de los usuarios y proteger sus derechos en el entorno digital.
+
+  <br>
+
+  ## 3. Sistemas de información en las organizaciones
+  Los sistemas de información son fundamentales en las organizaciones modernas, ya que permiten gestionar y analizar grandes volúmenes de datos para mejorar la comunicación, optimizar procesos y apoyar la toma de decisiones. Su papel es cada vez más relevante en un entorno cambiante y globalizado, en el cual la capacidad de adaptación es   clave para la supervivencia de las empresas.
+
+  ## 3.1. Relación de los sistemas de información con el entorno organizacional
+  Los sistemas de información en las organizaciones se encargan de recoger, almacenar, procesar y distribuir conjuntos de información entre los diferentes elementos de la organización y entre su entorno.
+
+  <div style="text-align: center;">
+  <img src="https://cv.uoc.edu/UOC/a/moduls/90/90_329/web/imagenes/m1n1.gif" alt="Niveles del LOPD" width="330" height="281"/>
+  <p><em>Figura 12: Funciones intrínsecas del sistema de información. Fuente: <a href="https://cv.uoc.edu/UOC/a/moduls/90/90_329/web/main/m1/nv0_2.html">UOC</a></em></p>
+  </div>
+
+  ## 3.1.1. La función de los sistemas de información en la comunicación interna y externa
+  Además, los sistemas de información facilitan la comunicación fluida y eficiente dentro y fuera de la organización:
+
+  - **Comunicación interna:** Ayudan a compartir información entre los diferentes departamentos y niveles de la organización, lo que permite una mejor coordinación y alineación de los objetivos.
+  - **Comunicación externa:** Facilitan la interacción con clientes, proveedores y otras entidades externas, permitiendo la automatización de ciertos procesos, como la atención al cliente o la gestión de la cadena de suministro.
+  
+  ## 3.1.2. Adaptación a los cambios en el entorno
+  Los sistemas de información también permiten a las organizaciones adaptarse rápidamente a los cambios en su entorno:
+
+  - **Cambio tecnológico:** La integración de nuevas tecnologías en los sistemas de información permite a las empresas innovar y mejorar su eficiencia.
+  - **Cambio económico y social:** Los sistemas de información ayudan a analizar el mercado y detectar tendencias, lo cual permite a las empresas responder mejor a las expectativas de los clientes y a las demandas del mercado.
+  
+  ## 3.1.3. El sistema de información como soporte para la adaptación organizacional
+  Los sistemas de información actúan como un soporte clave en la adaptación organizacional al proporcionar datos precisos y en tiempo real, que son esenciales para tomar decisiones informadas. Además, permiten a las empresas ser más ágiles y responder a los desafíos de manera proactiva, fortaleciendo su capacidad para ajustarse al cambio   continuo.
+
+  ## 3.2. Sistema de información, sistema de decisión y sistema de producción
+  Los sistemas de información están estrechamente ligados al sistema de decisión y al sistema de producción en una organización, ya que proveen los datos y análisis necesarios para optimizar los procesos de producción y apoyar la toma de decisiones estratégicas y operativas.
+
+  ## 3.2.1. Relación entre el sistema de información y el sistema de decisión
+  El sistema de información proporciona los datos necesarios para que el sistema de decisión pueda funcionar de manera efectiva, permitiendo una mejor planificación y ejecución de estrategias.
+
+  ## 3.2.1.1. Provisión de datos y análisis para la toma de decisiones
+  Los sistemas de información permiten recopilar y analizar datos de diversas fuentes para obtener información valiosa que facilite la toma de decisiones. Estos datos se presentan en forma de informes, gráficos y métricas clave que ayudan a la gerencia a entender la situación actual y prever tendencias futuras.
+
+  ## 3.2.1.2. Apoyo en la planificación estratégica y operativa
+  Gracias a los sistemas de información, las organizaciones pueden planificar tanto a nivel estratégico como operativo:
+
+  - **Planificación estratégica:** Los sistemas de información proporcionan datos a largo plazo que ayudan a identificar oportunidades de negocio, analizar riesgos y establecer metas alineadas con la visión de la empresa.
+  - **Planificación operativa:** A nivel operativo, los sistemas de información facilitan la programación de recursos, la gestión de inventarios y el control de calidad en los procesos productivos.
