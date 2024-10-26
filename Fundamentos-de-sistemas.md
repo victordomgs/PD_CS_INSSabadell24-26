@@ -430,7 +430,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   💡Ej: Procesadores de texto (Microsoft Word), navegadores web (Google Chrome, Firefox), aplicaciones multimedia (Spotify, VLC) y software de edición gráfica (Photoshop, GIMP).
 
   <div style="text-align: center;">
-  <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=533x1024:format=jpg/path/s63841b80d293924d/image/i023016192ee81785/version/1539160109/image.jpg" alt="Software de aplicaciones" width="320" height="180"/>
+  <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=533x1024:format=jpg/path/s63841b80d293924d/image/i023016192ee81785/version/1539160109/image.jpg" alt="Software de aplicaciones" width="400" height="180"/>
   <p><em>Figura 7: Software de aplicaciones. Fuente: <a href="https://informatica4esog2.jimdofree.com/software/software-de-aplicaci%C3%B3n/">Jimdo</a></em></p>
   </div>
   
@@ -440,7 +440,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   💡Ej: Entornos de desarrollo integrado (IDE) como Visual Studio, Eclipse y herramientas de gestión de bases de datos como MySQL y PostgreSQL.
 
   <div style="text-align: center;">
-  <img src="https://acpdelsureste.com/wp-content/uploads/Tecno.png" alt="Componentes de la tecnología" width="320" height="180"/>
+  <img src="https://acpdelsureste.com/wp-content/uploads/Tecno.png" alt="Componentes de la tecnología" width="400" height="180"/>
   <p><em>Figura 8: Software de desarrollo. Fuente: <a href="https://acpdelsureste.com/desarrollo-de-software-2/">ACP del Sureste</a></em></p>
   </div>
 
