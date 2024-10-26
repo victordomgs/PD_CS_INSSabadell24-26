@@ -35,7 +35,7 @@
   - [2. Almacenamiento de datos](#2-almacenamiento-de-datos)
     - [2.1. Importancia y aplicaciones del almacenamiento de datos](#21-importancia-y-aplicaciones-del-almacenamiento-de-datos)
     - [2.2. Tipos de almacenamiento](#22-tipos-de-almacenamiento)
-      - [2.2.1. Almacenamiento local](#221-almacenamiento-local
+      - [2.2.1. Almacenamiento local](#221-almacenamiento-local)
       - [2.2.2. Almacenamiento en la nube](#222-almacenamiento-en-la-nube)
     - [2.3. Seguridad y privacidad de la información](#23-seguridad-y-privacidad-de-la-información)
       - [2.3.1. Conceptos básicos de ciberseguridad](#231-conceptos-básicos-de-ciberseguridad)
