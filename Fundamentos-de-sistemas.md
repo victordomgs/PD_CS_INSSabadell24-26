@@ -491,7 +491,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   <br>
 
   ## 2. Almacenamiento de datos
-  El almacenamiento de datos se refiere a la capacidad de guardar y preservar información digital en diferentes tipos de dispositivos y sistemas. A medida que la sociedad se vuelve cada vez más dependiente de la información digital, el almacenamiento de datos adquiere una importancia crucial para garantizar que la información esté disponible, accesible y protegida a lo largo del tiempo.
+  El **almacenamiento de datos** se refiere a la capacidad de guardar y preservar información digital en diferentes tipos de dispositivos y sistemas. A medida que la sociedad se vuelve cada vez más dependiente de la información digital, el almacenamiento de datos adquiere una importancia crucial para garantizar que la información esté disponible, accesible y protegida a lo largo del tiempo.
 
   ## 2.1. Importancia y aplicaciones del almacenamiento de datos
   El almacenamiento de datos es esencial en múltiples aspectos de la vida cotidiana, tanto a nivel personal como profesional. Desde las fotos y archivos personales hasta la gestión de datos empresariales y registros gubernamentales, la información almacenada representa un recurso valioso. La importancia del almacenamiento de datos radica en su capacidad para:
@@ -505,7 +505,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   Existen diferentes tipos de almacenamiento que se adaptan a distintas necesidades y contextos. A continuación, se presentan los dos tipos principales de almacenamiento: local y en la nube.
 
   ## 2.2.1. Almacenamiento local
-  El almacenamiento local se refiere a la práctica de guardar los datos en dispositivos físicos que se encuentran en el mismo lugar donde se usan. Este tipo de almacenamiento ofrece a los usuarios un control directo sobre sus datos y no depende de una conexión a Internet para acceder a la información. Algunos de los dispositivos de almacenamiento local más comunes son:
+  El **almacenamiento local** se refiere a la práctica de guardar los datos en dispositivos físicos que se encuentran en el mismo lugar donde se usan. Este tipo de almacenamiento ofrece a los usuarios un control directo sobre sus datos y no depende de una conexión a Internet para acceder a la información. Algunos de los dispositivos de almacenamiento local más comunes son:
 
   - **Discos duros (HDD):** Son dispositivos mecánicos que utilizan platos magnéticos para almacenar grandes volúmenes de datos. Los HDD ofrecen una alta capacidad de almacenamiento a un costo relativamente bajo, aunque su velocidad es menor en comparación con otros dispositivos.
   - **Unidades de estado sólido (SSD):** Son dispositivos de almacenamiento más rápidos que los discos duros convencionales. Los SSD no tienen partes mecánicas y utilizan chips de memoria flash para almacenar datos, lo que los hace más resistentes y eficientes.
@@ -515,7 +515,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   El almacenamiento local ofrece ventajas como la velocidad de acceso y la seguridad física, ya que los datos no están en servidores externos. Sin embargo, puede ser vulnerable a daños físicos, pérdida de datos por fallos mecánicos y limitaciones en la capacidad de almacenamiento.
 
   ## 2.2.2. Almacenamiento en la nube
-  El almacenamiento en la nube es un tipo de almacenamiento remoto que permite guardar y acceder a los datos a través de Internet. En lugar de depender de un dispositivo físico en el lugar, los datos se almacenan en servidores externos gestionados por proveedores de servicios de nube. Algunos de los servicios de almacenamiento en la nube más populares son:
+  El **almacenamiento en la nube** es un tipo de almacenamiento remoto que permite guardar y acceder a los datos a través de Internet. En lugar de depender de un dispositivo físico en el lugar, los datos se almacenan en servidores externos gestionados por proveedores de servicios de nube. Algunos de los servicios de almacenamiento en la nube más populares son:
 
   - **Google Drive:** Ofrece almacenamiento en la nube con integración a otros servicios de Google, como Google Docs y Gmail, y permite a los usuarios guardar y compartir archivos de manera sencilla.
   - **Dropbox:** Es un servicio de almacenamiento en la nube que permite a los usuarios guardar archivos, fotos y documentos, y compartirlos con otros. Dropbox es conocido por su facilidad de uso y su integración en múltiples plataformas.
