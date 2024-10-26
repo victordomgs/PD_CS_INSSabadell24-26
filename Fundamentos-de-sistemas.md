@@ -333,7 +333,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   La **ROM (Read-Only Memory)** es un tipo de memoria no volátil que conserva los datos incluso cuando el ordenador se apaga. La información almacenada en la ROM generalmente es escrita por el fabricante y no se puede modificar fácilmente.
 
-  - **Función:** Contiene instrucciones permanentes necesarias para arrancar el sistema, como el BIOS (Basic Input/Output System).
+  - **Función:** Contiene instrucciones permanentes necesarias para arrancar el sistema, como la BIOS (Basic Input/Output System).
   - **Característica:** Solo permite la lectura de datos; no se puede escribir en la ROM durante el funcionamiento normal del ordenador.
   - **Ejemplos de uso:** BIOS, firmware de dispositivos.
 
