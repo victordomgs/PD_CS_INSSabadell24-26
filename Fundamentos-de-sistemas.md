@@ -428,12 +428,22 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   El **software de aplicación** está diseñado para realizar tareas específicas que faciliten las actividades de los usuarios. Este tipo de software permite a los usuarios interactuar con el ordenador y realizar tareas cotidianas.
 
   💡Ej: Procesadores de texto (Microsoft Word), navegadores web (Google Chrome, Firefox), aplicaciones multimedia (Spotify, VLC) y software de edición gráfica (Photoshop, GIMP).
+
+  <div style="text-align: center;">
+  <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=533x1024:format=jpg/path/s63841b80d293924d/image/i023016192ee81785/version/1539160109/image.jpg" alt="Software de aplicaciones" width="320" height="180"/>
+  <p><em>Figura 7: Software de aplicaciones. Fuente: <a href="https://informatica4esog2.jimdofree.com/software/software-de-aplicaci%C3%B3n/">Jimdo</a></em></p>
+  </div>
   
   ## 1.2.2.1.3. Software de desarrollo
   El **software de desarrollo** incluye herramientas utilizadas por los programadores para crear otros programas. Este tipo de software ayuda a los desarrolladores a escribir, probar y mantener el código de las aplicaciones.
 
   💡Ej: Entornos de desarrollo integrado (IDE) como Visual Studio, Eclipse y herramientas de gestión de bases de datos como MySQL y PostgreSQL.
-  
+
+  <div style="text-align: center;">
+  <img src="https://acpdelsureste.com/wp-content/uploads/Tecno.png" alt="Componentes de la tecnología" width="320" height="180"/>
+  <p><em>Figura 8: Software de desarrollo. Fuente: <a href="https://acpdelsureste.com/desarrollo-de-software-2/">ACP del Sureste</a></em></p>
+  </div>
+
   ## 1.2.2.2. Funciones principales del software de sistema
   El software de sistema desempeña varias funciones esenciales para el correcto funcionamiento del ordenador, asegurando que el hardware y el software de aplicación trabajen en armonía.
 
