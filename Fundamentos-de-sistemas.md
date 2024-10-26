@@ -470,7 +470,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   💡Ej: LibreOffice y GIMP son software libre, accesible y modificable para todos los usuarios.
 
   <div style="text-align: center;">
-  <img src="https://lizgod.wordpress.com/wp-content/uploads/2014/08/6cd7c-diapositiva6.jpg" alt="Estructura de un sistema informático" width="320" height="180"/>
+  <img src="https://lizgod.wordpress.com/wp-content/uploads/2014/08/6cd7c-diapositiva6.jpg" alt="Estructura de un sistema informático" width="480" height="360"/>
   <p><em>Figura 3: Software libre vs. software propietario. Fuente: <a href="https://lizgod.wordpress.com/software-propietario/">Lizgod Blog</a></em></p>
   </div>
   
