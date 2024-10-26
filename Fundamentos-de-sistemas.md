@@ -229,7 +229,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
   <img src="https://parceladigital.com/subidos/1611221350x_xt_color.jpg" alt="XT color" width="320" height="180"/>
-  <p><em>Figura 1: Imagen de un IBM PC XT. Fuente: <a href="https://parceladigital.com/subidos/1611221350x_xt_color.jpg">Parceladigital</a></em></p>
+  <p><em>Figura 1: Imagen de un IBM PC XT. Fuente: <a href="https://parceladigital.com/articulo/el-ordenador-personal-y-su-historia">Parceladigital</a></em></p>
   </div>
 
   - **Manual:** El tratamiento se realiza completamente a mano, como rellenar documentos.
@@ -410,4 +410,71 @@ En resumen, la informática es una herramienta para trabajar la información, y 
     <p><em>Figura 5: Estructura funcional de los ordenadores. Fuente: IOC XTEC</em></p>
   </div>
 
+  ## 1.2.2. Software
+  El software es el conjunto de programas e instrucciones que permiten a los ordenadores y dispositivos electrónicos realizar tareas específicas. A diferencia del hardware (componentes físicos de un ordenador), el software es intangible y se compone de código creado mediante lenguajes de programación. Hay diferentes tipos de software que cumplen funciones específicas dentro de un sistema informático.
+
+  ## 1.2.2.1. Tipos de software
+  ## 1.2.2.1.1. Software de sistema
+  El **software de sistema** es el conjunto de programas que gestiona y controla los recursos del hardware y proporciona una base para que otros programas funcionen. Es esencial para el funcionamiento del ordenador y ayuda a gestionar los recursos internos.
+
+  💡Ej: El sistema operativo, como Windows, macOS o Linux, es el software de sistema más importante. También se incluyen los controladores de dispositivos, que permiten que el sistema operativo se comunique con componentes específicos del hardware, como impresoras, tarjetas gráficas y otros periféricos.
+
+  <div style="text-align: center;">
+  <img src="https://www.adslzone.net/app/uploads-adslzone.net/2017/06/windows-linux-1200x675.jpg" alt="Windows y Linux" width="320" height="180"/>
+  <p><em>Figura 6: Comparativa entre Windows y Linux. Fuente: <a href="https://www.adslzone.net/2017/06/01/es-realmente-mas-seguro-linux-que-windows/">ADSLZone</a></em></p>
+  </div>
+
+  ## 1.2.2.1.2. Software de aplicación
+  El **software de aplicación** está diseñado para realizar tareas específicas que faciliten las actividades de los usuarios. Este tipo de software permite a los usuarios interactuar con el ordenador y realizar tareas cotidianas.
+
+  💡Ej: Procesadores de texto (Microsoft Word), navegadores web (Google Chrome, Firefox), aplicaciones multimedia (Spotify, VLC) y software de edición gráfica (Photoshop, GIMP).
+  
+  ## 1.2.2.1.3. Software de desarrollo
+  El **software de desarrollo** incluye herramientas utilizadas por los programadores para crear otros programas. Este tipo de software ayuda a los desarrolladores a escribir, probar y mantener el código de las aplicaciones.
+
+  💡Ej: Entornos de desarrollo integrado (IDE) como Visual Studio, Eclipse y herramientas de gestión de bases de datos como MySQL y PostgreSQL.
+  
+  ## 1.2.2.2. Funciones principales del software de sistema
+  El software de sistema desempeña varias funciones esenciales para el correcto funcionamiento del ordenador, asegurando que el hardware y el software de aplicación trabajen en armonía.
+
+  ## 1.2.2.2.1. Gestión de hardware
+  La **gestión de hardware** permite que el software controle los recursos físicos del ordenador, como la CPU, la memoria y los dispositivos de entrada/salida. El software de sistema administra la distribución de estos recursos entre las aplicaciones que se están ejecutando para evitar conflictos y optimizar el rendimiento.
+
+  💡Ej: Cuando abres varias aplicaciones a la vez, el sistema operativo gestiona cómo se utiliza la memoria para que cada programa funcione sin problemas.
+  
+  ## 1.2.2.2.2. Gestión de archivos y procesos
+  La **gestión de archivos y procesos** es otra función del software de sistema. El sistema operativo organiza los archivos almacenados en el ordenador y permite que el usuario cree, modifique y elimine documentos. Además, gestiona los procesos, que son las tareas en ejecución en el ordenador.
+
+  💡Ej: Al guardar un archivo en una carpeta específica, el sistema operativo organiza el archivo en el disco duro. También controla cuántos procesos (programas) están abiertos y se asegura de que cada uno tenga los recursos que necesita.
+  
+  ## 1.2.2.3. Licencias de software y tipos de distribución
+  El software puede distribuirse bajo diferentes tipos de licencias, que definen cómo se puede utilizar, modificar y compartir.
+
+  ## 1.2.2.3.1. Software propietario vs. software libre
+  - **Software propietario:** Es un software cuyos derechos están controlados por una empresa o desarrollador. Solo puede utilizarse bajo ciertas condiciones, que suelen incluir la prohibición de modificar el código o distribuirlo libremente.
+
+  💡Ej: Microsoft Office y Adobe Photoshop son software propietario; necesitan licencias para ser utilizados.
+  
+  - **Software libre:** Es un software que puede ser utilizado, modificado y distribuido libremente. El software libre se basa en la colaboración y permite a los usuarios adaptarlo a sus necesidades.
+
+  💡Ej: LibreOffice y GIMP son software libre, accesible y modificable para todos los usuarios.
+
+  <div style="text-align: center;">
+  <img src="https://lizgod.wordpress.com/wp-content/uploads/2014/08/6cd7c-diapositiva6.jpg" alt="Estructura de un sistema informático" width="320" height="180"/>
+  <p><em>Figura 3: Software libre vs. software propietario. Fuente: <a href="https://lizgod.wordpress.com/software-propietario/">Lizgod Blog</a></em></p>
+  </div>
+  
+  ## 1.2.2.3.2. Código abierto (open-source) y sus implicaciones
+  El **software de código abierto** permite que el código fuente esté disponible para cualquier persona que quiera verlo, modificarlo y distribuirlo. Este tipo de software fomenta la innovación, ya que otros programadores pueden mejorar el código.
+
+  💡Ej: Linux es un sistema operativo de código abierto que cuenta con una gran comunidad que contribuye a su desarrollo. Esto lo convierte en un sistema flexible y adaptable.
+  
+  ## 1.2.2.3.3. Licencias comunes: GPL, MIT, Creative Commons
+  Existen diferentes tipos de licencias que definen los términos bajo los cuales se puede utilizar y modificar el software.
+
+  - **GPL (General Public License):** Esta licencia permite que el software sea libremente distribuido y modificado, siempre y cuando el nuevo software mantenga la misma licencia GPL.
+
+  - **MIT License:** Es una licencia más permisiva que permite usar, modificar y distribuir el software, incluso en proyectos comerciales, con pocas restricciones.
+
+  - **Creative Commons:** Aunque es más común en contenidos multimedia, también se usa en software. Ofrece diferentes niveles de permisos, desde uso libre hasta restricciones específicas.
 
