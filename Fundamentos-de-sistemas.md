@@ -606,26 +606,83 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   <p><em>Figura 13: Cadena de valor de porter. Fuente: <a href="https://www.josepdeulofeu.com/ade/cadena-de-valor/">Josep Deulofeu</a></em></p>
   </div>
   
-  ## 3.1.2. Adaptación a los cambios en el entorno
-  Los sistemas de información también permiten a las organizaciones adaptarse rápidamente a los cambios en su entorno:
+  ## 3.1.2. El sistema de información en las organizaciones
+  De acuerdo con la definición proporcionada en *Escaneando la informática*, un **sistema de información (SI)** es «un conjunto de elementos interrelacionados que garantiza la transformación de datos en información, y también su disponibilidad para las personas (y las organizaciones), que los utilizarán siguiendo sus procedimientos para incrementar su conocimiento y actuar en consecuencia».
 
-  - **Cambio tecnológico:** La integración de nuevas tecnologías en los sistemas de información permite a las empresas innovar y mejorar su eficiencia.
-  - **Cambio económico y social:** Los sistemas de información ayudan a analizar el mercado y detectar tendencias, lo cual permite a las empresas responder mejor a las expectativas de los clientes y a las demandas del mercado.
-  
-  ## 3.1.3. El sistema de información como soporte para la adaptación organizacional
-  Los sistemas de información actúan como un soporte clave en la adaptación organizacional al proporcionar datos precisos y en tiempo real, que son esenciales para tomar decisiones informadas. Además, permiten a las empresas ser más ágiles y responder a los desafíos de manera proactiva, fortaleciendo su capacidad para ajustarse al cambio   continuo.
+  Para que la organización disponga de un sistema de información con las **soluciones tecnológicas** necesarias para su funcionamiento, es necesario hacer un esfuerzo para integrar todos los elementos implicados con garantías. En la práctica, esto requiere que cada elemento se tendrá que adaptar para converger en un punto común que resulte eficaz y funcional.
 
-  ## 3.2. Sistema de información, sistema de decisión y sistema de producción
-  Los sistemas de información están estrechamente ligados al sistema de decisión y al sistema de producción en una organización, ya que proveen los datos y análisis necesarios para optimizar los procesos de producción y apoyar la toma de decisiones estratégicas y operativas.
+  ## 3.2. La administración del sistema de información
+  El sistema de información no puede estar en ningún caso desligado de la estrategia de la organización. Al contrario, es el sistema de información el que tiene que implementar dicha estrategia materializando los objetivos y las líneas de actuación previstas para mantener la coherencia y la eficacia con la cadena de valor de la organización.
 
-  ## 3.2.1. Relación entre el sistema de información y el sistema de decisión
-  El sistema de información proporciona los datos necesarios para que el sistema de decisión pueda funcionar de manera efectiva, permitiendo una mejor planificación y ejecución de estrategias.
+  Para conseguirlo, hace falta una administración (management) del sistema de información alineada con la estrategia, de forma que se lleven a cabo todas aquellas actuaciones que conducen y garantizan esta alineación, sin esperar que los dos puedan converger sin la intervención de las personas que cumplen las funciones de dirección y gestión del sistema de información.
 
-  ## 3.2.1.1. Provisión de datos y análisis para la toma de decisiones
+  ## 3.2.1. La estrategia y la tecnología de las organizaciones
+  Todas las organizaciones persiguen algún objetivo, sin importar su envergadura, ámbito o sector de actividad. Los objetivos plasman la razón de ser de la organización, dado que representan la finalidad por la que existe y enmarcan todas las actividades y las actuaciones que se llevan a cabo. Pero los objetivos, por fundamentales que puedan ser, son demasiados generales para ser útiles en el día a día y hay que vertebrarlos de alguna manera en cada uno de los momentos que vive la organización.
+
+  La estrategia es una guía que desarrolla los objetivos de una organización atendiendo a su situación y contexto durante un período de tiempo acotado. Representa el paso intermedio que hace falta para conseguir las metas de alto nivel mediante las acciones que se deben llevar a cabo.
+
+  La estrategia se proyecta en el futuro, fijando la meta a la que se quiere llegar y definiendo qué debemos hacer para conseguirlo. La organización y su contexto están en constante movimiento, por eso la estrategia es dinámica y se plantea por un período de tiempo.
+
+  El planteamiento de la estrategia pone énfasis en la mejora de los aspectos internos o externos de la organización, como, por ejemplo, la competitividad de la organización en el contexto en el que opera, el modelo de negocio que sigue, la gestión de los costes de funcionamiento, la experiencia de los clientes o usuarios, la gestión de los riesgos, la cadena de valor que sustenta la producción de los productos o la prestación de los servicios en el mercado, diferenciación de estos productos o servicios, o también el valor añadido de los mismos en su contexto de actividad.
+
+  ## 3.2.2. Los roles y los perfiles del sistema de información
+  El sistema de información necesita una supervisión con competencias específicas que garanticen el desempeño de los objetivos y estrategias previstas. Esta administración (management) se formaliza con la dirección y la gestión del sistema de información. Encontramos los siguientes roles y perfiles para administrar el SI: 
+
+  - El **CIO (Chief Information Officer)** desarrolla el rol de director estratégico y sus funciones abarcan tanto la traducción tecnológica de la estrategia como la promoción de las oportunidades y el potencial que ofrece la tecnología. 
+  - El **jefe de proyectos** es el responsable de las actuaciones que se tienen que llevar a cabo dentro de un marco de referencia concreto, el proyecto, que incluye la definición de los objetivos y requisitos, la asignación de los recursos humanos, materiales y temporales, la planificación de las tareas, la gestión de los costes, etc., cuya ejecución se tiene que evaluar en diferentes puntos de control o de seguimiento y el resultado tiene que ser concreto, coherente y evaluable.
+  - Los **técnicos de desarrollo** se ocupan de la construcción, adaptación, mantenimiento o renovación de los sistemas de información.
+  - Los **técnicos de explotación** o de producción se centran en mantener el funcionamiento de la infraestructura y del hardware que soporta el sistema de información, asegurando así la continuidad y el mantenimiento de los servicios, que pueden ser muy diversos.
+  - Los **técnicos de sistemas** se encargan de la implantación de las nuevas tecnologías asociadas al sistema de información. A grandes rasgos, estas tareas consisten en conocer todas aquellas nuevas tecnologías que pueden ser adecuadas para la organización y en la puesta en marcha y el mantenimiento de dichas tecnologías.
+
+  La **externalización** o **provisión externa** de los servicios informáticos es una opción por la que optan aquellas organizaciones que, en términos generales, no pueden o no quieren asumir las tareas, los costes o las responsabilidades que comporta asumir el servicio, delegándolos a un tercero.
+
+  ## 3.2.3. El departamento de sistemas de información
+  Tradicionalmente, las organizaciones han requerido los servicios de profesionales especializados a medida que la informatización de las organizaciones crecía, a pesar de que en cierto modo no dejaba de ser un simple apoyo para implantar y mantener la tecnología que explotaban los usuarios para llevar a cabo sus tareas.
+
+  De hecho, el tradicional **departamento de informática se convierte en el nuevo departamento de sistemas de información o de tecnologías de la información**, intermediario natural para alinear estratégicamente la organización con la tecnología y que ahora, además de las funciones habituales, tiene competencias nuevas en torno a la dirección y la gestión de los sistemas de información de la organización.
+
+  Algunas de las áreas que son competencia habitual del departamento pueden ser:
+
+  - **Mantenimiento y evolución de la solución tecnológica:** La solución tecnológica requiere mantenimiento constante y actualizaciones, ya sea por actualizaciones del proveedor o para cumplir con los objetivos estratégicos de la organización.
+  - **Cartera de servicios tecnológicos:** El departamento ofrece servicios tecnológicos al resto de la organización, formalizando acuerdos y protocolos para su mantenimiento e incorporación de nuevos servicios.
+  - **Apoyo a los usuarios:** Además de la gestión del cambio (como formación y comunicación), el departamento proporciona soporte a los usuarios mediante el Centro de Atención al Usuario (CAU) para resolver incidencias y consultas.
+  - **Gestión de infraestructura:** Incluye el mantenimiento y renovación del hardware y software, como en casos de obsolescencia o fallos técnicos.
+  - **Gestión de imprevistos y riesgos:** El departamento debe gestionar los riesgos proactivamente, implementando planes de contingencia y continuidad para minimizar posibles impactos negativos en la organización.
+  - **Implementación de la estrategia tecnológica:** Responsable de configurar y desarrollar nuevas herramientas y proyectos de migración para alcanzar los objetivos estratégicos de la organización.
+  - **Propuesta de nuevas tecnologías:** Identifica y propone tecnologías que apoyen la estrategia organizacional, facilitando una comunicación fluida y bidireccional para garantizar la alineación tecnológica con los objetivos.
+  - **Gestión de feedback y resultados:** Recolecta y analiza la retroalimentación de los usuarios para mejorar la eficiencia y eficacia del sistema, asegurando que se aporte valor a la organización.
+  - **Innovación y mejora continua:** La tecnología evoluciona rápidamente, por lo que el departamento debe mantenerse en constante innovación para mejorar los procesos y la eficiencia organizacional.
+  - **Gestión de riesgos de seguridad:** Incluye políticas de seguridad, medidas de protección, planes de actuación en caso de incidentes y auditorías para garantizar la integridad y conformidad del sistema.
+  - **Gestión de costes:** La tecnología implica gastos directos e indirectos, por lo que el departamento debe gestionar los costes relacionados con la adquisición, automatización de procesos y eficiencia de los sistemas para evitar gastos innecesarios.
+
+  ## 3.3. Las tipologías de sistemas de información
   Los sistemas de información permiten recopilar y analizar datos de diversas fuentes para obtener información valiosa que facilite la toma de decisiones. Estos datos se presentan en forma de informes, gráficos y métricas clave que ayudan a la gerencia a entender la situación actual y prever tendencias futuras.
 
-  ## 3.2.1.2. Apoyo en la planificación estratégica y operativa
-  Gracias a los sistemas de información, las organizaciones pueden planificar tanto a nivel estratégico como operativo:
+  ## 3.3.1. Los sistemas de información integrados
+  Un **sistema de información integrado** es una solución informática que proporciona una buena parte de las funciones (si no todas) que requiere la cadena de valor de la organización (eventualmente, la cadena de valor extendida). Esta integración es modular, de forma que cada instancia puede tener activados todos o un subconjunto de los módulos disponibles de acuerdo con las necesidades identificadas.
 
-  - **Planificación estratégica:** Los sistemas de información proporcionan datos a largo plazo que ayudan a identificar oportunidades de negocio, analizar riesgos y establecer metas alineadas con la visión de la empresa.
-  - **Planificación operativa:** A nivel operativo, los sistemas de información facilitan la programación de recursos, la gestión de inventarios y el control de calidad en los procesos productivos.
+  ## 3.3.2. Los sistemas de información operacionales
+  Los **sistemas de información operacionales** (o transaccionales) tienen por objetivo dotar de funcionalidades que apoyen las operaciones (o transacciones) que se llevan a cabo en la cadena de valor de la organización, que pueden ser principales, secundarias o extendidas (incluye proveedores, clientes o colaboradores).
+
+  ## 3.3.3. Los sistemas de información decisionales
+  Los **sistemas de información decisionales** tienen por objetivo proveer información de la organización (sobre la actividad, el rendimiento, los flujos, etc.) para que una persona experta pueda extraer el conocimiento necesario para resolver situaciones o tomar decisiones adecuadas para la organización.
+
+  ## 3.4. La implantación del sistema de información
+  El sistema de información es una pieza clave de la organización porque cubre buena parte (si no todos) los procesos de su cadena de valor. Además, también es un medio para materializar la estrategia de la organización y obtener información que puede ser determinante a la hora de tomar decisiones.
+
+  Todas las implicaciones que tiene el sistema de información para la organización imponen un proceso de selección y de implantación a la altura de las repercusiones y de las expectativas que se tienen, porque en caso contrario se puede comprometer el funcionamiento e, incluso, la misma organización se puede ver comprometida.
+
+  ## 3.4.1. El proyecto de implantación
+  El **proyecto de implantación del sistema de información** es la planificación detallada y estructurada de todas las tareas relativas a la implantación de la solución, desde el planteamiento inicial hasta la puesta
+en marcha con garantías de funcionamiento. Todas estas tareas implican necesariamente combinar recursos humanos, materiales, económicos, etc.
+
+  1. La primera actividad que hay que llevar a cabo es la **adopción del sistema**. La organización debe evaluar la necesidad de implantar el sistema de información, teniendo en cuenta tanto los beneficios que puede aportar la integración de los procesos y el apoyo a la cadena de valor de la organización como las repercusiones técnicas, económicas y funcionales que puede tener su implementación.
+  2. Una vez se ha decidido adoptar el sistema de información y poner en marcha formalmente el proyecto, la actividad siguiente es la **selección de la solución**. Las principales tareas que se llevan a cabo se centran en analizar en profundidad la organización, identificar el ámbito de la implantación y los procesos implicados, y definir las funcionalidades que tiene que cumplir el sistema.
+  3. Con la tecnología seleccionada, ya se puede emprender la **implantación de la solución**. Las principales tareas de esta actividad se focalizan en la instalación y la configuración del hardware y del software, la reingeniería de los procesos, la importación de los datos o la realización de las pruebas de funcionamiento de la solución.
+  4. Finalmente, con la **puesta en marcha de la solución** se inicia la última actividad, dedicada principalmente a estabilizar el funcionamiento, por un lado, y a evaluar tanto el proyecto como el sistema de información implantado, por el otro.
+
+  En paralelo a las actividades asociadas directamente con la solución tecnológica, las tareas de **gestión del cambio** tienen que garantizar el éxito del proyecto con acciones de comunicación, de gestión de los implicados y de formación de los usuarios (entre otras), que requieren un análisis y una buena planificación para cumplir el objetivo.
+
+  Otra actividad en paralelo es la **gestión del proyecto**, que va más allá de planificarlo inicialmente y considera también la coordinación de los recursos asignados, el seguimiento de la evolución de las tareas, la gestión de los imprevistos que puedan surgir, el desempeño de las metas de control, etc. Todas estas tareas pretenden garantizar el avance del proyecto y la consecución de los objetivos previstos.
+
+
