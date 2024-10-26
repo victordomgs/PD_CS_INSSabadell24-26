@@ -187,222 +187,217 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   | **Categóricos**   | "Rojo", "Coche", "Nuevo"             | Agrupaciones o categorías sin orden          |
 
 
-  ## 1.1.2. Tractament de la informació
+  ## 1.1.2. Tratamiento de la información
 
-  La manera en què es tracta la informació ha evolucionat significativament al llarg del temps, adaptant-se als avenços tecnològics i a les necessitats de cada moment històric.
+  La manera en que se trata la información ha evolucionado significativamente a lo largo del tiempo, adaptándose a los avances tecnológicos y a las necesidades de cada momento histórico.
 
-  El **tractament de la informació** es pot definir com el conjunt d’operacions aplicades sobre les dades per transformar-les en informació útil. Aquest procés sempre requereix tres elements essencials per funcionar de manera eficient:
+  El **tratamiento de la información** se puede definir como el conjunto de operaciones aplicadas sobre los datos para transformarlos en información útil. Este proceso siempre requiere tres elementos esenciales para funcionar de manera eficiente:
 
-  - **Emissor:** L'element que genera la informació, com una persona parlant o un text escrit.
-  - **Canal:** El mitjà a través del qual es transmet la informació, com l'aire per a la veu o una xarxa de telecomunicacions per a dades.
-  - **Receptor:** L'element que rep la informació, com un lector o un dispositiu.
+  - **Emisor:** El elemento que genera la información, como una persona hablando o un texto escrito.
+  - **Canal:** El medio a través del cual se transmite la información, como el aire para la voz o una red de telecomunicaciones para datos.
+  - **Receptor:** El elemento que recibe la información, como un lector o un dispositivo.
 
-  **Fases del tractament de la informació**
+  ### Fases del tratamiento de la información
 
-  El procés de tractament de la informació es divideix en tres operacions principals, com es mostra a continuació: 
+  El proceso de tratamiento de la información se divide en tres operaciones principales, como se muestra a continuación:
 
-  | **Operacions** | **Funcions** |
-  |----------------|--------------|
-  | **Entrada**    | Recollida i emmagatzematge de dades |
-  | **Procés**     | Manipulació de dades mitjançant càlculs aritmètics o operacions lògiques |
-  | **Sortida**    | Recollida i distribució dels resultats |
+  | **Operaciones** | **Funciones**                                                  |
+  |-----------------|-----------------------------------------------------------------|
+  | **Entrada**     | Recogida y almacenamiento de datos                              |
+  | **Proceso**     | Manipulación de datos mediante cálculos aritméticos o operaciones lógicas |
+  | **Salida**      | Recogida y distribución de los resultados                       |
 
-  Cada fase té característiques importants:
+  Cada fase tiene características importantes:
 
-  - **Entrada:** Recollida d'informació per ser tractada, com llegir llibres o obtenir dades digitals. Aquest procés inclou la selecció, verificació i emmagatzematge de la informació en un suport adequat.
-  - **Procés:** Manipulació de la informació, ja sigui mitjançant càlculs matemàtics o operacions lògiques.
-  - **Sortida:** Comunicació dels resultats, que poden ser presentats externament o utilitzats en altres processos.
-  
-  **Evolució històrica del tractament de la informació**
-  
-  El tractament de la informació ha anat evolucionant al llarg de la història, des de processos manuals fins als actuals processos automàtics:
+  - **Entrada:** Recogida de información para ser tratada, como leer libros o obtener datos digitales. Este proceso incluye la selección, verificación y almacenamiento de la información en un soporte adecuado.
+  - **Proceso:** Manipulación de la información, ya sea mediante cálculos matemáticos o operaciones lógicas.
+  - **Salida:** Comunicación de los resultados, que pueden ser presentados externamente o utilizados en otros procesos.
+
+  ### Evolución histórica del tratamiento de la información
+
+  El tratamiento de la información ha ido evolucionando a lo largo de la historia, desde procesos manuales hasta los actuales procesos automáticos.
 
   <div style="text-align: center;">
   <img src="https://parceladigital.com/subidos/1611221350x_xt_color.jpg" alt="XT color" width="320" height="180"/>
-  <p><em>Figura 1: Imatge d'un IBM PC XT. Font: <a href="https://parceladigital.com/subidos/1611221350x_xt_color.jpg">Parceladigital</a></em></p>
+  <p><em>Figura 1: Imagen de un IBM PC XT. Fuente: <a href="https://parceladigital.com/subidos/1611221350x_xt_color.jpg">Parceladigital</a></em></p>
   </div>
 
-  - **Manual:** El tractament es fa completament a mà, com emplenar documents.
-  - **Mecànic:** Utilitza màquines amb assistència humana, com les màquines d’escriure o calculadores.
-  - **Automàtic:** Des dels anys 40, amb l’aparició dels ordinadors i altres dispositius automàtics, les màquines poden processar informació de manera independent.
-  
-  Aquestes etapes han culminat en l'aparició de la **informàtica**, que es refereix específicament al tractament automàtic de la informació, impulsant l'ús dels **ordinadors** i altres tecnologies modernes.
+  - **Manual:** El tratamiento se realiza completamente a mano, como rellenar documentos.
+  - **Mecánico:** Utiliza máquinas con asistencia humana, como las máquinas de escribir o calculadoras.
+  - **Automático:** Desde los años 40, con la aparición de los ordenadores y otros dispositivos automáticos, las máquinas pueden procesar información de manera independiente.
 
-  ## 1.2. Els ordinadors
+  Estas etapas han culminado en la aparición de la **informática**, que se refiere específicamente al tratamiento automático de la información, impulsando el uso de **ordenadores** y otras tecnologías modernas.
 
-  La física, la química, la meteorologia i altres ciències expliquen i justifiquen fets del nostre entorn. De manera similar, la **informàtica** és una ciència que estudia el tractament de la informació, cosa que és possible gràcies a l'ús de diverses eines, entre elles, l'ordinador.
+  ## 1.2. Los ordenadores
 
-  **La informàtica**
-  
-  La informàtica va sorgir amb l'objectiu d'ajudar les persones a realitzar tasques repetitives i rutinàries, especialment en càlculs i gestions, on la repetició és comuna. La idea central és que una màquina pot fer aquestes tasques amb més rapidesa i precisió, encara que sempre sota el control humà.
+  La física, la química, la meteorología y otras ciencias explican y justifican hechos de nuestro entorno. De manera similar, la **informática** es una ciencia que estudia el tratamiento de la información, lo cual es posible gracias al uso de diversas herramientas, entre ellas, el ordenador.
 
-  ```📖 El terme informàtica va aparèixer a França l'any 1962 amb la denominació "informatique", resultat de la contracció de les paraules: INFORmation autoMATIQUE```
+  ### La informática
 
-  **Tasques principals de la informàtica**
-  
-  Les tasques que engloba la informàtica inclouen:
+  La informática surgió con el objetivo de ayudar a las personas a realizar tareas repetitivas y rutinarias, especialmente en cálculos y gestiones, donde la repetición es común. La idea central es que una máquina puede hacer estas tareas con mayor rapidez y precisión, aunque siempre bajo control humano.
 
-  - **Desenvolupament i millora de màquines noves**, com els ordinadors i altres elements relacionats.
-  - **Desenvolupament i millora de mètodes de treball automàtics**, basats en el sistema operatiu.
-  - **Creació d'aplicacions informàtiques**, conegudes com a programes o paquets informàtics.
-  
-  El terme sistema informàtic es refereix al conjunt d'elements necessaris per dur a terme i utilitzar aplicacions informàtiques. Això inclou el maquinari, el programari i els elements humans.
+  ```📖 El término informática apareció en Francia en el año 1962 con la denominación "informatique", resultado de la contracción de las palabras: INFORmation autoMATIQUE```
 
-  **Components d'un sistema informàtic**
-  
-  Un sistema informàtic es compon de tres elements interrelacionats:
+  ### Tareas principales de la informática
 
-  - **Part física (maquinari o hardware)**: Tots els components que es poden veure i tocar, com els monitors, impressores, ratolins, etc.
-  - **Part lògica (programari o software)**: Tots els elements intangibles, com els programes, sistemes operatius i aplicacions.
-  - **Part humana**: Les persones són l'element més important en un sistema informàtic, ja que sense elles no existirien ni el maquinari ni el programari.
+  Las tareas que engloba la informática incluyen:
 
-  **Característiques principals d'un ordinador**
-  
-  Un ordinador té les següents característiques principals:
+  - **Desarrollo y mejora de nuevas máquinas**, como los ordenadores y otros elementos relacionados.
+  - **Desarrollo y mejora de métodos de trabajo automáticos**, basados en el sistema operativo.
+  - **Creación de aplicaciones informáticas**, conocidas como programas o paquetes informáticos.
 
-  - **Fa una acció a la vegada:** Un ordinador executa una tasca a la vegada en cada cicle de processament.
-  - **Capacitat per a fer càlculs matemàtics:** Pot sumar, restar, multiplicar i dividir.
-  - **Realitza operacions lògiques:** Compara lletres, nombres i altres dades per determinar resultats vertaders o falsos.
-  - **Alta velocitat:** Opera a grans velocitats, permetent realitzar moltes operacions en poc temps.
-  - **Exactitud i precisió:** Fa exactament el que se li indica segons les instruccions.
-  - **Eficàcia:** Pot treballar durant llargs períodes sense interrupció.
-  - **Manipulació de grans quantitats d’informació:** Pot processar i manejar dades massives de manera eficient.
-  - **Fiabilitat:** Verifica l'exactitud de les seves operacions internes (autocomprovació).
-  - **Capacitat per manipular símbols:** Pot treballar amb diversos tipus de dades i símbols, no només números.
-  - **Evolució constant:** Els ordinadors es tornen cada vegada més petits, més útils i menys costosos.
-  
-  **Programes i aplicacions informàtiques**
-  
-  El conjunt d'accions que s'ordena i executa un ordinador es coneix com a programa. En general, un programa és un conjunt d’instruccions que es segueixen en un ordre determinat per resoldre un problema concret.
+  El término sistema informático se refiere al conjunto de elementos necesarios para llevar a cabo y utilizar aplicaciones informáticas. Esto incluye el hardware, el software y los elementos humanos.
 
-  Una **aplicació informàtica** és un conjunt d’un o més programes dissenyats per realitzar una tasca específica en un sistema informàtic.
+  ### Componentes de un sistema informático
 
-  **Components fonamentals d’un ordinador**
+  Un sistema informático se compone de tres elementos interrelacionados:
 
-  L’ordinador està format per dos elements principals:
+  - **Parte física (hardware):** Todos los componentes que se pueden ver y tocar, como los monitores, impresoras, ratones, etc.
+  - **Parte lógica (software):** Todos los elementos intangibles, como los programas, sistemas operativos y aplicaciones.
+  - **Parte humana:** Las personas son el elemento más importante en un sistema informático, ya que sin ellas no existirían ni el hardware ni el software.
 
-  - **Maquinari (hardware):** Inclou tots els components físics que es poden veure i tocar, com el monitor, el teclat, la CPU, etc.
-  - **Programari (software):** Fa referència als components no físics, com els programes, les aplicacions i els sistemes operatius.
-  
-  També cal destacar altres elements com:
+  ### Características principales de un ordenador
 
-  - **Usuari i programador:** L’usuari és la persona que utilitza l’ordinador, mentre que el programador és qui escriu els programes en llenguatges de programació perquè l’ordinador pugui executar-los.
-  - **Dades i informació:** Les dades són els fets o materials originals no processats, mentre que la informació és el resultat de les dades ja processades.
-  - **Documentació:** Conjunt d’instruccions o manuals que expliquen a l'usuari com utilitzar l’ordinador i els programes informàtics.
+  Un ordenador tiene las siguientes características principales:
+
+  - **Realiza una acción a la vez:** Un ordenador ejecuta una tarea a la vez en cada ciclo de procesamiento.
+  - **Capacidad para hacer cálculos matemáticos:** Puede sumar, restar, multiplicar y dividir.
+  - **Realiza operaciones lógicas:** Compara letras, números y otros datos para determinar resultados verdaderos o falsos.
+  - **Alta velocidad:** Opera a grandes velocidades, permitiendo realizar muchas operaciones en poco tiempo.
+  - **Exactitud y precisión:** Hace exactamente lo que se le indica según las instrucciones.
+  - **Eficacia:** Puede trabajar durante largos períodos sin interrupción.
+  - **Manipulación de grandes cantidades de información:** Puede procesar y manejar datos masivos de manera eficiente.
+  - **Fiabilidad:** Verifica la exactitud de sus operaciones internas (autocomprobación).
+  - **Capacidad para manipular símbolos:** Puede trabajar con diversos tipos de datos y símbolos, no solo números.
+  - **Evolución constante:** Los ordenadores se vuelven cada vez más pequeños, útiles y menos costosos.
+
+  ### Programas y aplicaciones informáticas
+
+  El conjunto de acciones que se ordenan y ejecutan en un ordenador se conoce como programa. En general, un programa es un conjunto de instrucciones que se siguen en un orden determinado para resolver un problema específico.
+
+  Una **aplicación informática** es un conjunto de uno o más programas diseñados para realizar una tarea específica en un sistema informático.
+
+  ### Componentes fundamentales de un ordenador
+
+  El ordenador está formado por dos elementos principales:
+
+  - **Hardware:** Incluye todos los componentes físicos que se pueden ver y tocar, como el monitor, el teclado, la CPU, etc.
+  - **Software:** Se refiere a los componentes no físicos, como los programas, las aplicaciones y los sistemas operativos.
+
+  También destacan otros elementos como:
+
+  - **Usuario y programador:** El usuario es la persona que utiliza el ordenador, mientras que el programador es quien escribe los programas en lenguajes de programación para que el ordenador pueda ejecutarlos.
+  - **Datos e información:** Los datos son los hechos o materiales originales no procesados, mientras que la información es el resultado de los datos ya procesados.
+  - **Documentación:** Conjunto de instrucciones o manuales que explican al usuario cómo utilizar el ordenador y los programas informáticos.
 
   <div style="text-align: center;">
-    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_02.png" alt="Estructura d'un ordinador" width="640" height="auto"/>
-    <p><em>Figura 2: Estructura funcional d'un ordinador. Font: IOC XTEC</em></p>
+    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_02.png" alt="Estructura de un ordenador" width="640" height="auto"/>
+    <p><em>Figura 2: Estructura funcional de un ordenador. Fuente: IOC XTEC</em></p>
   </div>
 
-  ## 1.2.1. El maquinari (hardware)
-  
-  ## 1.2.1.1. La CPU (Unitat central de processament)
+  ## 1.2.1. El hardware
 
-  La **CPU (Unitat Central de Processament)** és el component fonamental d'un ordinador encarregat de processar les dades i executar les instruccions d'un programa. També es coneix com el **processador** o "cervell" de l'ordinador, ja que controla totes les operacions que es realitzen dins el sistema.
+  ## 1.2.1.1. La CPU (Unidad Central de Procesamiento)
 
-  **Parts de la CPU**
+  La **CPU (Unidad Central de Procesamiento)** es el componente fundamental de un ordenador encargado de procesar los datos y ejecutar las instrucciones de un programa. También se conoce como el **procesador** o "cerebro" del ordenador, ya que controla todas las operaciones que se realizan dentro del sistema.
 
-  La CPU està formada per diverses parts que treballen conjuntament per executar les instruccions que rep. Les parts principals de la CPU són:
+  **Partes de la CPU**
 
-  - La **Unitat de Control (CU)** és responsable de dirigir i coordinar totes les operacions de l'ordinador.
-  - La **Unitat Aritmètica i Lògica (ALU)** és la part de la CPU encarregada de realitzar les operacions matemàtiques i lògiques. L'ALU treballa amb les dades que li subministra la Unitat de Control i torna els resultats d'aquestes operacions a altres components de la CPU, com els registres o la memòria.
-  - Els **registres** són petites àrees de memòria d'alta velocitat dins la CPU que s'utilitzen per emmagatzemar dades temporals que es necessiten durant l'execució de les instruccions. Els registres són molt més ràpids que la memòria RAM i proporcionen un accés immediat a les dades que es processen a cada moment.
+  La CPU está formada por varias partes que trabajan conjuntamente para ejecutar las instrucciones que recibe. Las partes principales de la CPU son:
 
-  <div style="text-align: center;">
-    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_03b.png" alt="Esquema de la CPU" width="640" height="auto"/>
-    <p><em>Figura 3: Esquema de la CPU. Font: IOC XTEC</em></p>
-  </div>
+  - La **Unidad de Control (CU)** es responsable de dirigir y coordinar todas las operaciones del ordenador.
+  - La **Unidad Aritmética y Lógica (ALU)** realiza operaciones matemáticas y lógicas. La ALU trabaja con los datos que le suministra la Unidad de Control y devuelve los resultados a otros componentes de la CPU, como los registros o la memoria.
+  - Los **registros** son pequeñas áreas de memoria de alta velocidad dentro de la CPU que se utilizan para almacenar datos temporales durante la ejecución de instrucciones. Son mucho más rápidos que la memoria RAM y proporcionan acceso inmediato a los datos que se procesan.
 
- **Funcionament bàsic de la CPU**
+  **Funcionamiento básico de la CPU**
 
- | **Fase**         | **Descripció**                                                                                                                                                            |
-|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Fetch (Cerca)**      | - La CPU localitza la següent instrucció a la memòria (RAM).<br>- Utilitza el comptador de programa (PC), que conté l'adreça de la pròxima instrucció.<br>- L'instrucció es transfereix des de la memòria a un registre dins la CPU, com el registre d'instruccions. |
-| **Decode (Descodificació)** | - Un cop l'instrucció està al registre d'instruccions, la Unitat de Control descodifica la instrucció.<br>- La Unitat de Control determina quines accions s'han de dur a terme, incloent operadors i dades a manipular. |
-| **Execute (Execució)**  | - L'instrucció es processa. Si requereix operacions aritmètiques o lògiques, la Unitat de Control envia l'ordre a l'ALU.<br>- Els resultats es guarden en un registre o es tornen a la memòria.<br>- El comptador de programa s'incrementa per passar a la següent instrucció, repetint el cicle. |
+  | **Fase**             | **Descripción**                                                                                                                                                     |
+  |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | **Fetch (Búsqueda)**       | - La CPU localiza la siguiente instrucción en la memoria (RAM).<br>- Usa el contador de programa (PC), que contiene la dirección de la próxima instrucción.<br>- La instrucción se transfiere desde la memoria a un registro en la CPU, como el registro de instrucciones. |
+  | **Decode (Decodificación)** | - Una vez la instrucción está en el registro de instrucciones, la Unidad de Control la decodifica.<br>- La Unidad de Control determina las acciones necesarias, incluidos operadores y datos a manipular. |
+  | **Execute (Ejecución)**    | - La instrucción se procesa. Si requiere operaciones aritméticas o lógicas, la Unidad de Control envía la orden a la ALU.<br>- Los resultados se almacenan en un registro o se devuelven a la memoria.<br>- El contador de programa se incrementa para pasar a la siguiente   instrucción, repitiendo el ciclo. |
 
-  ## 1.2.1.2. Memòria
+  ## 1.2.1.2. Memoria
 
-  La memòria és un component fonamental d'un ordinador, responsable d'emmagatzemar dades i instruccions que la CPU necessita per executar operacions. La memòria permet que el processador tingui accés ràpid a la informació requerida per realitzar les seves tasques.
+  La memoria es un componente fundamental de un ordenador, responsable de almacenar datos e instrucciones que la CPU necesita para ejecutar operaciones. Permite que el procesador tenga acceso rápido a la información requerida.
 
-  **Memòria principal (RAM)**
-  
-  La **RAM (Random Access Memory)** és la memòria principal de l'ordinador, on es carreguen les dades i les instruccions que la CPU necessita mentre s'està executant un programa. La RAM és volàtil, això significa que la informació emmagatzemada es perd quan l'ordinador s'apaga.
+  **Memoria principal (RAM)**
 
-  - **Funció:** Emmagatzema temporalment dades i programes en ús per la CPU.
-  - **Velocitat:** És ràpida, permet accedir a qualsevol part de la memòria de manera immediata.
-  - **Capacitat:** Normalment té una capacitat limitada en comparació amb l'emmagatzematge secundari.
+  La **RAM (Random Access Memory)** es la memoria principal del ordenador, donde se cargan los datos e instrucciones que la CPU necesita mientras ejecuta un programa. La RAM es volátil, es decir, la información almacenada se pierde cuando el ordenador se apaga.
 
-  **Memòria ROM**
-  
-  La **ROM (Read-Only Memory)** és un tipus de memòria no volàtil, això vol dir que conserva les dades fins i tot quan l'ordinador s'apaga. La informació emmagatzemada a la ROM generalment és escrita pel fabricant i no es pot modificar fàcilment.
+  - **Función:** Almacena temporalmente datos y programas en uso por la CPU.
+  - **Velocidad:** Es rápida, permite acceder a cualquier parte de la memoria de inmediato.
+  - **Capacidad:** Normalmente tiene capacidad limitada en comparación con el almacenamiento secundario.
 
-  - **Funció:** Conté instruccions permanents necessàries per arrencar el sistema, com el BIOS (Basic Input/Output System).
-  - **Característica:** Només permet la lectura de dades; no es pot escriure a la ROM durant el funcionament normal de l'ordinador.
-  - **Exemples d'ús:** BIOS, firmware de dispositius.
-  
-  **Memòria cau (cache)**
-  
-  La **memòria cau (cache)** és una memòria de petita capacitat però molt ràpida que es troba entre la CPU i la RAM. La seva funció principal és accelerar l'accés de la CPU a les dades que s'usen amb més freqüència.
+  **Memoria ROM**
 
-  - **Funció:** Emmagatzema còpies de dades de la memòria principal que s'utilitzen freqüentment per reduir el temps que triga la CPU a accedir a la informació.
-  - **Tipus:** Hi ha diferents nivells de memòria cau (L1, L2, L3), sent L1 la més ràpida però de menor capacitat, i L3 la més lenta però de major capacitat.
-  - **Impacte en el rendiment:** Redueix els colls d'ampolla entre la velocitat de la CPU i la memòria principal.
+  La **ROM (Read-Only Memory)** es un tipo de memoria no volátil que conserva los datos incluso cuando el ordenador se apaga. La información almacenada en la ROM generalmente es escrita por el fabricante y no se puede modificar fácilmente.
 
-  **Emmagatzematge secundari**
+  - **Función:** Contiene instrucciones permanentes necesarias para arrancar el sistema, como el BIOS (Basic Input/Output System).
+  - **Característica:** Solo permite la lectura de datos; no se puede escribir en la ROM durante el funcionamiento normal del ordenador.
+  - **Ejemplos de uso:** BIOS, firmware de dispositivos.
 
-  L'**emmagatzematge secundari** és l'espai on es guarden dades de manera permanent. A diferència de la RAM, no és volàtil, per tant, la informació es manté emmagatzemada encara que s'apagui l'ordinador.
+  **Memoria caché**
 
-  - **Exemples:** Discos durs (HDD), unitats d'estat sòlid (SSD), discos òptics (CD/DVD), i unitats USB.
-  - **Funció:** Emmagatzema de manera permanent dades, programes, fitxers i el sistema operatiu.
-  - **Característica:** Té molta més capacitat que la memòria RAM, però és més lenta.
+  La **memoria caché** es una memoria de pequeña capacidad pero muy rápida que se encuentra entre la CPU y la RAM. Su función principal es acelerar el acceso de la CPU a los datos que se usan con más frecuencia.
 
-  ## 1.2.1.3. Dispositius d'entrada i sortida (I/O)
+  - **Función:** Almacena copias de datos de la memoria principal que se utilizan frecuentemente para reducir el tiempo de acceso.
+  - **Tipos:** Existen diferentes niveles de memoria caché (L1, L2, L3), siendo L1 la más rápida pero de menor capacidad, y L3 la más lenta pero de mayor capacidad.
+  - **Impacto en el rendimiento:** Reduce los cuellos de botella entre la velocidad de la CPU y la memoria principal.
 
-  Els dispositius d'entrada i sortida, també coneguts com a **perifèrics**, són elements externs que permeten la interacció entre l'ordinador i l'usuari o altres sistemes. Aquests dispositius serveixen per introduir dades a l'ordinador, mostrar resultats o permetre la comunicació entre sistemes.
+  **Almacenamiento secundario**
 
-  **Dispositius d'entrada**
-  
-  Els **dispositius d'entrada** són aquells que permeten a l'usuari o altres sistemes introduir dades o instruccions dins l'ordinador. Aquests dispositius transformen les dades físiques en senyals digitals que l'ordinador pot processar.
+  El **almacenamiento secundario** es el espacio donde se guardan datos de manera permanente. A diferencia de la RAM, no es volátil, por lo que la información se mantiene almacenada aunque el ordenador se apague.
 
-  - **Teclat:** El dispositiu d'entrada més comú. Permet introduir caràcters, números i símbols utilitzant una disposició de tecles.
-  - **Ratolí:** Un dispositiu apuntador que permet controlar el cursor a la pantalla. Facilita la selecció d'opcions en interfícies gràfiques.
-   -**Escàner:** Converteix documents físics, com imatges o text, en format digital que pot ser processat per l'ordinador.
-  - **Micròfon:** Permet l'entrada d'àudio, convertint les ones sonores en senyals digitals.
-   -**Càmera web:** Captura imatges i vídeo que poden ser utilitzats en temps real per aplicacions com videoconferències o gravacions.
+  - **Ejemplos:** Discos duros (HDD), unidades de estado sólido (SSD), discos ópticos (CD/DVD) y unidades USB.
+  - **Función:** Almacena de manera permanente datos, programas, archivos y el sistema operativo.
+  - **Característica:** Tiene mucha más capacidad que la memoria RAM, pero es más lenta.
 
-  **Dispositius de sortida**
-  
-  Els **dispositius de sortida** permeten a l'ordinador enviar informació a l'usuari o a altres sistemes. La funció principal d'aquests dispositius és mostrar o transmetre el resultat de les operacions processades per l'ordinador.
+  ## 1.2.1.3. Dispositivos de entrada y salida (I/O)
 
-  - **Monitor:** Mostra visualment la informació generada per l'ordinador, com el resultat d'operacions, imatges, textos o vídeos. El monitor és un dels dispositius de sortida més importants.
-  - **Impressora:** Converteix la informació digital en una còpia física, com la impressió de documents o imatges sobre paper.
-  - **Altaveus:** Converteixen els senyals digitals en so, permetent escoltar àudio o música.
-  - **Projector:** Dispositiu de sortida que projecta imatges o vídeos en una pantalla gran, sovint utilitzat en presentacions.
-  
-  **Dispositius d'entrada i sortida**
-  
-  Els **dispositius d'entrada i sortida** tenen la capacitat de realitzar tant la funció d'entrada com la de sortida de dades. Aquests perifèrics permeten la comunicació bidireccional entre l'ordinador i altres dispositius o l'usuari.
+  Los dispositivos de entrada y salida, también conocidos como **periféricos**, son elementos externos que permiten la interacción entre el ordenador y el usuario o con otros sistemas. Estos dispositivos sirven para introducir datos al ordenador, mostrar resultados o permitir la comunicación entre sistemas.
 
-  - **Unitats de disc:** Dispositius que permeten la lectura i escriptura de dades en suports de memòria com discos durs (HDD), unitats de disc òptic (CD/DVD) o unitats d'estat sòlid (SSD).
-  - **Pantalles tàctils:** Combinen la funció de monitor (dispositiu de sortida) amb la d'entrada, ja que permeten a l'usuari interaccionar amb el sistema mitjançant tocs o gestos sobre la pantalla.
-  - **Memòries USB:** Dispositius d'emmagatzematge externs que permeten llegir i escriure dades des de i cap a l'ordinador.
-  - **Mòdems:** Dispositius de comunicació que permeten a l'ordinador enviar i rebre dades a través d'una xarxa, normalment connectada a internet.
+  **Dispositivos de entrada**
+
+  Los **dispositivos de entrada** permiten al usuario o a otros sistemas introducir datos o instrucciones en el ordenador, transformando datos físicos en señales digitales que el ordenador puede procesar.
+
+  - **Teclado:** Dispositivo de entrada más común. Permite introducir caracteres, números y símbolos.
+  - **Ratón:** Dispositivo apuntador que permite controlar el cursor en la pantalla.
+  - **Escáner:** Convierte documentos físicos, como imágenes o texto, en formato digital.
+  - **Micrófono:** Permite la entrada de audio, convirtiendo las ondas sonoras en señales digitales.
+  - **Cámara web:** Captura imágenes y vídeo en tiempo real para aplicaciones como videoconferencias.
+
+  **Dispositivos de salida**
+
+  Los **dispositivos de salida** permiten al ordenador enviar información al usuario o a otros sistemas, mostrando o transmitiendo el resultado de las operaciones procesadas.
+
+  - **Monitor:** Muestra visualmente la información generada por el ordenador, como resultados, imágenes y vídeos.
+  - **Impresora:** Convierte la información digital en una copia física, como documentos o imágenes impresas.
+  - **Altavoces:** Convierten las señales digitales en sonido.
+  - **Proyector:** Dispositivo de salida que proyecta imágenes o vídeos en una pantalla grande, usado en presentaciones.
+
+  **Dispositivos de entrada y salida**
+
+  Los **dispositivos de entrada y salida** pueden realizar tanto la función de entrada como de salida de datos, permitiendo la comunicación bidireccional.
+
+  - **Unidades de disco:** Permiten la lectura y escritura de datos en soportes de memoria como discos duros, discos ópticos o SSD.
+  - **Pantallas táctiles:** Combinan la función de monitor (salida) con la de entrada, permitiendo interactuar mediante toques o gestos.
+  - **Memorias USB:** Dispositivos de almacenamiento externos que permiten leer y escribir datos.
+  - **Módems:** Dispositivos de comunicación que permiten enviar y recibir datos a través de una red, generalmente conectada a internet.
 
   <div style="text-align: center;">
-    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_04.png" alt="Esquema dels elements de les unitats funcionals d’un ordinador" width="640" height="auto"/>
-    <p><em>Figura 4: Esquema dels elements de les unitats funcionals d’un ordinador. Font: IOC XTEC</em></p>
+    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_04.png" alt="Esquema de los elementos de las unidades funcionales de un ordenador" width="640" height="auto"/>
+    <p><em>Figura 4: Esquema de los elementos de las unidades funcionales de un ordenador. Fuente: IOC XTEC</em></p>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_05.png" alt="Esquema dels elements de les unitats funcionals d’un ordinador" width="640" height="auto"/>
-    <p><em>Figura 5: Esquema dels elements de les unitats funcionals d’un ordinador. Font: IOC XTEC</em></p>
+    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_05.png" alt="Esquema de los elementos de las unidades funcionales de un ordenador" width="640" height="auto"/>
+    <p><em>Figura 5: Esquema de los elementos de las unidades funcionales de un ordenador. Font: IOC XTEC</em></p>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_06.png" alt="Estructura funcional dels ordinadors" width="640" height="auto"/>
-    <p><em>Figura 5: Estructura funcional dels ordinadors. Font: IOC XTEC</em></p>
+    <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_06.png" alt="Estructura funcional de los ordenadores" width="640" height="auto"/>
+    <p><em>Figura 5: Estructura funcional de los ordenadores. Fuente: IOC XTEC</em></p>
   </div>
 
 
