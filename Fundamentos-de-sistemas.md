@@ -104,7 +104,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   **Datos numéricos**
   
-  Son aquellos datos que contienen números y con las cuales se pueden realizar operaciones matemáticas (sumar, restar, multiplicar, etc.).
+  Son aquellos datos que contienen **números** y con las cuales se pueden realizar operaciones matemáticas (sumar, restar, multiplicar, etc.).
 
   💡Ej:
     
