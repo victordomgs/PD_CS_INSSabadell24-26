@@ -702,3 +702,49 @@ en marcha con garantías de funcionamiento. Todas estas tareas implican necesari
   - **Migración de la solución:** Cuando el sistema ya no puede seguir el ritmo de la organización debido a obsolescencia o falta de competitividad, es necesario migrar a una nueva solución que cubra las funcionalidades requeridas y permita una gestión eficaz del cambio.
 
   En resumen, el sistema de información debe evolucionar al ritmo de la organización y el mercado. Los proveedores de soluciones frecuentemente lanzan nuevas versiones para que las empresas puedan mantenerse competitivas y alineadas con las tendencias y avances tecnológicos del sector.
+
+  <br>
+
+  ## 4. Tecnología y sociedad
+  La tecnología influye de manera fundamental en todos los aspectos de la vida moderna. Desde la vida cotidiana hasta el mercado laboral, su impacto es evidente y afecta la forma en que vivimos, trabajamos y nos comunicamos. Este apartado explora la digitalización, su influencia en el día a día y en el empleo, así como la importancia de adquirir habilidades digitales para adaptarse a un entorno en constante cambio.
+
+  ## 4.1. La digitalización en la vida cotidiana
+  La digitalización ha transformado el hogar y los dispositivos que usamos a diario, integrando tecnología que facilita las tareas, mejora la comunicación y ofrece nuevas formas de entretenimiento y gestión de actividades personales.
+
+  ## 4.1.1. La tecnología en el hogar
+  El hogar digital es un concepto que ha ganado popularidad con el desarrollo de los dispositivos inteligentes y el Internet de las Cosas (IoT). Estos avances permiten la interconexión de dispositivos para automatizar y optimizar el funcionamiento de electrodomésticos y otros elementos del hogar.
+
+  - **Electrodomésticos inteligentes:** Refrigeradores, lavadoras y termostatos conectados a Internet permiten controlar y ajustar las funciones de los dispositivos de manera remota, optimizando el uso de energía y brindando mayor comodidad.
+  - **Asistentes virtuales:** Dispositivos como Amazon Alexa o Google Assistant permiten controlar otros aparatos, acceder a información, realizar tareas cotidianas e interactuar por voz con el sistema de domótica del hogar.
+  - **Seguridad y control:** Cámaras y sistemas de alarma conectados permiten supervisar el hogar a distancia, mejorando la seguridad y el control de accesos.
+  
+  ## 4.1.2. Dispositivos personales
+  Los dispositivos personales, como smartphones, tablets y wearables (dispositivos portátiles como relojes inteligentes), se han convertido en herramientas indispensables en la vida diaria:
+
+  - **Smartphones y tablets:** Han transformado la forma de comunicarnos, acceder a la información y realizar tareas cotidianas, como pagar, enviar mensajes y navegar por Internet.
+  - **Wearables:** Estos dispositivos, como los relojes inteligentes y pulseras de actividad, permiten monitorear la salud (por ejemplo, la frecuencia cardíaca o la actividad física) y optimizar rutinas de bienestar, conectando al usuario con su estado físico.
+  - **Redes sociales y entretenimiento:** Los dispositivos personales también han revolucionado el consumo de contenido y el entretenimiento, permitiendo el acceso a redes sociales, plataformas de streaming y videojuegos en cualquier momento y lugar.
+  
+  ## 4.2. Impacto de la tecnología en el mercado laboral
+  La tecnología ha transformado el mercado laboral, afectando la demanda de ciertos trabajos, automatizando tareas y creando nuevas oportunidades de empleo en el sector digital. La capacidad de adaptación a estos cambios es crucial para aprovechar los beneficios que la tecnología puede ofrecer en el mundo laboral.
+
+  ## 4.2.1. Automatización
+  La automatización se refiere al uso de tecnología para realizar tareas que antes requerían intervención humana. Aunque la automatización puede mejorar la eficiencia y reducir costos, también presenta desafíos en el mercado laboral:
+
+  - **Impacto en los empleos repetitivos:** Muchas tareas manuales y repetitivas han sido automatizadas, reduciendo la necesidad de trabajos operativos en áreas como la manufactura y la administración.
+  - **Robots e Inteligencia Artificial:** Tecnologías como los robots en la industria y la Inteligencia Artificial en la gestión de datos han sustituido tareas que anteriormente dependían de habilidades humanas.
+  - **Reducción y transformación de empleos:** Aunque la automatización puede reducir ciertos empleos, también ha generado una transformación hacia trabajos que requieren habilidades técnicas y de análisis de datos.
+  
+  ## 4.2.2. Nuevas oportunidades de empleo
+  La tecnología ha dado lugar a nuevos sectores y oportunidades de empleo en áreas como la programación, el análisis de datos y la ciberseguridad. Estas nuevas oportunidades son resultado de la digitalización y de la creciente dependencia de sistemas tecnológicos en todos los sectores.
+
+  - **Sector tecnológico:** La demanda de desarrolladores de software, ingenieros de sistemas, analistas de datos y expertos en ciberseguridad ha crecido considerablemente.
+  - **E-commerce y marketing digital:** La proliferación del comercio electrónico ha impulsado la demanda de profesionales en marketing digital, gestión de redes sociales y optimización de motores de búsqueda (SEO).
+  - **Servicios en la nube:** La adopción de servicios en la nube ha creado oportunidades en la administración y desarrollo de soluciones para almacenar, gestionar y procesar datos de forma remota.
+  
+  ## 4.2.3. Formación y habilidades digitales
+  La formación en habilidades digitales es crucial para adaptarse a los cambios que la tecnología trae al mercado laboral. Las competencias digitales no solo son esenciales para los trabajos en el sector tecnológico, sino también para cualquier área que dependa de herramientas digitales en sus operaciones diarias.
+
+  - **Competencias básicas:** La alfabetización digital, como la capacidad de usar Internet y programas de software básicos, es esencial para cualquier trabajador.
+  - **Habilidades avanzadas:** La programación, la gestión de datos, el análisis de información y el uso de herramientas de colaboración en línea son habilidades demandadas en el mercado actual.
+  - **Capacitación continua:** La rapidez con la que evoluciona la tecnología hace que la formación constante sea clave para mantenerse relevante en el mercado laboral. Cursos en línea, certificaciones y especializaciones permiten a los trabajadores actualizar sus conocimientos y mejorar sus oportunidades de empleo.
