@@ -483,3 +483,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   - **Creative Commons:** Aunque es más común en contenidos multimedia, también se usa en software. Ofrece diferentes niveles de permisos, desde uso libre hasta restricciones específicas.
 
+  <div style="text-align: center;">
+  <img src="https://s3.amazonaws.com/libapps/accounts/42282/images/licencias_cc.PNG" alt="Licencias Creative Commons" width="539" height="383"/>
+  <p><em>Figura 9: Licencias Creative Commons. Fuente: <a href="https://biblioguias.uam.es/citar/creative_commons">S3 Universidad Autónoma de Madrid</a></em></p>
+  </div>
