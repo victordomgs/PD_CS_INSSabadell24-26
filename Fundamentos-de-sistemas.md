@@ -560,6 +560,11 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   </div>
 
   - **Ley Orgánica de Protección de Datos (LOPD):** En España, la LOPD complementa el GDPR y regula la protección de datos personales, especificando cómo deben ser tratados en el ámbito nacional.
+
+  <div style="text-align: center;">
+  <img src="https://www.asesoriamadridgesys.com/wp-content/uploads/colors-640x466.jpg" alt="Niveles del LOPD" width="581" height="423"/>
+  <p><em>Figura 11: Clasificación de datos según el LOPD. Fuente: <a href="https://www.asesoriamadridgesys.com/ley-organica-proteccion-datos-lopd/">GESYS</a></em></p>
+  </div>
   
   Estas leyes buscan proteger la privacidad de los ciudadanos y sancionar a quienes incumplen las normas de protección de datos.
 
