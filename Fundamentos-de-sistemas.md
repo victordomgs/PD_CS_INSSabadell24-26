@@ -748,3 +748,65 @@ en marcha con garantías de funcionamiento. Todas estas tareas implican necesari
   - **Competencias básicas:** La alfabetización digital, como la capacidad de usar Internet y programas de software básicos, es esencial para cualquier trabajador.
   - **Habilidades avanzadas:** La programación, la gestión de datos, el análisis de información y el uso de herramientas de colaboración en línea son habilidades demandadas en el mercado actual.
   - **Capacitación continua:** La rapidez con la que evoluciona la tecnología hace que la formación constante sea clave para mantenerse relevante en el mercado laboral. Cursos en línea, certificaciones y especializaciones permiten a los trabajadores actualizar sus conocimientos y mejorar sus oportunidades de empleo.
+
+  ## 4.3. La economía digital
+  La economía digital se refiere a todas las actividades económicas basadas en tecnologías digitales. Estas actividades van desde el comercio electrónico hasta la prestación de servicios digitales y han transformado la manera en que las empresas interactúan con los consumidores, creando nuevos modelos de negocio y oportunidades de empleo.
+
+  ## 4.3.1. Comercio electrónico y nuevos modelos de negocio
+  El comercio electrónico es la compra y venta de productos o servicios a través de plataformas digitales. Esta modalidad de negocio ha crecido exponencialmente en los últimos años, permitiendo a los consumidores acceder a una variedad de productos y servicios desde cualquier lugar.
+
+  - **Plataformas de comercio electrónico:** Empresas como Amazon, eBay y Alibaba han popularizado el comercio electrónico, ofreciendo a los consumidores una forma rápida y conveniente de adquirir bienes y servicios.
+  - **Modelos de negocio basados en suscripción:** Servicios como Netflix, Spotify y plataformas de software como Adobe han adoptado un modelo de suscripción, en el que los usuarios pagan una tarifa mensual para acceder a contenido o servicios digitales.
+  - **Economía colaborativa:** Plataformas como Airbnb y Uber permiten a las personas compartir recursos, como propiedades o vehículos, ofreciendo una alternativa al consumo tradicional y creando nuevas oportunidades de ingreso.
+
+  ## 4.3.2. Servicios digitales
+  Los servicios digitales incluyen actividades que se realizan exclusivamente en línea, como la educación, la banca, la salud y el entretenimiento. Estos servicios han permitido mejorar el acceso a recursos y facilitar actividades diarias.
+
+  - **Educación en línea:** Plataformas como Coursera, Udemy y Khan Academy permiten a las personas aprender nuevas habilidades desde cualquier lugar y a su propio ritmo.
+  - **Servicios bancarios digitales:** La banca en línea y las fintech permiten a los usuarios realizar transacciones, gestionar sus cuentas y acceder a servicios financieros de forma digital.
+  - **Salud digital:** Las consultas médicas en línea y el monitoreo remoto de la salud permiten una atención médica más accesible, especialmente en áreas rurales o con dificultades de acceso a centros de salud.
+
+  ## 4.4. Ética y sostenibilidad en la tecnología
+  La ética y sostenibilidad en la tecnología se centran en la responsabilidad que tienen las empresas y los usuarios de asegurar que la tecnología se utilice de manera ética y respetuosa con el medio ambiente. Esto implica no solo el desarrollo y uso de productos tecnológicos, sino también la gestión de su impacto ambiental y social.
+
+  ## 4.4.1. El ciclo de vida de los productos tecnológicos
+  El ciclo de vida de los productos tecnológicos abarca todas las etapas desde su fabricación hasta su disposición final. Este ciclo incluye la extracción de materiales, fabricación, distribución, uso y desecho.
+
+  1. **Producción y fabricación:** Los productos tecnológicos requieren materiales como metales raros y plásticos, cuya extracción y procesamiento pueden tener un impacto significativo en el medio ambiente.
+  2. **Distribución y consumo:** El transporte y distribución de dispositivos tecnológicos aumentan la huella de carbono debido al uso de energía y emisiones de gases contaminantes.
+  3. **Desecho y reciclaje:** Al finalizar su vida útil, los productos tecnológicos generan desechos electrónicos o e-waste, que contienen componentes tóxicos que pueden contaminar el suelo y el agua si no se gestionan adecuadamente.
+
+  <div style="text-align: center;">
+  <img src="https://img.interempresas.net/fotos/469796.jpeg" alt="Ciclo de vida del producto" width="596" height="399"/>
+  <p><em>Figura 15: Ciclo de vida útil del producto. Fuente: <a href="https://www.interempresas.net/Electronica/Articulos/54608-El-ecodiseno-en-el-sector-electrico-electronico.html">Interempresas</a></em></p>
+  </div>
+
+  Por otro lado, tambien podemos entender el ciclo de vida de un producto en términos de las distintas fases que atraviesa una tecnología concreta en el mercado. Este ciclo consta de 4 fases: 
+
+  1. **Emergencia:** En esta fase inicial, una tecnología o producto es introducido al mercado. La mayoría de los consumidores aún no lo conocen, y solo algunos usuarios pioneros o "early adopters" muestran interés. En esta etapa, los costos de desarrollo e investigación son altos, y la adopción suele ser lenta, ya que el producto está en fase de prueba y puede requerir ajustes.
+  2. **Crecimiento:** En la fase de crecimiento, la tecnología empieza a ganar popularidad. La demanda crece rápidamente, lo que atrae a más empresas a entrar en el mercado. Los ingresos aumentan, y la tecnología se mejora continuamente en función del feedback de los usuarios. En esta fase, el producto se va consolidando y la competencia comienza a aumentar, mientras las empresas buscan diferenciarse.
+  3. **Madurez:** En la fase de madurez, el producto o tecnología se ha establecido completamente en el mercado y es ampliamente conocido. La mayoría de los consumidores que estaban interesados ya lo han adquirido, por lo que el crecimiento se estabiliza. Las mejoras incrementales son menores, y las empresas pueden reducir costos de producción para maximizar beneficios. Sin embargo, las innovaciones significativas son menos frecuentes, ya que el producto ha alcanzado un estado de funcionalidad completa y de confianza en el mercado.
+  4. **Saturación y declive:** En la fase de saturación, el mercado alcanza un punto en el que la demanda disminuye, ya que la mayoría de los usuarios interesados ya tienen el producto y las ventas comienzan a caer. La tecnología puede comenzar a parecer obsoleta a medida que surgen nuevas alternativas más avanzadas o económicas. En esta etapa, las empresas pueden decidir si mantener el producto mediante actualizaciones menores, reducir su precio para competir o, eventualmente, retirarlo y enfocarse en nuevas soluciones.
+
+  <div style="text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Tecnolog%C3%ADa_Clave.jpg" alt="Ciclo de vida del producto" width="425" height="356"/>
+  <p><em>Figura 16: Ciclo de vida del producto. Fuente: <a href="https://es.wikipedia.org/wiki/Ciclo_de_vida_de_la_tecnolog%C3%ADa">Wikipedia</a></em></p>
+  </div>
+
+  <div style="text-align: center;">
+  <img src="https://blog.hubspot.es/hs-fs/hubfs/ciclodevidadeunproductoejemplo.jpeg?width=600&height=350&name=ciclodevidadeunproductoejemplo.jpeg" alt="Ciclo de vida del producto" width="600" height="350"/>
+  <p><em>Figura 17: Ciclo de vida del iPod. Fuente: <a href="https://blog.hubspot.es/sales/ciclo-vida-producto">HubSpot</a></em></p>
+  </div>
+
+  ## 4.4.2. E-waste y responsabilidad medioambiental
+  El e-waste (residuos electrónicos) es uno de los mayores desafíos medioambientales de la actualidad. A medida que la tecnología avanza, los dispositivos se vuelven obsoletos más rápido, lo que contribuye a una creciente cantidad de desechos electrónicos.
+
+  - **Impacto ambiental del e-waste:** Los residuos electrónicos contienen materiales peligrosos como mercurio, plomo y cadmio, que pueden causar daños al medio ambiente y a la salud si no se eliminan de forma segura.
+  - **Reciclaje y reutilización:** Programas de reciclaje y reutilización permiten recuperar materiales de los dispositivos electrónicos y reducir la necesidad de extraer nuevos recursos. Muchas empresas tecnológicas han implementado programas de reciclaje para que los usuarios devuelvan sus dispositivos obsoletos.
+  
+  ## 4.4.3. Consumo responsable y decisiones informadas
+  El consumo responsable implica tomar decisiones conscientes sobre el uso de la tecnología y considerar su impacto social y ambiental. Las decisiones informadas pueden ayudar a reducir el desperdicio y promover prácticas sostenibles.
+
+  - **Durabilidad y reparabilidad:** Elegir dispositivos duraderos y que permitan reparaciones puede extender su vida útil y reducir la necesidad de reemplazarlos con frecuencia.
+  - **Preferencia por productos sostenibles:** Elegir productos fabricados con materiales reciclables o de empresas con prácticas sostenibles ayuda a reducir el impacto ambiental.
+  - **Conocimiento de prácticas éticas:** Investigar sobre la responsabilidad social y ambiental de las empresas tecnológicas permite apoyar a aquellas que se esfuerzan por minimizar su impacto negativo en el medio ambiente.
