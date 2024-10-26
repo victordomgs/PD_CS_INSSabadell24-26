@@ -1,0 +1,1 @@
+Carpeta que contiene imágenes y diagramas que ilustran conceptos clave en teoría de sistemas y computación. Estas imágenes se utilizan en la documentación y materiales de estudio incluidos en este repositorio.
