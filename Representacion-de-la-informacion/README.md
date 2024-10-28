@@ -365,14 +365,14 @@ Las operaciones en binario son fundamentales en el procesamiento de datos y en l
 
   **Ejemplo**: Dividir **1101** y **10**
 
-       1101 ÷ 10
-  	     110
+  	1101 ÷ 10
+  	      110
 	--------
  	10 | 1101
 	     - 10
 	--------
  	      100
- 	     - 10      	
+ 	     - 10
 	--------
  	       01
   Pasos: 
