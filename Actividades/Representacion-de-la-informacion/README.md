@@ -4,7 +4,7 @@ Esta carpeta contiene una serie de actividades prácticas para entender y trabaj
 
 ## Contenido de las Actividades
 
-- **[Actividad 1: Conversión de Decimal a Binario](actividad-01-conversion-decimal-binario.md)**  
+- **[Actividad 1: Conversión de Decimal a Binario](act01-conversion-decimal-binario.md)**  
   Convierte números decimales a su equivalente binario usando el método de divisiones sucesivas.
 
 - **[Actividad 2: Conversión de Binario a Decimal](actividad-02-conversion-binario-decimal.md)**  
