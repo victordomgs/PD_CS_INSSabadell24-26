@@ -371,7 +371,7 @@ Las operaciones en binario son fundamentales en el procesamiento de datos y en l
  	10 | 1101
 	     - 10
 	--------
- 	     100
+ 	      100
  	     - 10      	
 	--------
  	       01
