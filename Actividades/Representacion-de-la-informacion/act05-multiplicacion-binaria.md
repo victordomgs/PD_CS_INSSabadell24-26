@@ -17,7 +17,7 @@ Multiplica los números binarios **101** y **11**.
   	x    11
 	--------
  	    101 (101 x 1)
-  +  1010 (101 x 10, desplazado una posición a la izquierda)
+  	+  1010 (101 x 10, desplazado una posición a la izquierda)
 	--------
  	   1111
 
