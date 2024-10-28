@@ -279,7 +279,7 @@ El sistema binario no solo se utiliza para representar números, sino también p
   Veamos algunos ejemplos de cómo se puede codificar una palabra en binario utilizando el código ASCII. Tomemos la palabra **"Hi"** como ejemplo:
   1. **H**:
     - Valor decimal: 72
-    - Binario: **01001000**
+    - Binario: 01001000
   
   2. **i**:
     - Valor decimal: 105
