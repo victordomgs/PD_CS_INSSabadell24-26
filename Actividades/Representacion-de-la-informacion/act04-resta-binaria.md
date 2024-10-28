@@ -9,8 +9,11 @@ En esta actividad, aprenderás a realizar restas en el sistema binario, incluyen
 ## Reglas de la Resta Binaria
 
 **0 - 0 = 0**
+
 **1 - 0 = 1**
+
 **1 - 1 = 0**
+
 **0 - 1 = 1** (con préstamo de la siguiente posición)
 
 Cuando **0 - 1** necesita un préstamo, la columna de la izquierda debe reducirse en 1 y la columna actual se convierte en 10 (igual que en el sistema decimal).
