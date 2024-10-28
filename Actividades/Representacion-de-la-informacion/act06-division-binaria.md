@@ -12,8 +12,8 @@
 
 Dividir el número binario **1101** entre **10**.
 
-  1101 ÷ 10
-  	    110
+  	1101 ÷ 10
+  	      110
 	--------
  	10 | 1101
 	     - 10
@@ -33,7 +33,7 @@ Dividir el número binario **1101** entre **10**.
 
 ## Ejercicios
 
-Realiza las siguientes divisiones en binario, indicando el cociente y el residuo:
+**Realiza las siguientes divisiones en binario, indicando el cociente y el residuo:**
 
 1. 1011 ÷ 10
 2. 1110 ÷ 11
