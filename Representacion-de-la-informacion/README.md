@@ -318,8 +318,32 @@ Las operaciones en binario son fundamentales en el procesamiento de datos y en l
 
   **Ejemplo**: Sumar **1011** y **1101**
 
-  | Acarreo |   1   | 1 | 1 |   |
-  |---------|-------|---|---|---|
-  | Número 1|   1   | 0 | 1 | 1 |
-  | Número 2|   1   | 1 | 0 | 1 |
-  | Resultado | 1 | 1 | 0 | 0 | 0 |
+	1011
+  	+ 1101
+	--------
+ 	11000
+
+  Pasos: 
+  1. Sumamos de derecha a izquierda: 1 + 1 = 10 (escribimos 0 y nos llevamos 1).
+  2. Sumamos el siguiente dígito con el acarreo: 1 + 0 + 1 = 10 (escribimos 0 y nos llevamos 1).
+  3. Continuamos hasta obtener el resultado final: **11000**.
+
+  ## 6.2. Resta binaria
+  La resta binaria también sigue reglas similares a la resta decimal, pero con solo dos dígitos posibles. En este caso, se necesita hacer un préstamo si se resta un 1 de un 0, tal como en el sistema decimal:
+
+  - 0 - 0 = 0
+  - 1 - 0 = 1
+  - 1 - 1 = 0
+  - 0 - 1 = 1 (con préstamo, que equivale a restar 1 de la columna siguiente)
+
+  **Ejemplo**: Restar **1101** y **10101**
+
+  	10101
+  	- 01101
+	--------
+ 	01000
+
+  Pasos: 
+  1. De derecha a izquierda: 1 - 1 = 0.
+  2. En la siguiente columna: 0 - 0 = 0.
+  3. Continuamos restando, pidiendo préstamos donde sea necesario, hasta obtener **01000**.
