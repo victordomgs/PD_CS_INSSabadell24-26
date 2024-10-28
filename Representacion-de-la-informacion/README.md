@@ -353,13 +353,13 @@ Las operaciones en binario son fundamentales en el procesamiento de datos y en l
 
   **Ejemplo**: Multiplicar **101** y **11**
 
-    	    101
-  	x    11
+            101
+        x    11
 	--------
- 	    101 (101 x 1)
-      	+  1010 (101 x 10, desplazado una posición a la izquierda)
+            101 (101 x 1)
+        +  1010 (101 x 10, desplazado una posición a la izquierda)
 	--------
- 	   1111
+           1111
   
   La **división binaria** también sigue el mismo principio que la división en decimal, pero utilizando las reglas binarias. Es un poco más compleja y se basa en la resta sucesiva de valores, similar al método de la división larga en decimal.
 
