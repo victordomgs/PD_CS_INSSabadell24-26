@@ -15,10 +15,10 @@ Multiplica los números binarios **101** y **11**.
 
             101
         x    11
-	--------
+        --------
  	    101 (101 x 1)
   	+  1010 (101 x 10, desplazado una posición a la izquierda)
-	--------
+        --------
  	   1111
 
 **Resultado**: La multiplicación de **101** por **11** es **1111** en binario.
