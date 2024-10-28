@@ -40,17 +40,12 @@ La **representación de la información** es un concepto clave en la informátic
 - [6. Operaciones básicas en binario](#6-operaciones-básicas-en-binario)
   - [6.1. Suma binaria](#61-suma-binaria)
   - [6.2. Resta binaria](#62-resta-binaria)
-  - [6.3. Multiplicación y división en binario (introducción básica)](#63-multiplicación-y-división-en-binario-introducción-básica)
+  - [6.3. Multiplicación y división en binario](#63-multiplicación-y-división-en-binario)
 
 - [7. Aplicaciones del código binario](#7-aplicaciones-del-código-binario)
   - [7.1. Uso en almacenamiento de datos](#71-uso-en-almacenamiento-de-datos)
   - [7.2. Comunicación digital](#72-comunicación-digital)
   - [7.3. Representación de imágenes, sonidos y otros tipos de datos](#73-representación-de-imágenes-sonidos-y-otros-tipos-de-datos)
-
-- [8. Ejercicios y prácticas recomendadas](#8-ejercicios-y-prácticas-recomendadas)
-  - [8.1. Convertir números decimales a binario y viceversa](#81-convertir-números-decimales-a-binario-y-viceversa)
-  - [8.2. Realizar operaciones básicas en binario](#82-realizar-operaciones-básicas-en-binario)
-  - [8.3. Codificación de palabras con código ASCII en binario](#83-codificación-de-palabras-con-código-ascii-en-binario)
 
 <br>
 
@@ -329,7 +324,7 @@ Las operaciones en binario son fundamentales en el procesamiento de datos y en l
   3. Continuamos hasta obtener el resultado final: **11000**.
 
   ## 6.2. Resta binaria
-  La resta binaria también sigue reglas similares a la resta decimal, pero con solo dos dígitos posibles. En este caso, se necesita hacer un préstamo si se resta un 1 de un 0, tal como en el sistema decimal:
+  La **resta binaria** también sigue reglas similares a la resta decimal, pero con solo dos dígitos posibles. En este caso, se necesita hacer un préstamo si se resta un 1 de un 0, tal como en el sistema decimal:
 
   - 0 - 0 = 0
   - 1 - 0 = 1
@@ -347,3 +342,45 @@ Las operaciones en binario son fundamentales en el procesamiento de datos y en l
   1. De derecha a izquierda: 1 - 1 = 0.
   2. En la siguiente columna: 0 - 0 = 0.
   3. Continuamos restando, pidiendo préstamos donde sea necesario, hasta obtener **01000**.
+
+  ## 6.3. Multiplicación y división en binario
+  La **multiplicación binaria** es similar a la multiplicación en el sistema decimal y sigue reglas sencillas:
+
+  - 0 x 0 = 0
+  - 1 x 0 = 0
+  - 0 x 1 = 0
+  - 1 x 1 = 1
+
+  **Ejemplo**: Multiplicar **101** y **11**
+
+    	    101
+  	x    11
+	--------
+ 	    101 (101 x 1)
+      	+  1010 (101 x 10, desplazado una posición a la izquierda)
+	--------
+ 	   1111
+  
+  La **división binaria** también sigue el mismo principio que la división en decimal, pero utilizando las reglas binarias. Es un poco más compleja y se basa en la resta sucesiva de valores, similar al método de la división larga en decimal.
+
+  **Ejemplo**: Dividir **1101** y **10**
+
+      	1101 ÷ 10
+  	     110 (cociente)
+	--------
+ 	10 | 1101
+	     - 10
+	--------
+ 	     100
+ 	     - 10      	
+	--------
+ 	       01
+  Pasos: 
+  1. Tomamos los primeros dos dígitos del dividendo (1101), que son **11**. Como **11** es mayour que **10**, podemos dividir:
+     **11 ÷ 10** da un cociente de **1** y un residuo de **1**.
+     Colocamos **1** en el cociente y bajamos el siguiente dígito para tener **100**.
+  2. Ahora, dividimos 100 entre 10:
+     **100 ÷ 10** da un cociente de **1** y un residuo de **0**.
+     Colocamos **1** en el cociente y bajamos el siguiente dígito para tener **01**.
+  3. Finalmente, **01*** es menor que **10**, por lo que es nuestro residuo final.
+  4. Resultado: un cociente de **110** con un residuo de **1** en binario.
