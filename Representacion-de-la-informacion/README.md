@@ -358,6 +358,10 @@ Las operaciones en binario son fundamentales en el procesamiento de datos y en l
 	--------
  	    101 (101 x 1)
       	+  1010 (101 x 10, desplazado una posición a la izquierda)
+
+
+ 	    101 (101 x 1)
+      	+  1010 (101 x 10, desplazado una posición a la izquierda)
 	--------
  	   1111
   
