@@ -23,7 +23,7 @@ Proceso de conversión:
 
 ## Ejercicios
 
-Convierte los siguientes números decimales a binario utilizando el método de divisiones sucesivas:
+**Convierte los siguientes números decimales a binario utilizando el método de divisiones sucesivas:**
 
 1. 18
 2. 45
