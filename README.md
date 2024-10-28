@@ -1,6 +1,6 @@
 # 🎓 Teoria de Sistemas y Computación 📚
 
-👋 **Bienvenidos/das al repositorio de Teoria de Sistemas y Computación!** 
+👋 **Bienvenidos/as al repositorio de Teoria de Sistemas y Computación!** 
 
 Aquí encontrarás toda la información necesaria para adquirir unos conocimientos básicos sobre los fundamentos de sistemas, la organización de computadores, las redes de comunicación, y otros temas relacionados. Si alguna vez te has planteado como funcionan los ordenadores o las redes, este repositorio te proporcionará los recursos necesarios para entenderlo en profundidad. 
 
