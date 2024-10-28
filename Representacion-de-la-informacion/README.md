@@ -365,8 +365,8 @@ Las operaciones en binario son fundamentales en el procesamiento de datos y en l
 
   **Ejemplo**: Dividir **1101** y **10**
 
-      	1101 ÷ 10
-  	     110 (cociente)
+        1101 ÷ 10
+  	      110
 	--------
  	10 | 1101
 	     - 10
