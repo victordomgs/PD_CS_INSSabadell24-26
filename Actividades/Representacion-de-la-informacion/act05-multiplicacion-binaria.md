@@ -3,8 +3,11 @@
 ## Reglas de la Multiplicación Binaria
 
 **0 × 0 = 0**
+
 **0 × 1 = 0**
+
 **1 × 0 = 0**
+
 **1 × 1 = 1**
 
 La multiplicación en binario sigue el mismo formato que en decimal, desplazando el resultado de cada línea una posición a la izquierda según el dígito con el que se está multiplicando.
