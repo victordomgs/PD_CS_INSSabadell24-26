@@ -313,10 +313,10 @@ Las operaciones en binario son fundamentales en el procesamiento de datos y en l
 
   **Ejemplo**: Sumar **1011** y **1101**
 
-	1011
+	  1011
   	+ 1101
 	--------
- 	11000
+ 	 11000
 
   Pasos: 
   1. Sumamos de derecha a izquierda: 1 + 1 = 10 (escribimos 0 y nos llevamos 1).
@@ -333,10 +333,10 @@ Las operaciones en binario son fundamentales en el procesamiento de datos y en l
 
   **Ejemplo**: Restar **1101** y **10101**
 
-  	10101
+  	  10101
   	- 01101
 	--------
- 	01000
+ 	  01000
 
   Pasos: 
   1. De derecha a izquierda: 1 - 1 = 0.
