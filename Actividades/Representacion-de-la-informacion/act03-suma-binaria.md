@@ -2,10 +2,13 @@
 
 ## Reglas de la Suma Binaria
 
-1. **0 + 0 = 0**
-2. **0 + 1 = 1**
-3. **1 + 0 = 1**
-4. **1 + 1 = 10** (escribimos 0 y llevamos 1 al siguiente dígito, como en el sistema decimal)
+**0 + 0 = 0**
+
+**0 + 1 = 1**
+
+**1 + 0 = 1**
+
+**1 + 1 = 10** (escribimos 0 y llevamos 1 al siguiente dígito, como en el sistema decimal)
 
 ## Ejemplo
 
