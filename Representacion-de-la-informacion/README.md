@@ -49,7 +49,7 @@ La **representación de la información** es un concepto clave en la informátic
 
 <br>
 
-## 1. Introducción al código binario
+# 1. Introducción al código binario
 	
 La digitalización, al convertir la información en una secuencia de datos en código binario, permite que una misma herramienta (el ordenador) pueda trabajar con información de muy diversa índole (imagen, sonido, texto, etc.). Para los usuarios, la información de un documento digital puede ser visual o sonora; para el ordenador, todos los archivos son datos codificados de igual forma. Nos encontramos ante la paradoja de que, para poder tratar información multimedia de diferente naturaleza y con lenguajes comunicativos diferentes, previamente debemos codificar la información con un lenguaje común a todos los medias: el lenguaje binario.
 
@@ -79,7 +79,7 @@ La digitalización, al convertir la información en una secuencia de datos en c�
 
   - **Base para todas las operaciones de procesamiento:** Los procesadores de las computadoras y otros dispositivos digitales realizan cálculos y operaciones lógicas en formato binario. Todo el software, desde sistemas operativos hasta aplicaciones, funciona gracias a que los datos y las instrucciones pueden representarse y manipularse en código binario.
 
-## 2. Conceptos básicos del sistema binario
+# 2. Conceptos básicos del sistema binario
 El sistema binario es la base de la informática y los sistemas digitales, ya que permite representar y procesar información de manera eficiente. Al comprender cómo funciona el sistema binario y su relación con el sistema decimal, podemos entender cómo se almacenan y transmiten datos en los dispositivos electrónicos.
 
   ## 2.1. Sistema de numeración binario vs. sistema decimal
@@ -111,7 +111,7 @@ El sistema binario es la base de la informática y los sistemas digitales, ya qu
 
   - **Kilobyte (KB), Megabyte (MB), Gigabyte (GB), etc.:** A medida que se requiere más espacio para almacenar datos, los bytes se agrupan en unidades mayores. Un kilobyte (KB) equivale a 1,024 bytes, un megabyte (MB) es 1,024 kilobytes, y así sucesivamente. Este sistema jerárquico permite medir grandes cantidades de información de manera ordenada y comprensible.
 
-## 3. Conversión de números decimales a binario
+# 3. Conversión de números decimales a binario
 La conversión del sistema decimal a binario se realiza mediante el **método de divisiones sucesivas**, que descompone el número decimal en una secuencia de 0s y 1s.
 
   ## 3.1. Método de divisiones sucesivas
@@ -384,3 +384,32 @@ Las operaciones en binario son fundamentales en el procesamiento de datos y en l
      Colocamos **1** en el cociente y bajamos el siguiente dígito para tener **01**.
   3. Finalmente, **01*** es menor que **10**, por lo que es nuestro residuo final.
   4. Resultado: un cociente de **110** con un residuo de **1** en binario.
+
+# 7. Aplicaciones del código binario
+El código binario es la base de toda la tecnología digital. Su uso permite que las computadoras y otros dispositivos digitales representen, almacenen y procesen distintos tipos de datos. Gracias al sistema binario, es posible manejar la información de manera eficiente, fiable y segura en múltiples áreas de aplicación.
+
+  ## 7.1. Uso en almacenamiento de datos
+  El almacenamiento digital se basa completamente en el código binario. Cada bit (0 o 1) se utiliza para representar una unidad de información, y al agrupar múltiples bits, se pueden almacenar cantidades más grandes de datos en formas de bytes, kilobytes, megabytes, etc.
+
+  - **Discos duros, SSD y memorias flash:** Utilizan combinaciones de bits para guardar documentos, imágenes, videos, y más.
+  - **Memoria RAM:** Emplea el código binario para guardar temporalmente los datos que la CPU necesita procesar, proporcionando un acceso rápido y eficiente.
+  - **Base de datos y archivos:** Todo archivo digital, desde texto hasta gráficos complejos, se almacena en una secuencia de bits que los dispositivos pueden interpretar y utilizar.
+
+  ## 7.2. Comunicación digital
+  El código binario es esencial para la **comunicación digital**, ya que los datos transmitidos a través de redes (como Internet) se envían en forma de secuencias de bits. Este sistema permite enviar y recibir información de manera rápida y sin errores.
+
+  - **Protocolo de Internet (IP)**: Los datos se dividen en paquetes binarios, que se transmiten a través de la red y se vuelven a ensamblar en su destino.
+  - **Redes inalámbricas (Wi-Fi y Bluetooth)**: Utilizan secuencias binarias para comunicar dispositivos de manera eficiente y rápida.
+  - **Códigos de corrección de errores**: Utilizan bits adicionales en la transmisión de datos para detectar y corregir errores de transmisión.
+
+  <div style="text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Suite_de_Protocolos_TCPIP.png" alt="XT color" width="693" height="627"/>
+  <p><em>Figura 2: Suite de protocolos TCP/IP. Fuente: <a href="https://elcodigoascii.com.ar/">Wikipedia</a></em></p>
+  </div>
+  
+  ## 7.3. Representación de imágenes, sonidos y otros tipos de datos
+  El código binario permite la **representación de datos complejos**, como imágenes, sonidos y videos, que se pueden almacenar, editar y reproducir en dispositivos digitales.
+
+  - **Imágenes:** Representadas mediante mapas de bits donde cada píxel se convierte en una secuencia de bits. Formatos como JPEG, PNG y BMP se basan en el código binario.
+  - **Audio:** Los sonidos se graban y almacenan en formatos binarios como MP3, WAV, y AAC. Estos formatos utilizan muestras digitales que representan la onda sonora mediante bits.
+  - **Video:** Videos como los de formato MP4 y AVI están compuestos por secuencias de imágenes y audio, todo codificado en binario para reproducirse en dispositivos.
