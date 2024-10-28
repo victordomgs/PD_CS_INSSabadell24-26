@@ -214,15 +214,15 @@ La conversión del sistema binario a decimal se realiza mediante el **método de
   
   1. Escribimos el número binario y asignamos una potencia de 2 a cada posición:
   
-  ```🔢1 × 2³ + 0 × 2² + 1 × 2¹ + 1 × 2⁰``
+  ```🔢1 × 2³ + 0 × 2² + 1 × 2¹ + 1 × 2⁰```
  
   2. Multiplicamos cada dígito binario por su correspondiente potencia de 2:
   
-  ```🔢1 × 8 + 0 × 4 + 1 × 2 + 1 × 1 = 8 + 0 + 2 + 1``
+  ```🔢1 × 8 + 0 × 4 + 1 × 2 + 1 × 1 = 8 + 0 + 2 + 1```
 
   3. Sumamos los resultados para obtener el valor decimal:
   
-  ```🔢8 + 0 + 2 + 1 = 11``
+  ```🔢8 + 0 + 2 + 1 = 11```
 
   Por lo tanto, el número binario **1011** es igual a **11** en decimal.
 
