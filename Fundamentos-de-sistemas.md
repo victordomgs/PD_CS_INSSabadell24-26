@@ -13,7 +13,7 @@
 
 - [1. Estructura y esquema funcional de un ordenador](#1-estructura-y-esquema-funcional-de-un-ordenador)
   - [1.1. Datos, información y conocimiento](#11-datos-información-y-conocimiento)
-    - [1.1.1. Tipología de datos](#111-tipologia-de-datos)
+    - [1.1.1. Tipología de datos](#111-tipología-de-datos)
     - [1.1.2. Tratamiento de la información](#112-tratamiento-de-la-información)
   - [1.2. Los ordenadores](#12-los-ordenadores)
     - [1.2.1. Hardware](#121-hardware)
