@@ -1,6 +1,6 @@
 # Actividades sobre Números Binarios
 
-Esta carpeta contiene una serie de actividades prácticas para entender y trabajar con el sistema binario. Las actividades están diseñadas para reforzar conceptos fundamentales y explorar aplicaciones prácticas del código binario en el ámbito digital.
+Esta carpeta contiene una serie de actividades prácticas para entender y trabajar con el sistema binario.
 
 ## Contenido de las Actividades
 
