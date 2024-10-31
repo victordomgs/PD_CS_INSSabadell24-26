@@ -224,7 +224,7 @@ La conversión del sistema binario a decimal se realiza mediante el **método de
   ## 4.3. Ejercicios prácticos para convertir números binarios a decimal
   Apliquemos el método de multiplicación y suma de potencias de 2 en diferentes números binarios, con tal de obtener el número decimal: 
 
-  **Convertir el número binario 11011 a decimal**
+  **Convertir el número binario 1101 a decimal**
 
 	1 × 2³ + 1 × 2² + 0 × 2¹ + 1 × 2⁰
 	1 × 8 + 1 × 4 + 0 × 2 + 1 × 1 = 8 + 4 + 0 + 1
