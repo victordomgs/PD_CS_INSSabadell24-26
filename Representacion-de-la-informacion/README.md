@@ -128,15 +128,15 @@ La conversión del sistema decimal a binario se realiza mediante el **método de
   ## 3.2. Ejemplo paso a paso de conversión de decimal a binario
   Convertimos el número decimal **345** a binario siguiendo el método de divisiones sucesivas: 
   
-  1. 345 ÷ 2 = 172, residuo 1
-  2. 172 ÷ 2 = 86, residuo 0
-  3. 86 ÷ 2 = 43, residuo 0
-  4. 43 ÷ 2 = 21, residuo 1
-  5. 21 ÷ 2 = 10, residuo 1
-  6. 10 ÷ 2 = 5, residuo 0
-  7. 5 ÷ 2 = 2, residuo 1
-  8. 2 ÷ 2 = 1, residuo 0
-  9. 1 ÷ 2 = 0, residuo 1
+	345 ÷ 2 = 172, residuo 1
+	172 ÷ 2 = 86, residuo 0
+	86 ÷ 2 = 43, residuo 0
+	43 ÷ 2 = 21, residuo 1
+	21 ÷ 2 = 10, residuo 1
+	10 ÷ 2 = 5, residuo 0
+	5 ÷ 2 = 2, residuo 1
+	2 ÷ 2 = 1, residuo 0
+	1 ÷ 2 = 0, residuo 1
 
   Luego, leemos los residuos de abajo hacia arriba, obteniendo:
 
@@ -149,11 +149,11 @@ La conversión del sistema decimal a binario se realiza mediante el **método de
 
   **Convertir el número decimal 27 a binario**
   
-  1. 27 ÷ 2 = 13, residuo 1
-  2. 13 ÷ 2 = 6, residuo 1
-  3. 6 ÷ 2 = 3, residuo 0
-  4. 3 ÷ 2 = 1, residuo 1
-  5. 1 ÷ 2 = 0, residuo 1
+  	27 ÷ 2 = 13, residuo 1
+	13 ÷ 2 = 6, residuo 1
+	6 ÷ 2 = 3, residuo 0
+	3 ÷ 2 = 1, residuo 1
+	1 ÷ 2 = 0, residuo 1
 
   Luego, leemos los residuos de abajo hacia arriba, obteniendo:
 
@@ -163,12 +163,12 @@ La conversión del sistema decimal a binario se realiza mediante el **método de
 
   **Convertir el número decimal 58 a binario**
   
-  1. 58 ÷ 2 = 29, residuo 0
-  2. 29 ÷ 2 = 14, residuo 1
-  3. 14 ÷ 2 = 7, residuo 0
-  4. 7 ÷ 2 = 3, residuo 1
-  5. 3 ÷ 2 = 1, residuo 1
-  6. 1 ÷ 2 = 0, residuo 1
+	58 ÷ 2 = 29, residuo 0
+	29 ÷ 2 = 14, residuo 1
+	14 ÷ 2 = 7, residuo 0
+	7 ÷ 2 = 3, residuo 1
+	3 ÷ 2 = 1, residuo 1
+	1 ÷ 2 = 0, residuo 1
 
   Luego, leemos los residuos de abajo hacia arriba, obteniendo:
 
@@ -178,13 +178,13 @@ La conversión del sistema decimal a binario se realiza mediante el **método de
 
   **Convertir el número decimal 100 a binario**
   
-  1. 100 ÷ 2 = 50, residuo 0
-  2. 50 ÷ 2 = 25, residuo 0
-  3. 25 ÷ 2 = 12, residuo 1
-  4. 12 ÷ 2 = 6, residuo 0
-  5. 6 ÷ 2 = 3, residuo 0
-  6. 3 ÷ 2 = 1, residuo 1
-  7. 1 ÷ 2 = 0, residuo 1
+	100 ÷ 2 = 50, residuo 0
+	50 ÷ 2 = 25, residuo 0
+	25 ÷ 2 = 12, residuo 1
+	12 ÷ 2 = 6, residuo 0
+	6 ÷ 2 = 3, residuo 0
+	3 ÷ 2 = 1, residuo 1
+	1 ÷ 2 = 0, residuo 1
 
   Luego, leemos los residuos de abajo hacia arriba, obteniendo:
 
@@ -226,17 +226,17 @@ La conversión del sistema binario a decimal se realiza mediante el **método de
 
   **Convertir el número binario 11011 a decimal**
 
-  1. 1 × 2³ + 1 × 2² + 0 × 2¹ + 1 × 2⁰
-  2. 1 × 8 + 1 × 4 + 0 × 2 + 1 × 1 = 8 + 4 + 0 + 1
-  3. 8 + 4 + 0 + 1 = 13
+	1 × 2³ + 1 × 2² + 0 × 2¹ + 1 × 2⁰
+	1 × 8 + 1 × 4 + 0 × 2 + 1 × 1 = 8 + 4 + 0 + 1
+	8 + 4 + 0 + 1 = 13
 
   Así que el número binario **11011** es **13** en decimal.
 
   **Convertir el número binario 10010 a decimal**
 
-  1. 1 × 2⁴ + 0 × 2³ + 0 × 2² + 1 × 2¹ + 0 × 2⁰
-  2. 1 × 16 + 0 × 8 + 0 × 4 + 1 × 2 + 0 × 1 = 16 + 0 + 0 + 2 + 0
-  3. 16 + 0 + 0 + 2 + 0 = 18
+	1 × 2⁴ + 0 × 2³ + 0 × 2² + 1 × 2¹ + 0 × 2⁰
+	1 × 16 + 0 × 8 + 0 × 4 + 1 × 2 + 0 × 1 = 16 + 0 + 0 + 2 + 0
+	16 + 0 + 0 + 2 + 0 = 18
 
   Así que el número binario **10010** es **18** en decimal.
 
