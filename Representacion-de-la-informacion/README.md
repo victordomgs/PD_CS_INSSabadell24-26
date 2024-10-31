@@ -242,9 +242,9 @@ La conversión del sistema binario a decimal se realiza mediante el **método de
 
   **Convertir el número binario 111001 a decimal**
 
-  1. 1 × 2⁵ + 1 × 2⁴ + 1 × 2³ + 0 × 2² + 0 × 2¹ + 1 × 2⁰
-  2. 1 × 32 + 1 × 16 + 1 × 8 + 0 × 4 + 0 × 2 + 1 × 1 = 32 + 16 + 8 + 0 + 0 + 1
-  3. 32 + 16 + 8 + 0 + 0 + 1 = 57
+	1 × 2⁵ + 1 × 2⁴ + 1 × 2³ + 0 × 2² + 0 × 2¹ + 1 × 2⁰
+	1 × 32 + 1 × 16 + 1 × 8 + 0 × 4 + 0 × 2 + 1 × 1 = 32 + 16 + 8 + 0 + 0 + 1
+	32 + 16 + 8 + 0 + 0 + 1 = 57
 
   Así que el número binario **111001** es **57** en decimal.
 
