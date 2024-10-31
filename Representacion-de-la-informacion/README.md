@@ -304,7 +304,7 @@ El sistema binario no solo se utiliza para representar números, sino también p
 Las operaciones en binario son fundamentales en el procesamiento de datos y en los cálculos realizados por las computadoras. Estas operaciones incluyen la suma, resta, multiplicación y división, que se llevan a cabo utilizando las reglas propias del sistema binario, donde solo intervienen los dígitos 0 y 1.
 
   ## 6.1. Suma binaria
-  La **suma binaria^** sigue reglas similares a la suma en el sistema decimal, pero debido a que solo tiene dos dígitos (0 y 1), las combinaciones de suma son más simples:
+  La **suma binaria** sigue reglas similares a la suma en el sistema decimal, pero debido a que solo tiene dos dígitos (0 y 1), las combinaciones de suma son más simples:
 
   - 0 + 0 = 0
   - 0 + 1 = 1
