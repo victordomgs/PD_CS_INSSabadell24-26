@@ -338,6 +338,18 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   - **Velocidad:** Es rápida, permite acceder a cualquier parte de la memoria de inmediato.
   - **Capacidad:** Normalmente tiene capacidad limitada en comparación con el almacenamiento secundario.
 
+  En un sistema computacional, la Unidad de Control (CU, por sus siglas en inglés) y la Unidad Aritmético-Lógica (ALU) colaboran en el procesamiento de datos, y el flujo de información entre la memoria y estas unidades se gestiona de la siguiente manera:
+
+  <div style="text-align: center;">
+  <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Fundamentos%20de%20sistemas.png" alt="Descripción de la imagen" width="787" height="267"/>
+  <p><em>Figura 3: Estructura de la memoria de acceso aleatoria. Fuente: <a>Creación propia</a></em></p>
+  </div>
+
+  1. La CU envía la dirección de memoria al Registro de Direcciones de Memoria.
+  2. El contenido de esa dirección se transfiere al Registro de Datos de Memoria.
+  3. Si se requiere procesamiento, el dato en el Registro de Datos de Memoria se envía a la ALU.
+  4. La ALU realiza la operación y el resultado puede ser devuelto a la memoria o a un registro.
+
   **Memoria ROM**
 
   La **ROM (Read-Only Memory)** es un tipo de memoria no volátil que conserva los datos incluso cuando el ordenador se apaga. La información almacenada en la ROM generalmente es escrita por el fabricante y no se puede modificar fácilmente.
@@ -406,7 +418,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
     <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_06.png" alt="Estructura funcional de los ordenadores" width="640" height="auto"/>
-    <p><em>Figura 5: Estructura funcional de los ordenadores. Fuente: IOC XTEC</em></p>
+    <p><em>Figura 6: Estructura funcional de los ordenadores. Fuente: IOC XTEC</em></p>
   </div>
 
   ## 1.2.2. Software
@@ -420,7 +432,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
   <img src="https://www.adslzone.net/app/uploads-adslzone.net/2017/06/windows-linux-1200x675.jpg" alt="Windows y Linux" width="320" height="180"/>
-  <p><em>Figura 6: Software de sistema. Fuente: <a href="https://www.adslzone.net/2017/06/01/es-realmente-mas-seguro-linux-que-windows/">ADSLZone</a></em></p>
+  <p><em>Figura 7: Software de sistema. Fuente: <a href="https://www.adslzone.net/2017/06/01/es-realmente-mas-seguro-linux-que-windows/">ADSLZone</a></em></p>
   </div>
 
   ## 1.2.2.1.2. Software de aplicación
@@ -430,7 +442,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
   <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=533x1024:format=jpg/path/s63841b80d293924d/image/i023016192ee81785/version/1539160109/image.jpg" alt="Software de aplicaciones" width="420" height="180"/>
-  <p><em>Figura 7: Software de aplicaciones. Fuente: <a href="https://informatica4esog2.jimdofree.com/software/software-de-aplicaci%C3%B3n/">Jimdo</a></em></p>
+  <p><em>Figura 8: Software de aplicaciones. Fuente: <a href="https://informatica4esog2.jimdofree.com/software/software-de-aplicaci%C3%B3n/">Jimdo</a></em></p>
   </div>
   
   ## 1.2.2.1.3. Software de desarrollo
@@ -440,7 +452,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
   <img src="https://acpdelsureste.com/wp-content/uploads/Tecno.png" alt="Componentes de la tecnología" width="420" height="180"/>
-  <p><em>Figura 8: Software de desarrollo. Fuente: <a href="https://acpdelsureste.com/desarrollo-de-software-2/">ACP del Sureste</a></em></p>
+  <p><em>Figura 9: Software de desarrollo. Fuente: <a href="https://acpdelsureste.com/desarrollo-de-software-2/">ACP del Sureste</a></em></p>
   </div>
 
   ## 1.2.2.2. Funciones principales del software de sistema
@@ -484,7 +496,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
   <img src="https://s3.amazonaws.com/libapps/accounts/42282/images/licencias_cc.PNG" alt="Licencias Creative Commons" width="637" height="452"/>
-  <p><em>Figura 9: Licencias Creative Commons. Fuente: <a href="https://biblioguias.uam.es/citar/creative_commons">S3 Universidad Autónoma de Madrid</a></em></p>
+  <p><em>Figura 10: Licencias Creative Commons. Fuente: <a href="https://biblioguias.uam.es/citar/creative_commons">S3 Universidad Autónoma de Madrid</a></em></p>
   </div>
 
   <br>
@@ -555,14 +567,14 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
   <img src="https://d2z0k1elb7rxgj.cloudfront.net/uploads/2019/12/gdpr-guidelines-1024x531.png" alt="Directrices del GDPR" width="930" height="482"/>
-  <p><em>Figura 10: Directrices del GDPR. Fuente: <a href="https://www.emotiv.com/blogs/glossary/gdpr">EMOTIV</a></em></p>
+  <p><em>Figura 11: Directrices del GDPR. Fuente: <a href="https://www.emotiv.com/blogs/glossary/gdpr">EMOTIV</a></em></p>
   </div>
 
   - **Ley Orgánica de Protección de Datos (LOPD):** En España, la LOPD complementa el GDPR y regula la protección de datos personales, especificando cómo deben ser tratados en el ámbito nacional.
 
   <div style="text-align: center;">
   <img src="https://www.asesoriamadridgesys.com/wp-content/uploads/colors-640x466.jpg" alt="Niveles del LOPD" width="581" height="423"/>
-  <p><em>Figura 11: Clasificación de datos según el LOPD. Fuente: <a href="https://www.asesoriamadridgesys.com/ley-organica-proteccion-datos-lopd/">GESYS</a></em></p>
+  <p><em>Figura 12: Clasificación de datos según el LOPD. Fuente: <a href="https://www.asesoriamadridgesys.com/ley-organica-proteccion-datos-lopd/">GESYS</a></em></p>
   </div>
   
   Estas leyes buscan proteger la privacidad de los ciudadanos y sancionar a quienes incumplen las normas de protección de datos.
@@ -587,7 +599,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
   <img src="https://cv.uoc.edu/UOC/a/moduls/90/90_329/web/imagenes/m1n1.gif" alt="Niveles del LOPD" width="330" height="281"/>
-  <p><em>Figura 12: Funciones intrínsecas del sistema de información. Fuente: <a href="https://cv.uoc.edu/UOC/a/moduls/90/90_329/web/main/m1/nv0_2.html">UOC</a></em></p>
+  <p><em>Figura 13: Funciones intrínsecas del sistema de información. Fuente: <a href="https://cv.uoc.edu/UOC/a/moduls/90/90_329/web/main/m1/nv0_2.html">UOC</a></em></p>
   </div>
 
   ## 3.1.1. La información en las organizaciones
@@ -602,7 +614,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
   <img src="https://www.josepdeulofeu.com/wp-content/uploads/2020/06/image-107-1024x554.png" alt="Niveles del LOPD" width="930" height="503"/>
-  <p><em>Figura 13: Cadena de valor de porter. Fuente: <a href="https://www.josepdeulofeu.com/ade/cadena-de-valor/">Josep Deulofeu</a></em></p>
+  <p><em>Figura 14: Cadena de valor de porter. Fuente: <a href="https://www.josepdeulofeu.com/ade/cadena-de-valor/">Josep Deulofeu</a></em></p>
   </div>
   
   ## 3.1.2. El sistema de información en las organizaciones
@@ -686,7 +698,7 @@ en marcha con garantías de funcionamiento. Todas estas tareas implican necesari
 
   <div style="text-align: center;">
   <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%2014.%20Fundamentos%20de%20sistemas.png" alt="Descripción de la imagen" width="650" height="351"/>
-  <p><em>Figura 14: Actividades del proyecto de implantación de un sistema de información. Fuente: <a href="https://openaccess.uoc.edu/bitstream/10609/148041/2/IntroduccionALosSistemasDeInformacionEnLasOrganizaciones.pdf">UOC</a></em></p>
+  <p><em>Figura 15: Actividades del proyecto de implantación de un sistema de información. Fuente: <a href="https://openaccess.uoc.edu/bitstream/10609/148041/2/IntroduccionALosSistemasDeInformacionEnLasOrganizaciones.pdf">UOC</a></em></p>
   </div>
 
   ## 3.4.2. El mantenimiento y la adaptación de las soluciones
@@ -781,7 +793,7 @@ en marcha con garantías de funcionamiento. Todas estas tareas implican necesari
 
   <div style="text-align: center;">
   <img src="https://img.interempresas.net/fotos/469796.jpeg" alt="Ciclo de vida del producto" width="596" height="399"/>
-  <p><em>Figura 15: Ciclo de vida útil del producto. Fuente: <a href="https://www.interempresas.net/Electronica/Articulos/54608-El-ecodiseno-en-el-sector-electrico-electronico.html">Interempresas</a></em></p>
+  <p><em>Figura 16: Ciclo de vida útil del producto. Fuente: <a href="https://www.interempresas.net/Electronica/Articulos/54608-El-ecodiseno-en-el-sector-electrico-electronico.html">Interempresas</a></em></p>
   </div>
 
   Por otro lado, tambien podemos entender el ciclo de vida de un producto en términos de las distintas fases que atraviesa una tecnología concreta en el mercado. Este ciclo consta de 4 fases: 
@@ -793,12 +805,12 @@ en marcha con garantías de funcionamiento. Todas estas tareas implican necesari
 
   <div style="text-align: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Tecnolog%C3%ADa_Clave.jpg" alt="Ciclo de vida del producto" width="425" height="356"/>
-  <p><em>Figura 16: Ciclo de vida del producto. Fuente: <a href="https://es.wikipedia.org/wiki/Ciclo_de_vida_de_la_tecnolog%C3%ADa">Wikipedia</a></em></p>
+  <p><em>Figura 17: Ciclo de vida del producto. Fuente: <a href="https://es.wikipedia.org/wiki/Ciclo_de_vida_de_la_tecnolog%C3%ADa">Wikipedia</a></em></p>
   </div>
 
   <div style="text-align: center;">
   <img src="https://blog.hubspot.es/hs-fs/hubfs/ciclodevidadeunproductoejemplo.jpeg?width=600&height=350&name=ciclodevidadeunproductoejemplo.jpeg" alt="Ciclo de vida del producto" width="600" height="350"/>
-  <p><em>Figura 17: Ciclo de vida del iPod. Fuente: <a href="https://blog.hubspot.es/sales/ciclo-vida-producto">HubSpot</a></em></p>
+  <p><em>Figura 18: Ciclo de vida del iPod. Fuente: <a href="https://blog.hubspot.es/sales/ciclo-vida-producto">HubSpot</a></em></p>
   </div>
 
   ## 4.4.2. E-waste y responsabilidad medioambiental
