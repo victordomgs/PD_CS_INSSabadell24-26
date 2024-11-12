@@ -1,4 +1,4 @@
-# 💾 Representación de la Información 🗃️
+# Representación de la Información 🗃️
 
 ## Introducción
 
