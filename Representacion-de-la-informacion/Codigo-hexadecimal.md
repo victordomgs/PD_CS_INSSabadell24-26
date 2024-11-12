@@ -118,3 +118,68 @@ La suma de estos valores da el valor decimal del número hexadecimal `2AF3`:
 \]
 
 Esta estructura permite que los números hexadecimales representen grandes valores en menos espacio y facilita la conversión entre sistemas numéricos. Los desarrolladores y técnicos informáticos utilizan esta organización para manipular datos de manera eficiente, especialmente en el contexto de direcciones de memoria y valores de colores en gráficos.
+
+# 3. Conversión de Hexadecimal a Binario
+
+La conversión de hexadecimal a binario es un proceso directo que facilita la representación de datos en un formato que los ordenadores pueden procesar fácilmente. Dado que cada dígito hexadecimal corresponde exactamente a 4 bits en binario, esta conversión es simple y eficiente.
+
+## 3.1 Tabla de equivalencias de dígitos hexadecimales a binario
+
+Para facilitar la conversión, aquí tienes una tabla de equivalencias entre los dígitos hexadecimales y sus representaciones en binario de 4 bits:
+
+| Hexadecimal | Binario |
+|-------------|---------|
+| 0           | 0000    |
+| 1           | 0001    |
+| 2           | 0010    |
+| 3           | 0011    |
+| 4           | 0100    |
+| 5           | 0101    |
+| 6           | 0110    |
+| 7           | 0111    |
+| 8           | 1000    |
+| 9           | 1001    |
+| A           | 1010    |
+| B           | 1011    |
+| C           | 1100    |
+| D           | 1101    |
+| E           | 1110    |
+| F           | 1111    |
+
+Esta tabla permite convertir cada dígito hexadecimal individualmente a binario de forma rápida y sencilla.
+
+## 3.2 Método de conversión de cada dígito hexadecimal en su equivalente binario de 4 bits
+
+Para convertir un número hexadecimal a binario, simplemente convierte cada dígito hexadecimal a su equivalente binario de 4 bits utilizando la tabla anterior. El resultado es la concatenación de estos grupos de 4 bits.
+
+Por ejemplo, para convertir el número hexadecimal `2F` a binario:
+
+1. Toma el primer dígito, `2`, que en binario es `0010`.
+2. Toma el segundo dígito, `F`, que en binario es `1111`.
+3. Concatenando ambos resultados, `2F` en hexadecimal se convierte en `00101111` en binario.
+
+Este método permite una conversión rápida sin necesidad de cálculos adicionales, ya que cada dígito hexadecimal se traduce directamente a un bloque de 4 bits.
+
+## 3.3 Ejemplos prácticos de conversión de hexadecimal a binario
+
+A continuación, se muestran algunos ejemplos prácticos de conversión para ayudar a comprender el proceso:
+
+1. **Ejemplo 1**: Convertir `1A3` a binario
+   - `1` en hexadecimal es `0001` en binario.
+   - `A` en hexadecimal es `1010` en binario.
+   - `3` en hexadecimal es `0011` en binario.
+   - Resultado: `1A3` en hexadecimal es `000110100011` en binario.
+
+2. **Ejemplo 2**: Convertir `4F9` a binario
+   - `4` en hexadecimal es `0100` en binario.
+   - `F` en hexadecimal es `1111` en binario.
+   - `9` en hexadecimal es `1001` en binario.
+   - Resultado: `4F9` en hexadecimal es `010011111001` en binario.
+
+3. **Ejemplo 3**: Convertir `B2E` a binario
+   - `B` en hexadecimal es `1011` en binario.
+   - `2` en hexadecimal es `0010` en binario.
+   - `E` en hexadecimal es `1110` en binario.
+   - Resultado: `B2E` en hexadecimal es `101100101110` en binario.
+
+Estos ejemplos muestran cómo el proceso de conversión de hexadecimal a binario puede aplicarse a cualquier número hexadecimal, proporcionando una forma rápida de representar valores en un formato adecuado para el procesamiento en sistemas digitales.
