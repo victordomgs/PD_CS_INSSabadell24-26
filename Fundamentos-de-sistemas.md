@@ -326,6 +326,11 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   | **Decode (Decodificación)** | - Una vez la instrucción está en el registro de instrucciones, la Unidad de Control la decodifica.<br>- La Unidad de Control determina las acciones necesarias, incluidos operadores y datos a manipular. |
   | **Execute (Ejecución)**    | - La instrucción se procesa. Si requiere operaciones aritméticas o lógicas, la Unidad de Control envía la orden a la ALU.<br>- Los resultados se almacenan en un registro o se devuelven a la memoria.<br>- El contador de programa se incrementa para pasar a la siguiente   instrucción, repitiendo el ciclo. |
 
+  <div style="text-align: center;">
+  <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Fundamentos%20de%20sistemas.png" alt="Descripción de la imagen" width="675" height="591"/>
+  <p><em>Figura 3: Ciclo de instrucciones de la máquina. Fuente: <a>Creación propia</a></em></p>
+  </div>
+  
   ## 1.2.1.2. Memoria
 
   La memoria es un componente fundamental de un ordenador, responsable de almacenar datos e instrucciones que la CPU necesita para ejecutar operaciones. Permite que el procesador tenga acceso rápido a la información requerida.
@@ -341,8 +346,8 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   En un sistema computacional, la Unidad de Control (CU, por sus siglas en inglés) y la Unidad Aritmético-Lógica (ALU) colaboran en el procesamiento de datos, y el flujo de información entre la memoria y estas unidades se gestiona de la siguiente manera:
 
   <div style="text-align: center;">
-  <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Fundamentos%20de%20sistemas.png" alt="Descripción de la imagen" width="787" height="267"/>
-  <p><em>Figura 3: Estructura de la memoria de acceso aleatoria. Fuente: <a>Creación propia</a></em></p>
+  <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%204.%20Fundamentos%20de%20sistemas.png" alt="Descripción de la imagen" width="787" height="267"/>
+  <p><em>Figura 4: Estructura de la memoria de acceso aleatoria. Fuente: <a>Creación propia</a></em></p>
   </div>
 
   1. La CU envía la dirección de memoria al Registro de Direcciones de Memoria.
