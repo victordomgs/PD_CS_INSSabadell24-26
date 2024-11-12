@@ -245,7 +245,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   La informática surgió con el objetivo de ayudar a las personas a realizar tareas repetitivas y rutinarias, especialmente en cálculos y gestiones, donde la repetición es común. La idea central es que una máquina puede hacer estas tareas con mayor rapidez y precisión, aunque siempre bajo control humano.
 
-  ```📖 El término informática apareció en Francia en el año 1962 con la denominación "informatique", resultado de la contracción de las palabras: INFORmation autoMATIQUE```
+  > 📖 El término informática apareció en Francia en el año 1962 con la denominación "informatique", resultado de la contracción de las palabras: INFORmation autoMATIQUE.
 
   ### Tareas principales de la informática
 
