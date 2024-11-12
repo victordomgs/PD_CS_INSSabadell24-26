@@ -353,10 +353,10 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   <p><em>Figura 4: Estructura de la memoria de acceso aleatoria. Fuente: <a>Creación propia</a></em></p>
   </div>
 
-  1. La CU envía la dirección de memoria al Registro de Direcciones de Memoria.
-  2. El contenido de esa dirección se transfiere al Registro de Datos de Memoria.
-  3. Si se requiere procesamiento, el dato en el Registro de Datos de Memoria se envía a la ALU.
-  4. La ALU realiza la operación y el resultado puede ser devuelto a la memoria o a un registro.
+  1. La CU envía la dirección de memoria al Registro de Direcciones de Memoria. El registro de direcciones de memoria es un componente que almacena la dirección específica en la memoria donde se desea leer o escribir datos.
+  3. El contenido de esa dirección se transfiere al Registro de Datos de Memoria. El registro de datos de memoria contiene los datos que se transfieren entre la CPU y la memoria.
+  4. Si se requiere procesamiento, el dato en el Registro de Datos de Memoria se envía a la ALU.
+  5. La ALU realiza la operación y el resultado puede ser devuelto a la memoria o a un registro.
 
   **Memoria ROM**
 
