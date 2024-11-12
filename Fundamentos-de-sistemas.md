@@ -335,6 +335,8 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   La memoria es un componente fundamental de un ordenador, responsable de almacenar datos e instrucciones que la CPU necesita para ejecutar operaciones. Permite que el procesador tenga acceso rápido a la información requerida.
 
+  ```📖 Un byte es una unidad básica de almacenamiento de datos en informática, compuesta por 8 bits, donde cada bit puede tener un valor de 0 o 1. Los bytes son fundamentales en la memoria, ya que permiten almacenar y representar una amplia variedad de datos, desde caracteres individuales (como letras y números) hasta instrucciones de programas y valores numéricos. La memoria de un sistema se organiza en bytes, lo que facilita el acceso y manipulación de datos de manera estructurada y eficiente. La capacidad de un dispositivo para almacenar información se mide en bytes y sus múltiplos (como kilobytes, megabytes y gigabytes), lo cual es crucial para determinar el rendimiento y la capacidad de almacenamiento de computadoras y otros dispositivos electrónicos.```
+
   **Memoria principal (RAM)**
 
   La **RAM (Random Access Memory)** es la memoria principal del ordenador, donde se cargan los datos e instrucciones que la CPU necesita mientras ejecuta un programa. La RAM es volátil, es decir, la información almacenada se pierde cuando el ordenador se apaga.
