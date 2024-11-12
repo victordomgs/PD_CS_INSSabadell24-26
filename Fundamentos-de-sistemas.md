@@ -337,6 +337,16 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   > 📖 **Un byte** es una unidad básica de almacenamiento de datos en informática, compuesta por 8 bits, donde cada bit puede tener un valor de 0 o 1. Los bytes son fundamentales en la memoria, ya que permiten almacenar y representar una amplia variedad de datos, desde caracteres individuales (como letras y números) hasta instrucciones de programas y valores numéricos. La memoria de un sistema se organiza en bytes, lo que facilita el acceso y manipulación de datos de manera estructurada y eficiente. La capacidad de un dispositivo para almacenar información se mide en bytes y sus múltiplos (como kilobytes, megabytes y gigabytes), lo cual es crucial para determinar el rendimiento y la capacidad de almacenamiento de computadoras y otros dispositivos electrónicos.
 
+  | Unidad         | Equivalencia en Bytes                     |
+  |----------------|------------------------------------------|
+  | 1 Kilobyte (KB)| 1,024 Bytes                              |
+  | 1 Megabyte (MB)| 1,024 Kilobytes = 1,048,576 Bytes        |
+  | 1 Gigabyte (GB)| 1,024 Megabytes = 1,073,741,824 Bytes    |
+  | 1 Terabyte (TB)| 1,024 Gigabytes = 1,099,511,627,776 Bytes|
+  | 1 Petabyte (PB)| 1,024 Terabytes = 1,125,899,906,842,624 Bytes |
+  | 1 Exabyte (EB) | 1,024 Petabytes = 1,152,921,504,606,846,976 Bytes |
+
+
 
   **Memoria principal (RAM)**
 
