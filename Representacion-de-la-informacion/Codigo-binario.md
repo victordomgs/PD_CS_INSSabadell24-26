@@ -1,4 +1,4 @@
-<h1 align="center">Representación de la información</h1>
+<h1 align="center">Código binario</h1>
 <div align="center">
 
 <a href="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
