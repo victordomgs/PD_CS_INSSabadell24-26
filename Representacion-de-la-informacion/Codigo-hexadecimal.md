@@ -183,3 +183,54 @@ A continuación, se muestran algunos ejemplos prácticos de conversión para ayu
    - Resultado: `B2E` en hexadecimal es `101100101110` en binario.
 
 Estos ejemplos muestran cómo el proceso de conversión de hexadecimal a binario puede aplicarse a cualquier número hexadecimal, proporcionando una forma rápida de representar valores en un formato adecuado para el procesamiento en sistemas digitales.
+
+# 4. Conversión de Binario a Hexadecimal
+
+La conversión de binario a hexadecimal se basa en la agrupación de bits en bloques de 4, ya que cada bloque de 4 bits corresponde exactamente a un dígito hexadecimal. Este método es eficiente y rápido, dado que evita cálculos complejos y aprovecha la relación directa entre estos dos sistemas numéricos.
+
+## 4.1 Agrupación de bits en bloques de 4 para obtener dígitos hexadecimales
+
+Para convertir un número binario a hexadecimal, sigue estos pasos:
+
+1. **Agrupa los bits en bloques de 4**: Comienza desde la derecha del número binario y agrupa los bits en bloques de 4. Si el número total de bits no es múltiplo de 4, agrega ceros a la izquierda para completar el último bloque.
+   
+2. **Convierte cada bloque de 4 bits a hexadecimal**: Utiliza la tabla de equivalencias para convertir cada bloque de 4 bits en su valor hexadecimal correspondiente.
+
+Por ejemplo:
+- Para el número binario `10110111`, agrupamos los bits de derecha a izquierda en bloques de 4: `1011 0111`.
+- Luego, cada bloque se convierte a hexadecimal:
+  - `1011` se convierte en `B`.
+  - `0111` se convierte en `7`.
+- Por lo tanto, `10110111` en binario es `B7` en hexadecimal.
+
+Esta técnica hace que la conversión de binario a hexadecimal sea rápida y directa.
+
+## 4.2 Ejemplos prácticos de conversión de binario a hexadecimal
+
+A continuación, algunos ejemplos prácticos de conversión para ilustrar el proceso:
+
+1. **Ejemplo 1**: Convertir `11011010` a hexadecimal
+   - Agrupamos los bits: `1101 1010`
+   - Convertimos cada grupo:
+     - `1101` es `D` en hexadecimal.
+     - `1010` es `A` en hexadecimal.
+   - Resultado: `11011010` en binario es `DA` en hexadecimal.
+
+2. **Ejemplo 2**: Convertir `111100111010` a hexadecimal
+   - Agrupamos los bits (añadiendo un `0` a la izquierda para completar el primer bloque): `0001 1110 0111 1010`
+   - Convertimos cada grupo:
+     - `0001` es `1`.
+     - `1110` es `E`.
+     - `0111` es `7`.
+     - `1010` es `A`.
+   - Resultado: `111100111010` en binario es `1E7A` en hexadecimal.
+
+3. **Ejemplo 3**: Convertir `101011` a hexadecimal
+   - Agrupamos los bits (añadiendo ceros a la izquierda): `0010 1011`
+   - Convertimos cada grupo:
+     - `0010` es `2`.
+     - `1011` es `B`.
+   - Resultado: `101011` en binario es `2B` en hexadecimal.
+
+Estos ejemplos muestran que el método de agrupar en bloques de 4 bits simplifica la conversión y permite que cualquier número binario se traduzca rápidamente a hexadecimal.
+
