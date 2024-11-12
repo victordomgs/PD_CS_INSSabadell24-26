@@ -1,6 +1,6 @@
 # Actividades sobre Números Binarios
 
-Esta carpeta contiene una serie de actividades prácticas para entender y trabajar con el sistema binario.
+Esta carpeta contiene una serie de actividades prácticas para entender y trabajar con el sistema binario y sistema hexadecimal.
 
 ## Contenido de las Actividades
 
