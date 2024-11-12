@@ -18,10 +18,6 @@
   - (i) Identifique dos funciones de un sistema operativo. [2]
   - (ii) Indique dónde se almacena el sistema operativo cuando se apaga el computador. [1]
 
----
-
-**Información adicional:**
-
 El ciclo de instrucciones de la máquina hace referencia a la recuperación de una instrucción de la RAM y la posterior decodificación, ejecución y almacenamiento del resultado.
 
 (e) 
