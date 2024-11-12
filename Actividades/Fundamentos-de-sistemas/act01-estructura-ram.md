@@ -25,5 +25,6 @@ El ciclo de instrucciones de la máquina hace referencia a la recuperación de u
   - (ii) Identifique qué parte de la CPU realiza la decodificación. [1]
   - (iii) Identifique qué parte de la CPU ejecuta la instrucción. [1]
 
+<br>
 
 **Ejercicio extraído de N15/4/COMSC/SP1/SPA/TZ0/XX
