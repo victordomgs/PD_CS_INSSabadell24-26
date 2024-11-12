@@ -426,17 +426,17 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
     <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_04.png" alt="Esquema de los elementos de las unidades funcionales de un ordenador" width="640" height="auto"/>
-    <p><em>Figura 4: Esquema de los elementos de las unidades funcionales de un ordenador. Fuente: IOC XTEC</em></p>
+    <p><em>Figura 5: Esquema de los elementos de las unidades funcionales de un ordenador. Fuente: IOC XTEC</em></p>
   </div>
 
   <div style="text-align: center;">
     <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_05.png" alt="Interconexión de las unidades funcionales de un ordenador mediante buses" width="640" height="auto"/>
-    <p><em>Figura 5: Interconexión de las unidades funcionales de un ordenador mediante buses. Font: IOC XTEC</em></p>
+    <p><em>Figura 6: Interconexión de las unidades funcionales de un ordenador mediante buses. Font: IOC XTEC</em></p>
   </div>
 
   <div style="text-align: center;">
     <img src="https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m05_/web/fp_asx_m05_htmlindex/WebContent/u1/media/ic10m5u1_06.png" alt="Estructura funcional de los ordenadores" width="640" height="auto"/>
-    <p><em>Figura 6: Estructura funcional de los ordenadores. Fuente: IOC XTEC</em></p>
+    <p><em>Figura 7: Estructura funcional de los ordenadores. Fuente: IOC XTEC</em></p>
   </div>
 
   ## 1.2.2. Software
@@ -450,7 +450,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
   <img src="https://www.adslzone.net/app/uploads-adslzone.net/2017/06/windows-linux-1200x675.jpg" alt="Windows y Linux" width="320" height="180"/>
-  <p><em>Figura 7: Software de sistema. Fuente: <a href="https://www.adslzone.net/2017/06/01/es-realmente-mas-seguro-linux-que-windows/">ADSLZone</a></em></p>
+  <p><em>Figura 8: Software de sistema. Fuente: <a href="https://www.adslzone.net/2017/06/01/es-realmente-mas-seguro-linux-que-windows/">ADSLZone</a></em></p>
   </div>
 
   ## 1.2.2.1.2. Software de aplicación
@@ -460,7 +460,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
   <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=533x1024:format=jpg/path/s63841b80d293924d/image/i023016192ee81785/version/1539160109/image.jpg" alt="Software de aplicaciones" width="420" height="180"/>
-  <p><em>Figura 8: Software de aplicaciones. Fuente: <a href="https://informatica4esog2.jimdofree.com/software/software-de-aplicaci%C3%B3n/">Jimdo</a></em></p>
+  <p><em>Figura 9: Software de aplicaciones. Fuente: <a href="https://informatica4esog2.jimdofree.com/software/software-de-aplicaci%C3%B3n/">Jimdo</a></em></p>
   </div>
   
   ## 1.2.2.1.3. Software de desarrollo
@@ -470,7 +470,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
   <img src="https://acpdelsureste.com/wp-content/uploads/Tecno.png" alt="Componentes de la tecnología" width="420" height="180"/>
-  <p><em>Figura 9: Software de desarrollo. Fuente: <a href="https://acpdelsureste.com/desarrollo-de-software-2/">ACP del Sureste</a></em></p>
+  <p><em>Figura 10: Software de desarrollo. Fuente: <a href="https://acpdelsureste.com/desarrollo-de-software-2/">ACP del Sureste</a></em></p>
   </div>
 
   ## 1.2.2.2. Funciones principales del software de sistema
@@ -514,7 +514,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
   <img src="https://s3.amazonaws.com/libapps/accounts/42282/images/licencias_cc.PNG" alt="Licencias Creative Commons" width="637" height="452"/>
-  <p><em>Figura 10: Licencias Creative Commons. Fuente: <a href="https://biblioguias.uam.es/citar/creative_commons">S3 Universidad Autónoma de Madrid</a></em></p>
+  <p><em>Figura 11: Licencias Creative Commons. Fuente: <a href="https://biblioguias.uam.es/citar/creative_commons">S3 Universidad Autónoma de Madrid</a></em></p>
   </div>
 
   <br>
@@ -585,7 +585,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
 
   <div style="text-align: center;">
   <img src="https://d2z0k1elb7rxgj.cloudfront.net/uploads/2019/12/gdpr-guidelines-1024x531.png" alt="Directrices del GDPR" width="930" height="482"/>
-  <p><em>Figura 11: Directrices del GDPR. Fuente: <a href="https://www.emotiv.com/blogs/glossary/gdpr">EMOTIV</a></em></p>
+  <p><em>Figura 12: Directrices del GDPR. Fuente: <a href="https://www.emotiv.com/blogs/glossary/gdpr">EMOTIV</a></em></p>
   </div>
 
   - **Ley Orgánica de Protección de Datos (LOPD):** En España, la LOPD complementa el GDPR y regula la protección de datos personales, especificando cómo deben ser tratados en el ámbito nacional.
