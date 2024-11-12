@@ -327,7 +327,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   | **Execute (Ejecución)**    | - La instrucción se procesa. Si requiere operaciones aritméticas o lógicas, la Unidad de Control envía la orden a la ALU.<br>- Los resultados se almacenan en un registro o se devuelven a la memoria.<br>- El contador de programa se incrementa para pasar a la siguiente   instrucción, repitiendo el ciclo. |
 
   <div style="text-align: center;">
-  <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Fundamentos%20de%20sistemas.png" alt="Descripción de la imagen" width="675" height="591"/>
+  <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Fundamentos%20de%20sistemas.png" alt="Descripción de la imagen" width="337" height="295"/>
   <p><em>Figura 3: Ciclo de instrucciones de la máquina. Fuente: <a>Creación propia</a></em></p>
   </div>
   
