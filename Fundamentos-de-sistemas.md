@@ -304,7 +304,7 @@ En resumen, la informática es una herramienta para trabajar la información, y 
     <p><em>Figura 2: Estructura funcional de un ordenador. Fuente: IOC XTEC</em></p>
   </div>
 
-  ## 1.2.1. El hardware
+  ## 1.2.1. Hardware
 
   ## 1.2.1.1. La CPU (Unidad Central de Procesamiento)
 
