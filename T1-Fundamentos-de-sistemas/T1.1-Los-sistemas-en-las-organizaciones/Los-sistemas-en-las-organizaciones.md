@@ -87,7 +87,7 @@ Los usuarios pueden clasificarse en diversas categorías, tales como:
 Es vital considerar cómo la introducción del nuevo sistema afectará a los usuarios y planificar estrategias de capacitación y soporte para facilitar la transición.
 
   <div style="text-align: center;">
-  <img src="https://www.iberdrola.com/documents/20125/40504/gestion_ESP.jpg/c9d36e3f-38f4-31bc-72c4-3ae3e4fabac3?t=1627446485829" alt="XT color" width="497" height="586"/>
+  <img src="https://www.iberdrola.com/documents/20125/40504/gestion_ESP.jpg" alt="XT color" width="497" height="586"/>
   <p><em>Figura 1: La gestión del cambio en una organización.. Fuente: <a href="https://www.iberdrola.com/talento/que-es-gestion-del-cambio">Iberdrola</a></em></p>
   </div>
 
