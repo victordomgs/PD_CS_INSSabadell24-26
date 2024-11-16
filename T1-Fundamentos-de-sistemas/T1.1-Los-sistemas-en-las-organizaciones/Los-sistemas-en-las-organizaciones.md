@@ -39,17 +39,24 @@
 
 <br>
 
-### 1.1.1. Planificación e Instalación de Sistemas
+### 1.1.1. Planificación e instalación de sistemas
 
 La planificación e instalación de sistemas es una etapa fundamental para garantizar que un sistema informático cumpla con las necesidades de una organización. Esta sección aborda los pasos necesarios para planificar adecuadamente y los desafíos asociados con la instalación de sistemas en diferentes contextos organizacionales.
 
 #### 1.1.1.1. Identificación del contexto para la planificación de un nuevo sistema
 La planificación de un nuevo sistema de información es un proceso crítico que requiere un análisis exhaustivo del contexto organizacional. Este análisis debe considerar diversos factores que aseguren la alineación del sistema con los objetivos y necesidades de la organización. A continuación, se detallan los aspectos clave a evaluar:
 
-<ins>**Alcance y limitaciones del sistema:**</ins>
-- **Roles de usuarios:** Comprender las necesidades y expectativas de los diferentes usuarios dentro de la organización.
-- **Tecnologías subyacentes:** Evaluar la infraestructura tecnológica existente para garantizar que sea compatible con el nuevo sistema.
-- **Cuestiones organizativas:** Considerar el impacto en la cultura de la organización, los flujos de trabajo y la comunicación interna.
+<ins>**Alcance y limitaciones del sistema**</ins>
+Es esencial determinar qué procesos y funciones cubrirá el nuevo sistema. Esto implica identificar las áreas operativas que se beneficiarán del sistema y establecer los límites de su aplicación. Una definición clara del alcance ayuda a evitar desviaciones y garantiza que el sistema cumpla con las expectativas establecidas.
+
+Reconocer las restricciones técnicas, financieras y temporales que puedan afectar la implementación del sistema. Estas limitaciones pueden influir en la selección de tecnologías, en la escala del proyecto y en los plazos de entrega.
+
+Se puede decir que la gestió del alcace del proyecto cumple co ua serie de pasos necesarios: 
+1. Determinar los **objetivos del proyecto**.
+2. Definir **metas concretas** para alcanzar estos objetivos.
+3. Planificar las **fases**que necesitamos para ir alcanzando esas metas.
+4. Identificar las **actividades** que necesitamos en cada fase.
+5. Relacionar las actividades en la **planificación**, creando dependencias entre ellas. Por ejemplo, no podemos empezar una actividad hasta que no termine otra.
 
 #### 1.1.1.2. La necesidad de la gestión de cambios
 La introducción de un nuevo sistema inevitablemente implica cambios que deben gestionarse cuidadosamente. Los puntos clave incluyen:
