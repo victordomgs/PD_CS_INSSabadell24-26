@@ -47,6 +47,7 @@ La planificación e instalación de sistemas es una etapa fundamental para garan
 La planificación de un nuevo sistema de información es un proceso crítico que requiere un análisis exhaustivo del contexto organizacional. Este análisis debe considerar diversos factores que aseguren la alineación del sistema con los objetivos y necesidades de la organización. A continuación, se detallan los aspectos clave a evaluar:
 
 <ins>**Alcance y limitaciones del sistema**</ins>
+
 Es esencial determinar qué procesos y funciones cubrirá el nuevo sistema. Esto implica identificar las áreas operativas que se beneficiarán del sistema y establecer los límites de su aplicación. Una definición clara del alcance ayuda a evitar desviaciones y garantiza que el sistema cumpla con las expectativas establecidas.
 
 Reconocer las restricciones técnicas, financieras y temporales que puedan afectar la implementación del sistema. Estas limitaciones pueden influir en la selección de tecnologías, en la escala del proyecto y en los plazos de entrega.
