@@ -59,7 +59,7 @@ Se puede decir que la gestió del alcance del proyecto cumple co ua serie de pas
 4. Identificar las **actividades** que necesitamos en cada fase.
 5. Relacionar las actividades en la **planificación**, creando dependencias entre ellas. Por ejemplo, no podemos empezar una actividad hasta que no termine otra.
 
-> [!NOTA]
+> [!NOTE]
 > **Nombre del proyecto:** Prototipo de librería electrónica.
 > **Definición del proyecto**
 > **Objetivo:** El objetivo del proyecto es realizar un prototipo de un sistema de venta de libros electrónicos vía Internet que pueda ser utilizado a través de cualquier navegador web, utilizando la metodología orientada a objetos.
