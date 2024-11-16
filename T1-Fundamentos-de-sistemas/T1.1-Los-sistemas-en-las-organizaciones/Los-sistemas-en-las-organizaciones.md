@@ -9,7 +9,13 @@
 
 
 </div>
+<div style="border: 1px solid #f00; padding: 10px; background-color: #ffe5e5; border-radius: 5px;">
+  <strong>⚠️ Advertencia:</strong> Este cambio no se puede revertir. Procede con precaución.
+</div>
 
+<div style="border: 1px solid #0f0; padding: 10px; background-color: #e5ffe5; border-radius: 5px;">
+  <strong>✅ Consejo:</strong> Guarda los cambios regularmente para evitar perder trabajo.
+</div>
 ### Contenido:
 [1.1. Los sistemas en las organizaciones](#11-los-sistemas-en-las-organizaciones)
   - [1.1.1. Planificación e instalación de sistemas](#111-planificación-e-instalación-de-sistemas)
