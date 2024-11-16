@@ -44,9 +44,9 @@
 La planificación e instalación de sistemas es una etapa fundamental para garantizar que un sistema informático cumpla con las necesidades de una organización. Esta sección aborda los pasos necesarios para planificar adecuadamente y los desafíos asociados con la instalación de sistemas en diferentes contextos organizacionales.
 
 #### 1.1.1.1. Identificación del contexto para la planificación de un nuevo sistema
-La planificación de un nuevo sistema requiere un análisis exhaustivo del contexto organizacional. Este análisis incluye:
+La planificación de un nuevo sistema de información es un proceso crítico que requiere un análisis exhaustivo del contexto organizacional. Este análisis debe considerar diversos factores que aseguren la alineación del sistema con los objetivos y necesidades de la organización. A continuación, se detallan los aspectos clave a evaluar:
 
-- **Alcance y limitaciones del sistema:** Identificar qué procesos cubrirá el sistema y cuáles quedarán fuera de su alcance.
+<u>**Alcance y limitaciones del sistema:**</u>
 - **Roles de usuarios:** Comprender las necesidades y expectativas de los diferentes usuarios dentro de la organización.
 - **Tecnologías subyacentes:** Evaluar la infraestructura tecnológica existente para garantizar que sea compatible con el nuevo sistema.
 - **Cuestiones organizativas:** Considerar el impacto en la cultura de la organización, los flujos de trabajo y la comunicación interna.
