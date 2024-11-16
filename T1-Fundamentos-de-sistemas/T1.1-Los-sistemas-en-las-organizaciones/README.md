@@ -1,4 +1,4 @@
-# Los Sistemas en las Organizaciones 📊🖥️🔒
+# Los sistemas en las organizaciones 📊🖥️🔒
 
 ## Descripción
 En esta sección, exploraremos cómo los sistemas informáticos se planifican, implementan y gestionan dentro de las organizaciones. Este tema proporciona una base sólida para comprender los procesos, desafíos y mejores prácticas asociados con la instalación, mantenimiento y actualización de sistemas en contextos empresariales.
