@@ -1,4 +1,4 @@
-<h1 align="center">Los sistemas en las organizaciones 
+ <h1 align="center">Los sistemas en las organizaciones 
 <div align="center">
 
 <a href="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
@@ -88,7 +88,7 @@ Es vital considerar cómo la introducción del nuevo sistema afectará a los usu
 
   <div style="text-align: center;">
   <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%201.%20Los%20sistemas%20en%20las%20organizaciones.jpg" alt="XT color" width="497" height="586"/>
-  <p><em>Figura 1: La gestión del cambio en una organización.. Fuente: <a href="https://www.iberdrola.com/talento/que-es-gestion-del-cambio">Iberdrola</a></em></p>
+  <p><em>Figura 1: La gestión del cambio en una organización. Fuente: <a href="https://www.iberdrola.com/talento/que-es-gestion-del-cambio">Iberdrola</a></em></p>
   </div>
 
 #### 1.1.1.2. La necesidad de la gestión de cambios
