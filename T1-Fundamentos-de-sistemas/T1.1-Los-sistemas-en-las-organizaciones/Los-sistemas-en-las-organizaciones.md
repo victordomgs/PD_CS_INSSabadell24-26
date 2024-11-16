@@ -70,6 +70,27 @@ Se puede decir que la gestió del alcance del proyecto cumple co ua serie de pas
 > 
 > - **Límites:** El proyecto no incluirá el desarrollo exhaustivo del producto. Tampoco se incluirá la documentación que da respaldo a desarrollo del producto, como por ejemplo los manuales de usuario.
 
+<ins>**Roles de usuarios**</ins>
+
+Comprender las necesidades y expectativas de los diferentes usuarios dentro de la organización es fundamental. Esto incluye identificar quiénes interactuarán con el sistema, sus competencias tecnológicas y cómo el sistema impactará en sus tareas diarias.
+
+**Clasificación de roles**
+
+Los usuarios pueden clasificarse en diversas categorías, tales como:
+
+- **Usuarios finales:** Empleados que utilizarán el sistema para realizar sus funciones diarias.
+- **Administradores del sistema:** Responsables de la configuración, mantenimiento y seguridad del sistema.
+- **Desarrolladores y técnicos de soporte:** Encargados de la implementación, actualización y resolución de problemas técnicos.
+
+**Gestión del cambio**
+
+Es vital considerar cómo la introducción del nuevo sistema afectará a los usuarios y planificar estrategias de capacitación y soporte para facilitar la transición.
+
+  <div style="text-align: center;">
+  <img src="https://www.iberdrola.com/documents/20125/40504/gestion_ESP.jpg/c9d36e3f-38f4-31bc-72c4-3ae3e4fabac3?t=1627446485829" alt="XT color" width="497" height="586"/>
+  <p><em>Figura 1: La gestión del cambio en una organización.. Fuente: <a href="https://www.iberdrola.com/talento/que-es-gestion-del-cambio">Iberdrola</a></em></p>
+  </div>
+
 #### 1.1.1.2. La necesidad de la gestión de cambios
 La introducción de un nuevo sistema inevitablemente implica cambios que deben gestionarse cuidadosamente. Los puntos clave incluyen:
 
