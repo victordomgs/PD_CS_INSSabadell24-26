@@ -93,8 +93,3 @@ Existen diferentes métodos para instalar un nuevo sistema, cada uno con sus ven
 - **Conversión en fases:** Implementar el sistema por etapas o departamentos.
   - **Ventaja:** Permite ajustar problemas a medida que avanza la instalación.
   - **Desventaja:** Puede generar inconsistencias temporales en la operación.
-
----
-
-**Conclusión:**  
-La planificación e instalación de sistemas es un proceso que requiere una visión integral del contexto organizacional, una gestión efectiva del cambio y la selección de métodos de instalación adecuados. Estos pasos aseguran que el nuevo sistema sea eficaz y se adopte con éxito dentro de la organización.
