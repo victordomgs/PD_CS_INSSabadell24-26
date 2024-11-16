@@ -55,7 +55,7 @@ Reconocer las restricciones técnicas, financieras y temporales que puedan afect
 Se puede decir que la gestió del alcance del proyecto cumple co ua serie de pasos necesarios: 
 1. Determinar los **objetivos del proyecto**.
 2. Definir **metas concretas** para alcanzar estos objetivos.
-3. Planificar las **fases**que necesitamos para ir alcanzando esas metas.
+3. Planificar las **fases** que necesitamos para ir alcanzando esas metas.
 4. Identificar las **actividades** que necesitamos en cada fase.
 5. Relacionar las actividades en la **planificación**, creando dependencias entre ellas. Por ejemplo, no podemos empezar una actividad hasta que no termine otra.
 
