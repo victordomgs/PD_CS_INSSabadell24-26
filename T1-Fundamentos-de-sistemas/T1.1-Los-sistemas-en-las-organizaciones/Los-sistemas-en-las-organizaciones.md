@@ -52,7 +52,7 @@ Es esencial determinar qué procesos y funciones cubrirá el nuevo sistema. Esto
 
 Reconocer las restricciones técnicas, financieras y temporales que puedan afectar la implementación del sistema. Estas limitaciones pueden influir en la selección de tecnologías, en la escala del proyecto y en los plazos de entrega.
 
-Se puede decir que la gestió del alcace del proyecto cumple co ua serie de pasos necesarios: 
+Se puede decir que la gestió del alcance del proyecto cumple co ua serie de pasos necesarios: 
 1. Determinar los **objetivos del proyecto**.
 2. Definir **metas concretas** para alcanzar estos objetivos.
 3. Planificar las **fases**que necesitamos para ir alcanzando esas metas.
