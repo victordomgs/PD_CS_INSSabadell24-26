@@ -61,9 +61,13 @@ Se puede decir que la gestió del alcance del proyecto cumple co ua serie de pas
 
 > [!NOTE]
 > **Nombre del proyecto:** Prototipo de librería electrónica.
+> 
 > **Definición del proyecto**
+> 
 > **Objetivo:** El objetivo del proyecto es realizar un prototipo de un sistema de venta de libros electrónicos vía Internet que pueda ser utilizado a través de cualquier navegador web, utilizando la metodología orientada a objetos.
+> 
 > **Alcance:** El proyecto va a incluir desde la planificación y programación del proyecto pasando por las diferentes etapas del proceso de desarrollo, ya sea elicitación y especificación de requerimientos, así como el análisis y diseñoi hasta la creación de un prototipo finalizando con el desarrollo de un modelo de pruebas, un plan de implantación y la prueba del mismo.
+> 
 > **Límites:** El proyecto no incluirá el desarrollo exhaustivo del producto. Tampoco se incluirá la documentación que da respaldo a desarrollo del producto, como por ejemplo los manuales de usuario.
 
 #### 1.1.1.2. La necesidad de la gestión de cambios
