@@ -11,13 +11,13 @@
 </div>
 
 ### Contenido:
-[1.1. Los sistemas en las organizaciones](#1-los-sistemas-en-las-organizaciones)
-  - [1.1.1. Planificación e instalación de sistemas](#11-planificación-e-instalación-de-sistemas)
-    - [1.1.1.1. Identificación del contexto para la planificación de un nuevo sistema](#111-identificación-del-contexto-para-la-planificación-de-un-nuevo-sistema)
-    - [1.1.1.2. La necesidad de la gestión de cambios](#112-la-necesidad-de-la-gestión-de-cambios)
-    - [1.1.1.3. Problemas de compatibilidad en sistemas heredados y fusiones de negocios](#113-problemas-de-compatibilidad-en-sistemas-heredados-y-fusiones-de-negocios)
-    - [1.1.1.4. Comparación entre hardware cliente y alojamiento remoto](#114-comparación-entre-hardware-cliente-y-alojamiento-remoto)
-    - [1.1.1.5. Evaluación de procesos alternativos de instalación](#115-evaluación-de-procesos-alternativos-de-instalación)
+[1.1. Los sistemas en las organizaciones](#11-los-sistemas-en-las-organizaciones)
+  - [1.1.1. Planificación e instalación de sistemas](#111-planificación-e-instalación-de-sistemas)
+    - [1.1.1.1. Identificación del contexto para la planificación de un nuevo sistema](#1111-identificación-del-contexto-para-la-planificación-de-un-nuevo-sistema)
+    - [1.1.1.2. La necesidad de la gestión de cambios](#1112-la-necesidad-de-la-gestión-de-cambios)
+    - [1.1.1.3. Problemas de compatibilidad en sistemas heredados y fusiones de negocios](#1113-problemas-de-compatibilidad-en-sistemas-heredados-y-fusiones-de-negocios)
+    - [1.1.1.4. Comparación entre hardware cliente y alojamiento remoto](#1114-comparación-entre-hardware-cliente-y-alojamiento-remoto)
+    - [1.1.1.5. Evaluación de procesos alternativos de instalación](#1115-evaluación-de-procesos-alternativos-de-instalación)
   - [1.1.2. Migración de datos](#12-migración-de-datos)
     - [1.1.2.1. Problemas comunes en la migración de datos](#121-problemas-comunes-en-la-migración-de-datos)
   - [1.1.3. Pruebas de sistemas](#13-pruebas-de-sistemas)
