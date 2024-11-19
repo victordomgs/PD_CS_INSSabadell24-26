@@ -1,4 +1,4 @@
-# Fundamentos de diseño de sistemas
+# Fundamentos de diseño de sistemas 📏💻
 
 ## Descripción
 Este módulo cubre los conceptos esenciales relacionados con el diseño y la organización de computadores. A través de este tema, los estudiantes aprenderán sobre los componentes clave del hardware y el software, su interacción y los principios que rigen su funcionamiento. Además, se explorará la representación binaria, los sistemas operativos y las puertas lógicas simples, fundamentales para la comprensión de los computadores modernos.
