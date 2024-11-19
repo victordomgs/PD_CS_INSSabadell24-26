@@ -3,7 +3,7 @@
 
 ---
 
-### Actividad 2. ¿Es más importante el hardware o el software en un sistema informático?. Argumenta tu postura con ejemplos concretos.
+### Actividad 2. ¿Es más importante el hardware o el software en un sistema informático? Argumenta tu postura con ejemplos concretos.
 
 ---
 
