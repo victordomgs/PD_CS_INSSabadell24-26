@@ -5,7 +5,7 @@ En esta sección, exploraremos cómo los sistemas informáticos se planifican, i
 
 ---
 
-## Objetivos de Aprendizaje
+## Objetivos de aprendizaje
 A lo largo de este módulo, los estudiantes adquirirán conocimientos sobre:
 
 1. **Planificación e Instalación de Sistemas**  
@@ -15,22 +15,22 @@ A lo largo de este módulo, los estudiantes adquirirán conocimientos sobre:
    - Comparar enfoques de implementación local frente al alojamiento remoto.
    - Evaluar diferentes métodos de instalación de sistemas.
 
-2. **Migración de Datos**  
+2. **Migración de datos**  
    - Analizar los problemas comunes que surgen durante el proceso de migración de datos.
    - Identificar soluciones para la transmisión de datos y convenciones internacionales.
 
-3. **Pruebas de Sistemas**  
+3. **Pruebas de sistemas**  
    - Entender la importancia de las pruebas en la implementación de sistemas.
    - Conocer y aplicar diferentes tipos de pruebas, como validación, depuración y pruebas beta.
 
-4. **Pensar en el Usuario**  
+4. **Pensar en el usuario**  
    - Valorar la importancia de la documentación y la capacitación del usuario.
    - Explorar métodos efectivos para ofrecer documentación y capacitación adaptados a las necesidades del usuario.
 
-5. **Copia de Seguridad del Sistema**  
+5. **Copia de seguridad del sistema**  
    - Identificar las principales causas de pérdida de datos y sus consecuencias.
    - Proponer métodos para prevenir la pérdida de datos mediante redundancia, copias de seguridad y sistemas de conmutación por error.
 
-6. **Implementación de Software**  
+6. **Implementación de software**  
    - Gestionar versiones y actualizaciones de software de manera eficiente.
    - Comprender el impacto de las actualizaciones en el rendimiento y la compatibilidad del sistema.
