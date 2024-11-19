@@ -40,7 +40,7 @@ Este módulo cubre los conceptos esenciales relacionados con el diseño y la org
 8. **Relación con la codificación unicode:**
    - Comparación de los alfabetos y la necesidad de la codificación estándar para una comunicación efectiva.
 
-### Puertas lógicas simples
+### Puertas lógicas simples (álgebra lógica)
 9. **Operadores booleanos:**
    - Definición de AND, OR, NOT, NAND, NOR y XOR.
    - Elaboración de tablas de verdad y diagramas lógicos simples.
