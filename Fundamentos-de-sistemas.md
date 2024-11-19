@@ -266,21 +266,6 @@ En resumen, la informática es una herramienta para trabajar la información, y 
   - **Parte lógica (software):** Todos los elementos intangibles, como los programas, sistemas operativos y aplicaciones.
   - **Parte humana:** Las personas son el elemento más importante en un sistema informático, ya que sin ellas no existirían ni el hardware ni el software.
 
-  ### Características principales de un ordenador
-
-  Un ordenador tiene las siguientes características principales:
-
-  - **Realiza una acción a la vez:** Un ordenador ejecuta una tarea a la vez en cada ciclo de procesamiento.
-  - **Capacidad para hacer cálculos matemáticos:** Puede sumar, restar, multiplicar y dividir.
-  - **Realiza operaciones lógicas:** Compara letras, números y otros datos para determinar resultados verdaderos o falsos.
-  - **Alta velocidad:** Opera a grandes velocidades, permitiendo realizar muchas operaciones en poco tiempo.
-  - **Exactitud y precisión:** Hace exactamente lo que se le indica según las instrucciones.
-  - **Eficacia:** Puede trabajar durante largos períodos sin interrupción.
-  - **Manipulación de grandes cantidades de información:** Puede procesar y manejar datos masivos de manera eficiente.
-  - **Fiabilidad:** Verifica la exactitud de sus operaciones internas (autocomprobación).
-  - **Capacidad para manipular símbolos:** Puede trabajar con diversos tipos de datos y símbolos, no solo números.
-  - **Evolución constante:** Los ordenadores se vuelven cada vez más pequeños, útiles y menos costosos.
-
   ### Programas y aplicaciones informáticas
 
   El conjunto de acciones que se ordenan y ejecutan en un ordenador se conoce como programa. En general, un programa es un conjunto de instrucciones que se siguen en un orden determinado para resolver un problema específico.
