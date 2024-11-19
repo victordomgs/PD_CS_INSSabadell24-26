@@ -6,7 +6,7 @@ En esta sección, exploraremos cómo los sistemas informáticos se planifican, i
 ---
 
 ## Objetivos de Aprendizaje
-A lo largo de este estudio, los estudiantes adquirirán conocimientos sobre:
+A lo largo de este módulo, los estudiantes adquirirán conocimientos sobre:
 
 1. **Planificación e Instalación de Sistemas**  
    - Identificar el contexto y los factores clave para la implementación de un sistema.
