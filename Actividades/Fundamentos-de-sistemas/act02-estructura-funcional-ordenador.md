@@ -15,7 +15,7 @@
 
 ---
 
-### Actividad 5. Dibuja un esquema que muestre la interconexión entre la CPU, memoria principal, almacenamiento y dispositivos de entrada/salida. Usa flechas para indicar los flujos de datos.
+### Actividad 5. Dibuja un esquema que muestre la interconexión entre la CPU y la memoria principal. Usa flechas para indicar los flujos de datos.
 
 ---
 
