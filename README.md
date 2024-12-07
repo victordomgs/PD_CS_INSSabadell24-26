@@ -44,9 +44,8 @@
 [T5.2 Uso de lenguajes de programación](Programacion/Uso-de-lenguajes-de-programacion/)
 <br>
 [T5.3 Introducción a la programación](Programacion/Introduccion-a-la-programacion/)
-
----
-
-- [LICENSE](LICENSE)
-- [README.md](README.md)
-
+<br>
+<br>
+<br>
+[LICENSE](LICENSE)
+[README.md](README.md)
