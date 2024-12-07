@@ -7,45 +7,46 @@
 <br>
 <br>
 ### T2-Organización de Computadores
-[T2.1 Arquitectura de computadores](Organización-de-computadores/Arquitectura-de-computadores/)
+[T2.1 Arquitectura de computadores](T2-Organizacion-de-computadores/T2.1-Arquitectura-de-computadores/)
 <br>
-[T2.2 Memoria secundaria](Organización-de-computadores/Memoria-secundaria/)
+[T2.2 Memoria secundaria](T2-Organizacion-de-computadores/T2.2-Memoria-secundaria/)
 <br>
-[T2.3 Sistemas operativos y sistemas de aplicación](Organización-de-computadores/Sistemas-operativos-y-sistemas-de-aplicacion/)
+[T2.3 Sistemas operativos y sistemas de aplicación](T2-Organizacion-de-computadores/T2.3-Sistemas-operativos-y-sistemas-de-aplicacion/)
 <br>
-[T2.4 Representación de la información](Organización-de-computadores/Representacion-de-la-informacion/)
+[T2.4 Representación de la información](T2-Organizacion-de-computadores/T2.4-Representacion-de-la-informacion/)
 <br>
-[T2.5 Álgebra lógica](Organización-de-computadores/Algebra-logica/)
+[T2.5 Álgebra lógica](T2-Organizacion-de-computadores/T2.5-Algebra-logica/)
 <br>
 <br>
 ### T3-Redes
-[T3.1 Fundamentos de redes](Redes/Fundamentos-de-redes/)
+[T3.1 Fundamentos de redes](T3-Redes/T3.1-Fundamentos-de-redes/)
 <br>
-[T3.2 Transmisión de datos](Redes/Transmision-de-datos/)
+[T3.2 Transmisión de datos](T3-Redes/T3.2-Transmision-de-datos/)
 <br>
-[T3.3 Redes inalámbricas](Redes/Redes-inalambricas/)
+[T3.3 Redes inalámbricas](T3-Redes/T3.3-Redes-inalambricas/)
 <br>
 <br>
 ### T4-Pensamiento Computacional
-[T4.1 Pensamiento procedimental](Pensamiento-computacional/Pensamiento-procedimental/)
+[T4.1 Pensamiento procedimental](T4-Pensamiento-computacional/T4.1-Pensamiento-procedimental/)
 <br>
-[T4.2 Pensamiento lógico](Pensamiento-computacional/Pensamiento-logico/)
+[T4.2 Pensamiento lógico](T4-Pensamiento-computacional/T4.2-Pensamiento-logico/)
 <br>
-[T4.3 Previsión](Pensamiento-computacional/Prevision/)
+[T4.3 Previsión](T4-Pensamiento-computacional/T4.3-Prevision/)
 <br>
-[T4.4 Pensamiento concurrente](Pensamiento-computacional/Pensamiento-concurrente/)
+[T4.4 Pensamiento concurrente](T4-Pensamiento-computacional/T4.4-Pensamiento-concurrente/)
 <br>
-[T4.5 Pensamiento abstracto](Pensamiento-computacional/Pensamiento-abstracto/)
+[T4.5 Pensamiento abstracto](T4-Pensamiento-computacional/T4.5-Pensamiento-abstracto/)
 <br>
 <br>
 ### T5-Programación
-[T5.1 Naturaleza de los lenguajes de programación](Programacion/Naturaleza-de-los-lenguajes-de-programacion/)
+[T5.1 Naturaleza de los lenguajes de programación](T5-Programacion/T5.1-Naturaleza-de-los-lenguajes-de-programacion/)
 <br>
-[T5.2 Uso de lenguajes de programación](Programacion/Uso-de-lenguajes-de-programacion/)
+[T5.2 Uso de lenguajes de programación](T5-Programacion/T5.2-Uso-de-lenguajes-de-programacion/)
 <br>
-[T5.3 Introducción a la programación](Programacion/Introduccion-a-la-programacion/)
+[T5.3 Introducción a la programación](T5-Programacion/T5.3-Introduccion-a-la-programacion/)
 <br>
 <br>
 <br>
 [LICENSE](LICENSE)
+<br>
 [README.md](README.md)
