@@ -25,31 +25,36 @@ El propósito de este repositorio es ser utilizado como material didáctico para
 
 ## 📂 Estructura del repositorio
 
-```bash
-Teoria-de-sistemas-i-computacion/
-├── Fundamentos-de-sistemas
-  ├── Los-sistemas-en-las-organizaciones
-  ├── Fundamentos-de-diseño-de-sistemas
-├── Organización-de-computadores
-  ├── Arquitectura-de-computadores
-  ├── Memoria-secundaria
-  ├── Sistemas-operativos-y-sistemas-de-aplicacion
-  ├── Representacion-de-la-informacion
-  ├── Algebra-logica
-├── Redes
-  ├── Fundamentos-de-redes
-  ├── Transmision-de-datos
-  ├── Redes-inalambricas
-├── Pensamiento-computacional
-  ├── Pensamiento-procedimental
-  ├── Pensamiento-logico
-  ├── Prevision
-  ├── Pensamiento concurrente
-  ├── Pensamiento abstracto
-├── Programacion
-  ├── Naturaleza-de-los-lenguajes-de-programacion
-  ├── Uso-de-lenguajes-de-programacion
-  ├── Introduccion-a-la-programacion
-├── LICENSE
-└── README.md
-```
+## Fundamentos de Sistemas
+- [Los sistemas en las organizaciones](Fundamentos-de-sistemas/Los-sistemas-en-las-organizaciones/)
+- [Fundamentos de diseño de sistemas](Fundamentos-de-sistemas/Fundamentos-de-diseño-de-sistemas/)
+
+## Organización de Computadores
+- [Arquitectura de computadores](Organización-de-computadores/Arquitectura-de-computadores/)
+- [Memoria secundaria](Organización-de-computadores/Memoria-secundaria/)
+- [Sistemas operativos y sistemas de aplicación](Organización-de-computadores/Sistemas-operativos-y-sistemas-de-aplicacion/)
+- [Representación de la información](Organización-de-computadores/Representacion-de-la-informacion/)
+- [Álgebra lógica](Organización-de-computadores/Algebra-logica/)
+
+## Redes
+- [Fundamentos de redes](Redes/Fundamentos-de-redes/)
+- [Transmisión de datos](Redes/Transmision-de-datos/)
+- [Redes inalámbricas](Redes/Redes-inalambricas/)
+
+## Pensamiento Computacional
+- [Pensamiento procedimental](Pensamiento-computacional/Pensamiento-procedimental/)
+- [Pensamiento lógico](Pensamiento-computacional/Pensamiento-logico/)
+- [Previsión](Pensamiento-computacional/Prevision/)
+- [Pensamiento concurrente](Pensamiento-computacional/Pensamiento-concurrente/)
+- [Pensamiento abstracto](Pensamiento-computacional/Pensamiento-abstracto/)
+
+## Programación
+- [Naturaleza de los lenguajes de programación](Programacion/Naturaleza-de-los-lenguajes-de-programacion/)
+- [Uso de lenguajes de programación](Programacion/Uso-de-lenguajes-de-programacion/)
+- [Introducción a la programación](Programacion/Introduccion-a-la-programacion/)
+
+---
+
+- [LICENSE](LICENSE)
+- [README.md](README.md)
+
