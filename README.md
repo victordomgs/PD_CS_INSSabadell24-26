@@ -27,10 +27,29 @@ El propósito de este repositorio es ser utilizado como material didáctico para
 
 ```bash
 Teoria-de-sistemas-i-computacion/
-├── Fundamentos-de-sistemas.md   # Introducción a los conceptos básicos de los sistemas informáticos.
-├── Pensamiento-computacional.md   # Principios del pensamiento computacional y la resolución de problemas.
-├── Organización-de-computadores.md   # Estructura y funcionamiento interno de los ordenadores.
-├── Redes.md   # Conceptos fundamentales sobre las redes de comunicación.
-├── LICENSE   # Licéncia del proyecto del projecte
+├── Fundamentos-de-sistemas
+  ├── Los-sistemas-en-las-organizaciones
+  ├── Fundamentos-de-diseño-de-sistemas
+├── Organización-de-computadores
+  ├── Arquitectura-de-computadores
+  ├── Memoria-secundaria
+  ├── Sistemas-operativos-y-sistemas-de-aplicacion
+  ├── Representacion-de-la-informacion
+  ├── Algebra-logica
+├── Redes
+  ├── Fundamentos-de-redes
+  ├── Transmision-de-datos
+  ├── Redes-inalambricas
+├── Pensamiento-computacional
+  ├── Pensamiento-procedimental
+  ├── Pensamiento-logico
+  ├── Prevision
+  ├── Pensamiento concurrente
+  ├── Pensamiento abstracto
+├── Programacion
+  ├── Naturaleza-de-los-lenguajes-de-programacion
+  ├── Uso-de-lenguajes-de-programacion
+  ├── Introduccion-a-la-programacion
+├── LICENSE
 └── README.md
 ```
