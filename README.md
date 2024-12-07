@@ -17,13 +17,13 @@ A continuación, se presentan los principales temas tratados en este repositorio
 
 ---
 
-## 🎯 Objectivo
+## 🎯 Objetivo
 
 El propósito de este repositorio es ser utilizado como material didáctico para aprender los conceptos fundamentales de los sistemas y de la computación, mediante ejemplos y teoria. También encontrarás actividades para practicar y poner en acción todo lo que hemos aprendido. 
 
 ---
 
-## 📂 Estructura del repositori
+## 📂 Estructura del repositorio
 
 ```bash
 Teoria-de-sistemas-i-computacion/
