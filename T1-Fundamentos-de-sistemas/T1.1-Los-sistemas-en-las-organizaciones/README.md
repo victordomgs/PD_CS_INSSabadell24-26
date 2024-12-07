@@ -93,4 +93,22 @@ Es vital considerar cómo la introducción del nuevo sistema afectará a los usu
 
 <ins>**Tecnologías Subyacentes**</ins>
 
+Las tecnologías subyacentes son fundamentales para garantizar que el sistema sea robusto, escalable y alineado con las metas del negocio. Elegirlas requiere un análisis cuidadoso de las necesidades actuales y futuras, teniendo en cuenta tanto los objetivos estratégicos como las restricciones técnicas y económicas. Incorporar tecnologías modernas y adoptar prácticas de diseño eficiente es clave para lograr un sistema que aporte valor sostenible a la organización.
+
+Tenemos una serie de factores a considerar al seleccionar tecnologías subyacentes:
+1. **Escalabilidad:** ¿Puede la tecnología manejar el crecimiento futuro del sistema?
+2. **Compatibilidad:** ¿Es compatible con las herramientas y sistemas existentes?
+3. **Costo:** ¿Es una tecnología coste-efectiva tanto a corto como a largo plazo?
+4. **Soporte y comunidad:** ¿Tiene la tecnología una base sólida de soporte técnico y una comunidad activa?
+5. **Flexibilidad:** ¿Permite adaptarse a cambios en los requisitos del negocio?
+
+Algunos aspectos clave de las tecnologías a tener en cuenta son: 
+
+- La infraestructura tecnológica que incluye el hardware, el software base, las redes y plataformas de desarrollo. En este punto es muy útil utilizar plataformas de virtualización como Docker, VMware o VBox.
+- La arquitectura del sistema que define cómo los componentes se interconectan.
+- La elección de la tecnología de base de datos impacta en el almacenamiento, recuperación y análisis de datos. Lo más comun es utilizar bases de datos relacionales (SQL), bases de datos no estructuradas (NoSQL) y bases de datos en la nube.
+- La planificación de un sistema debe incorporar tecnologías subyacentes de seguridad que protejan la infraestructura y los datos. Como por ejemplo cifrados, métodos de autenticación y autorización o sistemas de monitoreo de seguridad.
+- La elección del lenguaje de programación y frameworks es clave tambien: lenguajes de programación como Python, Java, C# o JavaScript. O frameworks como Django o React.
+- APIs, con tal de interactuar con otros servicios. Tanto de dentro de la organización como de fuera de la organización.
+  
 <ins>**Cuestiones organizativas**</ins>
