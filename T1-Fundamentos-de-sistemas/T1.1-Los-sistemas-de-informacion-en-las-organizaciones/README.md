@@ -63,10 +63,10 @@ El **conocimiento** es la asimilación coherente y estructurada de un conjunto d
 
 Disponer de conocimiento de las entidades permite actuar de forma directa o indirecta sobre estas con la finalidad de lograr los objetivos que se pretenden conseguir. Pero estas actuaciones (y otras que podrían darse, porque el mundo que nos rodea está en constante movimiento) pueden alterar el estado de las entidades, lo que dejará obsoleto el conocimiento que se tenía hasta el momento porque simplemente ya no representa la realidad actual. Así, pues, hay que establecer un ciclo de vida de la toma de decisiones:
 
-• La recolección de los datos para obtener la materia prima.
-• El procesamiento de los datos recogidos para obtener información realista sobre las entidades en su contexto.
-• La toma de decisiones coherentes con el análisis de la información obtenida.
-• La ejecución de mlas actuaciones necesarias de acuerdo con las decisiones que se han tomado.
+- La recolección de los datos para obtener la materia prima.
+- El procesamiento de los datos recogidos para obtener información realista sobre las entidades en su contexto.
+- La toma de decisiones coherentes con el análisis de la información obtenida.
+- La ejecución de mlas actuaciones necesarias de acuerdo con las decisiones que se han tomado.
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%201.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Estructura de un ordenador" width="421" height="auto"/>
