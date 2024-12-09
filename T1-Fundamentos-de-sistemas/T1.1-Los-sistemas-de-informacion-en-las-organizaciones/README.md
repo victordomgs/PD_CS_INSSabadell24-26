@@ -89,7 +89,7 @@ Las **actividades primarias** estarían formadas por los procesos básicos de la
 Las **actividades de apoyo** corresponderían al conjunto de procesos que ayudan a las actividades primarias, como podrían ser el abastecimiento de los materiales, la gestión de la infraestructura organizativa (por ejemplo, la planificación, la contabilidad, etc.), la gestión de los recursos humanos, el desarrollo de la tecnología o de innovaciones, etc.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%202.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Estructura de un ordenador" width="537" height="auto"/>
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%202.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Estructura de un ordenador" width="805" height="auto"/>
     <p><em>Figura 2: Cadena de valor de Porter. Fuente: UOC</em></p>
   </div>
 
