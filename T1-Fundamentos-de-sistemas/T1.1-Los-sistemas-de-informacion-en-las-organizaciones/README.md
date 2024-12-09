@@ -79,17 +79,83 @@ Hace algunos años, la capacidad industrial era considerada uno de los recursos 
 
 Lo interesante de la información es que, a diferencia de los recursos industriales, no está limitada a grandes empresas o sectores específicos. Cualquier organización, grande o pequeña, puede acceder y aprovechar la información para mejorar sus decisiones y estrategias, siempre que sepa cómo hacerlo. Esto significa que, sin importar su tamaño, propiedad, actividad o sector económico, todas las organizaciones tienen la oportunidad de utilizar la información como una herramienta clave para alcanzar el éxito.
 
-```
-La **cadena de valor** de una organización es un modelo que reúne todos aquellos recursos y procesos que intervienen en el funcionamiento cotidiano para cumplir su objetivo final.
-´´´
+> [!IMPORTANT]  
+> La **cadena de valor** de una organización es un modelo que reúne todos aquellos recursos y procesos que intervienen en el funcionamiento cotidiano para cumplir su objetivo final.
 
-> [!NOTE]
-> **Nombre del proyecto:** Prototipo de librería electrónica.
-> 
-> **Definición del proyecto:**
-> 
-> - **Objetivo:** El objetivo del proyecto es realizar un prototipo de un sistema de venta de libros electrónicos vía Internet que pueda ser utilizado a través de cualquier navegador web, utilizando la metodología orientada a objetos.
-> 
-> - **Alcance:** El proyecto va a incluir desde la planificación y programación del proyecto pasando por las diferentes etapas del proceso de desarrollo, ya sea elicitación y especificación de requerimientos, así como el análisis y diseñoi hasta la creación de un prototipo finalizando con el desarrollo de un modelo de pruebas, un plan de implantación y la prueba del mismo.
-> 
-> - **Límites:** El proyecto no incluirá el desarrollo exhaustivo del producto. Tampoco se incluirá la documentación que da respaldo a desarrollo del producto, como por ejemplo los manuales de usuario.
+De acuerdo con los planteamientos de Porter y Millar:
+
+Las **actividades primarias** estarían formadas por los procesos básicos de la organización: la logística de entrada, las operaciones o la producción, la logística de salida, el marketing y las ventas, y los servicios.
+
+Las **actividades de apoyo** corresponderían al conjunto de procesos que ayudan a las actividades primarias, como podrían ser el abastecimiento de los materiales, la gestión de la infraestructura organizativa (por ejemplo, la planificación, la contabilidad, etc.), la gestión de los recursos humanos, el desarrollo de la tecnología o de innovaciones, etc.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%202.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Estructura de un ordenador" width="537" height="auto"/>
+    <p><em>Figura 2: Cadena de valor de Porter. Fuente: UOC</em></p>
+  </div>
+
+Gracias al posicionamiento del sistema de información como apoyo de la cadena de valor y a la relación directa con el resto de actividades de la organización, la información puede fluir en todas direcciones, tanto para facilitar el funcionamiento o la operativa diaria de cada uno de los otros elementos de la cadena como para conocer el estado real de la organización aportando su valor allí donde haga falta.
+
+#### 1.3. El sistema de información en las organizaciones
+
+Un **sistema de información (SI)** es un conjunto de elementos (personas, datos, procedimientos y recursos) que trabajan juntos para transformar datos en información útil y accesible para quienes la necesitan dentro de una organización. Este sistema permite que las personas tomen decisiones basadas en información confiable, lo que mejora la eficiencia y el conocimiento dentro de la organización.
+
+Las principales funciones de un sistema de información son: 
+
+1. **Recolectar datos:** Captura información de las actividades de la organización.
+2. **Procesar información:** Convierte los datos en información útil y adecuada al contexto.
+3. **Almacenar y compartir:** Guarda la información y la pone a disposición de los usuarios que la necesitan para realizar su trabajo, como un vendedor que consulta el inventario o un contable que analiza las ventas.
+
+Aunque los sistemas de información no se limitan a la tecnología, hoy en día sería difícil imaginarlos sin ella. Las **tecnologías de la información (TI)** incluyen herramientas como ordenadores, servidores, software y redes, que permiten automatizar procesos y simplificar tareas.
+
+Componentes tecnológicos:
+
+- **Físicos:** Hardware como ordenadores, servidores, impresoras o routers.
+- **Lógicos:** Software como sistemas operativos, aplicaciones o protocolos.
+
+### 2. La administració del sistema de información
+
+El sistema de información no puede estar en ningún caso desligado de la estrategia de la organización. Al contrario, es el sistema de información el que tiene que implementar dicha estrategia materializando los objetivos y las líneas de actuación previstas para mantener la coherencia y la eficacia con la cadena de valor de la organización.
+
+#### 2.1. La estrategia y la tecnología de las organizaciones
+
+Todas las organizaciones persiguen algún objetivo, sin importar su envergadura, ámbito o sector de actividad. Los objetivos plasman la razón de ser de la organización, dado que representan la finalidad por la que existe y enmarcan todas las actividades y las actuaciones que se llevan a cabo.
+
+> [!IMPORTANT]  
+> La **estrategia** es una guía que desarrolla los objetivos de una organización atendiendo a su situación y contexto durante un período de tiempo acotado.
+
+#### 2.2. Los roles y los perfiles del sistema de información
+
+Un sistema de información (SI) necesita una supervisión especializada que asegure su alineación con la estrategia de la organización. La gestión de estos sistemas combina diferentes roles y perfiles con tareas específicas, desde la toma de decisiones estratégicas hasta la implementación técnica.
+
+Principales roles y perfiles:
+
+**CIO (Chief Information Officer):**
+- Líder estratégico del sistema de información.
+- Traduce los objetivos de la organización en estrategias tecnológicas.
+- Supervisa el departamento de sistemas y fomenta el uso innovador de la tecnología.
+
+**Jefe de proyectos:**
+- Responsable de definir, planificar y ejecutar proyectos relacionados con el SI.
+- Coordina recursos (humanos, materiales y financieros) para alcanzar los objetivos del proyecto.
+- Realiza seguimientos y evaluaciones durante todo el proceso.
+
+**Técnicos de desarrollo:**
+- Se encargan de construir, adaptar y mantener los sistemas de información.
+- Implementan las tareas definidas por niveles superiores, como el desarrollo de software o la integración de herramientas.
+
+**Técnicos de explotación o producción:**
+- Garantizan el funcionamiento continuo del hardware y la infraestructura del SI.
+- Automatizan tareas como copias de seguridad, actualizaciones y configuraciones.
+
+**Técnicos de sistemas:**
+- Introducen y gestionan nuevas tecnologías relacionadas con el SI.
+- Especializados en áreas como seguridad, gestión de datos o administración de redes.
+
+Aunque todos estos perfiles son útiles en algún momento, no todas las organizaciones requieren los servicios de todos los roles en todo momento. Por ello, se utiliza la externalización. 
+
+> [!IMPORTANT]  
+> La **externalización o provisión externa de los servicios informáticos** es una opción por la que optan aquellas organizaciones que, en términos generales, no pueden o no quieren asumir las tareas, los costes o las responsabilidades que comporta asumir el servicio, delegándolos a un tercero.
+
+#### 2.3. El departamento de sistemas de información
+
+El tradicional departamento de informática se convierte en el nuevo **departamentode sistemas de información o de tecnologías de la información**, intermediario natural para alinear estratégicamente la organización con la tecnología y que ahora, además de las funciones habituales, tiene competencias nuevas en torno a la dirección y la gestión de los sistemas de información de la organización.
