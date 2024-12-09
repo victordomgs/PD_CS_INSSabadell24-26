@@ -20,7 +20,6 @@
   - [2.1. La estrategia y la tecnología de las organizaciones](#21-la-estrategia-y-la-tecnología-de-las-organizaciones)  
   - [2.2. Los roles y los perfiles del sistema de información](#22-los-roles-y-los-perfiles-del-sistema-de-información)  
   - [2.3. El departamento de sistemas de información](#23-el-departamento-de-sistemas-de-información)  
-  - [2.4. El gobierno de los sistemas de información](#24-el-gobierno-de-los-sistemas-de-información)  
 
 [3. Las tipologías de sistemas de información](#3-las-tipologías-de-sistemas-de-información)  
   - [3.1. Los sistemas de información integrados](#31-los-sistemas-de-información-integrados)  
@@ -159,3 +158,15 @@ Aunque todos estos perfiles son útiles en algún momento, no todas las organiza
 #### 2.3. El departamento de sistemas de información
 
 El tradicional departamento de informática se convierte en el nuevo **departamentode sistemas de información o de tecnologías de la información**, intermediario natural para alinear estratégicamente la organización con la tecnología y que ahora, además de las funciones habituales, tiene competencias nuevas en torno a la dirección y la gestión de los sistemas de información de la organización.
+
+### 3. Las tipologías de sistemas de información
+
+#### 3.1. Los sistemas de información integrados
+
+Un sistema de información integrado es una solución informática que proporciona una buena parte de las funciones (si no todas) que requiere la cadena de valor de la organización (eventualmente, la cadena de valor extendida). 
+
+#### 3.2. Los sistemas de información operacionales
+
+Los sistemas de información operacionales (o transaccionales) tienen por objetivo dotar de funcionalidades que apoyen las operaciones (o transacciones) que se llevan a cabo en la cadena de valor de la organización.
+
+Pueden haber muchas soluciones operacionales y con diferentes perspectivas. Veamos algunas de las más habituales:
