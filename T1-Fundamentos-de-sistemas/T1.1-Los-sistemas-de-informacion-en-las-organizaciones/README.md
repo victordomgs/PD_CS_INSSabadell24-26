@@ -79,9 +79,9 @@ Hace algunos años, la capacidad industrial era considerada uno de los recursos 
 
 Lo interesante de la información es que, a diferencia de los recursos industriales, no está limitada a grandes empresas o sectores específicos. Cualquier organización, grande o pequeña, puede acceder y aprovechar la información para mejorar sus decisiones y estrategias, siempre que sepa cómo hacerlo. Esto significa que, sin importar su tamaño, propiedad, actividad o sector económico, todas las organizaciones tienen la oportunidad de utilizar la información como una herramienta clave para alcanzar el éxito.
 
-'''
+```
 La **cadena de valor** de una organización es un modelo que reúne todos aquellos recursos y procesos que intervienen en el funcionamiento cotidiano para cumplir su objetivo final.
-'''
+´´´
 
 > [!NOTE]
 > **Nombre del proyecto:** Prototipo de librería electrónica.
