@@ -28,6 +28,8 @@ Las notas que siguen a algunos enunciados de evaluación sirven como orientació
 
 <br>
 
+## Fundamentos de diseño de sistemas
+
 | Enunciado de evaluación | Obj. | Notas para el profesor |
 |--------------------------|------|-------------------------|
 | **1.2.1** Defina los términos siguientes: “hardware”, “software”, “periférico”, “red”, “recursos humanos”. | 1 | - |
