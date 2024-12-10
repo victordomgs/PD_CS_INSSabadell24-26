@@ -1,1 +1,7 @@
-🚧
+| Enunciado de evaluación | Obj. | Notas para el profesor |
+|--------------------------|------|-------------------------|
+| **1.1.1** Identifique el contexto para el cual se planifica un nuevo sistema. | 2 | Se deben tener en cuenta el alcance y las limitaciones de un nuevo sistema. Cuestiones organizativas relacionadas con la instalación de nuevos sistemas como roles de usuarios y tecnologías subyacentes. |
+| **1.1.2** Describa la necesidad de la gestión de cambios. | 2 | Los alumnos deben comprender que hay varios factores que deben gestionarse para que el cambio se realice correctamente. **S/E** La forma en que se gestiona el cambio puede tener efectos significativos en los empresarios y los empleados. |
+| **1.1.3** Resuma problemas de compatibilidad derivados de situaciones que incluyan sistemas heredados o fusiones de negocios. | 2 | **INT, S/E** Cuando las organizaciones interactúan, especialmente a nivel internacional, pueden surgir problemas de compatibilidad de software y diferencias de idioma. |
+| **1.1.4** Compare la puesta en práctica de sistemas que usan hardware cliente con el alojamiento remoto de sistemas. | 3 | Hay que tener en cuenta los beneficios y los inconvenientes del SaaS (Software como servicio). **S/E, INT, OBJ. GEN. 8** El host remoto podría estar en una zona horaria distinta y esto podría tener efectos significativos en los usuarios finales. |
+| **1.1.5** Evalúe procesos alternativos de instalación. | 3 | Los alumnos deben ser conscientes de los métodos de puesta en práctica y conversión. Ejecución en paralelo, ejecución de prueba, cambio de sistema directo y conversión en fases. **S/E** Los problemas de capacitación pueden requerir que las organizaciones reestructuren su mano de obra. |
