@@ -10,7 +10,7 @@
 
 </div>
 
-### Contenido:
+## Contenido:
 [1. Los sistemas de información](#1-los-sistemas-de-información)  
   - [1.1. Los datos, la información y el conocimiento](#11-los-datos-la-información-y-el-conocimiento)  
   - [1.2. La información en las organizaciones](#12-la-información-en-las-organizaciones)  
@@ -37,7 +37,7 @@
 
 <br>
 
-### 1. Los sistemas de información
+## 1. Los sistemas de información
 
 La información desempeña un papel cada vez más esencial en cualquier tipo de organización. Sin embargo, gestionarla adecuadamente es mucho más complicado de lo que podría parecer a simple vista. Algunas preguntas clave que pueden surgir son:
 
@@ -51,7 +51,7 @@ En una organización, cada día se presentan numerosas situaciones que requieren
 
 Por eso, una gestión de la información que sea adecuada, metódica y eficaz no es solo deseable, sino imprescindible. Sin un enfoque organizado para manejar la información, los problemas se acumulan, las decisiones se vuelven menos precisas y la capacidad de la organización para alcanzar sus objetivos se ve comprometida.
 
-#### 1.1. Los datos, la información y el conocimiento
+### 1.1. Los datos, la información y el conocimiento
 
 La **información** es la interpretación de un dato.
 
@@ -69,7 +69,7 @@ Disponer de conocimiento de las entidades permite actuar de forma directa o indi
     <p><em>Figura 1: Ciclo de vida de la toma de decisiones. Fuente: UOC</em></p>
   </div>
 
-#### 1.2. La información en las organizaciones
+### 1.2. La información en las organizaciones
 
 Hace algunos años, la capacidad industrial era considerada uno de los recursos más importantes para las empresas. Sin embargo, hoy en día, todo indica que la información ha tomado ese lugar como el recurso estratégico más valioso.
 
@@ -91,7 +91,7 @@ Las **actividades de apoyo** corresponderían al conjunto de procesos que ayudan
 
 Gracias al posicionamiento del sistema de información como apoyo de la cadena de valor y a la relación directa con el resto de actividades de la organización, la información puede fluir en todas direcciones, tanto para facilitar el funcionamiento o la operativa diaria de cada uno de los otros elementos de la cadena como para conocer el estado real de la organización aportando su valor allí donde haga falta.
 
-#### 1.3. El sistema de información en las organizaciones
+### 1.3. El sistema de información en las organizaciones
 
 Un **sistema de información (SI)** es un conjunto de elementos (personas, datos, procedimientos y recursos) que trabajan juntos para transformar datos en información útil y accesible para quienes la necesitan dentro de una organización. Este sistema permite que las personas tomen decisiones basadas en información confiable, lo que mejora la eficiencia y el conocimiento dentro de la organización.
 
@@ -108,18 +108,18 @@ Componentes tecnológicos:
 - **Físicos:** Hardware como ordenadores, servidores, impresoras o routers.
 - **Lógicos:** Software como sistemas operativos, aplicaciones o protocolos.
 
-### 2. La administració del sistema de información
+## 2. La administració del sistema de información
 
 El sistema de información no puede estar en ningún caso desligado de la estrategia de la organización. Al contrario, es el sistema de información el que tiene que implementar dicha estrategia materializando los objetivos y las líneas de actuación previstas para mantener la coherencia y la eficacia con la cadena de valor de la organización.
 
-#### 2.1. La estrategia y la tecnología de las organizaciones
+### 2.1. La estrategia y la tecnología de las organizaciones
 
 Todas las organizaciones persiguen algún objetivo, sin importar su envergadura, ámbito o sector de actividad. Los objetivos plasman la razón de ser de la organización, dado que representan la finalidad por la que existe y enmarcan todas las actividades y las actuaciones que se llevan a cabo.
 
 > [!IMPORTANT]  
 > La **estrategia** es una guía que desarrolla los objetivos de una organización atendiendo a su situación y contexto durante un período de tiempo acotado.
 
-#### 2.2. Los roles y los perfiles del sistema de información
+### 2.2. Los roles y los perfiles del sistema de información
 
 Un sistema de información (SI) necesita una supervisión especializada que asegure su alineación con la estrategia de la organización. La gestión de estos sistemas combina diferentes roles y perfiles con tareas específicas, desde la toma de decisiones estratégicas hasta la implementación técnica.
 
@@ -152,17 +152,17 @@ Aunque todos estos perfiles son útiles en algún momento, no todas las organiza
 > [!IMPORTANT]  
 > La **externalización o provisión externa de los servicios informáticos** es una opción por la que optan aquellas organizaciones que, en términos generales, no pueden o no quieren asumir las tareas, los costes o las responsabilidades que comporta asumir el servicio, delegándolos a un tercero.
 
-#### 2.3. El departamento de sistemas de información
+### 2.3. El departamento de sistemas de información
 
 El tradicional departamento de informática se convierte en el nuevo **departamentode sistemas de información o de tecnologías de la información**, intermediario natural para alinear estratégicamente la organización con la tecnología y que ahora, además de las funciones habituales, tiene competencias nuevas en torno a la dirección y la gestión de los sistemas de información de la organización.
 
-### 3. Las tipologías de sistemas de información
+## 3. Las tipologías de sistemas de información
 
-#### 3.1. Los sistemas de información integrados
+### 3.1. Los sistemas de información integrados
 
 Un sistema de información integrado es una solución informática que proporciona una buena parte de las funciones (si no todas) que requiere la cadena de valor de la organización (eventualmente, la cadena de valor extendida). 
 
-#### 3.2. Los sistemas de información operacionales
+### 3.2. Los sistemas de información operacionales
 
 Los sistemas de información operacionales (o transaccionales) tienen por objetivo dotar de funcionalidades que apoyen las operaciones (o transacciones) que se llevan a cabo en la cadena de valor de la organización.
 
@@ -172,15 +172,15 @@ Pueden haber muchas soluciones operacionales y con diferentes perspectivas. Veam
 -  El **CRM (Customer Relationship Management)** es un sistema orientado a gestionar y mejorar las relaciones con los clientes de una organización, centrándose en garantizar una relación rentable y sostenible a largo plazo.
 -  El **SCM (Supply Chain Management)** es un sistema diseñado para gestionar y optimizar toda la cadena de suministro de una organización, desde la adquisición de materias primas hasta la entrega de productos terminados al cliente final.
 
-#### 3.3. Los sistemas de información decisionales
+### 3.3. Los sistemas de información decisionales
 
 Los **sistemas de información decisionales** tienen por objetivo proveer información de la organización (sobre la actividad, el rendimiento, los flujos, etc.) para que una persona experta pueda extraer el conocimiento necesario para resolver situaciones o tomar decisiones adecuadas para la organización.
 
-### 4. La implantación del sistema de información
+## 4. La implantación del sistema de información
 
 El sistema de información es una pieza clave de la organización porque cubre buena parte (si no todos) los procesos de su cadena de valor. Además, también es un medio para materializar la estrategia de la organización y obtener información que puede ser determinante a la hora de tomar decisiones.
 
-#### 4.1. El proyecto de implantación
+### 4.1. El proyecto de implantación
 
 El proyecto de  implantación del sistema de información es la planificación detallada y estructurada de todas las tareas relativas a la implantación de la solución, desde el planteamiento inicial hasta la puesta en marcha con garantías de funcionamiento.
 
@@ -198,7 +198,7 @@ El proyecto de  implantación del sistema de información es la planificación d
     <p><em>Figura 3:  Actividades del proyecto de implantación de un sistema de información. Fuente: UOC</em></p>
   </div>
 
-#### 4.2. El mantenimiento y la adaptación de las soluciones
+### 4.2. El mantenimiento y la adaptación de las soluciones
 
 El mantenimiento y la adaptación de las soluciones tecnológicas en los sistemas de información son esenciales para garantizar su alineación con la estrategia corporativa y la cadena de valor de la organización. A continuación, se destacan los puntos clave:
 
@@ -209,7 +209,7 @@ El mantenimiento y la adaptación de las soluciones tecnológicas en los sistema
 - **Buenas prácticas:** Los proveedores experimentados suelen incorporar buenas prácticas del sector en sus soluciones, lo que puede mejorar la eficiencia y eficacia organizacional si se adoptan correctamente.
 - **Ciclo de mejora continua:** Es indispensable implementar un ciclo estratégico de mejora para asegurar que la solución evolucione junto con la organización y su entorno, manteniendo su competitividad.
 
-#### 4.3. La evolución y la migración de las soluciones
+### 4.3. La evolución y la migración de las soluciones
 
 Las soluciones implantadas no son eternas, incluso si se implementan y mantienen cuidadosamente. Cambios inevitables en la organización, el entorno, errores humanos, imprevistos o la obsolescencia tecnológica obligan a realizar ajustes, mejoras o incluso reemplazos en los sistemas de información. Aspectos clave:
 
@@ -237,7 +237,7 @@ La evolución y migración de soluciones tecnológicas en una organización no s
 4. **Transmisiones de datos incompletas:** Durante la migración, es común que parte de los datos no se transfieran debido a fallos en las conexiones, interrupciones en los procesos, o inconsistencias en los datos originales.
 5. **Convenciones internacionales:** Variaciones en el formato, como "DD/MM/AAAA" frente a "MM/DD/AAAA" por ejemplo.
 
-#### 4.4. La transformación digital y las tecnologías subyacentes
+### 4.4. La transformación digital y las tecnologías subyacentes
 
 > [!IMPORTANT]
 > La **transformación digital** es el posicionamiento de la información en el centro de la organización, reconvirtiendo sus objetivos y procesos para explotar de forma completa y eficaz la tecnología y el procesamiento automático.
@@ -254,7 +254,7 @@ La adopción de tecnologías de vanguardia suele ser un pilar fundamental en la 
 > 
 > El **sistema de información** es la clave para materializar la transformación digital porque plasma el ciclo de vida del conocimiento que una organización necesita para llevar a cabo su estrategia.
 
-### 5. La seguridad de la información
+## 5. La seguridad de la información
 
 La seguridad de la información es esencial para proteger los datos internos y externos de una organización, tanto por su valor estratégico como por el cumplimiento de normativas como el RGPD. Implica garantizar confidencialidad, integridad, disponibilidad, autenticidad y no repudio mediante medidas tecnológicas y políticas organizacionales. A continuación, los puntos clave:
 
