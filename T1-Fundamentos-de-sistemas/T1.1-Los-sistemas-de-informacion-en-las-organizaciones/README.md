@@ -274,3 +274,7 @@ La seguridad de la información es esencial para proteger los datos internos y e
 - Activa y pasiva: Prevención de incidentes y minimización de daños si ocurren.
 
 **Cumplimiento legal:** La protección de datos debe alinearse con leyes y reglamentos internacionales como el RGPD, estableciendo políticas, auditorías y controles para salvaguardar la información.
+
+---
+
+Material extraído de la UOC(https://openaccess.uoc.edu/bitstream/10609/148041/2/IntroduccionALosSistemasDeInformacionEnLasOrganizaciones.pdf).
