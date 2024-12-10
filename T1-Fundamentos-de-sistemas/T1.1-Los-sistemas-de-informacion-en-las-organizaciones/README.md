@@ -277,4 +277,4 @@ La seguridad de la información es esencial para proteger los datos internos y e
 
 ---
 
-Material extraído de la UOC(https://openaccess.uoc.edu/bitstream/10609/148041/2/IntroduccionALosSistemasDeInformacionEnLasOrganizaciones.pdf).
+Material extraído de la [UOC](https://openaccess.uoc.edu/bitstream/10609/148041/2/IntroduccionALosSistemasDeInformacionEnLasOrganizaciones.pdf).
