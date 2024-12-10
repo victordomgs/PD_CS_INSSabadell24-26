@@ -30,7 +30,7 @@
   - [4.1. El proyecto de implantación](#41-el-proyecto-de-implantación)  
   - [4.2. El mantenimiento y la adaptación de las soluciones](#42-el-mantenimiento-y-la-adaptación-de-las-soluciones)  
   - [4.3. La evolución y la migración de las soluciones](#43-la-evolución-y-la-migración-de-las-soluciones)  
-  - [4.4. El reto de la transformación digital](#44-el-reto-de-la-transformación-digital)  
+  - [4.4. La transformación digital y las tecnologías subyacentes](#44-la-transformación-digital-y-las-tecnologías-subyacentes)  
 
 [5. La seguridad de la información](#5-la-seguridad-de-la-información)  
   - [5.1. La protección de la información](#51-la-protección-de-la-información)  
