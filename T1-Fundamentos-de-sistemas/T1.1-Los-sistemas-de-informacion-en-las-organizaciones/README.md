@@ -233,11 +233,11 @@ Las soluciones implantadas no son eternas, incluso si se implementan y mantienen
 
 La evolución y migración de soluciones tecnológicas en una organización no solo implica la adopción de nuevas herramientas, sino también superar una serie de obstáculos técnicos relacionados con la transferencia, integración y adaptación de datos y procesos existentes. Entre los principales desafíos se encuentran:
 
-1. Formatos de archivo incompatibles: Un sistema puede utilizar archivos en formato XML mientras que el nuevo sistema requiere JSON. Sin herramientas de conversión adecuadas, esto puede complicar la transferencia de datos.
-2. Estructuras de datos complejas o distintas: En un sistema antiguo, los datos de clientes pueden estar distribuidos en varias tablas, mientras que en el nuevo sistema están consolidados en una única tabla con un formato diferente.
-3. Reglas de validación que no coinciden: Un sistema podría requerir códigos postales de cinco dígitos, mientras que otro permite códigos de seis. Si los datos no cumplen las nuevas reglas, podrían ser rechazados.
-4. Transmisiones de datos incompletas: Durante la migración, es común que parte de los datos no se transfieran debido a fallos en las conexiones, interrupciones en los procesos, o inconsistencias en los datos originales.
-5. Convenciones internacionales: Variaciones en el formato, como "DD/MM/AAAA" frente a "MM/DD/AAAA" por ejemplo.
+1. **Formatos de archivo incompatibles:** Un sistema puede utilizar archivos en formato XML mientras que el nuevo sistema requiere JSON. Sin herramientas de conversión adecuadas, esto puede complicar la transferencia de datos.
+2. **Estructuras de datos complejas o distintas:** En un sistema antiguo, los datos de clientes pueden estar distribuidos en varias tablas, mientras que en el nuevo sistema están consolidados en una única tabla con un formato diferente.
+3. **Reglas de validación que no coinciden:** Un sistema podría requerir códigos postales de cinco dígitos, mientras que otro permite códigos de seis. Si los datos no cumplen las nuevas reglas, podrían ser rechazados.
+4. **Transmisiones de datos incompletas:** Durante la migración, es común que parte de los datos no se transfieran debido a fallos en las conexiones, interrupciones en los procesos, o inconsistencias en los datos originales.
+5. **Convenciones internacionales:** Variaciones en el formato, como "DD/MM/AAAA" frente a "MM/DD/AAAA" por ejemplo.
 
 #### 4.4. La transformación digital y las tecnologías subyacentes
 
