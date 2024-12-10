@@ -213,9 +213,7 @@ El mantenimiento y la adaptación de las soluciones tecnológicas en los sistema
 
 #### 4.3. La evolución y la migración de las soluciones
 
-Las soluciones implantadas no son eternas, incluso si se implementan y mantienen cuidadosamente. Cambios inevitables en la organización, el entorno, errores humanos, imprevistos o la obsolescencia tecnológica obligan a realizar ajustes, mejoras o incluso reemplazos en los sistemas de información.
-
-**Aspectos clave:**
+Las soluciones implantadas no son eternas, incluso si se implementan y mantienen cuidadosamente. Cambios inevitables en la organización, el entorno, errores humanos, imprevistos o la obsolescencia tecnológica obligan a realizar ajustes, mejoras o incluso reemplazos en los sistemas de información. Aspectos clave:
 
 **Mantenimiento:**
 - Implica actualizar, corregir errores y mejorar funcionalidades de las herramientas tecnológicas que soportan el sistema de información.
