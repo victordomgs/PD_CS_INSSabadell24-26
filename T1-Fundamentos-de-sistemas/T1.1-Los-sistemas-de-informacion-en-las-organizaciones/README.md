@@ -253,5 +253,6 @@ La adopción de tecnologías de vanguardia suele ser un pilar fundamental en la 
 
 > [!IMPORTANT]
 > La **transformación digital** redefine los supuestos que regían a la organización y la dirige hacia un nuevo modelo plenamente basado en el conocimiento y en las tecnologías de la información y la comunicación (actuales y futuras).
+> 
 > El **sistema de información** es la clave para materializar la transformación digital porque plasma el ciclo de vida del conocimiento que una organización necesita para llevar a cabo su estrategia.
 
