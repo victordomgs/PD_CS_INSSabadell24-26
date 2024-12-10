@@ -191,7 +191,7 @@ El proyecto de  implantación del sistema de información es la planificación d
 
 > [!NOTE]  
 > En paralelo a las actividades asociadas directamente con la solución tecnológica, las tareas de **gestión del cambio** tienen que garantizar el éxito del proyecto con acciones de comunicación, de gestión de los implicados y de formación de los usuarios.
-> Otra actividad en paralelo es la **gestión del proyecto**, que va más allá de planificarlo inicialmente y considera también la coordinación de los recursos asignados, el seguimiento de la evolución de las tareas Y la gestión de los imprevistos que puedan surgir.
+> Otra actividad en paralelo es la **gestión del proyecto**, que va más allá de planificarlo inicialmente y considera también la coordinación de los recursos asignados, el seguimiento de la evolución de las tareas y la gestión de los imprevistos que puedan surgir.
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Los sistemas de información en las organizaciones" width="683" height="auto"/>
