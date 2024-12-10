@@ -32,9 +32,7 @@
   - [4.3. La evolución y la migración de las soluciones](#43-la-evolución-y-la-migración-de-las-soluciones)  
   - [4.4. La transformación digital y las tecnologías subyacentes](#44-la-transformación-digital-y-las-tecnologías-subyacentes)  
 
-[5. La seguridad de la información](#5-la-seguridad-de-la-información)  
-  - [5.1. La protección de la información](#51-la-protección-de-la-información)  
-  - [5.2. La seguridad en los sistemas de información](#52-la-seguridad-en-los-sistemas-de-información)  
+[5. La seguridad de la información](#5-la-seguridad-de-la-información) 
 
 
 <br>
@@ -256,3 +254,23 @@ La adopción de tecnologías de vanguardia suele ser un pilar fundamental en la 
 > 
 > El **sistema de información** es la clave para materializar la transformación digital porque plasma el ciclo de vida del conocimiento que una organización necesita para llevar a cabo su estrategia.
 
+### 5. La seguridad de la información
+
+La seguridad de la información es esencial para proteger los datos internos y externos de una organización, tanto por su valor estratégico como por el cumplimiento de normativas como el RGPD. Implica garantizar confidencialidad, integridad, disponibilidad, autenticidad y no repudio mediante medidas tecnológicas y políticas organizacionales. A continuación, los puntos clave:
+
+**Protección de la información:**
+- Interna: Información propia de la organización, como secretos industriales o conocimientos estratégicos.
+- Externa: Datos de terceros (clientes, proveedores) que deben manejarse bajo estrictas normativas de protección.
+
+**Seguridad en los sistemas de información:**
+- Confidencialidad: Solo las entidades autorizadas pueden acceder a los datos (usando cifrado).
+- Integridad: Garantiza que la información no ha sido alterada sin autorización.
+- Disponibilidad: Asegura que los datos están accesibles para usuarios autorizados, evitando interrupciones no deseadas.
+- Autenticidad: Verifica que los datos son genuinos y provienen de fuentes confiables.
+- No repudio: Garantiza que las partes involucradas no puedan negar su participación en una transacción.
+
+**Medidas de seguridad:**
+- Seguridad por capas: Combinación de mecanismos físicos, lógicos y organizativos para reducir riesgos.
+- Activa y pasiva: Prevención de incidentes y minimización de daños si ocurren.
+
+**Cumplimiento legal:** La protección de datos debe alinearse con leyes y reglamentos internacionales como el RGPD, estableciendo políticas, auditorías y controles para salvaguardar la información.
