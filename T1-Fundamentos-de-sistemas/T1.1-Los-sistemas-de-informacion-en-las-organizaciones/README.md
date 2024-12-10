@@ -108,7 +108,7 @@ Componentes tecnológicos:
 - **Físicos:** Hardware como ordenadores, servidores, impresoras o routers.
 - **Lógicos:** Software como sistemas operativos, aplicaciones o protocolos.
 
-## 2. La administració del sistema de información
+## 2. La administración del sistema de información
 
 El sistema de información no puede estar en ningún caso desligado de la estrategia de la organización. Al contrario, es el sistema de información el que tiene que implementar dicha estrategia materializando los objetivos y las líneas de actuación previstas para mantener la coherencia y la eficacia con la cadena de valor de la organización.
 
