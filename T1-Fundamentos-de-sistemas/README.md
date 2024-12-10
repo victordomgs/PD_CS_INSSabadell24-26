@@ -9,7 +9,7 @@ Las notas que siguen a algunos enunciados de evaluación sirven como orientació
 
 ## Los sistemas en las organizaciones
 
-| Enunciado de evaluación | Obj. | Notas para el profesor |
+| Enunciado de evaluación | Obj. | Notas |
 |--------------------------|------|-------------------------|
 | **1.1.1** Identifique el contexto para el cual se planifica un nuevo sistema. | 2 | Se deben tener en cuenta el alcance y las limitaciones de un nuevo sistema. Cuestiones organizativas relacionadas con la instalación de nuevos sistemas como roles de usuarios y tecnologías subyacentes. |
 | **1.1.2** Describa la necesidad de la gestión de cambios. | 2 | Los alumnos deben comprender que hay varios factores que deben gestionarse para que el cambio se realice correctamente. **S/E** La forma en que se gestiona el cambio puede tener efectos significativos en los empresarios y los empleados. |
@@ -30,12 +30,11 @@ Las notas que siguen a algunos enunciados de evaluación sirven como orientació
 
 ## Fundamentos de diseño de sistemas
 
-| Enunciado de evaluación | Obj. | Notas para el profesor |
+| Enunciado de evaluación | Obj. | Notas |
 |--------------------------|------|-------------------------|
 | **1.2.1** Defina los términos siguientes: “hardware”, “software”, “periférico”, “red”, “recursos humanos”. | 1 | - |
 | **1.2.2** Describa las funciones que puede tener un computador en un mundo interconectado. | 2 | Entre ellos: cliente, servidor, servidor de correo electrónico, servidor DNS, encaminador y cortafuegos. |
 | **1.2.3** Discuta las cuestiones éticas y sociales asociadas a un mundo interconectado. | 3 | **OBJ. GEN. 8, OBJ. GEN. 9** Apreciar las cuestiones sociales y éticas asociadas con los desarrollos continuos en los sistemas informáticos. |
-| Enunciado de evaluación | Obj. | Notas para el profesor |
 | **1.2.4** Identifique las partes interesadas pertinentes a la hora de planificar un nuevo sistema. | 2 | **S/E** Se debe tener en cuenta el papel del usuario final al planificar un nuevo sistema. Identificar cuáles son las partes interesadas pertinentes. **TdC** Utilitarismo, el mayor beneficio para la mayoría. Los medios justifican el fin. |
 | **1.2.5** Describa métodos de obtener requisitos de las partes interesadas. | 2 | Se incluyen encuestas, entrevistas y observación directa. **OBJ. GEN. 5** Necesidad de una colaboración eficaz para obtener información adecuada de las partes interesadas. **S/E** La cuestión de la privacidad de las partes interesadas. |
 | **1.2.6** Describa técnicas adecuadas para obtener la información necesaria para llegar a una solución funcional. | 2 | Examinar sistemas actuales, productos competidores, capacidades organizativas y búsquedas en publicaciones. **S/E** Propiedad intelectual. |
