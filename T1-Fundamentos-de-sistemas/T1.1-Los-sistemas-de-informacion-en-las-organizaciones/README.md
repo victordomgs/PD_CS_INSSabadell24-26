@@ -25,7 +25,6 @@
   - [3.1. Los sistemas de información integrados](#31-los-sistemas-de-información-integrados)  
   - [3.2. Los sistemas de información operacionales](#32-los-sistemas-de-información-operacionales)  
   - [3.3. Los sistemas de información decisionales](#33-los-sistemas-de-información-decisionales)  
-  - [3.4. Otras soluciones](#34-otras-soluciones)  
 
 [4. La implantación del sistema de información](#4-la-implantación-del-sistema-de-información)  
   - [4.1. El proyecto de implantación](#41-el-proyecto-de-implantación)  
@@ -68,7 +67,7 @@ Disponer de conocimiento de las entidades permite actuar de forma directa o indi
 - La ejecución de mlas actuaciones necesarias de acuerdo con las decisiones que se han tomado.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%201.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Estructura de un ordenador" width="421" height="auto"/>
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%201.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Los sistemas de información en las organizaciones" width="421" height="auto"/>
     <p><em>Figura 1: Ciclo de vida de la toma de decisiones. Fuente: UOC</em></p>
   </div>
 
@@ -88,7 +87,7 @@ Las **actividades primarias** estarían formadas por los procesos básicos de la
 Las **actividades de apoyo** corresponderían al conjunto de procesos que ayudan a las actividades primarias, como podrían ser el abastecimiento de los materiales, la gestión de la infraestructura organizativa (por ejemplo, la planificación, la contabilidad, etc.), la gestión de los recursos humanos, el desarrollo de la tecnología o de innovaciones, etc.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%202.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Estructura de un ordenador" width="805" height="auto"/>
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%202.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Los sistemas de información en las organizaciones" width="805" height="auto"/>
     <p><em>Figura 2: Cadena de valor de Porter. Fuente: UOC</em></p>
   </div>
 
@@ -170,3 +169,91 @@ Un sistema de información integrado es una solución informática que proporcio
 Los sistemas de información operacionales (o transaccionales) tienen por objetivo dotar de funcionalidades que apoyen las operaciones (o transacciones) que se llevan a cabo en la cadena de valor de la organización.
 
 Pueden haber muchas soluciones operacionales y con diferentes perspectivas. Veamos algunas de las más habituales:
+
+-  El **ERP (Enterprise Resource Planning)** es un sistema integral que permite gestionar y optimizar las actividades principales de una organización. Incluye módulos que abarcan áreas como compras, ventas, almacén, producción, recursos humanos y contabilidad.
+-  El **CRM (Customer Relationship Management)** es un sistema orientado a gestionar y mejorar las relaciones con los clientes de una organización, centrándose en garantizar una relación rentable y sostenible a largo plazo.
+-  El **SCM (Supply Chain Management)** es un sistema diseñado para gestionar y optimizar toda la cadena de suministro de una organización, desde la adquisición de materias primas hasta la entrega de productos terminados al cliente final.
+
+#### 3.3. Los sistemas de información decisionales
+
+Los **sistemas de información decisionales** tienen por objetivo proveer información de la organización (sobre la actividad, el rendimiento, los flujos, etc.) para que una persona experta pueda extraer el conocimiento necesario para resolver situaciones o tomar decisiones adecuadas para la organización.
+
+### 4. La implantación del sistema de información
+
+El sistema de información es una pieza clave de la organización porque cubre buena parte (si no todos) los procesos de su cadena de valor. Además, también es un medio para materializar la estrategia de la organización y obtener información que puede ser determinante a la hora de tomar decisiones.
+
+#### 4.1. El proyecto de implantación
+
+El proyecto de  implantación del sistema de información es la planificación detallada y estructurada de todas las tareas relativas a la implantación de la solución, desde el planteamiento inicial hasta la puesta en marcha con garantías de funcionamiento.
+
+1. La primera actividad que hay que llevar a cabo es la **adopción del sistema**. La organización debe evaluar la necesidad de implantar el sistema de información, teniendo en cuenta tanto los beneficios que puede aportar la integración de los procesos y el apoyo a la cadena de valor de la organización
+2. Una vez se ha decidido adoptar el sistema de información y poner en marcha formalmente el proyecto, la actividad siguiente es la **selección de la solución**.
+3. Con la tecnología seleccionada, ya se puede emprender la **implantación de la solución**. Las principales tareas de esta actividad se focalizan en la instalación y la configuración del hardware y del software.
+4. Finalmente, con la **puesta en marcha de la solución** se inicia la última actividad, dedicada principalmente a estabilizar el funcionamiento, por un lado, y a evaluar tanto el proyecto como el sistema de información implantado, por el otro.
+
+> [!NOTE]  
+> En paralelo a las actividades asociadas directamente con la solución tecnológica, las tareas de **gestión del cambio** tienen que garantizar el éxito del proyecto con acciones de comunicación, de gestión de los implicados y de formación de los usuarios.
+> Otra actividad en paralelo es la **gestión del proyecto**, que va más allá de planificarlo inicialmente y considera también la coordinación de los recursos asignados, el seguimiento de la evolución de las tareas Y la gestión de los imprevistos que puedan surgir.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Los sistemas de información en las organizaciones" width="683" height="auto"/>
+    <p><em>Figura 3:  Actividades del proyecto de implantación de un sistema de información. Fuente: UOC</em></p>
+  </div>
+
+#### 4.2. El mantenimiento y la adaptación de las soluciones
+
+El mantenimiento y la adaptación de las soluciones tecnológicas en los sistemas de información son esenciales para garantizar su alineación con la estrategia corporativa y la cadena de valor de la organización. A continuación, se destacan los puntos clave:
+
+- **Análisis de la organización:** Es fundamental realizar un diagnóstico exhaustivo de la organización, su contexto, actividades, y recursos para garantizar decisiones bien fundamentadas.
+- **Elección de la solución tecnológica:** La solución debe alinearse con las necesidades operativas y estratégicas de la organización, considerando factores como la modularidad, capacidad de integración, soporte técnico, y trayectoria del proveedor.
+- **Configuración y parametrización:** Las soluciones deben adaptarse a las particularidades de cada organización para optimizar su funcionamiento y diferenciar su propuesta de valor.
+- **Adaptación organizacional:** En casos donde la tecnología no puede ajustarse completamente, la organización debe adaptar algunos procesos internos para integrarlos de manera efectiva en el sistema.
+- **Buenas prácticas:** Los proveedores experimentados suelen incorporar buenas prácticas del sector en sus soluciones, lo que puede mejorar la eficiencia y eficacia organizacional si se adoptan correctamente.
+- **Ciclo de mejora continua:** Es indispensable implementar un ciclo estratégico de mejora para asegurar que la solución evolucione junto con la organización y su entorno, manteniendo su competitividad.
+
+#### 4.3. La evolución y la migración de las soluciones
+
+Las soluciones implantadas no son eternas, incluso si se implementan y mantienen cuidadosamente. Cambios inevitables en la organización, el entorno, errores humanos, imprevistos o la obsolescencia tecnológica obligan a realizar ajustes, mejoras o incluso reemplazos en los sistemas de información.
+
+**Aspectos clave:**
+
+**Mantenimiento:**
+- Implica actualizar, corregir errores y mejorar funcionalidades de las herramientas tecnológicas que soportan el sistema de información.
+- Es fundamental para garantizar la seguridad, ya que corrige vulnerabilidades existentes.
+
+**Evolución de las soluciones:**
+- A medida que la organización cambia (estrategias, normativas, etc.), las soluciones deben reflejar esos cambios.
+- Puede requerir la modificación de procesos internos, nuevas tareas o ajustes en la operativa de los usuarios.
+
+**Ampliación del sistema:**
+- Cuando las funcionalidades actuales no son suficientes, es necesario ampliar el sistema con nuevos módulos, desarrollos a medida o integraciones con otras soluciones.
+- La elección del proveedor e implantador es clave para garantizar esta capacidad de ampliación.
+
+**Migración:**
+- Cuando las soluciones actuales dejan de ser competitivas, es necesario reemplazarlas por nuevas herramientas.
+- Las razones comunes incluyen la obsolescencia tecnológica o la incapacidad de las soluciones existentes para seguir el ritmo de la organización.
+
+La evolución y migración de soluciones tecnológicas en una organización no solo implica la adopción de nuevas herramientas, sino también superar una serie de obstáculos técnicos relacionados con la transferencia, integración y adaptación de datos y procesos existentes. Entre los principales desafíos se encuentran:
+
+1. Formatos de archivo incompatibles: Un sistema puede utilizar archivos en formato XML mientras que el nuevo sistema requiere JSON. Sin herramientas de conversión adecuadas, esto puede complicar la transferencia de datos.
+2. Estructuras de datos complejas o distintas: En un sistema antiguo, los datos de clientes pueden estar distribuidos en varias tablas, mientras que en el nuevo sistema están consolidados en una única tabla con un formato diferente.
+3. Reglas de validación que no coinciden: Un sistema podría requerir códigos postales de cinco dígitos, mientras que otro permite códigos de seis. Si los datos no cumplen las nuevas reglas, podrían ser rechazados.
+4. Transmisiones de datos incompletas: Durante la migración, es común que parte de los datos no se transfieran debido a fallos en las conexiones, interrupciones en los procesos, o inconsistencias en los datos originales.
+5. Convenciones internacionales: Variaciones en el formato, como "DD/MM/AAAA" frente a "MM/DD/AAAA" por ejemplo.
+
+#### 4.4. La transformación digital y las tecnologías subyacentes
+
+> [!IMPORTANT]
+> La **transformación digital** es el posicionamiento de la información en el centro de la organización, reconvirtiendo sus objetivos y procesos para explotar de forma completa y eficaz la tecnología y el procesamiento automático.
+
+La adopción de tecnologías de vanguardia suele ser un pilar fundamental en la transformación digital, proporcionando a la organización una ventaja competitiva única que puede traducirse en resultados significativos. Algunas tecnologías subyacentes y útiles para las organizaciones: 
+
+- La **computación en la nube** se basa en la ubicuidad de los servicios, una de las mayores ventajas que ha aportado la democratización de internet, rompiendo los esquemas tradicionales existentes durante mucho tiempo.
+- Junto con la ciencia de datos, las **tecnologías basadas en la inteligencia artificial o de aprendizaje automático** (Machine Learning, ML) pueden ayudar a obtener un conocimiento inédito y profundizado de la realidad, esencial para resolver situaciones y tomar decisiones.
+- La **movilidad** es, sin duda, otra de las tecnologías en pleno desarrollo gracias a la adopción mayoritaria de dispositivos móviles, que cada vez más permiten realizar todo tipo de tareas, dentro y fuera de la organización.
+- Otras tecnologías tienen una tendencia evolutiva sólida al proporcionar funcionalidades alternativas o complementarias a las actuales. Es el caso del **internet de las cosas** (Internet of Things, IoT), la **tecnología de cadena de bloques** (Blockchain) o la **realidad virtual o aumentada**.
+
+> [!IMPORTANT]
+> La **transformación digital** redefine los supuestos que regían a la organización y la dirige hacia un nuevo modelo plenamente basado en el conocimiento y en las tecnologías de la información y la comunicación (actuales y futuras).
+> El **sistema de información** es la clave para materializar la transformación digital porque plasma el ciclo de vida del conocimiento que una organización necesita para llevar a cabo su estrategia.
+
