@@ -9,6 +9,7 @@
 
 
 </div>
+
 ## Contenido:
 [1. Introducción a las puertas lógicas](#1-introducción-a-las-puertas-lógicas)  
   - [1.1. ¿Qué son las puertas lógicas?](#11-que-son-las-puertas-lógicas)  
