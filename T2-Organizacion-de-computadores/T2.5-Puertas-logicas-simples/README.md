@@ -9,4 +9,12 @@
 
 
 </div>
+## Contenido:
+[1. Introducción a las puertas lógicas](#1-introducción-a-las-puertas-lógicas)  
+  - [1.1. ¿Qué son las puertas lógicas?](#11-que-son-las-puertas-lógicas)  
 
+## 1. Introducción a las puertas lógicas
+
+### 1.1. ¿Qué son las puertas lógicas?
+
+Un **circuito lógico** es un sistema compuesto por señales de entrada, dispositivos electrónicos que procesan esas señales, y señales de salida que son el resultado de dichas operaciones. Estas señales son binarias, lo que significa que solo pueden tomar dos valores: 0 (tensión baja) y 1 (tensión alta). Una señal está activa cuando su valor es 1.
