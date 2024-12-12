@@ -14,7 +14,7 @@
 [1. Introducción a las puertas lógicas](#1-introducción-a-las-puertas-lógicas)  
   - [1.1. ¿Qué son las puertas lógicas?](#11-que-son-las-puertas-lógicas)
   - [1.2. Álgebra de Boole](#12-álgebra-de-boole)
-  - [1.3. Teorema del álgebra de Boole](#13-teorema-del-algebra-de-Boole)
+  - [1.3. Teorema del álgebra de Boole](#13-teorema-del-álgebra-de-Boole)
 
 ## 1. Introducción a las puertas lógicas
 
