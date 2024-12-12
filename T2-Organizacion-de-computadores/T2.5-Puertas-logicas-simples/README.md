@@ -153,6 +153,6 @@ x·0=0: AND con 0 siempre da 0.
 ```
 
 > [!WARNING]  
-> En las expresiones algebraicas utilizamos los paréntesis de la misma forma que estamos acostumbrados a hacerlo en aritmética entera; por ejemplo, la expresión "x+y·z" es lo mismo que la "x+(y·z)" y es diferente que "(x+y)·z".
+> En las expresiones algebraicas utilizamos los paréntesis de la misma forma que estamos acostumbrados a hacerlo en aritmética tradicional; por ejemplo, la expresión "x+y·z" es lo mismo que la "x+(y·z)" y es diferente que "(x+y)·z".
 > 
 > Para negar una expresión entera la pondremos entre paréntesis y, por tanto, "x+y'" es diferente de "(x+y)'".
