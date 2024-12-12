@@ -92,8 +92,40 @@ Estas operaciones booleanas básicas se pueden definir escribiendo el resultado 
   </div>
 
 Los **axiomas** que describen el comportamiento de las operaciones booleanas son los siguientes:
-1. La propiedad conmutativa: el orden de las variables no importa.
+1. **La propiedad conmutativa:** el orden de las variables no importa.
 ```
 x+y=y+x
 x⋅y=y⋅x
 ```
+2. **La propiedad asociativa:** el agrupamiento de las variables no afecta al resultado.
+```
+x+(y+z)=(x+y)+z
+x⋅(y⋅z)=(x⋅y)⋅z
+```
+3. **La propiedad distributiva:** cómo distribuir una variable entre otras en las operaciones.
+```
+x⋅(y+z)=(x⋅y)+(x⋅z)
+x+(y⋅z)=(x+y)⋅(x+z)
+```
+4. **Elementos neutros:** 0 es el elemento neutro de OR y 1 es el elemento neutro de AND.
+```
+x+0=x
+x⋅1=x
+```
+5. **Complementación:** el complemento de una variable (x') es su inverso lógico.
+```
+x+x'=1
+x⋅x'=0
+```
+A partir de estos axiomas, se puede demostrar una serie de leyes o teoremas muy útiles para trabajar con expresiones algebraicas booleanas.
+
+**Teorema del álgebra de Boole**
+Si "x", "y" y "z" son variables lógicas, se cumplen las siguientes leyes:
+
+1. Principio de dualidad: establece que cualquier identidad válida siguie siendo verdadera si:
+   Se intercambian las operaciones + (OR) y · (AND).
+   <br>
+   Se intercambian los valores constantes 0 y 1.
+2. Ley de idempotencia:
+   Si un valor lógico se OR con sí mismo, el resultado es el mismo valor.
+   Si un valor lógico se AND con sí mismo, el resultado es el mismo valor.
