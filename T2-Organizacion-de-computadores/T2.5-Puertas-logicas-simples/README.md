@@ -122,10 +122,37 @@ A partir de estos axiomas, se puede demostrar una serie de leyes o teoremas muy 
 **Teorema del álgebra de Boole**
 Si "x", "y" y "z" son variables lógicas, se cumplen las siguientes leyes:
 
-1. Principio de dualidad: establece que cualquier identidad válida siguie siendo verdadera si:
-   Se intercambian las operaciones + (OR) y · (AND).
-   <br>
-   Se intercambian los valores constantes 0 y 1.
-2. Ley de idempotencia:
-   Si un valor lógico se OR con sí mismo, el resultado es el mismo valor.
-   Si un valor lógico se AND con sí mismo, el resultado es el mismo valor.
+1. **Principio de dualidad:** establece que cualquier identidad válida siguie siendo verdadera si:
+```
+Se intercambian las operaciones + (OR) y · (AND).
+Se intercambian los valores constantes 0 y 1.
+```
+2. **Ley de idempotencia:**
+```
+Si un valor lógico se OR con sí mismo, el resultado es el mismo valor.
+Si un valor lógico se AND con sí mismo, el resultado es el mismo valor.
+```
+3. **Ley de absorción:** se simplifican expresiones lógicas eliminando redundacias.
+```
+x+(x⋅y)=x: Si "x" ya está presente, cualquier AND adicional con "y" no cambia el resultado.
+x⋅(x+y)=x: Si "x" ya está presente, cualquier OR adicional con "y" no cambia el resultado.
+```
+4. **Ley de dominancia:** estas leyes reflejan el impacto de los valores extremos 1 y 0 en OR y AND:
+```
+x+1=1: OR con 1 siempre da 1.
+x·0=0: AND con 0 siempre da 0.
+```
+5. **Ley de involución:** la doble negación de un valor lógico devuelve el valor original.
+```
+(x')'=x
+```
+6. **Leyes de Morgan:** estas leyes transforman una expresión con AND en una con OR (y viceversa) cuando se aplica la negación:
+```
+(x+y)'=x'·y'
+(x·y)'=x'+y'
+```
+
+> [!WARNING]  
+> En las expresiones algebraicas utilizamos los paréntesis de la misma forma que estamos acostumbrados a hacerlo en aritmética entera; por ejemplo, la expresión "x+y·z" es lo mismo que la "x+(y·z)" y es diferente que "(x+y)·z".
+> 
+> Para negar una expresión entera la pondremos entre paréntesis y, por tanto, "x+y'" es diferente de "(x+y)'".
