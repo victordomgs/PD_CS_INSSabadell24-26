@@ -15,7 +15,7 @@
 <br>
 [T2.4 Representación de la información](T2-Organizacion-de-computadores/T2.4-Representacion-de-la-informacion/)
 <br>
-[T2.5 Álgebra lógica](T2-Organizacion-de-computadores/T2.5-Algebra-logica/)
+[T2.5 Puertas lógicas simples](T2-Organizacion-de-computadores/T2.5-Puertas-logicas-simples/)
 <br>
 <br>
 ### T3-Redes
