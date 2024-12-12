@@ -79,5 +79,7 @@ Las **operaciones booleanas** básicas son las siguientes:
 
 > [!IMPORTANT]  
 > La **negación** o complementación o NOT, que corresponde a la partícula no y se representa con una comilla simple (’). Así, la expresión "x’" denota la negación de la variable "x", y se lee “no x”.
+> 
 > El **producto lógico** o **AND**, que corresponde a la conjunción "y" de la lógica y se representa con el símbolo “·”. Así, si "x" e "y" son variables lógicas, la expresión "x · y" denota su producto lógico y se lee “x e y”.
+> 
 > La **suma lógica** u **OR**, que corresponde a la conjunción "o" y se representa con el símbolo “+”. Así, la expresión “x + y” denota la suma lógica de las variables "x" e "y", y se lee “x o y”.
