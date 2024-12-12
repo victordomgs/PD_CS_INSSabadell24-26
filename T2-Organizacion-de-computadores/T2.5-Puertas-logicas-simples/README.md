@@ -36,5 +36,34 @@ Tomamos un circuito que tenga sólo una señal de entrada (que llamamos x), un d
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%202.%20Puertas%20l%C3%B3gicas%20simples.png" alt="Puertas lógicas simples" width="361" height="auto"/>
-    <p><em>Figura 1: Circuito lógico. Fuente: UOC</em></p>
+    <p><em>Figura 2: Circuito lógico con una entrada. Fuente: UOC</em></p>
   </div>
+
+Dado que tanto x como z sólo pueden valer 0 ó 1, sólo existen cuatro dispositivos electrónicos diferentes que pueden interconectar x y z:
+- Un dispositivo que haga que la salida z valga siempre 0 (este dispositivo consistiría en conectar la salida con una fuente de tensión de 0 voltios).
+- Un dispositivo que haga que la salida valga siempre lo mismo que la entrada x (este dispositivo consistiría en conectar directamente la salida con la entrada).
+- Un dispositivo que haga que la salida valga siempre lo contrario de lo que vale la entrada (este dispositivo consistiría en un inversor del nivel de tensión).
+- Un dispositivo que haga que la salida valga siempre 1 (este dispositivo consistiría en conectar la salida directamente con la tensión de alimentación).
+
+En otras palabras, podemos decir que sólo hay cuatro funciones lógicas que tengan una sola variable de entrada, tal como se muestra en la figura 3:
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Puertas%20l%C3%B3gicas%20simples.png" alt="Puertas lógicas simples" width="476" height="auto"/>
+    <p><em>Figura 3: Funciones lógicas sobre el circuito lógico de la Figura 2. Fuente: UOC</em></p>
+  </div>
+
+Tomamos ahora un circuito que tenga dos señales de entrada (que llamamos x e y), un dispositivo electrónico y una señal de salida (que llamamos z).
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%204.%20Puertas%20l%C3%B3gicas%20simples.png" alt="Puertas lógicas simples" width="297" height="auto"/>
+    <p><em>Figura 4: Circuito lógico con dos entradas. Fuente: UOC</em></p>
+  </div>
+
+En este caso, existen dieciséis dispositivos electrónicos diferentes que puedan interconectar las entradas con la salida, que corresponden a las funciones lógicas que se muestran en la figura 5.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%205.%20Puertas%20l%C3%B3gicas%20simples.png" alt="Puertas lógicas simples" width="473" height="auto"/>
+    <p><em>Figura 5: Funciones lógicas sobre el circuito lógico de la Figura 4. Fuente: UOC</em></p>
+  </div>
+
+Así pues, si tenemos en cuenta los circuitos con una o dos entradas, podemos llegar a diseñar hasta 4 + 16 = 20 dispositivos electrónicos diferentes. Ahora bien, en la práctica sólo se construye un subconjunto de éstos como veremos más adelante.
