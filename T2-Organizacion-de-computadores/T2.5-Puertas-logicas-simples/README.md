@@ -90,3 +90,10 @@ Estas operaciones booleanas básicas se pueden definir escribiendo el resultado 
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%206.%20Puertas%20l%C3%B3gicas%20simples.png" alt="Puertas lógicas simples" width="555" height="auto"/>
     <p><em>Figura 6: Operaciones booleanas básicas. Fuente: UOC</em></p>
   </div>
+
+Los **axiomas** que describen el comportamiento de las operaciones booleanas son los siguientes:
+1. La propiedad conmutativa: el orden de las variables no importa.
+```
+x+y=y+x
+x⋅y=y⋅x
+```
