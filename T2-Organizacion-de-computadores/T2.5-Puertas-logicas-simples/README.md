@@ -14,6 +14,7 @@
 [1. Introducción a las puertas lógicas](#1-introducción-a-las-puertas-lógicas)  
   - [1.1. ¿Qué son las puertas lógicas?](#11-que-son-las-puertas-lógicas)
   - [1.2. Álgebra de Boole](#12-álgebra-de-boole)
+  - [1.3. Teorema del álgebra de Boole](#13-teorema-del-algebra-de-Boole)
 
 ## 1. Introducción a las puertas lógicas
 
@@ -119,7 +120,8 @@ x⋅x'=0
 ```
 A partir de estos axiomas, se puede demostrar una serie de leyes o teoremas muy útiles para trabajar con expresiones algebraicas booleanas.
 
-**Teorema del álgebra de Boole**
+### 1.3. Teorema del álgebra de Boole
+
 Si "x", "y" y "z" son variables lógicas, se cumplen las siguientes leyes:
 
 1. **Principio de dualidad:** establece que cualquier identidad válida siguie siendo verdadera si:
