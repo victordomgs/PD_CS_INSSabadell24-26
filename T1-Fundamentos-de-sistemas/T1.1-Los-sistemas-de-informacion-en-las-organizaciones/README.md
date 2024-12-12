@@ -1,4 +1,4 @@
- <h1 align="center">Los sistemas de información en las organizaciones 
+<h1 align="center">Los sistemas de información en las organizaciones 
 <div align="center">
 
 <a href="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
