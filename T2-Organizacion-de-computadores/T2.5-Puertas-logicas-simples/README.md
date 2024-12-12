@@ -12,7 +12,8 @@
 
 ## Contenido:
 [1. Introducción a las puertas lógicas](#1-introducción-a-las-puertas-lógicas)  
-  - [1.1. ¿Qué son las puertas lógicas?](#11-que-son-las-puertas-lógicas)  
+  - [1.1. ¿Qué son las puertas lógicas?](#11-que-son-las-puertas-lógicas)
+  - [1.2. Álgebra de Boole](#11-que-son-las-puertas-lógicas)
 
 ## 1. Introducción a las puertas lógicas
 
@@ -67,3 +68,16 @@ En este caso, existen dieciséis dispositivos electrónicos diferentes que pueda
   </div>
 
 Así pues, si tenemos en cuenta los circuitos con una o dos entradas, podemos llegar a diseñar hasta 4 + 16 = 20 dispositivos electrónicos diferentes. Ahora bien, en la práctica sólo se construye un subconjunto de éstos como veremos más adelante.
+
+### 1.2. Álgebra de Boole
+
+Un **álgebra de Boole** es una entidad matemática formada por un conjunto que contiene dos elementos, unas operaciones básicas sobre estos elementos y una lista de axiomas que definen las propiedades que cumplen las operaciones.
+
+Los dos **elementos** de un álgebra de Boole se pueden llamar falso y cierto o, más usualmente, 0 y 1. De este modo, una variable booleana o **variable lógica** puede tomar los valores 0 y 1. 
+
+Las **operaciones booleanas** básicas son las siguientes:
+
+> [!IMPORTANT]  
+> La **negación** o complementación o NOT, que corresponde a la partícula no y se representa con una comilla simple (’). Así, la expresión "x’" denota la negación de la variable "x", y se lee “no x”.
+> El **producto lógico** o **AND**, que corresponde a la conjunción "y" de la lógica y se representa con el símbolo “·”. Así, si "x" e "y" son variables lógicas, la expresión "x · y" denota su producto lógico y se lee “x e y”.
+> La **suma lógica** u **OR**, que corresponde a la conjunción "o" y se representa con el símbolo “+”. Así, la expresión “x + y” denota la suma lógica de las variables "x" e "y", y se lee “x o y”.
