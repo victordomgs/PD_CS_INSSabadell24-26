@@ -190,10 +190,10 @@ La correspondencia de la lógica con los elementos de un circuito lógico es la 
     <p><em>Figura 7: Correspondencia lógica con la Figura 3 y Figura 5. Fuente: UOC</em></p>
   </div>
 
-En efecto, sean dos señales lógicas x e y. Si analizamos las tablas de las figuras 1 y 2, podemos observar lo siguiente:
-- g1(x,y) vale 1 si valen 1 las dos variables x e y simultáneamente;
-- g7(x,y) vale 1 si x vale 1 o bien y vale 1 o bien las dos valen 1;
-- f2(x) vale 1 sólo si x vale 0.
+En efecto, sean dos señales lógicas x e y. Si analizamos las tablas de las figuras 2 y 4, podemos observar lo siguiente:
+- $$g_1(x,y)$$ vale 1 si valen 1 las dos variables x e y simultáneamente.
+- $$g_7(x,y)$$ vale 1 si x vale 1 o bien y vale 1 o bien las dos valen 1.
+- $$f_2(x)$$ vale 1 sólo si x vale 0.
 
 Es decir, se cumple lo mismo que en el ejemplo de las frases. Por eso, la función g1 se llama AND (la conjunción y en inglés), la función g7 se denomina OR (la conjunción o en inglés) y la función f2 se llama NOT (no en inglés).
 
@@ -207,8 +207,7 @@ Las **expresiones algebraicas** estan formadas por variables lógicas, los eleme
 
 Mediante estos elementos se puede expresar cualquier función lógica. Por ejemplo, la función $$g_4$$ de la figura 5 se puede expresar así:
 
-$$
-g_4(x, y) = x' \cdot y
-$$
+$$g_4(x, y) = x' \cdot y$$
 
-
+La expresión vale 1 (es cierta) sólo si valen 1 (son ciertas) las subexpresiones x’ e y simultáneamente. La expresión x’ vale 1 sólo si x vale 0. En la descripción de la función $$g_4$$ (figura 2) se puede comprobar que sólo vale 1 en el
+caso en que x = 0 e y = 1.
