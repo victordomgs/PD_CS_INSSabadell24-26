@@ -15,6 +15,8 @@
   - [1.1. ¿Qué son las puertas lógicas?](#11-que-son-las-puertas-lógicas)
   - [1.2. Álgebra de Boole](#12-álgebra-de-boole)
   - [1.3. Teorema del álgebra de Boole](#13-teorema-del-álgebra-de-Boole)
+[2. Representación de funciones lógicas](#1-representación-de-funciones-lógicas)
+  - [2.1. Expresiones algebraicas](#11-expresiones-algebraicas)
 
 ## 1. Introducción a las puertas lógicas
 
@@ -193,7 +195,14 @@ En efecto, sean dos señales lógicas x e y. Si analizamos las tablas de las fig
 - g7(x,y) vale 1 si x vale 1 o bien y vale 1 o bien las dos valen 1;
 - f2(x) vale 1 sólo si x vale 0.
 
-Es decir, se cumple lo mismo que en el ejemplo de las frases. Por eso, la función g1 se llama AND (la conjunción y en inglés), la función g7 se denomina
-OR (la conjunción o en inglés) y la función f2 se llama NOT (no en inglés).
-Así pues, los circuitos lógicos se construyen a partir del mismo fundamento
-que la lógica. En el siguiente apartado se estudia este fundamento.
+Es decir, se cumple lo mismo que en el ejemplo de las frases. Por eso, la función g1 se llama AND (la conjunción y en inglés), la función g7 se denomina OR (la conjunción o en inglés) y la función f2 se llama NOT (no en inglés).
+
+## 2. Representación de funciones lógicas.
+
+Las funciones lógicas se pueden expresar de varias maneras. Las que usaremos nosotros son las **expresiones algebraicas** y las **tablas de verdad**.
+
+### 2.1. Expresiones algebraicas
+
+Las **expresiones algebraicas** estan formadas por variables lógicas, los elementos 0 y 1, los operadores producto (·), suma (+) y negación (’), y los símbolos (,) e =.
+
+ g_4(x, y)
