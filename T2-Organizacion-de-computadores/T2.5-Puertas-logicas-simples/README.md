@@ -158,3 +158,42 @@ x·0=0: AND con 0 siempre da 0.
 > En las expresiones algebraicas utilizamos los paréntesis de la misma forma que estamos acostumbrados a hacerlo en aritmética tradicional; por ejemplo, la expresión "x+y·z" es lo mismo que la "x+(y·z)" y es diferente que "(x+y)·z".
 > 
 > Para negar una expresión entera la pondremos entre paréntesis y, por tanto, x+y' es diferente de (x+y)'.
+
+A continuación, veremos que existe una correspondencia entre los elementos de un circuito lógico y la lógica intuitiva (de aquí deriva la denominación de circuitos “lógicos”). La lógica tiene cinco componentes básicos:
+– Los valores falso y cierto.
+– Las conjunciones y y o.
+– La partícula de negación no.
+
+Por ejemplo, sean las dos frases siguientes:
+```
+frase_A: “Juan estudia química”,
+frase_B: “Carmen estudia piano”.
+```
+Cada una de estas frases puede ser verdadera o falsa. A partir de éstas, de las conjunciones y la negación construimos ahora las tres frases siguientes:
+```
+frase_Y: “Juan estudia química y Carmen estudia piano”,
+frase_O: “Juan estudia química o Carmen estudia piano”,
+frase_NO: “Juan no estudia química”.
+```
+
+Según la lógica:
+– La frase_Y es verdadera sólo si son ciertas la frase_A y la frase_B, simultáneamente.
+– La frase_O es verdadera si lo es la frase_A o bien la frase_B, o ambas.
+– La frase_NO es verdadera sólo si la frase_A es falsa.
+
+La correspondencia de la lógica con los elementos de un circuito lógico es la siguiente:
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%206.%20Puertas%20l%C3%B3gicas%20simples.png" alt="Puertas lógicas simples" width="398" height="auto"/>
+    <p><em>Figura 7: Correspondencia lógica con la Figura 3 y Figura 5. Fuente: UOC</em></p>
+  </div>
+
+En efecto, sean dos señales lógicas x e y. Si analizamos las tablas de las figuras 1 y 2, podemos observar lo siguiente:
+– g1(x,y) vale 1 si valen 1 las dos variables x e y simultáneamente;
+– g7(x,y) vale 1 si x vale 1 o bien y vale 1 o bien las dos valen 1;
+– f2(x) vale 1 sólo si x vale 0.
+
+Es decir, se cumple lo mismo que en el ejemplo de las frases. Por eso, la función g1 se llama AND (la conjunción y en inglés), la función g7 se denomina
+OR (la conjunción o en inglés) y la función f2 se llama NOT (no en inglés).
+Así pues, los circuitos lógicos se construyen a partir del mismo fundamento
+que la lógica. En el siguiente apartado se estudia este fundamento.
