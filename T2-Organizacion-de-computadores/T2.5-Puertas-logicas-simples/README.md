@@ -177,9 +177,9 @@ frase_NO: “Juan no estudia química”.
 ```
 
 Según la lógica:
-– La frase_Y es verdadera sólo si son ciertas la frase_A y la frase_B, simultáneamente.
-– La frase_O es verdadera si lo es la frase_A o bien la frase_B, o ambas.
-– La frase_NO es verdadera sólo si la frase_A es falsa.
+- La frase_Y es verdadera sólo si son ciertas la frase_A y la frase_B, simultáneamente.
+- La frase_O es verdadera si lo es la frase_A o bien la frase_B, o ambas.
+- La frase_NO es verdadera sólo si la frase_A es falsa.
 
 La correspondencia de la lógica con los elementos de un circuito lógico es la siguiente:
 
@@ -189,9 +189,9 @@ La correspondencia de la lógica con los elementos de un circuito lógico es la 
   </div>
 
 En efecto, sean dos señales lógicas x e y. Si analizamos las tablas de las figuras 1 y 2, podemos observar lo siguiente:
-– g1(x,y) vale 1 si valen 1 las dos variables x e y simultáneamente;
-– g7(x,y) vale 1 si x vale 1 o bien y vale 1 o bien las dos valen 1;
-– f2(x) vale 1 sólo si x vale 0.
+- g1(x,y) vale 1 si valen 1 las dos variables x e y simultáneamente;
+- g7(x,y) vale 1 si x vale 1 o bien y vale 1 o bien las dos valen 1;
+- f2(x) vale 1 sólo si x vale 0.
 
 Es decir, se cumple lo mismo que en el ejemplo de las frases. Por eso, la función g1 se llama AND (la conjunción y en inglés), la función g7 se denomina
 OR (la conjunción o en inglés) y la función f2 se llama NOT (no en inglés).
