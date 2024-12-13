@@ -98,27 +98,27 @@ Los **axiomas** que describen el comportamiento de las operaciones booleanas son
 1. **La propiedad conmutativa:** el orden de las variables no importa.
 
 $x+y=y+x$
-$x\cdoty=y\cdotx$
+$x \cdot y=y\cdotx$
 
 2. **La propiedad asociativa:** el agrupamiento de las variables no afecta al resultado.
 
 $x+(y+z)=(x+y)+z$
-$x\cdot(y\cdotz)=(x\cdoty)\cdotz$
+$x \cdot (y \cdot z)=(x \cdot y) \cdot z$
 
 3. **La propiedad distributiva:** cómo distribuir una variable entre otras en las operaciones.
 
-$x\cdot(y+z)=(x\cdoty)+(x\cdotz)$
-$x+(y\cdotz)=(x+y)\cdot(x+z)$
+$x \cdot (y+z)=(x \cdot y)+(x \cdot z)$
+$x+(y \cdot z)=(x+y) \cdot (x+z)$
 
 4. **Elementos neutros:** 0 es el elemento neutro de OR y 1 es el elemento neutro de AND.
 
 $x+0=x$
-$x\cdot1=x$
+$x \cdot 1=x$
 
 5. **Complementación:** el complemento de una variable (x') es su inverso lógico.
 
 $x+x'=1$
-$x\cdotx'=0$
+$x \cdot x'=0$
 
 A partir de estos axiomas, se puede demostrar una serie de leyes o teoremas muy útiles para trabajar con expresiones algebraicas booleanas.
 
@@ -144,7 +144,7 @@ $x \cdot (x+y)=x$: Si $x$ ya está presente, cualquier OR adicional con $y$ no c
 4. **Ley de dominancia:** estas leyes reflejan el impacto de los valores extremos 1 y 0 en OR y AND:
 
 $x+1=1$: OR con $1$ siempre da $1$.
-$x\cdot0=0$: AND con $0$ siempre da $0$.
+$x \cdot 0=0$: AND con $0$ siempre da $0$.
 
 5. **Ley de involución:** la doble negación de un valor lógico devuelve el valor original.
 
