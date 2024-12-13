@@ -206,6 +206,32 @@ Las funciones lógicas se pueden expresar de varias maneras. Las que usaremos no
 Las **expresiones algebraicas** estan formadas por variables lógicas, los elementos 0 y 1, los operadores producto (·), suma (+) y negación (’), y los símbolos (,) e =.
 
 # Función \( g_4(x, y) \)
+
+La función \( g_4(x, y) \) se define como:
+
 \[
 g_4(x, y) = x' \cdot y
 \]
+
+Donde:
+- \( x' \) es la negación de \( x \).
+- \( \cdot \) representa la operación lógica AND.
+
+---
+
+## Propiedades
+1. La salida será **1** si:
+   - \( x = 0 \)
+   - \( y = 1 \)
+2. En cualquier otro caso, la salida será **0**.
+
+---
+
+## Tabla de verdad
+
+| \( x \) | \( y \) | \( g_4(x, y) = x' \cdot y \) |
+|--------|--------|-----------------------------|
+|   0    |   0    |              0              |
+|   0    |   1    |              1              |
+|   1    |   0    |              0              |
+|   1    |   1    |              0              |
