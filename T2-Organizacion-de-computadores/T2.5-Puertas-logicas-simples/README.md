@@ -231,5 +231,5 @@ Por ejemplo la función $g_5$ de la figura 5 tiene la siguiente tabla de verdad:
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%209.%20Puertas%20l%C3%B3gicas%20simples.png" alt="Puertas lógicas simples" width="165" height="auto"/>
-    <p><em>Figura 9: Tabla de la verdad sobre la función $g_5$. Fuente: UOC</em></p>
+    <p><em>Figura 9: Tabla de la verdad sobre la función g_5. Fuente: UOC</em></p>
   </div>
