@@ -15,6 +15,7 @@
   - [1.1. ¿Qué son las puertas lógicas?](#11-que-son-las-puertas-lógicas)
   - [1.2. Álgebra de Boole](#12-álgebra-de-boole)
   - [1.3. Teorema del álgebra de Boole](#13-teorema-del-álgebra-de-Boole)
+
 [2. Representación de funciones lógicas](#1-representación-de-funciones-lógicas)
   - [2.1. Expresiones algebraicas](#11-expresiones-algebraicas)
 
