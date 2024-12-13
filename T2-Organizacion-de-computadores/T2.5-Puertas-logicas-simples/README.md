@@ -205,12 +205,10 @@ Las funciones lógicas se pueden expresar de varias maneras. Las que usaremos no
 
 Las **expresiones algebraicas** estan formadas por variables lógicas, los elementos 0 y 1, los operadores producto (·), suma (+) y negación (’), y los símbolos (,) e =.
 
-La función \( g_4(x, y) \) se define como:
+Mediante estos elementos se puede expresar cualquier función lógica. Por ejemplo, la función $$g_4$$ de la figura 5 se puede expresar así:
 
 $$
 g_4(x, y) = x' \cdot y
 $$
 
-Donde:
-- \( x' \) es la negación de \( x \).
-- \( \cdot \) representa la operación lógica AND.
+
