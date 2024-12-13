@@ -209,5 +209,27 @@ Mediante estos elementos se puede expresar cualquier función lógica. Por ejemp
 
 $$g_4(x, y) = x' \cdot y$$
 
-La expresión vale $1$ (es cierta) sólo si valen $1$ (son ciertas) las subexpresiones x’ e y simultáneamente. La expresión x’ vale $1$ sólo si x vale 0. En la descripción de la función $g_4$ (figura 2) se puede comprobar que sólo vale $1$ en el
+La expresión $x' \cdot y$ vale $1$ (es cierta) sólo si valen $1$ (son ciertas) las subexpresiones $x’$ e $y$ simultáneamente. La expresión $x’$ vale $1$ sólo si $x$ vale $0$. En la descripción de la función $g_4$ (figura 5) se puede comprobar que sólo vale $1$ en el
 caso en que $x = 0$ e $y = 1$.
+
+> [!IMPORTANT]  
+> Una misma función lógica se puede expresar mediante infinitas expresiones algebraicas equivalentes.
+
+### 2.2. Tablas de la verdad
+Una tabla de verdad expresa una función lógica especificando el valor que tiene la función para cada posible combinación de valores de las variables de entrada.
+
+Concretamente, a la izquierda de la tabla hay una lista con todas las combinaciones de valores posibles de las variables de entrada y, a la derecha, el valor de la función para cada una de las combinaciones. 
+
+La figura 8 muestra la estructura de las tablas de verdad para funciones de una, dos y tres variables de entrada.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%208.%20Puertas%20l%C3%B3gicas%20simples.png" alt="Puertas lógicas simples" width="611" height="auto"/>
+    <p><em>Figura 8: Estructura de la tabla de verdad. Fuente: UOC</em></p>
+  </div>
+
+Por ejemplo la función $g_5$ de la figura 5 tiene la siguiente tabla de verdad:
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%209.%20Puertas%20l%C3%B3gicas%20simples.png" alt="Puertas lógicas simples" width="165" height="auto"/>
+    <p><em>Figura 9: Tabla de la verdad sobre la función $g_5$. Fuente: UOC</em></p>
+  </div>
