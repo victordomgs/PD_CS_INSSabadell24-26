@@ -235,3 +235,6 @@ Por ejemplo la función $g_5$ de la figura 5 tiene la siguiente tabla de verdad:
   </div>
 
 Es bastante usual denominar las variables de una función con una misma letra y diferentes subíndices; por ejemplo, $x_2$, $x_1$, $x_0$. Por convención, pondremos en la columna situada más a la izquierda la variable de subíndice más alto y, en la que se encuentra más a la derecha, la de subíndice más bajo.
+
+> [!IMPORTANT]  
+> Diremos que la variable que ponemos en la columna más a la izquierda en una tabla de verdad es la variable **de más peso**, y la que ponemos en la columna más a la derecha es la **de menos peso**. Una vez fijado el orden de las columnas y las filas, la tabla de verdad de una función es **única**.
