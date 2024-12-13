@@ -98,7 +98,7 @@ Los **axiomas** que describen el comportamiento de las operaciones booleanas son
 1. **La propiedad conmutativa:** el orden de las variables no importa.
 
 $x+y=y+x$
-$x \cdot y=y\cdotx$
+$x \cdot y=y \cdot x$
 
 2. **La propiedad asociativa:** el agrupamiento de las variables no afecta al resultado.
 
