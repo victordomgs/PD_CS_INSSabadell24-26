@@ -83,9 +83,9 @@ Las **operaciones booleanas** básicas son las siguientes:
 > [!IMPORTANT]  
 > La **negación** o complementación o **NOT**, que corresponde a la partícula no y se representa con una comilla simple (’). Así, la expresión $x’$ denota la negación de la variable $x$, y se lee $no x$.
 > 
-> El **producto lógico** o **AND**, que corresponde a la conjunción "y" de la lógica y se representa con el símbolo “·”. Así, si "x" e "y" son variables lógicas, la expresión $x \cdot y$ denota su producto lógico y se lee $x e y$.
+> El **producto lógico** o **AND**, que corresponde a la conjunción $y$ de la lógica y se representa con el símbolo $\cdot$. Así, si $x$ e $y$ son variables lógicas, la expresión $x \cdot y$ denota su producto lógico y se lee $x e y$.
 > 
-> La **suma lógica** u **OR**, que corresponde a la conjunción "o" y se representa con el símbolo $+$. Así, la expresión $x + y$ denota la suma lógica de las variables $x$ e $y$, y se lee $x o y$.
+> La **suma lógica** u **OR**, que corresponde a la conjunción $o$ y se representa con el símbolo $+$. Así, la expresión $x + y$ denota la suma lógica de las variables $x$ e $y$, y se lee $x o y$.
 
 Estas operaciones booleanas básicas se pueden definir escribiendo el resultado que dan para cada posible combinación de valores de las variables de entrada, tal como se muestra en la figura 6.
 
@@ -96,30 +96,30 @@ Estas operaciones booleanas básicas se pueden definir escribiendo el resultado 
 
 Los **axiomas** que describen el comportamiento de las operaciones booleanas son los siguientes:
 1. **La propiedad conmutativa:** el orden de las variables no importa.
-```
+
 $x+y=y+x$
 $x\cdoty=y\cdotx$
-```
+
 2. **La propiedad asociativa:** el agrupamiento de las variables no afecta al resultado.
-```
+
 $x+(y+z)=(x+y)+z$
 $x\cdot(y\cdotz)=(x\cdoty)\cdotz$
-```
+
 3. **La propiedad distributiva:** cómo distribuir una variable entre otras en las operaciones.
-```
+
 $x\cdot(y+z)=(x\cdoty)+(x\cdotz)$
 $x+(y\cdotz)=(x+y)\cdot(x+z)$
-```
+
 4. **Elementos neutros:** 0 es el elemento neutro de OR y 1 es el elemento neutro de AND.
-```
+
 $x+0=x$
 $x\cdot1=x$
-```
+
 5. **Complementación:** el complemento de una variable (x') es su inverso lógico.
-```
+
 $x+x'=1$
 $x\cdotx'=0$
-```
+
 A partir de estos axiomas, se puede demostrar una serie de leyes o teoremas muy útiles para trabajar con expresiones algebraicas booleanas.
 
 ### 1.3. Teorema del álgebra de Boole
@@ -127,39 +127,39 @@ A partir de estos axiomas, se puede demostrar una serie de leyes o teoremas muy 
 Si $x$, $y$ y $z$ son variables lógicas, se cumplen las siguientes leyes:
 
 1. **Principio de dualidad:** establece que cualquier identidad válida siguie siendo verdadera si:
-```
+
 Se intercambian las operaciones + (OR) y · (AND).
 Se intercambian los valores constantes $0$ y $1$.
-```
+
 2. **Ley de idempotencia:**
-```
+
 $x+x=x$: Si un valor lógico se OR con sí mismo, el resultado es el mismo valor.
 $x\cdotx=x$: Si un valor lógico se AND con sí mismo, el resultado es el mismo valor.
-```
+
 3. **Ley de absorción:** se simplifican expresiones lógicas eliminando redundacias.
-```
+
 $x+(x\cdoty)=x$: Si $x$ ya está presente, cualquier AND adicional con $y$ no cambia el resultado.
 $x\cdot(x+y)=x$: Si $x$ ya está presente, cualquier OR adicional con $y$ no cambia el resultado.
-```
+
 4. **Ley de dominancia:** estas leyes reflejan el impacto de los valores extremos 1 y 0 en OR y AND:
-```
+
 $x+1=1$: OR con $1$ siempre da $1$.
 $x\cdot0=0$: AND con $0$ siempre da $0$.
-```
+
 5. **Ley de involución:** la doble negación de un valor lógico devuelve el valor original.
-```
+
 $(x')'=x$
-```
+
 6. **Leyes de Morgan:** estas leyes transforman una expresión con AND en una con OR (y viceversa) cuando se aplica la negación:
-```
+
 $(x+y)'=x'\cdoty'$
 $(x\cdoty)'=x'+y'$
-```
+
 
 > [!WARNING]  
-> En las expresiones algebraicas utilizamos los paréntesis de la misma forma que estamos acostumbrados a hacerlo en aritmética tradicional; por ejemplo, la expresión "x+y·z" es lo mismo que la "x+(y·z)" y es diferente que "(x+y)·z".
+> En las expresiones algebraicas utilizamos los paréntesis de la misma forma que estamos acostumbrados a hacerlo en aritmética tradicional; por ejemplo, la expresión $x+y·z$ es lo mismo que la $x+(y·z)$ y es diferente que $(x+y)·z$.
 > 
-> Para negar una expresión entera la pondremos entre paréntesis y, por tanto, x+y' es diferente de (x+y)'.
+> Para negar una expresión entera la pondremos entre paréntesis $y$, por tanto, $x+y'$ es diferente de $(x+y)'$.
 
 A continuación, veremos que existe una correspondencia entre los elementos de un circuito lógico y la lógica intuitiva (de aquí deriva la denominación de circuitos “lógicos”). La lógica tiene cinco componentes básicos:
 – Los valores falso y cierto.
