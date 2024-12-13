@@ -83,7 +83,7 @@ Las **operaciones booleanas** básicas son las siguientes:
 > [!IMPORTANT]  
 > La **negación** o complementación o **NOT**, que corresponde a la partícula no y se representa con una comilla simple (’). Así, la expresión $x’$ denota la negación de la variable $x$, y se lee $no x$.
 > 
-> El **producto lógico** o **AND**, que corresponde a la conjunción $y$ de la lógica y se representa con el símbolo $\cdot$. Así, si $x$ e $y$ son variables lógicas, la expresión $x \cdot y$ denota su producto lógico y se lee $x e y$.
+> El **producto lógico** o **AND**, que corresponde a la conjunción $y$ de la lógica y se representa con el símbolo (·). Así, si $x$ e $y$ son variables lógicas, la expresión $x \cdot y$ denota su producto lógico y se lee $x e y$.
 > 
 > La **suma lógica** u **OR**, que corresponde a la conjunción $o$ y se representa con el símbolo $+$. Así, la expresión $x + y$ denota la suma lógica de las variables $x$ e $y$, y se lee $x o y$.
 
@@ -134,12 +134,12 @@ Se intercambian los valores constantes $0$ y $1$.
 2. **Ley de idempotencia:**
 
 $x+x=x$: Si un valor lógico se OR con sí mismo, el resultado es el mismo valor.
-$x\cdotx=x$: Si un valor lógico se AND con sí mismo, el resultado es el mismo valor.
+$x \cdot x=x$: Si un valor lógico se AND con sí mismo, el resultado es el mismo valor.
 
 3. **Ley de absorción:** se simplifican expresiones lógicas eliminando redundacias.
 
-$x+(x\cdoty)=x$: Si $x$ ya está presente, cualquier AND adicional con $y$ no cambia el resultado.
-$x\cdot(x+y)=x$: Si $x$ ya está presente, cualquier OR adicional con $y$ no cambia el resultado.
+$x+(x \cdot y)=x$: Si $x$ ya está presente, cualquier AND adicional con $y$ no cambia el resultado.
+$x \cdot (x+y)=x$: Si $x$ ya está presente, cualquier OR adicional con $y$ no cambia el resultado.
 
 4. **Ley de dominancia:** estas leyes reflejan el impacto de los valores extremos 1 y 0 en OR y AND:
 
@@ -152,8 +152,8 @@ $(x')'=x$
 
 6. **Leyes de Morgan:** estas leyes transforman una expresión con AND en una con OR (y viceversa) cuando se aplica la negación:
 
-$(x+y)'=x'\cdoty'$
-$(x\cdoty)'=x'+y'$
+$(x+y)'=x' \cdot y'$
+$(x \cdot y)'=x'+y'$
 
 
 > [!WARNING]  
