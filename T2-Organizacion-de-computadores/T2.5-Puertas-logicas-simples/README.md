@@ -22,7 +22,7 @@
 
 ### 1.1. ¿Qué son las puertas lógicas?
 
-Un **circuito lógico** es un sistema compuesto por señales de entrada, dispositivos electrónicos que procesan esas señales, y señales de salida que son el resultado de dichas operaciones. Estas señales son binarias, lo que significa que solo pueden tomar dos valores: 0 (tensión baja) y 1 (tensión alta). Una señal está activa cuando su valor es 1.
+Un **circuito lógico** es un sistema compuesto por señales de entrada, dispositivos electrónicos que procesan esas señales, y señales de salida que son el resultado de dichas operaciones. Estas señales son binarias, lo que significa que solo pueden tomar dos valores: $0$ (tensión baja) y $1$ (tensión alta). Una señal está activa cuando su valor es $1$.
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%201.%20Puertas%20l%C3%B3gicas%20simples.png" alt="Puertas lógicas simples" width="465" height="auto"/>
@@ -34,9 +34,9 @@ Las señales de entrada y salida de un circuito lógico son funciones lógicas q
 En este contexto, las **puertas lógicas** son los elementos básicos que realizan estas operaciones. Son dispositivos electrónicos que computan funciones lógicas específicas a partir de las señales de entrada.
 
 > [!IMPORTANT]  
-> Puesto que las señales sólo pueden tomar dos valores, diremos que uno es el contrario del otro. Así pues, podemos afirmar que cuando una señal no vale 1, entonces seguro que vale 0, y viceversa.
+> Puesto que las señales sólo pueden tomar dos valores, diremos que uno es el contrario del otro. Así pues, podemos afirmar que cuando una señal no vale $1$, entonces seguro que vale $0$, y viceversa.
 
-Tomamos un circuito que tenga sólo una señal de entrada (que llamamos x), un dispositivo electrónico y una señal de salida (que llamamos z).
+Tomamos un circuito que tenga sólo una señal de entrada (que llamamos $x$), un dispositivo electrónico y una señal de salida (que llamamos $z$).
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%202.%20Puertas%20l%C3%B3gicas%20simples.png" alt="Puertas lógicas simples" width="361" height="auto"/>
