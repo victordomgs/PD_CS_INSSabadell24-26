@@ -43,11 +43,11 @@ Tomamos un circuito que tenga sólo una señal de entrada (que llamamos $x$), un
     <p><em>Figura 2: Circuito lógico con una entrada. Fuente: UOC</em></p>
   </div>
 
-Dado que tanto x como z sólo pueden valer 0 ó 1, sólo existen cuatro dispositivos electrónicos diferentes que pueden interconectar x y z:
-- Un dispositivo que haga que la salida z valga siempre 0 (este dispositivo consistiría en conectar la salida con una fuente de tensión de 0 voltios).
-- Un dispositivo que haga que la salida valga siempre lo mismo que la entrada x (este dispositivo consistiría en conectar directamente la salida con la entrada).
+Dado que tanto $x$ como $z$ sólo pueden valer $0$ ó $1$, sólo existen cuatro dispositivos electrónicos diferentes que pueden interconectar $x$ y $z$:
+- Un dispositivo que haga que la salida $z$ valga siempre $0$ (este dispositivo consistiría en conectar la salida con una fuente de tensión de $0$ voltios).
+- Un dispositivo que haga que la salida valga siempre lo mismo que la entrada $x$ (este dispositivo consistiría en conectar directamente la salida con la entrada).
 - Un dispositivo que haga que la salida valga siempre lo contrario de lo que vale la entrada (este dispositivo consistiría en un inversor del nivel de tensión).
-- Un dispositivo que haga que la salida valga siempre 1 (este dispositivo consistiría en conectar la salida directamente con la tensión de alimentación).
+- Un dispositivo que haga que la salida valga siempre $1$ (este dispositivo consistiría en conectar la salida directamente con la tensión de alimentación).
 
 En otras palabras, podemos decir que sólo hay cuatro funciones lógicas que tengan una sola variable de entrada, tal como se muestra en la figura 3:
 
@@ -56,7 +56,7 @@ En otras palabras, podemos decir que sólo hay cuatro funciones lógicas que ten
     <p><em>Figura 3: Funciones lógicas sobre el circuito lógico de la Figura 2. Fuente: UOC</em></p>
   </div>
 
-Tomamos ahora un circuito que tenga dos señales de entrada (que llamamos x e y), un dispositivo electrónico y una señal de salida (que llamamos z).
+Tomamos ahora un circuito que tenga dos señales de entrada (que llamamos $x$ e $y$), un dispositivo electrónico y una señal de salida (que llamamos $z$).
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%204.%20Puertas%20l%C3%B3gicas%20simples.png" alt="Puertas lógicas simples" width="297" height="auto"/>
@@ -70,22 +70,22 @@ En este caso, existen dieciséis dispositivos electrónicos diferentes que pueda
     <p><em>Figura 5: Funciones lógicas sobre el circuito lógico de la Figura 4. Fuente: UOC</em></p>
   </div>
 
-Así pues, si tenemos en cuenta los circuitos con una o dos entradas, podemos llegar a diseñar hasta 4 + 16 = 20 dispositivos electrónicos diferentes. Ahora bien, en la práctica sólo se construye un subconjunto de éstos como veremos más adelante.
+Así pues, si tenemos en cuenta los circuitos con una o dos entradas, podemos llegar a diseñar hasta $4 + 16 = 20$ dispositivos electrónicos diferentes. Ahora bien, en la práctica sólo se construye un subconjunto de éstos como veremos más adelante.
 
 ### 1.2. Álgebra de Boole
 
 Un **álgebra de Boole** es una entidad matemática formada por un conjunto que contiene dos elementos, unas operaciones básicas sobre estos elementos y una lista de axiomas que definen las propiedades que cumplen las operaciones.
 
-Los dos **elementos** de un álgebra de Boole se pueden llamar falso y cierto o, más usualmente, 0 y 1. De este modo, una variable booleana o **variable lógica** puede tomar los valores 0 y 1. 
+Los dos **elementos** de un álgebra de Boole se pueden llamar falso y cierto o, más usualmente, $0$ y $1$. De este modo, una variable booleana o **variable lógica** puede tomar los valores $0$ y $1$. 
 
 Las **operaciones booleanas** básicas son las siguientes:
 
 > [!IMPORTANT]  
-> La **negación** o complementación o **NOT**, que corresponde a la partícula no y se representa con una comilla simple (’). Así, la expresión "x’" denota la negación de la variable "x", y se lee “no x”.
+> La **negación** o complementación o **NOT**, que corresponde a la partícula no y se representa con una comilla simple (’). Así, la expresión $x’$ denota la negación de la variable $x$, y se lee $no x$.
 > 
-> El **producto lógico** o **AND**, que corresponde a la conjunción "y" de la lógica y se representa con el símbolo “·”. Así, si "x" e "y" son variables lógicas, la expresión "x · y" denota su producto lógico y se lee “x e y”.
+> El **producto lógico** o **AND**, que corresponde a la conjunción "y" de la lógica y se representa con el símbolo “·”. Así, si "x" e "y" son variables lógicas, la expresión $x \cdot y$ denota su producto lógico y se lee $x e y$.
 > 
-> La **suma lógica** u **OR**, que corresponde a la conjunción "o" y se representa con el símbolo “+”. Así, la expresión “x + y” denota la suma lógica de las variables "x" e "y", y se lee “x o y”.
+> La **suma lógica** u **OR**, que corresponde a la conjunción "o" y se representa con el símbolo $+$. Así, la expresión $x + y$ denota la suma lógica de las variables $x$ e $y$, y se lee $x o y$.
 
 Estas operaciones booleanas básicas se pueden definir escribiendo el resultado que dan para cada posible combinación de valores de las variables de entrada, tal como se muestra en la figura 6.
 
@@ -97,63 +97,63 @@ Estas operaciones booleanas básicas se pueden definir escribiendo el resultado 
 Los **axiomas** que describen el comportamiento de las operaciones booleanas son los siguientes:
 1. **La propiedad conmutativa:** el orden de las variables no importa.
 ```
-x+y=y+x
-x⋅y=y⋅x
+$x+y=y+x$
+$x\cdoty=y\cdotx$
 ```
 2. **La propiedad asociativa:** el agrupamiento de las variables no afecta al resultado.
 ```
-x+(y+z)=(x+y)+z
-x⋅(y⋅z)=(x⋅y)⋅z
+$x+(y+z)=(x+y)+z$
+$x\cdot(y\cdotz)=(x\cdoty)\cdotz$
 ```
 3. **La propiedad distributiva:** cómo distribuir una variable entre otras en las operaciones.
 ```
-x⋅(y+z)=(x⋅y)+(x⋅z)
-x+(y⋅z)=(x+y)⋅(x+z)
+$x\cdot(y+z)=(x\cdoty)+(x\cdotz)$
+$x+(y\cdotz)=(x+y)\cdot(x+z)$
 ```
 4. **Elementos neutros:** 0 es el elemento neutro de OR y 1 es el elemento neutro de AND.
 ```
-x+0=x
-x⋅1=x
+$x+0=x$
+$x\cdot1=x$
 ```
 5. **Complementación:** el complemento de una variable (x') es su inverso lógico.
 ```
-x+x'=1
-x⋅x'=0
+$x+x'=1$
+$x\cdotx'=0$
 ```
 A partir de estos axiomas, se puede demostrar una serie de leyes o teoremas muy útiles para trabajar con expresiones algebraicas booleanas.
 
 ### 1.3. Teorema del álgebra de Boole
 
-Si "x", "y" y "z" son variables lógicas, se cumplen las siguientes leyes:
+Si $x$, $y$ y $z$ son variables lógicas, se cumplen las siguientes leyes:
 
 1. **Principio de dualidad:** establece que cualquier identidad válida siguie siendo verdadera si:
 ```
 Se intercambian las operaciones + (OR) y · (AND).
-Se intercambian los valores constantes 0 y 1.
+Se intercambian los valores constantes $0$ y $1$.
 ```
 2. **Ley de idempotencia:**
 ```
-x+x=x: Si un valor lógico se OR con sí mismo, el resultado es el mismo valor.
-x·x=x: Si un valor lógico se AND con sí mismo, el resultado es el mismo valor.
+$x+x=x$: Si un valor lógico se OR con sí mismo, el resultado es el mismo valor.
+$x\cdotx=x$: Si un valor lógico se AND con sí mismo, el resultado es el mismo valor.
 ```
 3. **Ley de absorción:** se simplifican expresiones lógicas eliminando redundacias.
 ```
-x+(x⋅y)=x: Si "x" ya está presente, cualquier AND adicional con "y" no cambia el resultado.
-x⋅(x+y)=x: Si "x" ya está presente, cualquier OR adicional con "y" no cambia el resultado.
+$x+(x\cdoty)=x$: Si $x$ ya está presente, cualquier AND adicional con $y$ no cambia el resultado.
+$x\cdot(x+y)=x$: Si $x$ ya está presente, cualquier OR adicional con $y$ no cambia el resultado.
 ```
 4. **Ley de dominancia:** estas leyes reflejan el impacto de los valores extremos 1 y 0 en OR y AND:
 ```
-x+1=1: OR con 1 siempre da 1.
-x·0=0: AND con 0 siempre da 0.
+$x+1=1$: OR con $1$ siempre da $1$.
+$x\cdot0=0$: AND con $0$ siempre da $0$.
 ```
 5. **Ley de involución:** la doble negación de un valor lógico devuelve el valor original.
 ```
-(x')'=x
+$(x')'=x$
 ```
 6. **Leyes de Morgan:** estas leyes transforman una expresión con AND en una con OR (y viceversa) cuando se aplica la negación:
 ```
-(x+y)'=x'·y'
-(x·y)'=x'+y'
+$(x+y)'=x'\cdoty'$
+$(x\cdoty)'=x'+y'$
 ```
 
 > [!WARNING]  
@@ -191,11 +191,11 @@ La correspondencia de la lógica con los elementos de un circuito lógico es la 
   </div>
 
 En efecto, sean dos señales lógicas x e y. Si analizamos las tablas de las figuras 2 y 4, podemos observar lo siguiente:
-- $$g_1(x,y)$$ vale 1 si valen 1 las dos variables x e y simultáneamente.
-- $$g_7(x,y)$$ vale 1 si x vale 1 o bien y vale 1 o bien las dos valen 1.
-- $$f_2(x)$$ vale 1 sólo si x vale 0.
+- $g_1(x,y)$ vale $1$ si valen $1$ las dos variables $x$ e $y$ simultáneamente.
+- $g_7(x,y)$ vale $1$ si x vale $1$ o bien y vale $1$ o bien las dos valen $1$.
+- $f_2(x)$ vale $1$ sólo si x vale $0$.
 
-Es decir, se cumple lo mismo que en el ejemplo de las frases. Por eso, la función g1 se llama AND (la conjunción y en inglés), la función g7 se denomina OR (la conjunción o en inglés) y la función f2 se llama NOT (no en inglés).
+Es decir, se cumple lo mismo que en el ejemplo de las frases. Por eso, la función g1 se llama AND (la conjunción y en inglés), la función $g_7$ se denomina OR (la conjunción o en inglés) y la función $f_2$ se llama NOT (no en inglés).
 
 ## 2. Representación de funciones lógicas.
 
@@ -203,11 +203,11 @@ Las funciones lógicas se pueden expresar de varias maneras. Las que usaremos no
 
 ### 2.1. Expresiones algebraicas
 
-Las **expresiones algebraicas** estan formadas por variables lógicas, los elementos 0 y 1, los operadores producto (·), suma (+) y negación (’), y los símbolos (,) e =.
+Las **expresiones algebraicas** estan formadas por variables lógicas, los elementos $0$ y $1$, los operadores producto (·), suma (+) y negación (’), y los símbolos (,) e =.
 
 Mediante estos elementos se puede expresar cualquier función lógica. Por ejemplo, la función $$g_4$$ de la figura 5 se puede expresar así:
 
 $$g_4(x, y) = x' \cdot y$$
 
-La expresión vale 1 (es cierta) sólo si valen 1 (son ciertas) las subexpresiones x’ e y simultáneamente. La expresión x’ vale 1 sólo si x vale 0. En la descripción de la función $$g_4$$ (figura 2) se puede comprobar que sólo vale 1 en el
-caso en que x = 0 e y = 1.
+La expresión vale $1$ (es cierta) sólo si valen $1$ (son ciertas) las subexpresiones x’ e y simultáneamente. La expresión x’ vale $1$ sólo si x vale 0. En la descripción de la función $g_4$ (figura 2) se puede comprobar que sólo vale $1$ en el
+caso en que $x = 0$ e $y = 1$.
