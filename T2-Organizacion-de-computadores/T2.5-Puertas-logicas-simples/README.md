@@ -205,4 +205,6 @@ Las funciones lógicas se pueden expresar de varias maneras. Las que usaremos no
 
 Las **expresiones algebraicas** estan formadas por variables lógicas, los elementos 0 y 1, los operadores producto (·), suma (+) y negación (’), y los símbolos (,) e =.
 
- g_4(x, y)
+\[
+g_4(x, y) = x' \cdot y
+\]
