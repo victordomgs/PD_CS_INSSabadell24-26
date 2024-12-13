@@ -131,8 +131,8 @@ Se intercambian los valores constantes 0 y 1.
 ```
 2. **Ley de idempotencia:**
 ```
-Si un valor lógico se OR con sí mismo, el resultado es el mismo valor.
-Si un valor lógico se AND con sí mismo, el resultado es el mismo valor.
+x+x=x: Si un valor lógico se OR con sí mismo, el resultado es el mismo valor.
+x·x=x: Si un valor lógico se AND con sí mismo, el resultado es el mismo valor.
 ```
 3. **Ley de absorción:** se simplifican expresiones lógicas eliminando redundacias.
 ```
