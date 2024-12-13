@@ -85,7 +85,7 @@ Las **operaciones booleanas** básicas son las siguientes:
 > 
 > La **suma lógica** u **OR**, que corresponde a la conjunción "o" y se representa con el símbolo “+”. Así, la expresión “x + y” denota la suma lógica de las variables "x" e "y", y se lee “x o y”.
 
-Estas operaciones booleanas básicas se pueden definir escribiendo el resultado que dan para cada posible combinación de valores de las variables de entrada, tal como se muestra en la figura 3.
+Estas operaciones booleanas básicas se pueden definir escribiendo el resultado que dan para cada posible combinación de valores de las variables de entrada, tal como se muestra en la figura 6.
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%206.%20Puertas%20l%C3%B3gicas%20simples.png" alt="Puertas lógicas simples" width="555" height="auto"/>
