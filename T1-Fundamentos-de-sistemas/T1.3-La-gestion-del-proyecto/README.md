@@ -33,7 +33,7 @@ Los procesos básicos de la gestión de cualquier proyecto tipo son:
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%202.%20La%20gesti%C3%B3n%20del%20proyecto.png" alt="La gestión del proyecto" width="739" height="auto"/>
-    <p><em>Figura 1: Cíclo de vida del proyecto. Fuente: UOC</em></p>
+    <p><em>Figura 2: Cíclo de vida del proyecto. Fuente: UOC</em></p>
   </div>
 
 1) **Iniciación**, cuando la dirección de la compañia identifica de diferentes maneras un problema o necesidad de su negocio, lo interpreta o conceptualiza en forma de proyecto, encarga y analiza su viabilidad técnica y económica y los riesgos, y, si procede, lo aprueba. 
