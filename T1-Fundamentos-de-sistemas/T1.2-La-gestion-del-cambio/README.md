@@ -13,10 +13,10 @@
 ## Contenido:
 [1. Gestión del cambio](#1-gestión-del-cambio)  
   - [1.1. Un modelo de gestión del cambio](#11-un-modelo-de-gestión-del-cambio)
-  - [1.2. Análisis de implicados](#11-análisis-de-implicados)
-  - [1.3. Causas de las resistencias al cambio](#11-causas-de-las-resistencias-al-cambio)
-  - [1.4. Buenas prácticas de intervención sobre la comunicación](#11-buenas-prácticas-de-invervención-sobre-la-comunicación)
-  - [1.5. El plan de formación](#11-el-plan-de-formación)
+  - [1.2. Análisis de implicados](#12-análisis-de-implicados)
+  - [1.3. Causas de las resistencias al cambio](#13-causas-de-las-resistencias-al-cambio)
+  - [1.4. Buenas prácticas de intervención sobre la comunicación](#14-buenas-prácticas-de-invervención-sobre-la-comunicación)
+  - [1.5. El plan de formación](#15-el-plan-de-formación)
 
 
   <div style="text-align: center;">
