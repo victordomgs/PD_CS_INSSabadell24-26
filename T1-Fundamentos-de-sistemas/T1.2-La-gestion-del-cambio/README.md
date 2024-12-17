@@ -15,6 +15,8 @@
   - [1.1. Un modelo de gestión del cambio](#11-un-modelo-de-gestión-del-cambio)
   - [1.2. Análisis de implicados](#11-análisis-de-implicados)
   - [1.3. Causas de las resistencias al cambio](#11-causas-de-las-resistencias-al-cambio)
+  - [1.4. Buenas prácticas de intervención sobre la comunicación](#11-buenas-prácticas-de-invervención-sobre-la-comunicación)
+  - [1.5. El plan de formación](#11-el-plan-de-formación)
 
 
   <div style="text-align: center;">
@@ -57,3 +59,30 @@ Las resistencias al cambio tienen su origen en:
 - **Percepción distinta del cambio.** Por un mal diagnóstico puede haber personas de la organización que piensen que el proyecto no es una buena decisión.
 - **Escasa tolerancia al cambio.** Esto ocurre por miedo a ser capaz de desempñar correctamente el trabajo con el nuevo sistema.
 - **Influencia del entorno.** Como hemos dicho, normalmente la mayoría de afectados reacciona ante el cambio de una forma pasiva, esperando acontecimientos; por tanto, son influenciables por aquellos que son más cínicos, escépticos o simplemente están en contra del cambio.
+
+### 1.4. Buenas prácticas de intervención sobre la comunicación
+
+En la tabla siguiente se muestra un "catálogo" general de estrategias de intervención generales, centrándonos seguidamente en la comunicación. 
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20La%20gesti%C3%B3n%20del%20cambio.png" width="731" height="auto"/>
+    <p><em>Figura 3: Estrategias genéricas de intervención y gestión del cambio. Fuente: José M. Joana; Rafael Gracia; Josep Bolart; Ana Lucía García (2011)</em></p>
+  </div>
+
+La comunicación sirve para mitigar las expectativas e incertidumbres de la organizsación con relación al cambio. Tan malo es comunicar mucho como hacerlo poco, y siempre es mejor hacerlo sobre hechos que sobre promesas. 
+
+La tabla siguiente muestra un conjunto de buenas prácticas de gestión del cambio en materia de comunicación, extraídas como lecciones de la implantación de un gran ERP en un grupo de servicios sanitarios públicos. 
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%204.%20La%20gesti%C3%B3n%20del%20cambio.png" width="739" height="auto"/>
+    <p><em>Figura 4: Principios y buenas prácticas en políticas de comunicación. Fuente: José M. Joana; Rafael Gracia; Josep Bolart; Ana Lucía García (2011)</em></p>
+  </div>
+
+### 1.5. El plan de formación
+
+Un buen plan de formación tiene que cubrir los siguientes objetivos: 
+
+- Conseguir que todos los usuarios tengan una visión completa del nuevo entorno y, por tanto, que entiendan los objetivos del proyecto y la nueva forma de trabajar, es decir, organización, procesos y sistema.
+- Desarrollar las habilidades y los conocimientos para un buen uso del sistema, o sea, que sepan operar las pantallas, entiendan el significado de los campos, etc.
+- Crear una red de expertos generando "formadores internos", los cuales serán el primer soporte en el momento del arranque y ayudarán a que el sistema pueda evolucionar correctamente.
+- Utilizar el plan de formación como canal de comunicación para canalizar dudas y sugerencias.
