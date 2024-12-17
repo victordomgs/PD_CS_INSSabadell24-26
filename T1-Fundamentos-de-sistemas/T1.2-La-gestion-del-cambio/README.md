@@ -19,6 +19,8 @@
   - [1.5. El plan de formación](#15-el-plan-de-formación)
 
 
+## 1. Gestión del cambio:
+
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%201.%20La%20gesti%C3%B3n%20del%20cambio.png" alt="La gestión del cambio" width="477" height="auto"/>
     <p><em>Figura 1: La gestión del cambio. Fuente: UOC</em></p>
