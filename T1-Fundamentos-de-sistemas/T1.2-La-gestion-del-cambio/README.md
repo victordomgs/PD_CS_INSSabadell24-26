@@ -86,3 +86,7 @@ Un buen plan de formación tiene que cubrir los siguientes objetivos:
 - Desarrollar las habilidades y los conocimientos para un buen uso del sistema, o sea, que sepan operar las pantallas, entiendan el significado de los campos, etc.
 - Crear una red de expertos generando "formadores internos", los cuales serán el primer soporte en el momento del arranque y ayudarán a que el sistema pueda evolucionar correctamente.
 - Utilizar el plan de formación como canal de comunicación para canalizar dudas y sugerencias.
+
+---
+
+Material extraído de la [UOC](https://openaccess.uoc.edu/bitstream/10609/148041/2/IntroduccionALosSistemasDeInformacionEnLasOrganizaciones.pdf).
