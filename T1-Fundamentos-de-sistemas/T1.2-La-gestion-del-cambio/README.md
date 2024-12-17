@@ -51,7 +51,7 @@ Un proceso de gestión del cambio pasa por las siguientes etapas:
 Para hacer una buena gestión del cambio lo primero es identificar a todos aquellos que se pueden ver afectados por el cambio y a todos aquellos que pueden influir en el mismo, que no siempre coinciden cien por cien. 
 
 - Los **afectados** por el cambio son las personas del departamento de sistemas y los usuarios del nuevo sistema, y entre los distintos miembros de estos dos colectivos no les afectará a todos por igual ni todos tendrán la misma percepción.
-- Los que **pueden influir** en el cambio normalmente son los directivos de los departamentos afectados por el mismo, pero dado que en una empresa existe una red de relaciones podemos encontrar personas que, aunque no tienen que ver directamente con el cambio, sí nos pueden ayudar a concencer a otros, o al revés, personas que a pesar que el proyecto no les afecte harán lo posible para que el proyecto fracase.
+- Los que **pueden influir** en el cambio normalmente son los directivos de los departamentos afectados por el mismo, pero dado que en una empresa existe una red de relaciones podemos encontrar personas que, aunque no tienen que ver directamente con el cambio, sí nos pueden ayudar a convencer a otros, o al revés, personas que a pesar que el proyecto no les afecte harán lo posible para que el proyecto fracase.
 
 ### 1.3. Causas de las resistencias al cambio
 
