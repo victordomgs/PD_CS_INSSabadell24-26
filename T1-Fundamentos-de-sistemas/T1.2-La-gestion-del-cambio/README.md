@@ -71,7 +71,7 @@ En la tabla siguiente se muestra un "catálogo" general de estrategias de interv
     <p><em>Figura 3: Estrategias genéricas de intervención y gestión del cambio. Fuente: José M. Joana; Rafael Gracia; Josep Bolart; Ana Lucía García (2011)</em></p>
   </div>
 
-La comunicación sirve para mitigar las expectativas e incertidumbres de la organizsación con relación al cambio. Tan malo es comunicar mucho como hacerlo poco, y siempre es mejor hacerlo sobre hechos que sobre promesas. 
+La comunicación sirve para mitigar las expectativas e incertidumbres de la organización con relación al cambio. Tan malo es comunicar mucho como hacerlo poco, y siempre es mejor hacerlo sobre hechos que sobre promesas. 
 
 La tabla siguiente muestra un conjunto de buenas prácticas de gestión del cambio en materia de comunicación, extraídas como lecciones de la implantación de un gran ERP en un grupo de servicios sanitarios públicos. 
 
