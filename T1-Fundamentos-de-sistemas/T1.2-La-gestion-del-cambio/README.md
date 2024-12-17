@@ -14,6 +14,7 @@
 [1. Gestión del cambio](#1-gestión-del-cambio)  
   - [1.1. Un modelo de gestión del cambio](#11-un-modelo-de-gestión-del-cambio)
   - [1.2. Análisis de implicados](#11-análisis-de-implicados)
+  - [1.3. Causas de las resistencias al cambio](#11-causas-de-las-resistencias-al-cambio)
 
 
   <div style="text-align: center;">
@@ -43,3 +44,16 @@ Un proceso de gestión del cambio pasa por las siguientes etapas:
 5. **Estrategia de intervención** sobre la comunicación y formación.
 
 ### 1.2. Análisis de implicados
+Para hacer una buena gestión del cambio lo primero es identificar a todos aquellos que se pueden ver afectados por el cambio y a todos aquellos que pueden influir en el mismo, que no siempre coinciden cien por cien. 
+
+- Los **afectados** por el cambio son las personas del departamento de sistemas y los usuarios del nuevo sistema, y entre los distintos miembros de estos dos colectivos no les afectará a todos por igual ni todos tendrán la misma percepción.
+- Los que **pueden influir** en el cambio normalmente son los directivos de los departamentos afectados por el mismo, pero dado que en una empresa existe una red de relaciones podemos encontrar personas que, aunque no tienen que ver directamente con el cambio, sí nos pueden ayudar a concencer a otros, o al revés, personas que a pesar que el proyecto no les afecte harán lo posible para que el proyecto fracase.
+
+### 1.3. Causas de las resistencias al cambio
+
+Las resistencias al cambio tienen su origen en: 
+- **Defensa de los propios intereses porque se siente que se va a perder algo con el proyecto.**
+- **Falta de comprensión o confianza.** Muchas veces la resistencia es por desconocimiento, por no entender por qué hace falta el proyecto, por no conocer la nueva aplicación y desconfiar de su funcionamiento.
+- **Percepción distinta del cambio.** Por un mal diagnóstico puede haber personas de la organización que piensen que el proyecto no es una buena decisión.
+- **Escasa tolerancia al cambio.** Esto ocurre por miedo a ser capaz de desempñar correctamente el trabajo con el nuevo sistema.
+- **Influencia del entorno.** Como hemos dicho, normalmente la mayoría de afectados reacciona ante el cambio de una forma pasiva, esperando acontecimientos; por tanto, son influenciables por aquellos que son más cínicos, escépticos o simplemente están en contra del cambio.
