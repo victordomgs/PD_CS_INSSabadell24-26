@@ -15,8 +15,10 @@
   - [1.2. Álgebra de Boole](#12-álgebra-de-boole)
   - [1.3. Teorema del álgebra de Boole](#13-teorema-del-álgebra-de-Boole)
 
-[2. Representación de funciones lógicas](#1-representación-de-funciones-lógicas)
-  - [2.1. Expresiones algebraicas](#11-expresiones-algebraicas)
+[2. Representación de funciones lógicas](#2-representación-de-funciones-lógicas)  
+  - [2.1. Definición de operadores booleanos](#21-definición-de-operadores-booleanos)  
+  - [2.2. Tablas de verdad](#22-tablas-de-verdad)  
+  - [2.3. Diagramas lógicos](#23-diagramas-lógicos)  
 
 ## 1. Introducción a las puertas lógicas
 
@@ -94,3 +96,64 @@ Estas operaciones booleanas básicas se pueden definir escribiendo el resultado 
     <p><em>Figura 6: Operaciones booleanas básicas. Fuente: UOC</em></p>
   </div>
 
+## 2. Representación de funciones lógicas
+
+### 2.1. Definición de operadores booleanos
+
+Los **operadores booleanos** son herramientas fundamentales del álgebra de Boole. A continuación, se presentan los operadores más comunes:
+
+1. **NOT** (Negación): Produce el valor opuesto de una entrada. Si la entrada es `1`, el resultado es `0` y viceversa.
+2. **AND** (Conjunción): Devuelve `1` si todas las entradas son `1`. Si alguna es `0`, el resultado es `0`.
+3. **OR** (Disyunción): Devuelve `1` si al menos una de las entradas es `1`. Solo es `0` si todas las entradas son `0`.
+4. **NAND** (Negación de AND): Devuelve el valor opuesto al de la operación AND.
+5. **NOR** (Negación de OR): Devuelve el valor opuesto al de la operación OR.
+6. **XOR** (Disyunción exclusiva): Devuelve `1` si exactamente una de las entradas es `1`. Si todas las entradas son iguales, devuelve `0`.
+
+### 2.2. Tablas de verdad
+
+Las tablas de verdad permiten visualizar los resultados de los operadores booleanos para todas las combinaciones posibles de entradas. A continuación, se muestra un ejemplo para los operadores definidos:
+
+| Entrada A | Entrada B | NOT A | A AND B | A OR B | A NAND B | A NOR B | A XOR B |
+|-----------|-----------|--------|---------|--------|----------|---------|---------|
+| 0         | 0         | 1      | 0       | 0      | 1        | 1       | 0       |
+| 0         | 1         | 1      | 0       | 1      | 1        | 0       | 1       |
+| 1         | 0         | 0      | 0       | 1      | 1        | 0       | 1       |
+| 1         | 1         | 0      | 1       | 1      | 0        | 0       | 0       |
+
+#### Ejemplo:
+Consideremos el siguiente problema:
+- María no irá a la escuela si hace frío **y** llueve **o** no ha hecho sus deberes.
+  - Entrada A: Hace frío.
+  - Entrada B: Llueve.
+  - Entrada C: Ha hecho sus deberes.
+
+| Frío (A) | Llueve (B) | Deberes (C) | Salida (No va a la escuela) |
+|-----------|------------|-------------|-----------------------------|
+| 0         | 0          | 0           | 0                           |
+| 0         | 1          | 0           | 1                           |
+| 1         | 0          | 1           | 0                           |
+| 1         | 1          | 0           | 1                           |
+
+### 2.3. Diagramas lógicos
+
+Los diagramas lógicos representan de manera gráfica las operaciones booleanas mediante puertas lógicas. Cada operador booleano tiene una representación específica:
+
+1. **NOT**: Triángulo con un círculo en la salida.
+2. **AND**: Rectángulo con forma curva en los extremos.
+3. **OR**: Forma curva con dos entradas y una salida.
+4. **NAND**: Igual que AND, pero con un círculo en la salida.
+5. **NOR**: Igual que OR, pero con un círculo en la salida.
+6. **XOR**: Igual que OR, pero con una línea adicional en la entrada.
+
+#### Ejemplo:
+Construyamos un diagrama lógico para el problema de María:
+- Se utilizará una puerta AND para combinar "hace frío" y "llueve".
+- Una puerta OR combinará el resultado con "no ha hecho sus deberes" (NOT de la entrada).
+
+```plaintext
+A ----|\      
+       | AND |-----\      
+B ----|/            \     
+                      OR ---- (Salida)
+C ----[NOT]---------/
+```
