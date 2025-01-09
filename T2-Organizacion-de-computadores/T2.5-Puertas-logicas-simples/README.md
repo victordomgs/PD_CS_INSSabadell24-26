@@ -112,12 +112,12 @@ Los **operadores booleanos** son herramientas fundamentales del álgebra de Bool
 
 Las tablas de verdad permiten visualizar los resultados de los operadores booleanos para todas las combinaciones posibles de entradas. A continuación, se muestra un ejemplo para los operadores definidos:
 
-| Entrada A | Entrada B | NOT A | A AND B | A OR B | A NAND B | A NOR B | A XOR B |
-|-----------|-----------|--------|---------|--------|----------|---------|---------|
-| 0         | 0         | 1      | 0       | 0      | 1        | 1       | 0       |
-| 0         | 1         | 1      | 0       | 1      | 1        | 0       | 1       |
-| 1         | 0         | 0      | 0       | 1      | 1        | 0       | 1       |
-| 1         | 1         | 0      | 1       | 1      | 0        | 0       | 0       |
+| Entrada A | Entrada B | NOT A | NOT B | A AND B | A OR B | A NAND B | A NOR B | A XOR B |
+|-----------|-----------|--------|--------|---------|---------|----------|---------|---------|
+| 0         | 0         | 1      | 1      | 0       | 0       | 1        | 1       | 0       |
+| 0         | 1         | 1      | 0      | 0       | 1       | 1        | 0       | 1       |
+| 1         | 0         | 0      | 1      | 0       | 1       | 1        | 0       | 1       |
+| 1         | 1         | 0      | 0      | 1       | 1       | 0        | 0       | 0       |
 
 #### Ejemplo:
 Consideremos el siguiente problema:
