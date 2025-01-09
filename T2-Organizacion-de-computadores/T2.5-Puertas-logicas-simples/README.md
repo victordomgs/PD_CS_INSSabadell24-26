@@ -91,7 +91,10 @@ Las tablas de verdad permiten visualizar los resultados de los operadores boolea
 | 1         | 0         | 0      | 1      | 0       | 1       | 1        | 0       | 1       |
 | 1         | 1         | 0      | 0      | 1       | 1       | 0        | 0       | 0       |
 
-#### Ejemplo:
+#### Ejemplos:
+
+##### Ejemplo 1:
+
 Consideremos el siguiente problema:
 - María no irá a la escuela si hace frío **y** llueve **o** no ha hecho sus deberes.
   - Entrada A: Hace frío.
