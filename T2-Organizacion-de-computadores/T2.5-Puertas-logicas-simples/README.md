@@ -29,11 +29,56 @@ A través del uso de puertas lógicas como AND, OR, NOT, entre otras, es posible
 Los **operadores booleanos** son herramientas fundamentales del álgebra de Boole. A continuación, se presentan los operadores más comunes:
 
 1. **NOT** (Negación): Produce el valor opuesto de una entrada. Si la entrada es `1`, el resultado es `0` y viceversa.
+
+| Entrada A | NOT A |
+|-----------|-------|
+| 0         | 1     |
+| 1         | 0     |
+
 2. **AND** (Conjunción): Devuelve `1` si todas las entradas son `1`. Si alguna es `0`, el resultado es `0`.
-3. **OR** (Disyunción): Devuelve `1` si al menos una de las entradas es `1`. Solo es `0` si todas las entradas son `0`.
-4. **NAND** (Negación de AND): Devuelve el valor opuesto al de la operación AND.
-5. **NOR** (Negación de OR): Devuelve el valor opuesto al de la operación OR.
-6. **XOR** (Disyunción exclusiva): Devuelve `1` si exactamente una de las entradas es `1`. Si todas las entradas son iguales, devuelve `0`.
+
+| Entrada A | Entrada B | A AND B |
+|-----------|-----------|---------|
+| 0         | 0         | 0       |
+| 0         | 1         | 0       |
+| 1         | 0         | 0       |
+| 1         | 1         | 1       |
+
+4. **OR** (Disyunción): Devuelve `1` si al menos una de las entradas es `1`. Solo es `0` si todas las entradas son `0`.
+
+| Entrada A | Entrada B | A OR B |
+|-----------|-----------|--------|
+| 0         | 0         | 0      |
+| 0         | 1         | 1      |
+| 1         | 0         | 1      |
+| 1         | 1         | 1      |
+
+6. **NAND** (Negación de AND): Devuelve el valor opuesto al de la operación AND.
+
+| Entrada A | Entrada B | A NAND B |
+|-----------|-----------|----------|
+| 0         | 0         | 1        |
+| 0         | 1         | 1        |
+| 1         | 0         | 1        |
+| 1         | 1         | 0        |
+
+8. **NOR** (Negación de OR): Devuelve el valor opuesto al de la operación OR.
+
+| Entrada A | Entrada B | A NOR B |
+|-----------|-----------|---------|
+| 0         | 0         | 1       |
+| 0         | 1         | 0       |
+| 1         | 0         | 0       |
+| 1         | 1         | 0       |
+
+10. **XOR** (Disyunción exclusiva): Devuelve `1` si exactamente una de las entradas es `1`. Si todas las entradas son iguales, devuelve `0`.
+
+| Entrada A | Entrada B | A XOR B |
+|-----------|-----------|---------|
+| 0         | 0         | 0       |
+| 0         | 1         | 1       |
+| 1         | 0         | 1       |
+| 1         | 1         | 0       |
 
 ### 2.2. Tablas de verdad
 
