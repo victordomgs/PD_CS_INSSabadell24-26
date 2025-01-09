@@ -209,7 +209,7 @@ Consideramos las siguientes entradas:
 | 1         | 0          | 1           | 1           |
 | 1         | 1          | 0           | 0           |
 
-##### Ejemplo 3:
+##### Ejemplo 7:
 
 Un sistema de calefacción se enciende si hace frío y alguien esta en casa o si se activa manualmente.
 
