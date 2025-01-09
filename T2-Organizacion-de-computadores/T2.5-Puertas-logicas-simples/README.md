@@ -44,7 +44,7 @@ Los **operadores booleanos** son herramientas fundamentales del álgebra de Bool
 | 1         | 0         | 0       |
 | 1         | 1         | 1       |
 
-4. **OR** (Disyunción): Devuelve `1` si al menos una de las entradas es `1`. Solo es `0` si todas las entradas son `0`.
+3. **OR** (Disyunción): Devuelve `1` si al menos una de las entradas es `1`. Solo es `0` si todas las entradas son `0`.
 
 | Entrada A | Entrada B | A OR B |
 |-----------|-----------|--------|
@@ -53,7 +53,7 @@ Los **operadores booleanos** son herramientas fundamentales del álgebra de Bool
 | 1         | 0         | 1      |
 | 1         | 1         | 1      |
 
-6. **NAND** (Negación de AND): Devuelve el valor opuesto al de la operación AND.
+4. **NAND** (Negación de AND): Devuelve el valor opuesto al de la operación AND.
 
 | Entrada A | Entrada B | A NAND B |
 |-----------|-----------|----------|
@@ -62,7 +62,7 @@ Los **operadores booleanos** son herramientas fundamentales del álgebra de Bool
 | 1         | 0         | 1        |
 | 1         | 1         | 0        |
 
-8. **NOR** (Negación de OR): Devuelve el valor opuesto al de la operación OR.
+5. **NOR** (Negación de OR): Devuelve el valor opuesto al de la operación OR.
 
 | Entrada A | Entrada B | A NOR B |
 |-----------|-----------|---------|
@@ -71,7 +71,7 @@ Los **operadores booleanos** son herramientas fundamentales del álgebra de Bool
 | 1         | 0         | 0       |
 | 1         | 1         | 0       |
 
-10. **XOR** (Disyunción exclusiva): Devuelve `1` si exactamente una de las entradas es `1`. Si todas las entradas son iguales, devuelve `0`.
+6. **XOR** (Disyunción exclusiva): Devuelve `1` si exactamente una de las entradas es `1`. Si todas las entradas son iguales, devuelve `0`.
 
 | Entrada A | Entrada B | A XOR B |
 |-----------|-----------|---------|
