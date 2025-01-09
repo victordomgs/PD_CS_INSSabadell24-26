@@ -95,34 +95,145 @@ Las tablas de verdad permiten visualizar los resultados de los operadores boolea
 
 ##### Ejemplo 1:
 
-Consideremos el siguiente problema:
-- María no irá a la escuela si hace frío **y** llueve **o** no ha hecho sus deberes.
-  - Entrada A: Hace frío.
-  - Entrada B: Llueve.
-  - Entrada C: Ha hecho sus deberes.
- 
-O, dicho de otra manera: María no irá a la escuela si hace frío (A) y llueve (B) o no ha hecho sus deberes (NOT C). 
+Un sistema de riego automático funciona si está activado manualmente o si el sensor de humedad detecta que el suelo está seco.
+
+Consideramos las siguientes entradas: 
+- Entrada A: Se activa manualmente.
+- Entrada B: Detecta humedad el sensor.
+
+Esta lógica la podemos interpretar como una combinación de operaciones booleanas:
+
+**Salida (Sistema de riego activado)** = (A OR B)
+
+| A         | B          | Salida      |
+|-----------|------------|-------------|
+| 0         | 0          | 0           |
+| 0         | 1          | 1           |
+| 1         | 0          | 1           |
+| 1         | 1          | 1           |
+
+##### Ejemplo 2:
+
+Un sistema de seguridad activa la alarma solo si ambas puertas de entrada y ventana están abiertas al mismo tiempo.
+
+Consideramos las siguientes entradas: 
+- Entrada A: Puerta de entrada abierta.
+- Entrada B: Ventana abierta.
+
+ Esta lógica la podemos interpretar como una combinación de operaciones booleanas:
+
+ **Salida (Sistema de alarmas activado)** = A AND B
+
+| A         | B          | Salida      |
+|-----------|------------|-------------|
+| 0         | 0          | 0           |
+| 0         | 1          | 0           |
+| 1         | 0          | 0           |
+| 1         | 1          | 1           |
+
+##### Ejemplo 3:
+
+Un sistema de seguridad activa la alarma si no se cumplen ambas condiciones: la puerta está cerrada y la ventana está cerrada.
+
+Consideramos las siguientes entradas: 
+- Entrada A: Puerta cerrada.
+- Entrada B: Ventana cerrada.
+
+ Esta lógica la podemos interpretar como una combinación de operaciones booleanas:
+
+**Salida (Alarmas activada)** = NOT(A AND B)
+
+| A                   | B                   | A AND B | NAND                    |
+|---------------------|---------------------|---------|-------------------------|
+| 0                   | 0                   | 0       | 1                       |
+| 0                   | 1                   | 0       | 1                       |
+| 1                   | 0                   | 0       | 1                       |
+| 1                   | 1                   | 1       | 0                       |
+
+
+##### Ejemplo 4:
+
+Un sistema de ahorro de energía apaga las luces si ningún interruptor está activado.
+
+Consideramos las siguientes entradas: 
+- Entrada A: Interruptor 1 activado.
+- Entrada B: Interruptor 2 activado.
+
+Esta lógica la podemos interpretar como una combinación de operaciones booleanas:
+
+**Salida (Luces apagadas)** = NOT(A OR B)
+
+| A                   | B                   | A OR B  | NOR                     |
+|---------------------|---------------------|---------|-------------------------|
+| 0                   | 0                   | 0       | 1                       |
+| 0                   | 1                   | 1       | 0                       |
+| 1                   | 0                   | 1       | 0                       |
+| 1                   | 1                   | 1       | 0                       |
+  
+##### Ejemplo 5:
+
+Un sistema de encendido alternativo activa un dispositivo si exactamente uno de los botones está presionado.
+
+Consideramos las siguientes entradas: 
+- Entrada A: Botón 1 activado.
+- Entrada B: Botón 2 activado.
+
+Esta lógica la podemos interpretar como una combinación de operaciones booleanas:
+
+**Salida (Dispositivo activado)** = A XOR B
+
+| A                   | B                   |  XOR                     |
+|---------------------|---------------------| -------------------------|
+| 0                   | 0                   |  0                       |
+| 0                   | 1                   |  1                       |
+| 1                   | 0                   |  1                       |
+| 1                   | 1                   |  0                       |
+  
+
+##### Ejemplo 6:
+
+Una alarma de seguridad suena si la puerta está abierta y no hay luz en la habitación.
+
+Consideramos las siguientes entradas: 
+- Entrada A: Puerta abierta.
+- Entrada B: Luz encendida.
+
+ Esta lógica la podemos interpretar como una combinación de operaciones booleanas:
+
+  **Salida (Alarma de seguridad suena)** = A AND (NOT B)
+
+| A         | B          | NOT B       | Salida      |
+|-----------|------------|-------------|-------------|
+| 0         | 0          | 1           | 0           |
+| 0         | 1          | 0           | 0           |
+| 1         | 0          | 1           | 1           |
+| 1         | 1          | 0           | 0           |
+
+##### Ejemplo 3:
+
+Un sistema de calefacción se enciende si hace frío y alguien esta en casa o si se activa manualmente.
+
+O, dicho de otra manera: Un sistema de calefacción se enciende si hace frío (A) y si alguien esta en casa (B) o si se activa manualmente (C).
+
+Consideramos las siguientes entradas: 
+- Entrada A: Hace frío.
+- Entrada B: Alguien en casa.
+- Entrada C: Se activa manualmente.
 
 Esta lógica la podemos interpretar como una combinación de operaciones booleanas: 
 
-**Salida (No va a la escuela)** = (A AND B) OR (NOT C)
+**Salida (Sistema de calefacción se enciende)** = (A AND B) OR C
 
-| Frío (A) | Llueve (B) | Deberes (C) | Salida (No va a la escuela)  |
-|-----------|------------|-------------|-----------------------------|
-| 0         | 0          | 0           | 1                           |
-| 0         | 0          | 1           | 1                           |
-| 0         | 1          | 0           | 0                           |
-| 0         | 1          | 1           | 1                           |
-| 1         | 0          | 0           | 0                           |
-| 1         | 0          | 1           | 1                           |
-| 1         | 1          | 0           | 0                           |
-| 1         | 1          | 1           | 1                           |
+| A         | B          | (A AND B)   | C           | Salida        |
+|-----------|------------|-------------|-------------|---------------|
+| 0         | 0          | 0           | 0           | 0             |
+| 0         | 0          | 0           | 1           | 1             |
+| 0         | 1          | 0           | 0           | 0             |
+| 0         | 1          | 0           | 1           | 1             |
+| 1         | 0          | 0           | 0           | 0             |
+| 1         | 0          | 0           | 1           | 1             |
+| 1         | 1          | 1           | 0           | 1             |
+| 1         | 1          | 1           | 1           | 1             |
 
-Si nos fijamos en la primera combiación: 
-```
-Salida = (A AND B) OR (NOT C)
-Salida = (0 AND 0) OR 1
-Salida = 0 OR 1
-Salida = 1
-```
+
 
