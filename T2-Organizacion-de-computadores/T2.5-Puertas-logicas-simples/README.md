@@ -97,21 +97,29 @@ Consideremos el siguiente problema:
   - Entrada A: Hace frío.
   - Entrada B: Llueve.
   - Entrada C: Ha hecho sus deberes.
+ 
+O, dicho de otra manera: María no irá a la escuela si hace frío (A) y llueve (B) o no ha hecho sus deberes (NOT C). 
 
-| Frío (A) | Llueve (B) | Deberes (C) | Salida (No va a la escuela) |
+Esta lógica la podemos interpretar como una combinación de operaciones booleanas: 
+
+**Salida (No va a la escuela)** = (A AND B) OR (NOT C)
+
+| Frío (A) | Llueve (B) | Deberes (C) | Salida (No va a la escuela)  |
 |-----------|------------|-------------|-----------------------------|
-| 0         | 0          | 0           | 0                           |
-| 0         | 1          | 0           | 1                           |
-| 1         | 0          | 1           | 0                           |
-| 1         | 1          | 0           | 1                           |
+| 0         | 0          | 0           | 1                           |
+| 0         | 0          | 1           | 1                           |
+| 0         | 1          | 0           | 0                           |
+| 0         | 1          | 1           | 1                           |
+| 1         | 0          | 0           | 0                           |
+| 1         | 0          | 1           | 1                           |
+| 1         | 1          | 0           | 0                           |
+| 1         | 1          | 1           | 1                           |
 
-### 2.3. Diagramas lógicos
+Si nos fijamos en la primera combiación: 
+```
+Salida = (A AND B) OR (NOT C)
+Salida = (0 AND 0) OR 1
+Salida = 0 OR 1
+Salida = 1
+```
 
-Los diagramas lógicos representan de manera gráfica las operaciones booleanas mediante puertas lógicas. Cada operador booleano tiene una representación específica:
-
-1. **NOT**: Triángulo con un círculo en la salida.
-2. **AND**: Rectángulo con forma curva en los extremos.
-3. **OR**: Forma curva con dos entradas y una salida.
-4. **NAND**: Igual que AND, pero con un círculo en la salida.
-5. **NOR**: Igual que OR, pero con un círculo en la salida.
-6. **XOR**: Igual que OR, pero con una línea adicional en la entrada.
