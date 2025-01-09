@@ -18,7 +18,7 @@
 
 ## 1. Introducción a las puertas lógicas
 
-Las puertas lógicas son los componentes básicos de los circuitos digitales y permiten realizar operaciones fundamentales del álgebra de Boole. Estas operaciones son esenciales para procesar información binaria en dispositivos electrónicos como ordenadores, calculadoras y sistemas automáticos. 
+Las **puertas lógicas** son los componentes básicos de los circuitos digitales y permiten realizar operaciones fundamentales del álgebra de Boole. Estas operaciones son esenciales para procesar información binaria en dispositivos electrónicos como ordenadores, calculadoras y sistemas automáticos. 
 
 A través del uso de puertas lógicas como AND, OR, NOT, entre otras, es posible diseñar y analizar circuitos que realicen tareas específicas basadas en combinaciones de entradas binarias.
 
