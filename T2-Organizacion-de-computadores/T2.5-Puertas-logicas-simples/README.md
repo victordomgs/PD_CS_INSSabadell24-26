@@ -18,7 +18,6 @@
 [2. Representación de funciones lógicas](#2-representación-de-funciones-lógicas)  
   - [2.1. Definición de operadores booleanos](#21-definición-de-operadores-booleanos)  
   - [2.2. Tablas de verdad](#22-tablas-de-verdad)  
-  - [2.3. Diagramas lógicos](#23-diagramas-lógicos)  
 
 ## 1. Introducción a las puertas lógicas
 
@@ -144,16 +143,3 @@ Los diagramas lógicos representan de manera gráfica las operaciones booleanas 
 4. **NAND**: Igual que AND, pero con un círculo en la salida.
 5. **NOR**: Igual que OR, pero con un círculo en la salida.
 6. **XOR**: Igual que OR, pero con una línea adicional en la entrada.
-
-#### Ejemplo:
-Construyamos un diagrama lógico para el problema de María:
-- Se utilizará una puerta AND para combinar "hace frío" y "llueve".
-- Una puerta OR combinará el resultado con "no ha hecho sus deberes" (NOT de la entrada).
-
-```plaintext
-A ----|\      
-       | AND |-----\      
-B ----|/            \     
-                      OR ---- (Salida)
-C ----[NOT]---------/
-```
