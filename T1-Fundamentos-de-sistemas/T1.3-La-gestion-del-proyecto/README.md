@@ -70,8 +70,8 @@ Dentro del proyecto, hay tres roles clave: el patrocinador, el gerente o jefe de
 3. Los **miembros del equipo** tienen una responsabilidad principalmente técnica, de ejecución de la parte del trabajo que tienen asignada con su aportación profesional y en colaboración con otros miembros del equipo y personal del cliente. Suelen tratar las operaciones con un supervisor o líder intermedio del proyecto, y éstos, con el gerente. Actualmente, los miembros del equipo suelen pertenecer a la organización del cliente, a su departamento de informática y a empresas externas.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%202.%20La%20gesti%C3%B3n%20del%20proyecto.png" alt="La gestión del proyecto" width="739" height="auto"/>
-    <p><em>Figura 2: Cíclo de vida del proyecto. Fuente: UOC</em></p>
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Diagrama%20de%20interesados%20en%20el%20proyecto.png" alt="La gestión del proyecto" width="742" height="auto"/>
+    <p><em>Figura 3: Diagrama de interesados en el proyecto. Fuente: UOC</em></p>
   </div>
 
 ### 1.3.2. La matriz de roles y responsabilidades
@@ -80,7 +80,4 @@ Cada proyecto es diferente, ocurre en una organización distinta, con reglas ún
 
 El plan de gestión de recursos humanos, elaborado en la etapa de planificación, debe proporcionar una definición clara de los recursos humanos asignados al proyecto, en cantidad y calidad, el papel de cada uno sobre los productos y actividades, las necesidades de supervisión y control y el momento de entrada y salida del proyecto.
 
-  <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Diagrama%20de%20interesados%20en%20el%20proyecto.png" alt="La gestión del proyecto" width="742" height="auto"/>
-    <p><em>Figura 3: Diagrama de interesados en el proyecto. Fuente: UOC</em></p>
-  </div>
+
