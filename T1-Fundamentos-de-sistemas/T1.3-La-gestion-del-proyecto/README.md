@@ -15,7 +15,6 @@
   - [1.2. Las áreas de conocimiento](#12-las-áreas-de-conocimiento)
   - [1.3. La organización del proyecto](#13-la-organización-del-proyecto)
       - [1.3.1. Roles clave en el proyecto](#131-roles-clave-en-el-proyecto)
-      - [1.3.2. La matriz de roles y responsabilidades](#132-la-matriz-de-roles-y-responsabilidades)
 
 ## 1. Gestión del proyecto
 
