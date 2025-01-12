@@ -15,6 +15,6 @@ Google Colab (o Colaboratory) es una plataforma gratuita basada en la nube que p
 1. Una vez dentro, haz clic en el botón ```+ Nuevo cuaderno```.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/T5-Programacion/images/intro-programacion.png" alt="Los sistemas de información en las organizaciones" width="601" height="auto"/>
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/T5-Programacion/images/entorno-programacion.png" alt="Los sistemas de información en las organizaciones" width="601" height="auto"/>
   </div>
 
