@@ -44,3 +44,22 @@ print("Hola, mundo!")
 ```python
 # Esto es un comentario
 ```
+
+---
+### Paso 4: Guardar y compartir tu trabajo
+1. En una nueva celda de código, escribe lo siguiente y ejecuta:
+```python
+print("Bienvenido a Google Colab!")
+```
+2. Prueba código simple como operaciones matemáticas:
+```python
+2 + 2
+```
+3. Declara variables y trabaja con ellas:
+```python
+nombre = "Juan"
+print("Hola, " + nombre)
+```
+---
+### Paso 5: Guardar y compartir tu trabajo
+Google Colab, guarda automáticamente tu notebook en tu Google Drive. Y haciendo clic en el botón "Compartir" (arriba a la derecha) se puede enviar el código a compañeros y profesores. (¡Importante! Ajustar si se quiere que la persona tenga permisos de lectura o edición).
