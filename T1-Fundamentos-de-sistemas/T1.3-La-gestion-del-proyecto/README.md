@@ -16,7 +16,7 @@
   - [1.3. La organización del proyecto](#13-la-organización-del-proyecto)
       - [1.3.1. Roles clave en el proyecto](#131-roles-clave-en-el-proyecto)
 
-# 1. Gestión del proyecto
+## 1. Gestión del proyecto
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%201.%20La%20gesti%C3%B3n%20del%20proyecto.png" alt="La gestión del proyecto" width="477" height="auto"/>
@@ -25,7 +25,7 @@
 
 Cuanda hablamos de una implantación de un sistema de información de empresa realmente estamos hablando de un proyecto. Y de todos los elementos que engloban a este: el proceso de adopción, la selección del software, el arranque o la migración de datos. 
 
-## 1.1. Procesos típicos de la gestión de proyectos
+### 1.1. Procesos típicos de la gestión de proyectos
 
 Los procesos básicos de la gestión de cualquier proyecto tipo son: 
 
@@ -40,7 +40,7 @@ Los procesos básicos de la gestión de cualquier proyecto tipo son:
 4) **Siguimiento y control.** Los procesos de seguimiento y control se pueden considerar permanetes y paralelos durante todo el proyecto. Se encargan de evaluar y corregir las posibles fallas del proyecto.
 5) **Cierre.** Esta etapa incluye todas las actividades necesarias para la finalización del proyecto y la comprobación del cumplimiento de las obligaciones contenidas en el contrato o en el acta de constitución.
 
-## 1.2. Las áreas de conocimiento
+### 1.2. Las áreas de conocimiento
 
 La gestión de proyectos se basa en una serie de áreas de conocimiento que abarcan los procesos y actividades clave necesarios para planificar, ejecutar y controlar un proyecto con éxito. Estas áreas no solo estructuran el trabajo del director de proyectos, sino que también permiten coordinar los recursos, mitigar riesgos y alcanzar los objetivos dentro de los plazos y presupuestos establecidos.
 
@@ -56,11 +56,11 @@ Cada área de conocimiento aborda un aspecto específico del proyecto, desde la 
 8. **Gestión de los Riesgos:** Identifica, analiza y responde a eventos potenciales que puedan impactar el proyecto, estableciendo medidas preventivas y correctivas.
 9. **Administración de Compras y Contratos:** Gestiona las relaciones con clientes y subcontratistas, incluyendo aspectos económicos y legales críticos.
 
-## 1.3. La organización del proyecto
+### 1.3. La organización del proyecto
 Entendemos aquí por organización la definición de roles y responsabilidades de los miembros del proyecto (cualquiera que sea su procedencia: cliente, empresa proveedora, contratistas) con relación al proyecto y la estructura de toma de decisiones y distribución del trabajo.
 Las estructuras de organización incluyen los órganos individuales (personas que asumen roles y tienen responsabilidades) y también los órganos colegiados (comités y comisiones que tienen atribuidas funciones dentro del proyecto).
 
-### 1.3.1. Roles clave en el proyecto
+#### 1.3.1. Roles clave en el proyecto
 
 Dentro del proyecto, hay tres roles clave: el patrocinador, el gerente o jefe de proyecto y los miembros del equipo.
 
@@ -72,11 +72,3 @@ Dentro del proyecto, hay tres roles clave: el patrocinador, el gerente o jefe de
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Diagrama%20de%20interesados%20en%20el%20proyecto.png" alt="La gestión del proyecto" width="742" height="auto"/>
     <p><em>Figura 3: Diagrama de interesados en el proyecto. Fuente: UOC</em></p>
   </div>
-
-### 1.3.2. La matriz de roles y responsabilidades
-
-Cada proyecto es diferente, ocurre en una organización distinta, con reglas únicas, atiende problemas de negocio específicos y tiene componentes técnicos y personales diversos. Es importante dedicar tiempo a entender todo esto y a diseñar la mejor manera de resolver los problemas e integrar a todos los componentes y establecer un diálogo constructivo con el cliente y luego dentro de los equipos de trabajo sobre todos los aspectos organizativos. Muchos proyectos fallan (no cumplen sus objetivos), o son ineficientes (se utilizan mal los recursos) o resultan frustrantes para los equipos porque no se clarifica la mejor contribución de cada miembro, la relación entre ellos, las relaciones con el cliente y no se toman las decisiones adecuadas, a tiempo y por quien debe hacerlo.
-
-El plan de gestión de recursos humanos, elaborado en la etapa de planificación, debe proporcionar una definición clara de los recursos humanos asignados al proyecto, en cantidad y calidad, el papel de cada uno sobre los productos y actividades, las necesidades de supervisión y control y el momento de entrada y salida del proyecto.
-
-
