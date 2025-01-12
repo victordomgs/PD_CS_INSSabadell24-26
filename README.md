@@ -5,6 +5,8 @@
 <br>
 [T1.2 La gestión del cambio](T1-Fundamentos-de-sistemas/T1.2-La-gestion-del-cambio/)
 <br>
+[T1.3 La gestión del proyecto](T1-Fundamentos-de-sistemas/T1.3-La-gestion-del-proyecto/)
+<br>
 <br>
 ### T2-Organización de Computadores
 [T2.1 Arquitectura de computadores](T2-Organizacion-de-computadores/T2.1-Arquitectura-de-computadores/)
