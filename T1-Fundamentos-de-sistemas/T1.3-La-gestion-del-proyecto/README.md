@@ -16,7 +16,7 @@
   - [1.3. La organización del proyecto](#13-la-organización-del-proyecto)
       - [1.3.1. Roles clave en el proyecto](#131-roles-clave-en-el-proyecto)
 
-## 1. Gestión del proyecto
+# 1. Gestión del proyecto
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%201.%20La%20gesti%C3%B3n%20del%20proyecto.png" alt="La gestión del proyecto" width="477" height="auto"/>
