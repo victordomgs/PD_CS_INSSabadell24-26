@@ -81,6 +81,6 @@ Cada proyecto es diferente, ocurre en una organización distinta, con reglas ún
 El plan de gestión de recursos humanos, elaborado en la etapa de planificación, debe proporcionar una definición clara de los recursos humanos asignados al proyecto, en cantidad y calidad, el papel de cada uno sobre los productos y actividades, las necesidades de supervisión y control y el momento de entrada y salida del proyecto.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Diagrama%20de%20interesados%20en%20el%20proyecto.png" alt="La gestión del proyecto" width="371" height="auto"/>
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Diagrama%20de%20interesados%20en%20el%20proyecto.png" alt="La gestión del proyecto" width="742" height="auto"/>
     <p><em>Figura 3: Diagrama de interesados en el proyecto. Fuente: UOC</em></p>
   </div>
