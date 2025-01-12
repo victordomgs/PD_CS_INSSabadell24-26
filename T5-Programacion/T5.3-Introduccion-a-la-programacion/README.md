@@ -62,4 +62,4 @@ print("Hola, " + nombre)
 ```
 ---
 ### Paso 5: Guardar y compartir tu trabajo
-Google Colab, guarda automáticamente tu notebook en tu Google Drive. Y haciendo clic en el botón "Compartir" (arriba a la derecha) se puede enviar el código a compañeros y profesores. (¡Importante! Ajustar si se quiere que la persona tenga permisos de lectura o edición).
+Google Colab, guarda automáticamente tu notebook en tu Google Drive. Y haciendo clic en el botón "Compartir" (arriba a la derecha) se puede enviar el código a compañeros y profesores. (**¡Importante!** Ajustar si se quiere que la persona tenga permisos de lectura o edición).
