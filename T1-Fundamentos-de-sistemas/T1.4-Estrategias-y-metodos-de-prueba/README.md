@@ -70,5 +70,7 @@ Las pruebas de rendimiento evalúan el rendimiento de un sistema con una carga d
 #### Pruebas beta
 Las pruebas beta, del inglés beta testing, son las pruebas de software que se realizan cuando el sistema está teóricamente correcto y pasa a ejecutarse en un entorno real. No importa cuán bueno que sea nuestro proceso de desarrollo, siempre habrá fallos que no han sido descubiertos por los desarrolladores ni por el equipo de pruebas.
 
+---
+
 > [!IMPORTANT]  
 > Existen múltiples programas y herramientas diseñados específicamente para realizar pruebas automatizadas sobre otros programas, lo que simplifica el proceso de prueba, reduce errores humanos y disminuye significativamente los costes asociados con la validación y el mantenimiento de software. Estas herramientas permiten ejecutar pruebas repetitivas y detalladas de manera más eficiente que las pruebas manuales.
