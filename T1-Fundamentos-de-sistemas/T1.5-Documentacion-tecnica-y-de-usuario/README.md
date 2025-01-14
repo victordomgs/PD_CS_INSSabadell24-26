@@ -100,14 +100,14 @@ Los métodos para ofrecer documentación al usuario pueden variar según el tipo
 Los manuales impresos han sido durante mucho tiempo el método estándar para proporcionar documentación del usuario. Aunque su uso ha disminuido con la digitalización, todavía son útiles en ciertos contextos.
 
 **Ventajas:**
-- Acceso físico: No requieren acceso a internet ni dispositivos electrónicos, lo que los hace ideales para entornos con infraestructura limitada.
-- Estructura organizada: Suelen tener un índice claro y secciones específicas, lo que facilita la consulta.
-- Durabilidad: Son útiles para usuarios que prefieren un formato tangible.
+- **Acceso físico:** No requieren acceso a internet ni dispositivos electrónicos, lo que los hace ideales para entornos con infraestructura limitada.
+- **Estructura organizada:** Suelen tener un índice claro y secciones específicas, lo que facilita la consulta.
+- **Durabilidad:** Son útiles para usuarios que prefieren un formato tangible.
 
 **Desventajas:**
-- Dificultad para actualizaciones: Una vez impresos, los manuales no pueden modificarse fácilmente, lo que los vuelve obsoletos si el sistema cambia.
-- Costes: Su impresión y distribución pueden ser costosos, especialmente para grandes volúmenes.
-- Limitaciones en el contenido: No pueden incluir elementos interactivos como videos o enlaces.
+- **Dificultad para actualizaciones:** Una vez impresos, los manuales no pueden modificarse fácilmente, lo que los vuelve obsoletos si el sistema cambia.
+- **Costes:** Su impresión y distribución pueden ser costosos, especialmente para grandes volúmenes.
+- **Limitaciones en el contenido:** No pueden incluir elementos interactivos como videos o enlaces.
 
 **Ejemplo:** Manuales de uso de electrodomésticos o equipos industriales.
 
@@ -117,13 +117,13 @@ Los manuales impresos han sido durante mucho tiempo el método estándar para pr
 Este es uno de los métodos más comunes actualmente, ya que permite a los usuarios acceder a la información desde cualquier lugar con una conexión a internet.
 
 **Ventajas:**
-- Fácil acceso: Los usuarios pueden consultar la documentación en cualquier momento y lugar.
-- Posibilidad de búsqueda: Las herramientas digitales suelen incluir funciones de búsqueda que facilitan encontrar información específica rápidamente.
-- Actualizaciones inmediatas: Permiten realizar modificaciones y correcciones en tiempo real.
+- **Fácil acceso:** Los usuarios pueden consultar la documentación en cualquier momento y lugar.
+- **Posibilidad de búsqueda:** Las herramientas digitales suelen incluir funciones de búsqueda que facilitan encontrar información específica rápidamente.
+- **Actualizaciones inmediatas:** Permiten realizar modificaciones y correcciones en tiempo real.
 
 **Ejemplos comunes:**
-- FAQs: Preguntas frecuentes que abordan problemas y dudas comunes de los usuarios.
-- Bases de conocimiento: Repositorios organizados de artículos y guías técnicas.
+- **FAQs:** Preguntas frecuentes que abordan problemas y dudas comunes de los usuarios.
+- **Bases de conocimiento:** Repositorios organizados de artículos y guías técnicas.
 
 **Ejemplo:** La documentación en línea de herramientas como Google Workspace o Microsoft 365.
 
@@ -132,13 +132,13 @@ Este es uno de los métodos más comunes actualmente, ya que permite a los usuar
 El servicio técnico en línea ofrece asistencia personalizada a los usuarios a través de diferentes canales.
 
 **Ventajas:**
-- Asistencia personalizada: Los usuarios pueden obtener respuestas específicas a sus problemas en tiempo real.
-- Disponibilidad multicanal: Incluye opciones como chats, correos electrónicos o llamadas telefónicas.
-- Interacción directa: Permite a los usuarios interactuar con expertos, lo que genera confianza.
+- **Asistencia personalizada:** Los usuarios pueden obtener respuestas específicas a sus problemas en tiempo real.
+- **Disponibilidad multicanal:** Incluye opciones como chats, correos electrónicos o llamadas telefónicas.
+- **Interacción directa:** Permite a los usuarios interactuar con expertos, lo que genera confianza.
 
 **Desventajas:**
-- Requiere infraestructura: Necesita una red de soporte técnico capacitado y disponible.
-- Costos operativos: Puede ser más costoso que otros métodos, especialmente si requiere atención 24/7.
+- **Requiere infraestructura:** Necesita una red de soporte técnico capacitado y disponible.
+- **Costos operativos:** Puede ser más costoso que otros métodos, especialmente si requiere atención 24/7.
 
 **Ejemplo:** Servicios de soporte técnico ofrecidos por empresas de software como Adobe o Apple.
 
@@ -148,13 +148,13 @@ El servicio técnico en línea ofrece asistencia personalizada a los usuarios a 
 Los tutoriales en video son una forma visual y atractiva de explicar el funcionamiento de un sistema.
 
 **Ventajas:**
-- Visual y fácil de entender: Los usuarios pueden observar exactamente cómo realizar tareas específicas.
-- Ejemplos prácticos: Muestran casos reales y pasos detallados, ayudando a los usuarios a seguir instrucciones.
-- Accesibilidad: Pueden compartirse en plataformas como YouTube o integrarse en la documentación en línea.
+- **Visual y fácil de entender:** Los usuarios pueden observar exactamente cómo realizar tareas específicas.
+- **Ejemplos prácticos:** Muestran casos reales y pasos detallados, ayudando a los usuarios a seguir instrucciones.
+- **Accesibilidad:** Pueden compartirse en plataformas como YouTube o integrarse en la documentación en línea.
 
 **Desventajas:**
-- Actualización más compleja: Los videos requieren producción, lo que dificulta realizar cambios rápidos.
-- No adecuados para todos los temas: Algunas tareas complejas pueden ser difíciles de explicar completamente en un video.
+- **Actualización más compleja:** Los videos requieren producción, lo que dificulta realizar cambios rápidos.
+- **No adecuados para todos los temas:** Algunas tareas complejas pueden ser difíciles de explicar completamente en un video.
 
 **Ejemplo:** Videos tutoriales de plataformas como Canva o Trello.
 
@@ -163,13 +163,13 @@ Los tutoriales en video son una forma visual y atractiva de explicar el funciona
 Este método consiste en integrar mensajes de ayuda directamente en el sistema, ofreciendo soporte en tiempo real mientras el usuario lo utiliza.
 
 **Ventajas:**
-- Ayuda contextual: Proporciona información específica para cada acción o sección del sistema, justo cuando el usuario la necesita.
-- Sin necesidad de salir del sistema: Los usuarios no tienen que abandonar su flujo de trabajo para buscar ayuda.
-- Interactividad: Puede incluir ejemplos, simulaciones o enlaces a documentación más detallada.
+- **Ayuda contextual:** Proporciona información específica para cada acción o sección del sistema, justo cuando el usuario la necesita.
+- **Sin necesidad de salir del sistema:** Los usuarios no tienen que abandonar su flujo de trabajo para buscar ayuda.
+- **Interactividad:** Puede incluir ejemplos, simulaciones o enlaces a documentación más detallada.
 
 **Desventajas:**
-- Dependencia del software: Si el sistema tiene errores, la documentación integrada también puede fallar.
-- Coste inicial: Requiere un diseño e implementación cuidadosos.
+- **Dependencia del software:** Si el sistema tiene errores, la documentación integrada también puede fallar.
+- **Coste inicial:** Requiere un diseño e implementación cuidadosos.
 
 **Ejemplo:** Herramientas como Microsoft Word incluyen descripciones emergentes sobre las funciones.
 
@@ -178,12 +178,12 @@ Este método consiste en integrar mensajes de ayuda directamente en el sistema, 
 Estos sistemas utilizan simuladores o herramientas interactivas para que los usuarios puedan practicar y aprender a su propio ritmo.
 
 **Ventajas:**
-- Experiencia práctica: Permiten a los usuarios realizar tareas simuladas sin afectar el entorno real.
-- Adaptabilidad: Se ajustan al nivel de conocimiento del usuario, proporcionando una experiencia personalizada.
-- Compromiso del usuario: Fomentan un aprendizaje activo, lo que mejora la retención de información.
+- **Experiencia práctica:** Permiten a los usuarios realizar tareas simuladas sin afectar el entorno real.
+- **Adaptabilidad:** Se ajustan al nivel de conocimiento del usuario, proporcionando una experiencia personalizada.
+- **Compromiso del usuario:** Fomentan un aprendizaje activo, lo que mejora la retención de información.
 
 **Desventajas:**
-- Requiere desarrollo avanzado: Implementar simuladores puede ser complejo y costoso.
-- No todos los usuarios están familiarizados: Algunos usuarios pueden necesitar guía adicional para utilizar estos sistemas.
+- **Requiere desarrollo avanzado:** Implementar simuladores puede ser complejo y costoso.
+- **No todos los usuarios están familiarizados:** Algunos usuarios pueden necesitar guía adicional para utilizar estos sistemas.
 
 **Ejemplo:** Simuladores de sistemas de gestión empresarial como SAP o plataformas de aprendizaje interactivas como Khan Academy.
