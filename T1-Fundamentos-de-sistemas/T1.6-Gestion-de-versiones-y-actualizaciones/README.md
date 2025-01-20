@@ -15,7 +15,7 @@
 - [1.2. Importancia de las actualizaciones](#12-importancia-de-las-actualizaciones)
 
 [2. Pérdida de datos y sus consecuencias](#2-pérdida-de-datos-y-sus-consecuencias) 
-- [2.1. Impacto de la pérdida de datos en situaciones concretas](#21-impacto-de-la-pérdida-de-datos-en-situaciones-concretas)
+- [2.1. Impacto de la pérdida de datos](#21-impacto-de-la-pérdida-de-datos)
 
 [3. Métodos para evitar la pérdida de datos](#3-métodos-para-evitar-la-pérdida-de-datos) 
 - [3.1. Sistemas de conmutación por error](#31-sistemas-de-conmutación-por-error) 
@@ -93,7 +93,7 @@ Una empresa de comercio electrónico lanza una actualización para mejorar la se
 
 ## 2. Pérdida de datos y sus consecuencias
 
-### 2.1. Impacto de la pérdida de datos en situaciones concretas
+### 2.1. Impacto de la pérdida de datos
 
 La pérdida de datos puede tener consecuencias críticas y, en algunos casos, irreparables, dependiendo del contexto en el que ocurra. Las organizaciones deben considerar no solo los costos económicos asociados, sino también el impacto en la confianza de los clientes, la reputación de la empresa y la posible pérdida de vidas en ciertos casos específicos.
 
