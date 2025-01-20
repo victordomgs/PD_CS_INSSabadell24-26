@@ -99,7 +99,7 @@ La pérdida de datos puede tener consecuencias críticas y, en algunos casos, ir
 
 #### Ejemplos prácticos
 
-##### 1. **Registros médicos**
+**Registros médicos**
 - **Descripción del problema:**
   - La pérdida de registros médicos puede deberse a fallos en el almacenamiento de datos, ataques cibernéticos o errores humanos.
   - Esto puede resultar en la falta de acceso a información crítica para el diagnóstico y tratamiento de pacientes.
@@ -111,7 +111,7 @@ La pérdida de datos puede tener consecuencias críticas y, en algunos casos, ir
 
 - **Ejemplo:** Un hospital pierde datos debido a un ataque ransomware. Los médicos no pueden acceder a historiales de alergias o tratamientos previos, lo que lleva a decisiones médicas menos informadas.
 
-##### 2. **Reservas de hotel**
+**Reservas de hotel**
 - **Descripción del problema:**
   - Una cancelación accidental o pérdida de datos de reservas puede generar conflictos y caos en la gestión operativa de un hotel.
 
