@@ -54,7 +54,6 @@ La gestión de versiones es un conjunto de procesos y herramientas diseñados pa
 #### Ejemplo práctico
 Imagina un equipo de desarrollo trabajando en un sistema de reservas. Gracias a la gestión de versiones, los desarrolladores pueden realizar cambios simultáneamente en diferentes módulos, como la interfaz de usuario y la base de datos, sin preocuparse por sobrescribir el trabajo del otro. Además, si un cambio introduce un error, pueden retroceder fácilmente a una versión previa estable.
 
----
 
 ### 1.2. Importancia de las actualizaciones en sistemas de información
 
@@ -91,7 +90,6 @@ Las actualizaciones son esenciales para mantener un sistema seguro, funcional y 
 #### Ejemplo práctico
 Una empresa de comercio electrónico lanza una actualización para mejorar la seguridad de su sistema de pago en línea. Antes de implementar el cambio, realizan pruebas exhaustivas en un entorno de pruebas para garantizar que no afecte otras funcionalidades críticas, como el carrito de compras o el sistema de inventario.
 
----
 
 ## 2. Pérdida de Datos y sus Consecuencias
 
@@ -149,7 +147,6 @@ Un sistema de conmutación por error es una infraestructura diseñada para garan
 #### Ejemplo práctico
 Una empresa de comercio electrónico utiliza un sistema de conmutación por error para su base de datos de clientes. Si el servidor principal se desconecta por un fallo de hardware, el sistema redirige automáticamente las operaciones a un servidor secundario.
 
----
 
 ### 3.2. Redundancia
 
@@ -167,7 +164,6 @@ La redundancia implica duplicar datos, sistemas o componentes críticos para gar
 #### Ejemplo práctico
 Un sistema RAID (Redundant Array of Independent Disks) utiliza discos duros adicionales para almacenar copias de datos. Si un disco falla, los datos permanecen accesibles desde los otros discos.
 
----
 
 ### 3.3. Uso de medios extraíbles
 
@@ -185,7 +181,6 @@ Los medios extraíbles, como discos duros externos, unidades USB y cintas magné
 #### Ejemplo práctico
 Una empresa pequeña realiza copias de seguridad semanales en un disco duro externo que es almacenado en una ubicación segura fuera de las instalaciones.
 
----
 
 ### 3.4. Almacenamiento externo y en línea
 
@@ -203,7 +198,6 @@ El almacenamiento externo y en línea utiliza soluciones basadas en la nube o se
 #### Ejemplo práctico
 Una empresa utiliza servicios de almacenamiento en la nube como Google Drive o AWS S3 para realizar copias de seguridad automáticas de sus bases de datos y archivos de trabajo.
 
----
 
 ## 4. Implementación de Sistemas de Control de Versiones (SCV)
 
@@ -237,7 +231,6 @@ Un Sistema de Control de Versiones (SCV) es una herramienta esencial en el desar
 #### Ejemplo práctico
 En un equipo que desarrolla una aplicación web, un desarrollador introduce un cambio en el backend mientras otro trabaja en la interfaz de usuario. Usando un SCV, ambos pueden trabajar simultáneamente sin interferir. Además, si uno de los cambios genera un error, pueden revertir la rama afectada sin afectar el proyecto principal.
 
----
 
 ### 4.2. Herramientas populares
 
@@ -298,7 +291,6 @@ La elección de un SCV depende de factores como:
 - Requisitos de integración con otras herramientas.
 - Nivel de experiencia del equipo.
 
----
 
 ## 5. Actualizaciones del Sistema
 
@@ -316,7 +308,6 @@ Las actualizaciones de seguridad están diseñadas para abordar vulnerabilidades
 ##### Ejemplo práctico:
 Un sistema operativo publica un parche para corregir una vulnerabilidad que permite la ejecución remota de código. Las empresas que no instalan esta actualización corren el riesgo de ser blanco de ataques dirigidos.
 
----
 
 #### 5.1.2. Mejoras funcionales
 
@@ -330,7 +321,6 @@ Las mejoras funcionales se centran en agregar nuevas características, optimizar
 ##### Ejemplo práctico:
 Un software de gestión empresarial introduce una función de generación automática de informes, permitiendo a los usuarios ahorrar tiempo en tareas repetitivas.
 
----
 
 ### 5.2. Mejores prácticas para la gestión de actualizaciones
 
@@ -360,5 +350,3 @@ La implementación de actualizaciones debe realizarse de forma planificada para 
 
 #### Ejemplo práctico:
 Antes de implementar una actualización en un sistema de comercio electrónico, el equipo técnico realiza una copia de seguridad completa, prueba la compatibilidad con los métodos de pago y comunica a los usuarios un período de mantenimiento programado para evitar interrupciones.
-
----
