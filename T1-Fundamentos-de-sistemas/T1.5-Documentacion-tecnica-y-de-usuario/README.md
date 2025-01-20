@@ -50,7 +50,7 @@ Es importante entender que no toda la documentación está dirigida al mismo pú
 - Por ejemplo, una guía para un empleado que necesita aprender a registrar datos en un sistema de facturación.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%201.%20Documentaci%C3%B3n%20t%C3%A9cnica%20y%20de%20usuario.png" alt="Documentación técnica y de usuario" width="505" height="auto"/>
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%201.%20Documentaci%C3%B3n%20t%C3%A9cnica%20y%20de%20usuario.png" alt="Documentación técnica y de usuario" width="673" height="auto"/>
     <p><em>Figura 1: Ciclo de vida de la toma de decisiones. Fuente: UOC</em></p>
   </div>
 
