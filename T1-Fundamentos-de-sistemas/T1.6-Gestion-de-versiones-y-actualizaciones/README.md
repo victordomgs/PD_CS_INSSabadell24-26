@@ -29,8 +29,8 @@
 
 [5. Actualizaciones del sistema](#5-actualizaciones-del-sistema)
 - [5.1. Tipos de actualizaciones](#51-tipos-de-actualizaciones)
-- [5.1.1. Actualizaciones de seguridad](#511-actualizaciones-de-seguridad)
-- [5.1.2. Mejoras funcionales](#512-mejoras-funcionales)
+   - [5.1.1. Actualizaciones de seguridad](#511-actualizaciones-de-seguridad)
+   - [5.1.2. Mejoras funcionales](#512-mejoras-funcionales)
 - [5.2. Mejores prácticas para la gestión de actualizaciones](#52-mejores-prácticas-para-la-gestión-de-actualizaciones)
 
 ## 1. Introducción
