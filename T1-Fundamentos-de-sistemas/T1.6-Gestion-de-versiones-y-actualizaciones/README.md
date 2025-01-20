@@ -12,7 +12,7 @@
 ## Contenido:
 [1. Introducción](#1-introducción) 
 - [1.1. ¿Qué es la gestión de versiones?](#11-¿qué-es-la-gestión-de-versiones?)
-- [1.2. Importancia de las actualizaciones en sistemas de información](#12-importancia-de-las-actualizaciones-en-sistemas-de-información)
+- [1.2. Importancia de las actualizaciones](#12-importancia-de-las-actualizaciones)
 
 [2. Pérdida de Datos y sus Consecuencias](#2-pérdida-de-datos-y-sus-consecuencias) 
 - [2.1. Impacto de la pérdida de datos en situaciones concretas](#21-impacto-de-la-pérdida-de-datos-en-situaciones-concretas)
@@ -55,7 +55,7 @@ La gestión de versiones es un conjunto de procesos y herramientas diseñados pa
 Imagina un equipo de desarrollo trabajando en un sistema de reservas. Gracias a la gestión de versiones, los desarrolladores pueden realizar cambios simultáneamente en diferentes módulos, como la interfaz de usuario y la base de datos, sin preocuparse por sobrescribir el trabajo del otro. Además, si un cambio introduce un error, pueden retroceder fácilmente a una versión previa estable.
 
 
-### 1.2. Importancia de las actualizaciones en sistemas de información
+### 1.2. Importancia de las actualizaciones
 
 Las actualizaciones son esenciales para mantener un sistema seguro, funcional y alineado con las necesidades cambiantes de los usuarios y del entorno tecnológico. Estas pueden incluir correcciones de errores, mejoras de seguridad o la incorporación de nuevas funcionalidades.
 
