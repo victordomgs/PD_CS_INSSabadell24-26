@@ -49,6 +49,11 @@ Es importante entender que no toda la documentación está dirigida al mismo pú
 - Se enfoca en cómo usar el sistema, no en cómo funciona.
 - Por ejemplo, una guía para un empleado que necesita aprender a registrar datos en un sistema de facturación.
 
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%201.%20Documentaci%C3%B3n%20t%C3%A9cnica%20y%20de%20usuario.png" alt="Documentación técnica y de usuario" width="505" height="auto"/>
+    <p><em>Figura 1: Ciclo de vida de la toma de decisiones. Fuente: UOC</em></p>
+  </div>
+
 ## 2. Importancia de la documentación del usuario
 ### 2.1. Rol en la implementación del sistema
 La documentación del usuario juega un papel crucial durante la implementación de un sistema, ya que funciona como una guía para los usuarios finales, ayudándoles a entender cómo utilizar el software o sistema de manera eficiente. Es como recibir un mapa antes de explorar un lugar desconocido: sin él, puedes perderte, pero con una buena guía, el proceso se vuelve mucho más sencillo.
