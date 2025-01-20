@@ -11,7 +11,7 @@
 
 ## Contenido:
 [1. Introducción](#1-introducción) 
-- [1.1. ¿Qué es la gestión de versiones?](#11-¿qué-es-la-gestión-de-versiones?)
+- [1.1. ¿Qué es la gestión de versiones?](#11-¿-qué-es-la-gestión-de-versiones-?)
 - [1.2. Importancia de las actualizaciones](#12-importancia-de-las-actualizaciones)
 
 [2. Pérdida de datos y sus consecuencias](#2-pérdida-de-datos-y-sus-consecuencias) 
