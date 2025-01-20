@@ -14,20 +14,20 @@
 - [1.1. ¿Qué es la gestión de versiones?](#11-¿qué-es-la-gestión-de-versiones?)
 - [1.2. Importancia de las actualizaciones](#12-importancia-de-las-actualizaciones)
 
-[2. Pérdida de Datos y sus Consecuencias](#2-pérdida-de-datos-y-sus-consecuencias) 
+[2. Pérdida de datos y sus consecuencias](#2-pérdida-de-datos-y-sus-consecuencias) 
 - [2.1. Impacto de la pérdida de datos en situaciones concretas](#21-impacto-de-la-pérdida-de-datos-en-situaciones-concretas)
 
-[3. Métodos para Evitar la Pérdida de Datos](#3-métodos-para-evitar-la-pérdida-de-datos) 
+[3. Métodos para evitar la pérdida de datos](#3-métodos-para-evitar-la-pérdida-de-datos) 
 - [3.1. Sistemas de conmutación por error](#31-sistemas-de-conmutación-por-error) 
 - [3.2. Redundancia](#32-redundancia) 
 - [3.3. Uso de medios extraíbles](#33-uso-de-medios-extraíbles)
 - [3.4. Almacenamiento externo y en línea](#34-almacenamiento-externo-y-en-línea)
 
-[4. Implementación de Sistemas de Control de Versiones (SCV)](#4-implementación-de-sistemas-de-control-de-versiones-(SCV)) 
+[4. Implementación de sistemas de control de versiones (SCV)](#4-implementación-de-sistemas-de-control-de-versiones-(SCV)) 
 - [4.1. Beneficios de un SCV en la ingeniería de software](#41-beneficios-de-un-SCV-en-la-ingeniería-de-software)
 - [4.2. Herramientas populares](#42-herramientas-populares)
 
-[5. Actualizaciones del Sistema](#5-actualizaciones-del-sistema)
+[5. Actualizaciones del sistema](#5-actualizaciones-del-sistema)
 - [5.1. Tipos de actualizaciones](#51-tipos-de-actualizaciones)
 - [5.1.1. Actualizaciones de seguridad](#511-actualizaciones-de-seguridad)
 - [5.1.2. Mejoras funcionales](#512-mejoras-funcionales)
@@ -91,7 +91,7 @@ Las actualizaciones son esenciales para mantener un sistema seguro, funcional y 
 Una empresa de comercio electrónico lanza una actualización para mejorar la seguridad de su sistema de pago en línea. Antes de implementar el cambio, realizan pruebas exhaustivas en un entorno de pruebas para garantizar que no afecte otras funcionalidades críticas, como el carrito de compras o el sistema de inventario.
 
 
-## 2. Pérdida de Datos y sus Consecuencias
+## 2. Pérdida de datos y sus consecuencias
 
 ### 2.1. Impacto de la pérdida de datos en situaciones concretas
 
@@ -133,7 +133,7 @@ La pérdida de datos puede tener consecuencias críticas y, en algunos casos, ir
 - **Sanciones legales:** Dependiendo de la normativa, como el GDPR en Europa, la pérdida de datos sensibles puede resultar en multas significativas.
 
 
-## 3. Métodos para Evitar la Pérdida de Datos
+## 3. Métodos para evitar la pérdida de datos
 
 ### 3.1. Sistemas de conmutación por error
 
@@ -199,7 +199,7 @@ El almacenamiento externo y en línea utiliza soluciones basadas en la nube o se
 Una empresa utiliza servicios de almacenamiento en la nube como Google Drive o AWS S3 para realizar copias de seguridad automáticas de sus bases de datos y archivos de trabajo.
 
 
-## 4. Implementación de Sistemas de Control de Versiones (SCV)
+## 4. Implementación de sistemas de control de versiones (SCV)
 
 ### 4.1. Beneficios de un SCV en la ingeniería de software
 
@@ -292,7 +292,7 @@ La elección de un SCV depende de factores como:
 - Nivel de experiencia del equipo.
 
 
-## 5. Actualizaciones del Sistema
+## 5. Actualizaciones del sistema
 
 ### 5.1. Tipos de actualizaciones
 
