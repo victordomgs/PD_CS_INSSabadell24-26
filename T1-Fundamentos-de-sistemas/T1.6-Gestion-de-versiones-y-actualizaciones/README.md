@@ -13,16 +13,20 @@
 [1. Introducción](#1-introducción) 
 - [1.1. ¿Qué es la gestión de versiones?](#11-¿qué-es-la-gestión-de-versiones?)
 - [1.2. Importancia de las actualizaciones en sistemas de información](#12-importancia-de-las-actualizaciones-en-sistemas-de-información)
+
 [2. Pérdida de Datos y sus Consecuencias](#2-pérdida-de-datos-y-sus-consecuencias) 
 - [2.1. Impacto de la pérdida de datos en situaciones concretas](#21-impacto-de-la-pérdida-de-datos-en-situaciones-concretas)
+
 [3. Métodos para Evitar la Pérdida de Datos](#3-métodos-para-evitar-la-pérdida-de-datos) 
 - [3.1. Sistemas de conmutación por error](#31-sistemas-de-conmutación-por-error) 
 - [3.2. Redundancia](#32-redundancia) 
 - [3.3. Uso de medios extraíbles](#33-uso-de-medios-extraíbles)
 - [3.4. Almacenamiento externo y en línea](#34-almacenamiento-externo-y-en-línea)
+
 [4. Implementación de Sistemas de Control de Versiones (SCV)](#4-implementación-de-sistemas-de-control-de-versiones-(SCV)) 
 - [4.1. Beneficios de un SCV en la ingeniería de software](#41-beneficios-de-un-SCV-en-la-ingeniería-de-software)
 - [4.2. Herramientas populares](#42-herramientas-populares)
+
 [5. Actualizaciones del Sistema](#5-actualizaciones-del-sistema)
 - [5.1. Tipos de actualizaciones](#51-tipos-de-actualizaciones)
 - [5.1.1. Actualizaciones de seguridad](#511-actualizaciones-de-seguridad)
