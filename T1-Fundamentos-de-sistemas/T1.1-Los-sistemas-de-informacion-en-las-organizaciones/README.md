@@ -167,7 +167,6 @@ Los sistemas de información operacionales (o transaccionales) tienen por objeti
 
 Pueden haber muchas soluciones operacionales y con diferentes perspectivas. Veamos algunas de las más habituales:
 
--  El **ERP (Enterprise Resource Planning)** es un sistema integral que permite gestionar y optimizar las actividades principales de una organización. Incluye módulos que abarcan áreas como compras, ventas, almacén, producción, recursos humanos y contabilidad.
 -  El **CRM (Customer Relationship Management)** es un sistema orientado a gestionar y mejorar las relaciones con los clientes de una organización, centrándose en garantizar una relación rentable y sostenible a largo plazo.
 -  El **SCM (Supply Chain Management)** es un sistema diseñado para gestionar y optimizar toda la cadena de suministro de una organización, desde la adquisición de materias primas hasta la entrega de productos terminados al cliente final.
 
