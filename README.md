@@ -7,6 +7,12 @@
 <br>
 [T1.3 La gestión del proyecto](T1-Fundamentos-de-sistemas/T1.3-La-gestion-del-proyecto/)
 <br>
+[T1.4 Estrategias y métodos de prueba](T1-Fundamentos-de-sistemas/T1.4-Estrategias-y-metodos-de-prueba/)
+<br>
+[T1.5 Documentación técnica y de usuario](T1-Fundamentos-de-sistemas/T1.5-Documentacion-tecnica-y-de-usuario/)
+<br>
+[T1.6 Gestión de versiones y actualizaciones](T1-Fundamentos-de-sistemas/T1.6-Gestion-de-versiones-y-actualizaciones/)
+<br>
 <br>
 ### T2-Organización de Computadores
 [T2.1 Arquitectura de computadores](T2-Organizacion-de-computadores/T2.1-Arquitectura-de-computadores/)
