@@ -10,6 +10,10 @@ Este directorio contiene presentaciones relacionadas con los temas de Teoría de
 
 [La gestión del cambio](https://victordomgs.github.io/Teoria-de-sistemas-i-computacion/T1-Fundamentos-de-sistemas/Presentaciones/T1.2-La-gestion-del-cambio.html)
 
-## T1.2. La gestión del proyecto
+## T1.3. La gestión del proyecto
 
 [La gestión del proyecto](https://victordomgs.github.io/Teoria-de-sistemas-i-computacion/T1-Fundamentos-de-sistemas/Presentaciones/T1.3-La-gestion-del-proyecto.html)
+
+## T1.4. Estrategias y métodos de prueba
+
+[Estrategias y métodos de prueba](https://victordomgs.github.io/Teoria-de-sistemas-i-computacion/T1-Fundamentos-de-sistemas/Presentaciones/T1.4-Estrategias-y-metodos-de-prueba.html)
