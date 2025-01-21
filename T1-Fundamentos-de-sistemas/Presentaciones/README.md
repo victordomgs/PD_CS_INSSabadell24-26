@@ -22,6 +22,6 @@ Este directorio contiene presentaciones relacionadas con los temas de Teoría de
 
 [Estrategias y métodos de prueba](https://victordomgs.github.io/Teoria-de-sistemas-i-computacion/T1-Fundamentos-de-sistemas/Presentaciones/T1.5-Documentacion-tecnica-y-de-usuario.html)
 
-## T1.5. Gestión de versiones y actualizaciones
+## T1.6. Gestión de versiones y actualizaciones
 
 [Gestión de versiones y actualizaciones](https://victordomgs.github.io/Teoria-de-sistemas-i-computacion/T1-Fundamentos-de-sistemas/Presentaciones/T1.6-Gestion-de-versiones-y-actualizaciones.html)
