@@ -17,3 +17,7 @@ Este directorio contiene presentaciones relacionadas con los temas de Teoría de
 ## T1.4. Estrategias y métodos de prueba
 
 [Estrategias y métodos de prueba](https://victordomgs.github.io/Teoria-de-sistemas-i-computacion/T1-Fundamentos-de-sistemas/Presentaciones/T1.4-Estrategias-y-metodos-de-prueba.html)
+
+## T1.5. Documentación técnica y de usuario
+
+[Estrategias y métodos de prueba](https://victordomgs.github.io/Teoria-de-sistemas-i-computacion/T1-Fundamentos-de-sistemas/Presentaciones/T1.5-Documentacion-tecnica-y-de-usuario.html)
