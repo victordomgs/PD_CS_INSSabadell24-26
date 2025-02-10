@@ -17,8 +17,9 @@
   - [1.3. Cuestiones éticas y sociales en un mundo interconectado](#13-cuestiones-éticas-y-sociales-en-un-mundo-interconectado)  
 
 [2. Planificación y Diseño de Sistemas](#2-planificación-y-diseño-de-sistemas)  
-  - [2.1. Ingeniería de requisitos](#21-ingeniería-de-requisitos)  
-  - [2.2. Técnicas para recopilar información](#23-técnicas-para-recopilar-información)  
+  - [2.1. Ingeniería de requisitos](#21-ingeniería-de-requisitos)
+  - [2.2. Representación de requisitos del sistema](#24-representación-de-requisitos-del-sistema)  
+  - [2.3. Técnicas para recopilar información](#23-técnicas-para-recopilar-información)  
   - [2.4. Representación de requisitos del sistema](#24-representación-de-requisitos-del-sistema)  
   - [2.5. Prototipos y demostración al cliente](#25-prototipos-y-demostración-al-cliente)  
 
