@@ -300,7 +300,7 @@ Los **requisitos de datos** describen qué datos tiene que conocer el sistema. E
 
 **1. Requisitos no funcionales**
 
-Los requisitos no funcionales son aquellos requisitos de producto que, como su nombre indica, no son funcionales sino calidades esperadas del sistema, como por ejemplo usabilidad, fiabilidad, rendimiento o mantenibilidad. Son, por lo tanto, restricciones sobre el conjunto de soluciones tales que si una solución no satisface aquella calidad, no se considera válida.
+Los **requisitos no funcionales** son aquellos requisitos de producto que, como su nombre indica, no son funcionales sino calidades esperadas del sistema, como por ejemplo usabilidad, fiabilidad, rendimiento o mantenibilidad. Son, por lo tanto, restricciones sobre el conjunto de soluciones tales que si una solución no satisface aquella calidad, no se considera válida.
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%206.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas"/>
@@ -309,6 +309,6 @@ Los requisitos no funcionales son aquellos requisitos de producto que, como su n
 
 ### 2.2.2. Requisitos de proceso
 
-Los requisitos de proceso establecen restricciones en el propio proceso de desarrollo de software en lugar de hacerlo sobre el producto final desarrollado. Cualquier necesidad o restricción que no sea del producto una vez terminado sino del proceso que se sigue para completarlo será, por lo tanto, un requisito de proceso.
+Los **requisitos de proceso** establecen restricciones en el propio proceso de desarrollo de software en lugar de hacerlo sobre el producto final desarrollado. Cualquier necesidad o restricción que no sea del producto una vez terminado sino del proceso que se sigue para completarlo será, por lo tanto, un requisito de proceso.
 
 Uno de los requisitos de proceso más importante es el coste de desarrollo, tanto en tiempo como en dinero. A pesar de no tratarse de una característica observable en el producto ya desarrollado, sí que lo es en el proceso. Y, evidentemente, los stakeholders tendrán necesidades y restricciones que imponer.
