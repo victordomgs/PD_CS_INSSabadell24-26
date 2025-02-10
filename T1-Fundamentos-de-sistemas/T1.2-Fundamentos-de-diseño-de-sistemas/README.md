@@ -37,8 +37,8 @@
 [5. Interacción Humano-Máquina y sus Implicaciones](#5-interacción-humano-máquina-y-sus-implicaciones)  
   - [5.1. Impacto moral, ético, social, económico y ambiental](#51-impacto-moral-ético-social-económico-y-ambiental)  
 
-# [1. Conceptos Fundamentales](#1-conceptos-fundamentales)
-## [1.1. Definición de términos clave](#11-definición-de-términos-clave)
+# 1. Conceptos fundamentales
+## 1.1. Definición de términos clave
 
 En el diseño de sistemas es fundamental comprender ciertos conceptos clave que forman la base de cualquier sistema de información. A continuación, se definen los términos más relevantes:
 
@@ -87,7 +87,7 @@ Los recursos humanos en un sistema de información incluyen a todas las personas
 
 Los recursos humanos son un elemento clave en el éxito de cualquier sistema de información, ya que garantizan su correcto funcionamiento y evolución.  
 
-## [1.2. Funciones del computador en un mundo interconectado](#12-funciones-del-computador-en-un-mundo-interconectado) 
+## 1.2. Funciones del computador en un mundo interconectado
 
 En la actualidad, los computadores desempeñan múltiples funciones en un mundo cada vez más interconectado. Desde el acceso a la información hasta la gestión de infraestructuras críticas, su papel es fundamental en numerosos ámbitos. A continuación, se presentan las principales funciones que un computador puede desempeñar en una red:
 
@@ -161,5 +161,106 @@ Funciones principales:
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas" width="1015" height="auto"/>
     <p><em>Figura 3: Funcionamiento de un Firewall. Fuente: Avast</em></p>
   </div>
-  
+
 Existen firewalls de software (como Windows Defender Firewall) y de hardware (como Cisco ASA o Fortinet).
+
+## 1.3. Funciones del computador en un mundo interconectado
+
+El mundo interconectado actual ha generado numerosos beneficios en términos de comunicación, acceso a la información y globalización. Sin embargo, también plantea diversas cuestiones éticas y sociales que deben abordarse para garantizar un uso responsable de la tecnología. A continuación, se analizan algunos de los principales desafíos en este ámbito.
+
+### **1. Privacidad y protección de datos**  
+La privacidad es una de las principales preocupaciones en un mundo digital. Las empresas, gobiernos y plataformas tecnológicas recopilan grandes volúmenes de datos personales, lo que puede generar riesgos como:  
+- **Exposición de información personal:** Filtraciones de datos en plataformas y redes sociales.  
+- **Uso indebido de datos:** Comercialización de información sin el consentimiento del usuario.  
+- **Vigilancia masiva:** Prácticas gubernamentales que pueden atentar contra la privacidad individual.  
+
+Ejemplos de regulaciones para la protección de datos:  
+- **GDPR (Reglamento General de Protección de Datos)** en la Unión Europea.  
+- **Ley de Privacidad del Consumidor de California (CCPA)** en EE. UU.  
+
+### **2. Ciberseguridad y ciberdelincuencia**  
+El aumento de la conectividad ha incrementado los riesgos de ciberataques y fraudes en línea. Entre las principales amenazas se encuentran:  
+- **Phishing:** Engaños por correo o mensajes para obtener credenciales.  
+- **Ransomware:** Secuestro de datos mediante malware con petición de rescate.  
+- **Suplantación de identidad:** Uso fraudulento de datos personales.  
+- **Ataques a infraestructuras críticas:** Hackeos a servicios esenciales como energía o salud.  
+
+Medidas para la ciberseguridad:  
+- Uso de autenticación de dos factores.  
+- Encriptación de datos.  
+- Educación digital en ciberseguridad.  
+
+### **3. Brecha digital**  
+El acceso desigual a la tecnología ha generado una **brecha digital** entre diferentes sectores de la población. Factores que influyen en esta desigualdad incluyen:  
+- **Diferencias económicas:** Falta de acceso a dispositivos o internet en comunidades de bajos recursos.  
+- **Diferencias geográficas:** Falta de infraestructuras digitales en zonas rurales.  
+- **Barreras educativas:** Falta de conocimientos tecnológicos en ciertos sectores de la población.  
+
+Estrategias para reducir la brecha digital:  
+- Implementación de políticas de acceso gratuito a internet en espacios públicos.  
+- Educación digital para grupos vulnerables.  
+- Desarrollo de infraestructuras de conectividad en zonas rurales.  
+
+### **4. Ética en la inteligencia artificial y automatización**  
+El uso de **inteligencia artificial (IA)** plantea dilemas éticos, como:  
+- **Discriminación algorítmica:** Sesgos en la IA que pueden perjudicar a ciertos grupos.  
+- **Automatización del empleo:** Desplazamiento de trabajos humanos por máquinas.  
+- **Responsabilidad en decisiones automatizadas:** Quién responde por errores de una IA (por ejemplo, en vehículos autónomos).  
+
+Propuestas para una IA ética:  
+- Creación de regulaciones sobre transparencia en algoritmos.  
+- Supervisión humana en decisiones críticas.  
+- Desarrollo de IA sin sesgos de discriminación.  
+
+### **5. Dependencia tecnológica y bienestar digital**  
+El uso excesivo de la tecnología puede afectar la salud mental y la calidad de vida de los usuarios. Problemas asociados:  
+- **Adicción a las redes sociales y dispositivos móviles.**  
+- **Afectaciones en la concentración y productividad.**  
+- **Problemas de sueño y ansiedad debido al uso excesivo de pantallas.**  
+
+Recomendaciones para un uso equilibrado de la tecnología:  
+- Establecer límites de tiempo en el uso de dispositivos.  
+- Promover actividades fuera del entorno digital.  
+- Desarrollar conciencia sobre el impacto de la hiperconectividad.  
+
+# 2. Planificación y diseño de sistemas de software
+## 2.1. Ingeniería de requisitos
+
+> [!IMPORTANT]  
+> La **ingeniería de requisitos** es la disciplina que nos ayuda a identificar, gestionar y mantener el conjunto de requisitos del software que hemos de desarrollar.
+
+Denominamos ingeniería de requisitos a aquel subconjunto de la ingeniería del software que se encarga de las actividades siguientes:
+
+- **Obtención de requisitos:** identificar las fuentes de información de los posibles requisitos del sistema y obtener cuáles son estos requisitos candidatos.
+- **Gestión de requisitos:** estimar el coste que implica tener en cuenta cada requisito, priorizarlos según la importancia que tengan para los stakeholders y así poder seleccionar los requisitos que finalmente se tendrán en cuenta en la etapa actual de desarrollo del sistema.
+- **Documentación de requisitos:** documentar los requisitos de manera que quede constancia del resultado del proceso de gestión de requisitos y que, al mismo tiempo, los stakeholders y los desarrolladores compartan la visión de cuál es el producto que se ha de desarrollar. Esta documentación puede formar parte o no de la documentación final del sistema.
+- **Validación de requisitos:** comprobar que los requisitos elegidos para el producto que estamos desarrollando reflejan las expectativas de los stakeholders y, por lo tanto, que no ha habido errores en su obtención, priorización, selección y documentación.
+
+Verificación de requisitos: verificar si el sistema desarrollado (o parcialmente desarrollado en el caso de ciclos de vida iterativos) satisface o no los requisitos y cuáles.
+
+### 2.1.1. Requisitos y stakeholders
+
+Para poder desarrollar un sistema informático, obviamente, hay que entender qué sistema hay que desarrollar y, por lo tanto, hay que entender bien los requisitos de todo tipo que los diferentes stakeholders tienen sobre el sistema. Varias de las actividades de la ingeniería del software hacen referencia a estos requisitos y, de hecho, podemos considerar que estos son una pieza clave para el éxito o fracaso de todo proyecto de desarrollo de software.
+
+> [!IMPORTANT]  
+> Los **requisitos** son características observables de un sistema que expresan una necesidad o restricción que un stakeholder tiene sobre él.
+
+Los requisitos nos sirven, por lo tanto, para delimitar cuáles de las posibles soluciones a un problema son adecuadas (las que cumplen los requisitos) y cuáles no.
+
+> [!IMPORTANT]  
+> Los **stakeholders** son aquellas personas o entidades que tienen algún impacto o interés en este sistema.
+
+A pesar de que todos los usuarios de un sistema son stakeholders, puesto que todos lo usan y, por lo tanto, tienen intereses en él, no todos los stakeholders son usuarios, puesto que puede haber muchas personas o entidades que, a pesar de que no utilicen el sistema, se ven afectadas por su implantación y que, por lo tanto, también tienen intereses en él.
+
+## 2.2. Tipos de requisitos
+
+En este apartado establecemos una taxonomía para tipificar los requisitos con el fin de evitar la ambigüedad a la hora de determinar el tipo de un requisito. Cada obra e incluso cada organización usa su propia taxonomía, pero hay ciertos puntos comunes en la mayoría de ellas.
+
+> [!NOTE]  
+> Una taxonomía es una colección de términos de vocabulario controlados que se organiza en una estructura jerárquica.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%204.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas"/>
+    <p><em>Figura 4: Tipos de requisitos. Fuente: UOC</em></p>
+  </div>
+
