@@ -144,7 +144,7 @@ Funciones principales:
 - Aplicar reglas de seguridad, como firewalls y control de acceso.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%202.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas" width="1015" height="auto"/>
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%202.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas" width="534" height="auto"/>
     <p><em>Figura 2: Proceso de internet. Fuente: AVG</em></p>
   </div>
   
@@ -158,7 +158,7 @@ Funciones principales:
 - Proteger la integridad de los sistemas informáticos.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas" width="1015" height="auto"/>
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%203.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas" width="507" height="auto"/>
     <p><em>Figura 3: Funcionamiento de un Firewall. Fuente: Avast</em></p>
   </div>
 
@@ -264,3 +264,23 @@ En este apartado establecemos una taxonomía para tipificar los requisitos con e
     <p><em>Figura 4: Tipos de requisitos. Fuente: UOC</em></p>
   </div>
 
+### 2.2.1. Requisitos de producto
+
+Los requisitos de producto definen aquellas necesidades o restricciones que los stakeholders tienen sobre el producto que se desarrollará como tal. Es decir, nos interesará que, una vez desarrollado, el producto satisfaga estos requisitos.
+> [!NOTE]  
+> Algunos ejemplos de requisitos de producto del caso práctico son:
+> - Como usuario quiero poder consultar las recomendaciones de los agentes sobre un hotel.
+> - El sistema debe conocer el nombre, los apellidos, la dirección de correo electrónico, la dirección y el teléfono de los clientes.
+> - El sistema tiene que permitir a las agencias continuar trabajando aunque se pierda la conexión en Internet.
+
+A su vez, los requisitos de producto se pueden clasificar en: 
+
+**1. Requisitos funcionales**
+
+Los requisitos funcionales hacen referencia a la funcionalidad que debe proporcionar el sistema y los datos que tiene que conocer y guardar. Nos indican qué cálculos hace el sistema, qué datos mantiene, cómo los manipula, etc.
+Podemos distinguir, dentro de los requisitos funcionales, entre los requisitos de **funcionalidad** y los de **datos**.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%204.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas"/>
+    <p><em>Figura 5: Tipos de requisitos funcionales. Fuente: UOC</em></p>
+  </div>
