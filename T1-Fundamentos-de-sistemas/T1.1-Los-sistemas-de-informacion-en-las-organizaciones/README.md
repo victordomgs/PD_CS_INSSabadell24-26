@@ -66,7 +66,7 @@
 - [10.1. ¿Qué es la gestión de versiones?](#101-¿qué-es-la-gestión-de-versiones?)
 - [10.2. Importancia de las actualizaciones](#102-importancia-de-las-actualizaciones)
 - [10.3 Pérdida de datos y sus consecuencias](#103-pérdida-de-datos-y-sus-consecuencias) 
-    - [10.3.1 Impacto de la pérdida de datos](#1031-impacto-de-la-pérdida-de-datos)
+    - [10.3.1. Impacto de la pérdida de datos](#1031-impacto-de-la-pérdida-de-datos)
 - [10.4. Métodos para evitar la pérdida de datos](#104-métodos-para-evitar-la-pérdida-de-datos) 
     - [10.4.1. Sistemas de conmutación por error](#1041-sistemas-de-conmutación-por-error) 
     - [10.4.2. Redundancia](#1042-redundancia) 
