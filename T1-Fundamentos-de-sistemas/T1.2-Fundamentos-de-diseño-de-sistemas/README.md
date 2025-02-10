@@ -146,7 +146,7 @@ Funciones principales:
 
 Existen firewalls de software (como Windows Defender Firewall) y de hardware (como Cisco ASA o Fortinet).
 
-## 1.3. Funciones del computador en un mundo interconectado
+## 1.3. Cuestiones éticas y sociales en un mundo interconectado
 
 El mundo interconectado actual ha generado numerosos beneficios en términos de comunicación, acceso a la información y globalización. Sin embargo, también plantea diversas cuestiones éticas y sociales que deben abordarse para garantizar un uso responsable de la tecnología. A continuación, se analizan algunos de los principales desafíos en este ámbito.
 
