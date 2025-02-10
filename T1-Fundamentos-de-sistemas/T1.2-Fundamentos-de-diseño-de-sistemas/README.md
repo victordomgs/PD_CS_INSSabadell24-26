@@ -11,31 +11,13 @@
 
 ## Contenido:
 
-[1. Conceptos Fundamentales](#1-conceptos-fundamentales)  
+[1. Conceptos fundamentales](#1-conceptos-fundamentales)  
   - [1.1. Definición de términos clave](#11-definición-de-términos-clave)  
   - [1.2. Funciones del computador en un mundo interconectado](#12-funciones-del-computador-en-un-mundo-interconectado)  
   - [1.3. Cuestiones éticas y sociales en un mundo interconectado](#13-cuestiones-éticas-y-sociales-en-un-mundo-interconectado)  
 
-[2. Planificación y Diseño de Sistemas](#2-planificación-y-diseño-de-sistemas)  
+[2. Planificación y diseño de sistemas](#2-planificación-y-diseño-de-sistemas)  
   - [2.1. Ingeniería de requisitos](#21-ingeniería-de-requisitos)
-  - [2.2. Representación de requisitos del sistema](#24-representación-de-requisitos-del-sistema)  
-  - [2.3. Técnicas para recopilar información](#23-técnicas-para-recopilar-información)  
-  - [2.4. Representación de requisitos del sistema](#24-representación-de-requisitos-del-sistema)  
-  - [2.5. Prototipos y demostración al cliente](#25-prototipos-y-demostración-al-cliente)  
-
-[3. Iteración y Participación del Usuario Final](#3-iteración-y-participación-del-usuario-final)  
-  - [3.1. Importancia de la iteración](#31-importancia-de-la-iteración)  
-  - [3.2. Consecuencias de no implicar al usuario final](#32-consecuencias-de-no-implicar-al-usuario-final)  
-  - [3.3. Cuestiones éticas y sociales en la introducción de un nuevo sistema](#33-cuestiones-éticas-y-sociales-en-la-introducción-de-un-nuevo-sistema)  
-
-[4. Usabilidad y Accesibilidad](#4-usabilidad-y-accesibilidad)  
-  - [4.1. Definición de facilidad de uso](#41-definición-de-facilidad-de-uso)  
-  - [4.2. Problemas de usabilidad en dispositivos digitales](#42-problemas-de-usabilidad-en-dispositivos-digitales)  
-  - [4.3. Métodos para mejorar la accesibilidad](#43-métodos-para-mejorar-la-accesibilidad)  
-  - [4.4. Problemas de usabilidad en sistemas específicos](#44-problemas-de-usabilidad-en-sistemas-específicos)  
-
-[5. Interacción Humano-Máquina y sus Implicaciones](#5-interacción-humano-máquina-y-sus-implicaciones)  
-  - [5.1. Impacto moral, ético, social, económico y ambiental](#51-impacto-moral-ético-social-económico-y-ambiental)  
 
 # 1. Conceptos fundamentales
 ## 1.1. Definición de términos clave
