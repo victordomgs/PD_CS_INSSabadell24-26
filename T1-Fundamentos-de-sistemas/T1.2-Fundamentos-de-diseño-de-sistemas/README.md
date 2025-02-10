@@ -17,9 +17,8 @@
   - [1.3. Cuestiones éticas y sociales en un mundo interconectado](#13-cuestiones-éticas-y-sociales-en-un-mundo-interconectado)  
 
 [2. Planificación y Diseño de Sistemas](#2-planificación-y-diseño-de-sistemas)  
-  - [2.1. Identificación de partes interesadas](#21-identificación-de-partes-interesadas)  
-  - [2.2. Métodos para obtener requisitos](#22-métodos-para-obtener-requisitos)  
-  - [2.3. Técnicas para recopilar información](#23-técnicas-para-recopilar-información)  
+  - [2.1. Ingeniería de requisitos](#21-ingeniería-de-requisitos)  
+  - [2.2. Técnicas para recopilar información](#23-técnicas-para-recopilar-información)  
   - [2.4. Representación de requisitos del sistema](#24-representación-de-requisitos-del-sistema)  
   - [2.5. Prototipos y demostración al cliente](#25-prototipos-y-demostración-al-cliente)  
 
@@ -281,6 +280,35 @@ Los requisitos funcionales hacen referencia a la funcionalidad que debe proporci
 Podemos distinguir, dentro de los requisitos funcionales, entre los requisitos de **funcionalidad** y los de **datos**.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%204.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas"/>
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%205.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas"/>
     <p><em>Figura 5: Tipos de requisitos funcionales. Fuente: UOC</em></p>
   </div>
+
+Los **requisitos de funcionalidad**, en general, describen cuál tiene que ser el comportamiento del sistema explicando qué respuesta debe dar ante los estímulos que le llegan desde el exterior. Por respuesta nos referimos a qué respuesta observable desde fuera, considerando el sistema como una caja negra.
+
+> [!NOTE]  
+> Algunos ejemplos de requisitos funcionales de funcionalidad del caso práctico son:
+> - Como usuario quiero poder consultar las recomendaciones de los agentes sobre un hotel.
+> - Como directora de marketing, quiero que los clientes puedan recomendar en las redes sociales los viajes que ofrecemos.
+
+Los **requisitos de datos** describen qué datos tiene que conocer el sistema. Estos son, típicamente, datos que el sistema guardará de modo persistente.
+
+> [!NOTE]  
+> Un par de ejemplos pueden ser:
+> - El sistema tiene que conocer el cliente de un viaje; en particular, debe saber el nombre, los apellidos, la dirección de correo electrónico, la dirección postal y el teléfono.
+> - El sistema tiene que conocer el hotel u hoteles de un viaje. De los hoteles tiene que saber el nombre, la dirección y el teléfono. En relación con el viaje tiene que saber las fechas de entrada y salida, las horas de check-in y check-out, el tipo de habitación, las observaciones del hotel y la opinión del agente que ha reservado el viaje.
+
+**1. Requisitos no funcionales**
+
+Los requisitos no funcionales son aquellos requisitos de producto que, como su nombre indica, no son funcionales sino calidades esperadas del sistema, como por ejemplo usabilidad, fiabilidad, rendimiento o mantenibilidad. Son, por lo tanto, restricciones sobre el conjunto de soluciones tales que si una solución no satisface aquella calidad, no se considera válida.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%206.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas"/>
+    <p><em>Figura 6: Tipos de requisitos no funcionales. Fuente: UOC</em></p>
+  </div>
+
+### 2.2.2. Requisitos de proceso
+
+Los requisitos de proceso establecen restricciones en el propio proceso de desarrollo de software en lugar de hacerlo sobre el producto final desarrollado. Cualquier necesidad o restricción que no sea del producto una vez terminado sino del proceso que se sigue para completarlo será, por lo tanto, un requisito de proceso.
+
+Uno de los requisitos de proceso más importante es el coste de desarrollo, tanto en tiempo como en dinero. A pesar de no tratarse de una característica observable en el producto ya desarrollado, sí que lo es en el proceso. Y, evidentemente, los stakeholders tendrán necesidades y restricciones que imponer.
