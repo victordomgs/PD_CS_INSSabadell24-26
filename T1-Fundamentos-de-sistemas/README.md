@@ -7,7 +7,7 @@
 Las notas que siguen a algunos enunciados de evaluación sirven como orientación adicional a los profesores. En estas, se muestran enlaces a otros temas (VÍNCULO), y se pueden sugerir ideas para la promoción de determinados objetivos generales de la asignatura (OBJ. GEN.), de Teoría del Conocimiento (TdC), del Programa de los Años Intermedios (PAI), de cuestiones sociales o éticas (S/E) y de la dimensión internacional (INT).
 
 
-## Los sistemas en las organizaciones
+## 1.1. Los sistemas en las organizaciones
 
 | Enunciado de evaluación | Obj. | Notas | Correspondencia temario |
 |--------------------------|------|-------------------------|-------------------------|
@@ -28,7 +28,7 @@ Las notas que siguen a algunos enunciados de evaluación sirven como orientació
 
 <br>
 
-## Fundamentos de diseño de sistemas
+## 1.2. Fundamentos de diseño de sistemas
 
 | Enunciado de evaluación | Obj. | Notas |
 |--------------------------|------|-------------------------|
