@@ -126,7 +126,7 @@ Funciones clave:
 - Mejora en la velocidad de acceso mediante caché de direcciones IP.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%201.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas%20.jpg" alt="Fundamentos de diseño de sistemas" width="801" height="auto"/>
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%201.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas%20.jpg" alt="Fundamentos de diseño de sistemas" width="400" height="auto"/>
     <p><em>Figura 1: Funcionamiento DNS. Fuente: DinaHosting</em></p>
   </div>
   
