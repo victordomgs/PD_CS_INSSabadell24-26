@@ -29,7 +29,7 @@ Las notas que siguen a algunos enunciados de evaluación sirven como orientació
 | **2.1.7** Resuma el uso de varios programas de aplicación.                             | 2    | Entre los programas de aplicación se incluyen los procesadores de texto, las hojas de cálculo, los sistemas de gestión de bases de datos, el correo electrónico, los navegadores web y el software de diseño asistido por computador (CAD) y de procesamiento gráfico. |
 | **2.1.8** Identifique características comunes de las aplicaciones.                     | 2    | Incluir barras de herramientas, menús, cuadros de diálogo y componentes de la interfaz gráfica de usuario (GUI). Los alumnos deben comprender que algunas características las proporciona el software de aplicación y otras el sistema operativo. **S/E**: Así se mejora la facilidad de uso para una gran cantidad de usuarios. **OBJ. GEN. 9**: Apreciar las mejoras asociadas con los desarrollos del software de aplicación. |
 
-## Representación binaria
+## Representación de la información
 
 | Enunciado de evaluación                                                                 | Obj. | Notas para el profesor                                                                                                                   |
 |----------------------------------------------------------------------------------------|------|------------------------------------------------------------------------------------------------------------------------------------------|
