@@ -4,7 +4,7 @@
    
 2. Una puerta automática se cierra si los sensores no detectan movimiento y el botón de cierre está activado.
    
-3. Una alarma se dispara si la ventana está abierta y la alrma está habilitada, pero no si la puerta también está abierta.
+3. Una alarma se dispara si la ventana está abierta y la alarma está habilitada, pero no si la puerta también está abierta.
    
 4. Un sistema de iluminación exterior se enciende si detecta movimiento o si es de noche, pero no si la luz está configurada en modo manual.
    
