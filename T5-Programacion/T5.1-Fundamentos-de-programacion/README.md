@@ -12,8 +12,6 @@
 ## Contenido:
 [1. Introducción a la algorítmica](#1-los-sistemas-de-información)  
   - [1.1. Paradigmas de programación](#11-paradigmas-de-programacion)  
-  - [1.2. La información en las organizaciones](#12-la-información-en-las-organizaciones)  
-  - [1.3. El sistema de información en las organizaciones](#13-el-sistema-de-información-en-las-organizaciones)  
 
 
 ## 1. Introducción a la algorítmica
