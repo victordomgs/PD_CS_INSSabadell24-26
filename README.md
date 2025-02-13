@@ -3,7 +3,7 @@
 ### T1-Fundamentos de Sistemas
 [T1.1 Los sistemas de información en las organizaciones](T1-Fundamentos-de-sistemas/T1.1-Los-sistemas-de-informacion-en-las-organizaciones/)
 <br>
-[T1.2 La gestión del cambio](T1-Fundamentos-de-sistemas/T1.2-La-gestion-del-cambio/)
+[T1.2 Fundamentos de diseño de sistemas](T1-Fundamentos-de-sistemas/T1.2-Fundamentos-de-diseño-de-sistemas/)
 <br>
 <br>
 ### T2-Organización de Computadores
