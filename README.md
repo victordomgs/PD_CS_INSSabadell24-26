@@ -43,8 +43,3 @@
 <br>
 [T5.2 Introducción a la programación](T5-Programacion/T5.2-Introduccion-a-la-programacion/)
 <br>
-<br>
-<br>
-[LICENSE](LICENSE)
-<br>
-[README.md](README.md)
