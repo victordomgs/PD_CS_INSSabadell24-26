@@ -12,6 +12,7 @@
 ## Contenido:
 [1. Introducción a la algorítmica](#1-los-sistemas-de-información)  
   - [1.1. Paradigmas de programación](#11-paradigmas-de-programación)
+
 [2. Los lenguajes informáticos](#2-los-lenguajes-de-programación)
   - [2.1. Características esenciales de un lenguaje informático](#21-características-esenciales-de-un-lenguaje-informático)
 
