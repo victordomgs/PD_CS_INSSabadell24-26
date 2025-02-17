@@ -39,11 +39,9 @@
 <br>
 <br>
 ### T5-Programación
-[T5.1 Naturaleza de los lenguajes de programación](T5-Programacion/T5.1-Naturaleza-de-los-lenguajes-de-programacion/)
+[T5.1 Fundamentos de programación](T5-Programacion/T5.1-Fundamentos-de-programacion/)
 <br>
-[T5.2 Uso de lenguajes de programación](T5-Programacion/T5.2-Uso-de-lenguajes-de-programacion/)
-<br>
-[T5.3 Introducción a la programación](T5-Programacion/T5.3-Introduccion-a-la-programacion/)
+[T5.2 Introducción a la programación](T5-Programacion/T5.2-Introduccion-a-la-programacion/)
 <br>
 <br>
 <br>
