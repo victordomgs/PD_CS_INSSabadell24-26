@@ -41,7 +41,7 @@ Las operaciones fundamentales de una computadora son:
 Un lenguaje informático es un sistema estructurado de comunicación utilizado para dar instrucciones a un ordenador. A diferencia de los lenguajes naturales que utilizamos los humanos, los lenguajes informáticos deben ser precisos y seguir unas reglas estrictas para que el ordenador pueda interpretar y ejecutar correctamente las instrucciones. Las principales características esenciales de un lenguaje informático son las siguientes:
 
 #### 1. Vocabulario fijo
-Un lenguaje de programación dispone de un conjunto limitado y predefinido de palabras reservadas y símbolos que forman el vocabulario del lenguaje. Estas palabras y símbolos tienen funciones específicas y no pueden usarse con otro significado. Por ejemplo, en Python, algunas palabras reservadas son if, else, while, def, import, entre otras.
+Un lenguaje de programación dispone de un conjunto limitado y predefinido de palabras reservadas y símbolos que forman el vocabulario del lenguaje. Estas palabras y símbolos tienen funciones específicas y no pueden usarse con otro significado. Por ejemplo, en Python, algunas palabras reservadas son ```if```, else, while, def, import, entre otras.
 
 #### 2. Significado inequívoco
 Cada instrucción en un lenguaje informático tiene un único significado, es decir, no admite interpretaciones ambiguas. Un mismo código producirá siempre el mismo resultado si se ejecuta bajo las mismas condiciones. Esta precisión es fundamental para evitar errores e inconsistencias en los programas.
