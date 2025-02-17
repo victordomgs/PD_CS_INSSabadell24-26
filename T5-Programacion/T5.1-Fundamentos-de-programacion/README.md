@@ -40,13 +40,13 @@ Las operaciones fundamentales de una computadora son:
 ## 2. Los lenguajes de programación
 Un lenguaje informático es un sistema estructurado de comunicación utilizado para dar instrucciones a un ordenador. A diferencia de los lenguajes naturales que utilizamos los humanos, los lenguajes informáticos deben ser precisos y seguir unas reglas estrictas para que el ordenador pueda interpretar y ejecutar correctamente las instrucciones. Las principales características esenciales de un lenguaje informático son las siguientes:
 
-**1. Vocabulario fijo**
+#### 1. Vocabulario fijo
 Un lenguaje de programación dispone de un conjunto limitado y predefinido de palabras reservadas y símbolos que forman el vocabulario del lenguaje. Estas palabras y símbolos tienen funciones específicas y no pueden usarse con otro significado. Por ejemplo, en Python, algunas palabras reservadas son if, else, while, def, import, entre otras.
 
-**2. Significado inequívoco**
+#### 2. Significado inequívoco
 Cada instrucción en un lenguaje informático tiene un único significado, es decir, no admite interpretaciones ambiguas. Un mismo código producirá siempre el mismo resultado si se ejecuta bajo las mismas condiciones. Esta precisión es fundamental para evitar errores e inconsistencias en los programas.
 
-**3. Gramática y sintaxis sistemáticas**
+#### 3. Gramática y sintaxis sistemáticas
 Un lenguaje informático tiene un conjunto de reglas conocido como sintaxis que determina cómo deben combinarse las palabras y símbolos del vocabulario para formar instrucciones válidas. Si se escribe un código que no respeta estas reglas, el programa no se ejecutará y el compilador o intérprete generará un error de sintaxis. Por ejemplo, en Python:
 
 Correcto:
@@ -58,3 +58,8 @@ Incorrecto (falta de comillas):
 ```python
 print(Hola, mundo!)
 ```
+#### 4. Precisión y formalidad
+Los lenguajes informáticos se caracterizan por su formalidad y exactitud. Cada símbolo, cada espacio y cada signo de puntuación pueden afectar el comportamiento del programa. A diferencia del lenguaje humano, en programación no se pueden interpretar las intenciones; el ordenador ejecuta exactamente lo que se le indica.
+
+#### 5. Evolución y estandarización
+Los lenguajes informáticos evolucionan con el tiempo, pero su desarrollo sigue procesos de estandarización para garantizar que los programas escritos en una versión sean compatibles y comprensibles en el futuro. Por ejemplo, Python ha evolucionado desde Python 2 a Python 3, con cambios en la sintaxis y funciones.
