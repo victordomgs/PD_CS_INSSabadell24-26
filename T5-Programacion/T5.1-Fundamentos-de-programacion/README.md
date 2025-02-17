@@ -11,7 +11,9 @@
 
 ## Contenido:
 [1. Introducción a la algorítmica](#1-los-sistemas-de-información)  
-  - [1.1. Paradigmas de programación](#11-paradigmas-de-programacion)  
+  - [1.1. Paradigmas de programación](#11-paradigmas-de-programación)
+[2. Los lenguajes informáticos](#2-los-lenguajes-de-programación)
+  - [2.1. Características esenciales de un lenguaje informático](#21-características-esenciales-de-un-lenguaje-informático)
 
 
 ## 1. Introducción a la algorítmica
@@ -35,5 +37,24 @@ Las operaciones fundamentales de una computadora son:
 - **Paradigma Orientado a Objetos (OOP):** organiza el código en **objetos**, que son entidades que combinan **datos (atributos)** y **comportamientos (métodos)**.
 - **Paradigma funcional:** se basa en la idea de que las funciones son entidades de primera clase. Las funciones no modifican estados, sino que devuelven resultados.
 
+## 2. Los lenguajes de programación
+Un lenguaje informático es un sistema estructurado de comunicación utilizado para dar instrucciones a un ordenador. A diferencia de los lenguajes naturales que utilizamos los humanos, los lenguajes informáticos deben ser precisos y seguir unas reglas estrictas para que el ordenador pueda interpretar y ejecutar correctamente las instrucciones. Las principales características esenciales de un lenguaje informático son las siguientes:
 
+**1. Vocabulario fijo**
+Un lenguaje de programación dispone de un conjunto limitado y predefinido de palabras reservadas y símbolos que forman el vocabulario del lenguaje. Estas palabras y símbolos tienen funciones específicas y no pueden usarse con otro significado. Por ejemplo, en Python, algunas palabras reservadas son if, else, while, def, import, entre otras.
 
+**2. Significado inequívoco**
+Cada instrucción en un lenguaje informático tiene un único significado, es decir, no admite interpretaciones ambiguas. Un mismo código producirá siempre el mismo resultado si se ejecuta bajo las mismas condiciones. Esta precisión es fundamental para evitar errores e inconsistencias en los programas.
+
+**3. Gramática y sintaxis sistemáticas**
+Un lenguaje informático tiene un conjunto de reglas conocido como sintaxis que determina cómo deben combinarse las palabras y símbolos del vocabulario para formar instrucciones válidas. Si se escribe un código que no respeta estas reglas, el programa no se ejecutará y el compilador o intérprete generará un error de sintaxis. Por ejemplo, en Python:
+
+Correcto:
+```python
+print("Hola, mundo!")
+```
+
+Incorrecto (falta de comillas):
+```python
+print(Hola, mundo!)
+```
