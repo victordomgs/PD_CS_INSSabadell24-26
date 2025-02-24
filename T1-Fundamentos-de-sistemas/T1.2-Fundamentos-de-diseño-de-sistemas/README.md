@@ -411,12 +411,16 @@ Este ciclo se repite hasta que el producto cumpla con los estándares de calidad
 > [!IMPORTANT]  
 > La usabilidad hace referencia a la eficiencia, efectividad y satisfacción con la que un usuario puede interactuar con un sistema digital. Incluye aspectos como la ergonomía y la accesibilidad, permitiendo que el sistema sea intuitivo y fácil de manejar para diferentes tipos de usuarios.
 
- **1) Facilidad de aprendizaje.** El sistema debe ser fácil de aprender, de tal manera que el usuario pueda empezar a trabajar con él lo más rápido posible.
- **2) Eficiencia de uso.** Una vez que el usuario haya aprendido a utilizar el sistema, su nivel de productividad debe ser alto para poder completar determinadas tareas.
- **3) Facilidad de memorización.** La curva de aprendizaje debe ser significativamente menor en un usuario que ya ha hecho uso del sistema. De esta manera, cuando tenga la necesidad de volver a utilizarlo, todo será más fácil de recordar y no tendrá que emplear tanto tiempo como un usuario que no ha 
- utilizado dicho sistema.
- **4) Errores.** El sistema debe generar el menor número de errores posible. Si se producen, es importante que se hagan saber de una forma rápida y clara al usuario, a la vez que le ofrece algún mecanismo para recuperarse de ese error.
- **5) Satisfacción.** Este atributo se refiere a la impresión subjetiva del usuario respecto al sistema.
+**1) Facilidad de aprendizaje.** El sistema debe ser fácil de aprender, de tal manera que el usuario pueda empezar a trabajar con él lo más rápido posible.
+
+**2) Eficiencia de uso.** Una vez que el usuario haya aprendido a utilizar el sistema, su nivel de productividad debe ser alto para poder completar determinadas tareas.
+
+**3) Facilidad de memorización.** La curva de aprendizaje debe ser significativamente menor en un usuario que ya ha hecho uso del sistema. De esta manera, cuando tenga la necesidad de volver a utilizarlo, todo será más fácil de recordar y no tendrá que emplear tanto tiempo como un usuario que no ha 
+utilizado dicho sistema.
+
+**4) Errores.** El sistema debe generar el menor número de errores posible. Si se producen, es importante que se hagan saber de una forma rápida y clara al usuario, a la vez que le ofrece algún mecanismo para recuperarse de ese error.
+
+**5) Satisfacción.** Este atributo se refiere a la impresión subjetiva del usuario respecto al sistema.
 
 ## 4.1. Objetivos de la usabilidad
 
