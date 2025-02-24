@@ -242,7 +242,7 @@ Esta lógica la podemos interpretar como una combinación de operaciones boolean
 
 A continuación, se explicará cómo transformar una tabla de la verdad en una expresión en Álgebra de Boole.
 
-## Ejemplo 1: Dos entradas y una salida
+#### Ejemplo 1: Dos entradas y una salida
 
 Dada la siguiente tabla de la verdad:
 
@@ -253,12 +253,12 @@ Dada la siguiente tabla de la verdad:
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
-### Paso 1: Identificar las combinaciones donde F = 1
+#### Paso 1: Identificar las combinaciones donde F = 1
 En la tabla, F es 1 en las siguientes combinaciones:
 - A = 0, B = 1
 - A = 1, B = 0
 
-### Paso 2: Escribir la expresión en forma de suma de productos (SoP)
+#### Paso 2: Escribir la expresión en forma de suma de productos (SoP)
 Cada fila donde la salida es 1 se traduce a un término AND con las variables en su forma directa (si son 1) o negada (si son 0):
 
 - Para A=0 y B=1 → `A'B`
@@ -270,7 +270,7 @@ La función en Álgebra de Boole se expresa como:
 F = A'B + AB'
 ```
 
-## Ejemplo 2: Tres entradas y una salida
+#### Ejemplo 2: Tres entradas y una salida
 
 Dada la siguiente tabla de la verdad:
 
@@ -285,7 +285,7 @@ Dada la siguiente tabla de la verdad:
 | 1 | 1 | 0 | 0 |
 | 1 | 1 | 1 | 1 |
 
-### Paso 1: Identificar las combinaciones donde S = 1
+#### Paso 1: Identificar las combinaciones donde S = 1
 
 La salida es 1 en las siguientes combinaciones:
 - A = 0, B = 0, C = 1
@@ -293,7 +293,7 @@ La salida es 1 en las siguientes combinaciones:
 - A = 1, B = 0, C = 0
 - A = 1, B = 1, C = 1
 
-### Paso 2: Escribir la expresión en forma de suma de productos (SoP)
+#### Paso 2: Escribir la expresión en forma de suma de productos (SoP)
 Cada fila donde la salida es 1 se traduce a un término AND:
 
 - Para A=0, B=0, C=1 → `A'B'C`
