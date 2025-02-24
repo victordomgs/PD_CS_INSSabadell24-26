@@ -18,6 +18,7 @@
 
 [2. Planificación y diseño de sistemas](#2-planificación-y-diseño-de-sistemas)  
   - [2.1. Ingeniería de requisitos](#21-ingeniería-de-requisitos)
+  - [2.2. Representación de los requisitos](#22-representación-de-los-requisitos)
 
 # 1. Conceptos fundamentales
 ## 1.1. Definición de términos clave
@@ -295,3 +296,23 @@ Los **requisitos no funcionales** son aquellos requisitos de producto que, como 
 Los **requisitos de proceso** establecen restricciones en el propio proceso de desarrollo de software en lugar de hacerlo sobre el producto final desarrollado. Cualquier necesidad o restricción que no sea del producto una vez terminado sino del proceso que se sigue para completarlo será, por lo tanto, un requisito de proceso.
 
 Uno de los requisitos de proceso más importante es el coste de desarrollo, tanto en tiempo como en dinero. A pesar de no tratarse de una característica observable en el producto ya desarrollado, sí que lo es en el proceso. Y, evidentemente, los stakeholders tendrán necesidades y restricciones que imponer.
+
+## 2.2. Representación de los requisitos
+
+En el **desarrollo de sistemas de información** es fundamental plasmar de manera gráfica y clara los requisitos y la lógica del sistema. Esto facilita la comunicación entre los distintos miembros del equipo y permite detectar posibles errores o mejoras en etapas tempranas del diseño.
+
+## 2.2.1. Diagramas de flujo
+
+Los diagramas de flujo de sistemas son representaciones gráficas que muestran el recorrido de los datos y el procesamiento de la información dentro de un sistema.
+
+### Elementos Comunes
+- **Inicio/Fin:** Se representan con óvalos.
+- **Procesos:** Se indican con rectángulos.
+- **Decisiones:** Se usan rombos para representar bifurcaciones en el flujo.
+- **Entradas/Salidas:** Se muestran con paralelogramos.
+- **Conectores:** Flechas que indican la dirección del flujo.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%207.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas" width="500" height="auto"/>
+    <p><em>Figura 7: Tipos de requisitos no funcionales. Fuente: Epitech</em></p>
+  </div>
