@@ -301,11 +301,11 @@ Uno de los requisitos de proceso más importante es el coste de desarrollo, tant
 
 En el **desarrollo de sistemas de información** es fundamental plasmar de manera gráfica y clara los requisitos y la lógica del sistema. Esto facilita la comunicación entre los distintos miembros del equipo y permite detectar posibles errores o mejoras en etapas tempranas del diseño.
 
-## 2.2.1. Diagramas de flujo
+### 2.2.1. Diagramas de flujo
 
 Los diagramas de flujo de sistemas son representaciones gráficas que muestran el recorrido de los datos y el procesamiento de la información dentro de un sistema.
 
-### Elementos Comunes
+#### Elementos Comunes
 - **Inicio/Fin:** Se representan con óvalos.
 - **Procesos:** Se indican con rectángulos.
 - **Decisiones:** Se usan rombos para representar bifurcaciones en el flujo.
@@ -314,5 +314,20 @@ Los diagramas de flujo de sistemas son representaciones gráficas que muestran e
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%207.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas" width="500" height="auto"/>
-    <p><em>Figura 7: Tipos de requisitos no funcionales. Fuente: Epitech</em></p>
+    <p><em>Figura 7: Diagrama de flujo. Fuente: Epitech</em></p>
+  </div>
+
+### 2.2.2. Diagramas de flujo de datos (DFD)
+
+Los diagramas de flujo de datos se centran en la forma en que la información se mueve y transforma a lo largo del sistema.
+
+#### Elementos Comunes
+- **Procesos:** Actividades o funciones que transforman la información.
+- **Almacenes de Datos:** Representan bases de datos o lugares de almacenamiento.
+- **Flujos de Datos:** Indicados con flechas, representan el movimiento de información.
+- **Entidades Externas:** Actores o sistemas externos que interactúan con el sistema.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%208.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas" width="500" height="auto"/>
+    <p><em>Figura 7: Diagrama de flujo de datos. Fuente: Manuel Cillero</em></p>
   </div>
