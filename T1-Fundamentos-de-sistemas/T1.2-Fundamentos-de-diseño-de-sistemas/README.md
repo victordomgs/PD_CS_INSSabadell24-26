@@ -19,6 +19,9 @@
 [2. Planificación y diseño de sistemas](#2-planificación-y-diseño-de-sistemas)  
   - [2.1. Ingeniería de requisitos](#21-ingeniería-de-requisitos)
   - [2.2. Representación de los requisitos](#22-representación-de-los-requisitos)
+    - [2.2.1. Diagrama de flujos](#221-diagrama-de-flujos)
+    - [2.2.2. Diagrama de flujo de datos](#222-diagrama-de-flujo-de-datos)
+    - [2.2.3. Diagrama de estructuras](#223-diagrama-de-estructuras)
 
 # 1. Conceptos fundamentales
 ## 1.1. Definición de términos clave
@@ -317,7 +320,7 @@ Los diagramas de flujo de sistemas son representaciones gráficas que muestran e
     <p><em>Figura 7: Diagrama de flujo. Fuente: Epitech</em></p>
   </div>
 
-### 2.2.2. Diagramas de flujo de datos (DFD)
+### 2.2.2. Diagramas de flujo de datos
 
 Los diagramas de flujo de datos se centran en la forma en que la información se mueve y transforma a lo largo del sistema.
 
