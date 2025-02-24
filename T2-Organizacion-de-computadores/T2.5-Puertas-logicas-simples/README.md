@@ -236,4 +236,77 @@ Esta lógica la podemos interpretar como una combinación de operaciones boolean
 | 1         | 1          | 1           | 1           | 1             |
 
 
+# 3. Transformación de una tabla de la verdad a álgebra de Boole
+
+En este documento se explicará cómo transformar una tabla de la verdad en una expresión en Álgebra de Boole. Se trabajará con ejemplos que tienen un máximo de 3 entradas y 1 salida, comenzando por casos con 2 entradas.
+
+## Ejemplo 1: Dos entradas y una salida
+
+Dada la siguiente tabla de la verdad:
+
+| A | B | S |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
+
+### Paso 1: Identificar las combinaciones donde F = 1
+En la tabla, F es 1 en las siguientes combinaciones:
+- A = 0, B = 1
+- A = 1, B = 0
+
+### Paso 2: Escribir la expresión en forma de suma de productos (SoP)
+Cada fila donde la salida es 1 se traduce a un término AND con las variables en su forma directa (si son 1) o negada (si son 0):
+
+- Para A=0 y B=1 → \( \overline{A} B \)
+- Para A=1 y B=0 → \( A \overline{B} \)
+
+La función en Álgebra de Boole se expresa como:
+
+\[
+S = \overline{A} B + A \overline{B}
+\]
+
+## Ejemplo 2: Tres entradas y una salida
+
+Dada la siguiente tabla de la verdad:
+
+| A | B | C | S |
+|---|---|---|---|
+| 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 1 |
+| 0 | 1 | 0 | 1 |
+| 0 | 1 | 1 | 0 |
+| 1 | 0 | 0 | 1 |
+| 1 | 0 | 1 | 0 |
+| 1 | 1 | 0 | 0 |
+| 1 | 1 | 1 | 1 |
+
+### Paso 1: Identificar las combinaciones donde S = 1
+
+La salida es 1 en las siguientes combinaciones:
+- A = 0, B = 0, C = 1
+- A = 0, B = 1, C = 0
+- A = 1, B = 0, C = 0
+- A = 1, B = 1, C = 1
+
+### Paso 2: Escribir la expresión en forma de suma de productos (SoP)
+Cada fila donde la salida es 1 se traduce a un término AND:
+
+- Para A=0, B=0, C=1 → \( \overline{A} \overline{B} C \)
+- Para A=0, B=1, C=0 → \( \overline{A} B \overline{C} \)
+- Para A=1, B=0, C=0 → \( A \overline{B} \overline{C} \)
+- Para A=1, B=1, C=1 → \( A B C \)
+
+La función resultante es:
+
+\[
+S = \overline{A} \overline{B} C + \overline{A} B \overline{C} + A \overline{B} \overline{C} + A B C
+\]
+
+## Conclusión
+
+El proceso para transformar una tabla de la verdad en Álgebra de Boole consiste en identificar las combinaciones donde la salida es 1 y escribir la expresión correspondiente en forma de suma de productos (SoP). Cada término de la suma representa una fila de la tabla con salida 1, utilizando AND para combinar las variables en su forma directa o negada. Este método es fundamental para diseñar circuitos lógicos y optimizar funciones booleanas.
+
 
