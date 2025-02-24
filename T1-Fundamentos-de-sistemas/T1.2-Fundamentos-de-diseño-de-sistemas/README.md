@@ -353,7 +353,7 @@ Estos diagramas representan la organización y la jerarquía de los componentes 
     <p><em>Figura 9: Diagrama de estructuras. Fuente: Manuel Cillero</em></p>
   </div>
 
-# 3. La importancia de la iteración en el proceso de diseño: El ciclo PAI
+# 3. La importancia de la iteración en el proceso de diseño
 
 El proceso de diseño en sistemas y productos no es lineal, sino que requiere de una revisión constante y de la adaptación a nuevos requerimientos y descubrimientos. La iteración se convierte en una herramienta clave para alcanzar un diseño óptimo, permitiendo mejorar y refinar el producto a lo largo de todo el proceso.
 
