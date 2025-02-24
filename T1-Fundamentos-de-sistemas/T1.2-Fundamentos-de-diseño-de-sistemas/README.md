@@ -27,6 +27,11 @@
   - [3.1. ¿Qué es la iteración?](#31-¿qué-es-la-iteración?)
   - [3.2. El ciclo de diseño PAI](#32-el-ciclo-de-diseño-PAI)
 
+[4. El concepto de usabilidad](#4-el-concepto-de-usabilidad)  
+  - [4.1. Objetivos de la usabilidad](#41-objetivos-de-la-usabilidad)
+  - [4.2. Principios de la usabilidad](#42-principios-de-la-usabilidad)
+  - [4.3. Usabilidad y experiencia de usuario](#43-usabilidad-y-experiencia-de-usuario)
+
 
 # 1. Conceptos fundamentales
 ## 1.1. Definición de términos clave
@@ -402,3 +407,42 @@ Imaginemos el desarrollo de una aplicación móvil:
 
 Este ciclo se repite hasta que el producto cumpla con los estándares de calidad y satisfaga las necesidades del usuario.
 
+# 4. El concepto de usabilidad
+> [!IMPORTANT]  
+> La usabilidad hace referencia a la eficiencia, efectividad y satisfacción con la que un usuario puede interactuar con un sistema digital. Incluye aspectos como la ergonomía y la accesibilidad, permitiendo que el sistema sea intuitivo y fácil de manejar para diferentes tipos de usuarios.
+
+**1) Facilidad de aprendizaje.** El sistema debe ser fácil de aprender, de tal manera que el usuario pueda empezar a trabajar con él lo más rápido posible.
+**2) Eficiencia de uso.** Una vez que el usuario haya aprendido a utilizar el sistema, su nivel de productividad debe ser alto para poder completar determinadas tareas.
+**3) Facilidad de memorización.** La curva de aprendizaje debe ser significativamente menor en un usuario que ya ha hecho uso del sistema. De esta manera, cuando tenga la necesidad de volver a utilizarlo, todo será más fácil de recordar y no tendrá que emplear tanto tiempo como un usuario que no ha utilizado dicho sistema.
+**4) Errores.** El sistema debe generar el menor número de errores posible. Si se producen, es importante que se hagan saber de una forma rápida y clara al usuario, a la vez que le ofrece algún mecanismo para recuperarse de ese error.
+**5) Satisfacción.** Este atributo se refiere a la impresión subjetiva del usuario respecto al sistema.
+
+## 4.1. Objetivos de la usabilidad
+
+Es necesario marcar unos objetivos cuantificables que nos ayuden a saber en todo momento si nuestro sitio es fácil de usar por parte de los usuarios en los que hemos pensado. Facilitar al usuario el acceso a un sistema o satisfacer sus necesidades en el menor tiempo posible son factores que optimizan y mejoran la productividad de nuestras acciones y decisiones. No obstante, aún es necesario especificar más.
+
+Apoyándonos en los conceptos que trabajamos al definir la usabilidad, podemos ir marcando objetivos que ayuden a mejorar el producto. Además, debemos formularnos varias preguntas en el equipo de trabajo:
+• ¿El target con el que vamos a trabajar está claro?
+• ¿Qué proceso, método o técnica vamos a utilizar para medir el objetivo?
+• ¿Contaremos con recursos materiales y humanos para medirlo?
+• ¿Todo el equipo de trabajo está de acuerdo en medir dicho objetivo?
+• ¿El objetivo se adecua al proyecto en su conjunto y facilita la obtención de resultados relevantes?
+
+## 4.2. Principios de la usabilidad
+
+Un principio sería una solución posible a un problema de diseño que ayuda a definir cómo debe mostrarse y comportarse un sistema, lo que mejora elementos de la interfaz. Conseguimos así que se proporcione a los usuarios lo necesario para interactuar exitosamente y que se presente la información de manera que se facilite su entendimiento.
+
+#### Coherencia
+Un sistema debe ser consistente en diseño gráfico e interacción en todas sus secciones, utilizando los mismos elementos visuales, terminología y organización para reducir la carga cognitiva del usuario.
+
+#### Interacción
+La interacción debe ser predecible, visible y reversible. Los usuarios deben recibir retroalimentación inmediata tras sus acciones y poder deshacer cambios si es necesario, evitando consecuencias irreversibles.
+
+#### Información, Comunicación y Retroalimentación
+Es clave proporcionar múltiples canales de comunicación con los usuarios, garantizando claridad en la estructura y en la forma de acceder a la información. La retroalimentación es fundamental para que los usuarios comprendan su progreso en cada acción.
+
+#### Control
+Los usuarios deben poder personalizar la interfaz según sus preferencias, lo que mejora su experiencia y productividad. Opciones como ajustar el tamaño del texto o modificar la disposición de los elementos permiten una mayor accesibilidad.
+
+#### Opciones
+Se deben ofrecer múltiples formas de acceder a la información, permitiendo a los usuarios elegir entre enlaces de texto, gráficos, buscadores, índices o mapas del sitio. La flexibilidad en la interfaz facilita la adaptación a diferentes capacidades y contextos de uso.
