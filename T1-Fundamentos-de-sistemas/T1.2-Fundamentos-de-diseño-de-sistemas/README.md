@@ -329,5 +329,18 @@ Los diagramas de flujo de datos se centran en la forma en que la información se
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%208.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas" width="500" height="auto"/>
-    <p><em>Figura 7: Diagrama de flujo de datos. Fuente: Manuel Cillero</em></p>
+    <p><em>Figura 8: Diagrama de flujo de datos. Fuente: Manuel Cillero</em></p>
+  </div>
+
+### 2.2.3. Diagramas de estructuras
+
+Estos diagramas representan la organización y la jerarquía de los componentes o módulos del sistema.
+
+### Elementos Comunes
+- **Componentes/Módulos:** Se representan con cajas o rectángulos.
+- **Relaciones:** Líneas o flechas que conectan los módulos para indicar dependencias o interacciones.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%209.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas" width="500" height="auto"/>
+    <p><em>Figura 9: Diagrama de estructuras. Fuente: Manuel Cillero</em></p>
   </div>
