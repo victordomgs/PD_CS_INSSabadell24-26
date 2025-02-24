@@ -428,9 +428,13 @@ Es necesario marcar unos objetivos cuantificables que nos ayuden a saber en todo
 
 Apoyándonos en los conceptos que trabajamos al definir la usabilidad, podemos ir marcando objetivos que ayuden a mejorar el producto. Además, debemos formularnos varias preguntas en el equipo de trabajo:
 • ¿El target con el que vamos a trabajar está claro?
+
 • ¿Qué proceso, método o técnica vamos a utilizar para medir el objetivo?
+
 • ¿Contaremos con recursos materiales y humanos para medirlo?
+
 • ¿Todo el equipo de trabajo está de acuerdo en medir dicho objetivo?
+
 • ¿El objetivo se adecua al proyecto en su conjunto y facilita la obtención de resultados relevantes?
 
 ## 4.2. Principios de la usabilidad
