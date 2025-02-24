@@ -16,6 +16,8 @@
   - [2.1. Definición de operadores booleanos](#21-definición-de-operadores-booleanos)  
   - [2.2. Tablas de verdad](#22-tablas-de-verdad)  
 
+[3. Transformación de una tabla de la verdad a álgebra de Boole](#2-transformación-de-una-tabla-de-la-verdad-a-álgebra-de-Boole)  
+
 ## 1. Introducción a las puertas lógicas
 
 Las **puertas lógicas** son los componentes básicos de los circuitos digitales y permiten realizar operaciones fundamentales del álgebra de Boole. Estas operaciones son esenciales para procesar información binaria en dispositivos electrónicos como ordenadores, calculadoras y sistemas automáticos. 
