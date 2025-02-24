@@ -23,7 +23,7 @@
     - [2.2.2. Diagramas de flujo de datos](#222-diagramas-de-flujo-de-datos)
     - [2.2.3. Diagramas de estructuras](#223-diagramas-de-estructuras)
 
-[3. La importancia de la iteración en el proceso de diseño: El ciclo PAI](#3-la-importancia-de-la-iteración-en-el-proceso-de-diseño:-El-ciclo-PAI)  
+[3. La importancia de la iteración en el proceso de diseño](#3-la-importancia-de-la-iteración-en-el-proceso-de-diseño)  
   - [3.1. ¿Qué es la iteración?](#31-¿qué-es-la-iteración?)
   - [3.2. El ciclo de diseño PAI](#32-el-ciclo-de-diseño-PAI)
 
