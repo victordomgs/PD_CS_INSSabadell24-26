@@ -16,7 +16,7 @@
   - [2.1. Definición de operadores booleanos](#21-definición-de-operadores-booleanos)  
   - [2.2. Tablas de verdad](#22-tablas-de-verdad)  
 
-[3. Transformación de una tabla de la verdad a álgebra de Boole](#2-transformación-de-una-tabla-de-la-verdad-a-álgebra-de-Boole)  
+[3. Transformación de una tabla de la verdad a álgebra de Boole](#3-transformación-de-una-tabla-de-la-verdad-a-álgebra-de-Boole)  
 
 ## 1. Introducción a las puertas lógicas
 
