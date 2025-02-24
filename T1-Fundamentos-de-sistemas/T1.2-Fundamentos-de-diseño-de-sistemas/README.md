@@ -19,9 +19,14 @@
 [2. Planificación y diseño de sistemas](#2-planificación-y-diseño-de-sistemas)  
   - [2.1. Ingeniería de requisitos](#21-ingeniería-de-requisitos)
   - [2.2. Representación de los requisitos](#22-representación-de-los-requisitos)
-    - [2.2.1. Diagrama de flujos](#221-diagrama-de-flujos)
-    - [2.2.2. Diagrama de flujo de datos](#222-diagrama-de-flujo-de-datos)
-    - [2.2.3. Diagrama de estructuras](#223-diagrama-de-estructuras)
+    - [2.2.1. Diagramas de flujos](#221-diagramas-de-flujos)
+    - [2.2.2. Diagramas de flujo de datos](#222-diagramas-de-flujo-de-datos)
+    - [2.2.3. Diagramas de estructuras](#223-diagramas-de-estructuras)
+
+[3. La importancia de la iteración en el proceso de diseño: El ciclo PAI](#3-la-importancia-de-la-iteración-en-el-proceso-de-diseño:-El-ciclo-PAI)  
+  - [3.1. ¿Qué es la iteración?](#31-¿qué-es-la-iteración?)
+  - [3.2. El ciclo de diseño PAI](#32-el-ciclo-de-diseño-PAI)
+
 
 # 1. Conceptos fundamentales
 ## 1.1. Definición de términos clave
@@ -347,3 +352,53 @@ Estos diagramas representan la organización y la jerarquía de los componentes 
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%209.%20Fundamentos%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas" width="500" height="auto"/>
     <p><em>Figura 9: Diagrama de estructuras. Fuente: Manuel Cillero</em></p>
   </div>
+
+# 3. La importancia de la iteración en el proceso de diseño: El ciclo PAI
+
+El proceso de diseño en sistemas y productos no es lineal, sino que requiere de una revisión constante y de la adaptación a nuevos requerimientos y descubrimientos. La iteración se convierte en una herramienta clave para alcanzar un diseño óptimo, permitiendo mejorar y refinar el producto a lo largo de todo el proceso.
+
+## 3.1. ¿Qué es la iteración?
+
+La iteración consiste en repetir ciclos de trabajo en el proceso de diseño. Cada ciclo se utiliza para:
+- **Evaluar el diseño actual:** Detectar errores o áreas de mejora.
+- **Implementar cambios:** Incorporar ajustes que optimicen el producto.
+- **Validar mejoras:** Asegurarse de que las modificaciones responden a las necesidades detectadas.
+
+Esta metodología permite que, en cada vuelta, el diseño se acerque cada vez más a los objetivos planteados.
+
+## 3.2. El ciclo de diseño PAI
+
+El Ciclo PAI es una metodología que estructura el proceso de diseño en tres fases fundamentales:
+
+1. **Planificación:**
+   - Definir objetivos y requisitos.
+   - Establecer una visión clara del producto.
+   - Diseñar estrategias y establecer criterios de éxito.
+   
+2. **Acción:**
+   - Desarrollar el diseño o prototipo inicial.
+   - Poner en práctica las ideas y soluciones planteadas.
+   - Construir una primera versión funcional del producto.
+
+3. **Iteración:**
+   - Evaluar el prototipo mediante pruebas y retroalimentación.
+   - Identificar errores, oportunidades de mejora y nuevas necesidades.
+   - Ajustar y perfeccionar el diseño, reiniciando el ciclo según sea necesario.
+
+### Beneficios de la iteración en el diseño
+
+- **Mejora Continua:** Cada ciclo permite detectar y corregir fallos, elevando la calidad del producto.
+- **Flexibilidad y Adaptación:** Facilita la incorporación de nuevos requerimientos y la adaptación ante cambios.
+- **Reducción de Riesgos:** Al validar ideas y corregir errores de forma temprana, se minimizan los riesgos en etapas posteriores.
+- **Optimización de Recursos:** Permite utilizar de forma eficiente tiempo y esfuerzo, evitando retrabajos significativos.
+
+### Ejemplo práctico
+
+Imaginemos el desarrollo de una aplicación móvil:
+
+1. **Planificación:** Se definen las funcionalidades esenciales, se crea un mapa de navegación y se establecen los objetivos de usabilidad.
+2. **Acción:** Se desarrolla un prototipo básico de la aplicación con las funcionalidades definidas.
+3. **Iteración:** Se prueba el prototipo con usuarios reales, se recogen sus opiniones y se detectan problemas en la navegación y la interfaz. Con esta retroalimentación se realizan los ajustes necesarios y se vuelve a probar la aplicación.
+
+Este ciclo se repite hasta que el producto cumpla con los estándares de calidad y satisfaga las necesidades del usuario.
+
