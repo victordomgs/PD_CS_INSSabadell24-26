@@ -240,7 +240,7 @@ Esta lógica la podemos interpretar como una combinación de operaciones boolean
 
 # 3. Transformación de una tabla de la verdad a álgebra de Boole
 
-En este documento se explicará cómo transformar una tabla de la verdad en una expresión en Álgebra de Boole. Se trabajará con ejemplos que tienen un máximo de 3 entradas y 1 salida, comenzando por casos con 2 entradas.
+A continuación, se explicará cómo transformar una tabla de la verdad en una expresión en Álgebra de Boole.
 
 ## Ejemplo 1: Dos entradas y una salida
 
