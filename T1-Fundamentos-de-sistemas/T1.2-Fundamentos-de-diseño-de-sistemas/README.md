@@ -427,6 +427,7 @@ utilizado dicho sistema.
 Es necesario marcar unos objetivos cuantificables que nos ayuden a saber en todo momento si nuestro sitio es fácil de usar por parte de los usuarios en los que hemos pensado. Facilitar al usuario el acceso a un sistema o satisfacer sus necesidades en el menor tiempo posible son factores que optimizan y mejoran la productividad de nuestras acciones y decisiones. No obstante, aún es necesario especificar más.
 
 Apoyándonos en los conceptos que trabajamos al definir la usabilidad, podemos ir marcando objetivos que ayuden a mejorar el producto. Además, debemos formularnos varias preguntas en el equipo de trabajo:
+
 • ¿El target con el que vamos a trabajar está claro?
 
 • ¿Qué proceso, método o técnica vamos a utilizar para medir el objetivo?
