@@ -267,7 +267,7 @@ Cada fila donde la salida es 1 se traduce a un término AND con las variables en
 La función en Álgebra de Boole se expresa como:
 
 ```
-F = A'B + AB'
+S = A'B + AB'
 ```
 
 #### Ejemplo 2: Tres entradas y una salida
@@ -304,5 +304,5 @@ Cada fila donde la salida es 1 se traduce a un término AND:
 La función resultante es:
 
 ```
-F = A'B'C + A'BC' + AB'C' + ABC
+S = A'B'C + A'BC' + AB'C' + ABC
 ```
