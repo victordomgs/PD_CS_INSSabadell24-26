@@ -455,3 +455,32 @@ Los usuarios deben poder personalizar la interfaz según sus preferencias, lo qu
 
 #### Opciones
 Se deben ofrecer múltiples formas de acceder a la información, permitiendo a los usuarios elegir entre enlaces de texto, gráficos, buscadores, índices o mapas del sitio. La flexibilidad en la interfaz facilita la adaptación a diferentes capacidades y contextos de uso.
+
+## 4.3. Usabilidad y experiencia de usuario
+
+> [!IMPORTANT]  
+> El **diseño centrado en el usuario (DCU)** asume que todo el proceso tiene que estar orientado hacia las necesidades y objetivos del usuario y éstos deben estar involucrados desde el comienzo en el proceso de diseño.
+
+Pretendemos lograr que la experiencia de uso de los usuarios sea satisfactoria y esto implica conocer bien su comportamiento y sus reacciones ante los diseños que conceptualizamos y construimos. Involucrar a los usuarios en el proceso de diseño significa tener en cuenta sus necesidades, preferencias y limitaciones. Esto lo lograremos, como veremos más adelante, siguiendo las etapas propuestas y aplicando métodos en cada etapa.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%2010.%20Fundamento%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas" width="708" height="auto"/>
+    <p><em>Figura 10: Expectativas en el diseño. Fuente: adaptado de Flickr</em></p>
+  </div>
+
+El DCU algunos expertos lo dividen en 5 etapas. Algunas de las cuales tienen, carácter iterativo:
+
+**1) Planificación del proceso centrado en el usuario:** identificación del propósito del sistema interactivo, necesidades, requerimientos y objetivos de sus usuarios potenciales.
+
+**2) Análisis del contexto de uso:** la calidad de uso del sistema dependerá de la comprensión y la planificación de las características de los usuarios, de las tareas y también del entorno físico y organizativo en el que el sistema será utilizado.
+
+**3) Análisis del usuario y requisitos de la organización:** identificación de los objetivos específicos del usuario y los requerimientos que el producto deberá satisfacer.
+
+**4) Creación de soluciones de diseño:** elaboración de propuestas de diseño mediante simulaciones o prototipos haciendo uso de todo el conocimiento disponible.
+
+**5) Evaluación de la usabilidad:** tarea esencial que, junto con la etapa anterior, se beneficia del diseño iterativo para alcanzar los objetivos propuestos.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%2011.%20Fundamento%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas" width="708" height="auto"/>
+    <p><em>Figura 11: Etapas del DCU. Fuente: UOC</em></p>
+  </div>
