@@ -253,8 +253,8 @@ Dada la siguiente tabla de la verdad:
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
-#### Paso 1: Identificar las combinaciones donde F = 1
-En la tabla, F es 1 en las siguientes combinaciones:
+#### Paso 1: Identificar las combinaciones donde S = 1
+En la tabla, S es 1 en las siguientes combinaciones:
 - A = 0, B = 1
 - A = 1, B = 0
 
