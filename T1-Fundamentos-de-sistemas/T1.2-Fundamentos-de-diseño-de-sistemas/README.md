@@ -19,7 +19,7 @@
 [2. Planificación y diseño de sistemas](#2-planificación-y-diseño-de-sistemas)  
   - [2.1. Ingeniería de requisitos](#21-ingeniería-de-requisitos)
   - [2.2. Representación de los requisitos](#22-representación-de-los-requisitos)
-    - [2.2.1. Diagramas de flujos](#221-diagramas-de-flujos)
+    - [2.2.1. Diagramas de flujos](#221-diagramas-de-flujo)
     - [2.2.2. Diagramas de flujo de datos](#222-diagramas-de-flujo-de-datos)
     - [2.2.3. Diagramas de estructuras](#223-diagramas-de-estructuras)
 
