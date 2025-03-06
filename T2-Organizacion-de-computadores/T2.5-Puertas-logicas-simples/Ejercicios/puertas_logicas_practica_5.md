@@ -1,11 +1,13 @@
 # Puertas lógicas práctica
 
-Un aspersor de riego se activa si la humedad del suelo es inferior al 20% o si el temporizador programado lo indica, pero no si ambas condiciones ocurren simultáneamente.
+1. Un aspersor de riego se activa si la humedad del suelo es inferior al 20% o si el temporizador programado lo indica, pero no si ambas condiciones ocurren simultáneamente.
 
-Una alarma de seguridad suena si se detecta movimiento en la zona restringida o si se abre una puerta sin autorización, pero no si ambas situaciones ocurren a la vez.
+2. El semáforo peatonal se pone en verde si el botón de cruce es presionado y el semáforo de coches está en rojo.
 
-Una lámpara se enciende si la luminosidad ambiental es inferior a 50 lux o si se presiona el interruptor manualmente, pero no si ambas condiciones se cumplen al mismo tiempo.
+3. Una máquina solo se enciende si el botón de encendido es presionado, el sensor de seguridad está activado, y la compuerta de emergencia NO está abierta.
 
-Un calentador de agua se activa si la temperatura baja de los 10 grados o si se enciende manualmente, pero no si ambas condiciones ocurren simultáneamente.
+4. Un usuario puede acceder al sistema si introduce la contraseña correcta y además se cumple una de las siguientes condiciones: (1) Se encuentra dentro de la red segura O (2) Introduce un código temporal válido, pero no ambos.
 
-Un extractor de aire se enciende si el nivel de CO₂ supera el umbral de 800 ppm o si se activa manualmente, pero no si ambas condiciones se dan a la vez.
+5. Una alarma se activa si el sensor de temperatura detecta sobrecalentamiento o si la presión del aceite es baja, pero solo si el motor está en funcionamiento.
+   
+6. El ventilador se activa si la temperatura supera los 28°C y además la humedad está por encima del 70% O el modo automático está activado.
