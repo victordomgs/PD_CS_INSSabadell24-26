@@ -1,8 +1,6 @@
 # Puertas lógicas práctica
 
 ### 1. Un ventilador se activa si la temperatura supera los 30 grados o si el botón de encendido manual está presionado, pero no si ambos criterios se cumplen al mismo tiempo.
-#### **Condición:**
-El ventilador se activa si la temperatura supera los 30 grados (T) o si el botón de encendido manual está presionado (B), pero no si ambos criterios se cumplen al mismo tiempo.
 
 #### **Expresión en Álgebra de Boole:**
 ```
@@ -19,8 +17,6 @@ El ventilador se activa si la temperatura supera los 30 grados (T) o si el botó
 
 ---
 ### 2. Una puerta automática se cierra si los sensores no detectan movimiento y el botón de cierre está activado.
-#### **Condición:**
-La puerta se cierra si los sensores no detectan movimiento (M) y el botón de cierre está activado (B).
 
 #### **Expresión en Álgebra de Boole:**
 ```
@@ -37,8 +33,6 @@ La puerta se cierra si los sensores no detectan movimiento (M) y el botón de ci
 
 ---
 ### 3. Una alarma se dispara si la ventana está abierta y la alarma está habilitada, pero no si la puerta también está abierta.
-#### **Condición:**
-La alarma se dispara si la ventana está abierta (W) y la alarma está habilitada (A), pero no si la puerta también está abierta (D).
 
 #### **Expresión en Álgebra de Boole:**
 ```
@@ -59,8 +53,6 @@ La alarma se dispara si la ventana está abierta (W) y la alarma está habilitad
 
 ---
 ### 4. Un sistema de iluminación exterior se enciende si detecta movimiento o si es de noche, pero no si la luz está configurada en modo manual.
-#### **Condición:**
-El sistema de iluminación exterior se enciende si detecta movimiento (M) o si es de noche (N), pero no si la luz está configurada en modo manual (L).
 
 #### **Expresión en Álgebra de Boole:**
 ```
@@ -81,8 +73,6 @@ El sistema de iluminación exterior se enciende si detecta movimiento (M) o si e
 
 ---
 ### 5. Una cafetera comienza a preparar café si el depósito de agua está lleno y se ha programado la hora de inicio, o si el botón de inicio rápido está presionado.  
-#### **Condición:**
-La cafetera comienza a preparar café si el depósito de agua está lleno (W) y se ha programado la hora de inicio (H), o si el botón de inicio rápido está presionado (B).
 
 #### **Expresión en Álgebra de Boole:**
 ```
