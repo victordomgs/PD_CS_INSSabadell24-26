@@ -1,0 +1,31 @@
+<h1 align="center">Puertas lógicas simples
+<div align="center">
+
+<a href="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<a href="https://agora.xtec.cat/ies-sabadell/"><img src="https://img.shields.io/badge/Institut%20Sabadell-Centre-%23FFD700" alt="Enllaç a Institut Sabadell"/></a>
+</a>
+
+
+
+</div>
+
+## Contenido:
+[1. Introducción a la arquitectura de computadores](#1-introducción-a-la-arquitectura-de-computadores)  
+
+[2. Estructura](#2-estructura)  
+  - [2.1. Unidad aritmética lógica](#21-unidad-aritmética-lógica)  
+  - [2.2. Unidad de control](#22-unidad-de-control)  
+  - [2.3. Memoria interna](#23-memoria-interna)  
+    - [2.3.1. Registros](#231-registros)  
+    - [2.3.2. Memoria caché](#232-memoria-caché)  
+    - [2.3.3. Memoria central](#233-memoria-central)  
+  - [2.4. Buses internos](#24-buses-internos)     
+  
+[3. Funcionamiento](#3-funcionamiento)  
+  - [3.1. Instrucciones](#31-instrucciones)  
+  - [3.2. Ciclo de instrucciones](#32-ciclo-de-instrucciones)  
+
+
+## 1. Introducción a la arquitectura de computadores
+
+Von Newman, el año 1945 plantea la arquitectura básica de las computadoras digitales. Estas máquinas, eran capaces de ejecutar una serie de instrucciones y ordenes elementales llamadas intrucciones máquina, que quedan almacenadas en lo que se conoce como memoria principal a la espera de ser leídas y ejecutadas por la Unidad Central de Procesamiento. La comunicación de estos dos elementos con el exterior se realiza a través de lo que se conoce como unidad de entrada y salida. 
