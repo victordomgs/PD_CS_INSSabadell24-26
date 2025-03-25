@@ -40,16 +40,22 @@
     - [5.2.2. Bucle for](#522-bucle-for)  
   - [5.3. Sentencias break y continue](#53-sentencias-break-y-continue)  
 
-[6. Funciones](#6-funciones)  
-  - [6.1. Definición de funciones](#61-definición-de-funciones)  
-  - [6.2. Parámetros y argumentos](#62-parámetros-y-argumentos)  
-  - [6.3. Retorno de valores](#63-retorno-de-valores)  
-  - [6.4. Ventajas del uso de funciones](#64-ventajas-del-uso-de-funciones)  
+[6. Matrices](#6-matrices)
+  - [6.1. Crear una matriz](#61-crear-una-matriz)
+  - [6.2. Acceder a elementos](#62-acceder-a-elementos)
+  - [6.3. Recorrer una matriz con bucles](#63-recorrer-una-matriz-con-bucles)
+  - [6.4. Modificar un valor](#64-modificar-un-valor)
 
-[7. Colecciones básicas](#7-colecciones-básicas)  
-  - [7.1. Listas (list)](#71-listas-list)  
-  - [7.2. Tuplas (tuple)](#72-tuplas-tuple)  
-  - [7.3. Diccionarios (dict)](#73-diccionarios-dict)  
+[7. Funciones](#7-funciones)  
+  - [7.1. Definición de funciones](#71-definición-de-funciones)  
+  - [7.2. Parámetros y argumentos](#72-parámetros-y-argumentos)  
+  - [7.3. Retorno de valores](#73-retorno-de-valores)  
+  - [7.4. Ventajas del uso de funciones](#74-ventajas-del-uso-de-funciones)  
+
+[8. Colecciones básicas](#8-colecciones-básicas)  
+  - [8.1. Listas (list)](#81-listas-list)  
+  - [8.2. Tuplas (tuple)](#82-tuplas-tuple)  
+  - [8.3. Diccionarios (dict)](#83-diccionarios-dict)  
 
 
 ## 1. Sintaxis básica y conceptos fundamentales
@@ -453,9 +459,62 @@ Salida:
 4
 ```
 
-## 6. Funciones
+## 6. Matrices
 
-### 6.1. Definición de funciones
+Una matriz es una estructura que permite almacenar datos en forma de filas y columnas. En Python podemos representar una matriz usando listas anidadas (una lista de listas).
+
+### 6.1. Crear una matriz
+
+```python
+matriz = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+```
+
+Esta matriz tiene 3 filas y 3 columnas.
+
+### 6.2. Acceder a elementos
+
+Para acceder a un elemento usamos dos índices: el de la fila y el de la columna (empezando desde 0).
+
+```python
+print(matriz[0][1])  # Resultado: 2
+print(matriz[2][0])  # Resultado: 7
+```
+
+### 6.3. Recorrer una matriz con bucles
+
+Podemos usar dos bucles ```for``` para recorrer todos los elementos:
+
+```python
+for fila in matriz:
+    for elemento in fila:
+        print(elemento, end=" ")
+    print()
+```
+
+### 6.4. Modificar un valor
+
+```python
+matriz[1][2] = 99
+print(matriz)
+```
+
+Resultado: 
+
+```python
+[
+    [1, 2, 3],
+    [4, 5, 99],
+    [7, 8, 9]
+]
+```
+
+## 7. Funciones
+
+### 7.1. Definición de funciones
 
 Una función es un bloque de código que realiza una tarea específica. Permite reutilizar código y dividir el programa en partes más pequeñas y manejables.
 
@@ -479,7 +538,7 @@ def saludar():
 saludar()
 ```
 
-### 6.2. Parámetros y argumentos
+### 7.2. Parámetros y argumentos
 
 Las funciones pueden recibir valores de entrada llamados parámetros. Estos parámetros permiten personalizar el comportamiento de la función.
 
@@ -502,7 +561,7 @@ def sumar(a, b):
 sumar(3, 5)
 ```
 
-### 6.3. Retorno de valores
+### 7.3. Retorno de valores
 
 Las funciones pueden devolver un valor usando la palabra clave `return`.
 
@@ -516,7 +575,7 @@ producto = multiplicar(4, 3)
 print("El producto es:", producto)
 ```
 
-### 6.4. Ventajas del uso de funciones
+### 7.4. Ventajas del uso de funciones
 
 - **Reutilización de código:** Permite definir el código una vez y reutilizarlo múltiples veces.
 - **Modularidad:** Divide el programa en partes más pequeñas y fáciles de entender.
@@ -533,9 +592,9 @@ resultado = calcular_area_rectangulo(5, 10)
 print("El área del rectángulo es:", resultado)
 ```
 
-## 7. Colecciones básicas
+## 8. Colecciones básicas
 
-### 7.1. Listas (list)
+### 8.1. Listas (list)
 
 Una lista es una colección ordenada y mutable que permite almacenar varios elementos. Los elementos pueden ser de diferentes tipos de datos.
 
@@ -569,7 +628,7 @@ for elemento in mi_lista:
     print(elemento)
 ```
 
-### 7.2. Tuplas (tuple)
+### 8.2. Tuplas (tuple)
 
 Una tupla es una colección ordenada e inmutable. Sus elementos no pueden ser modificados después de su creación.
 
@@ -595,7 +654,7 @@ for elemento in mi_tupla:
 mi_lista = list(mi_tupla)
 ```
 
-### 7.3. Diccionarios (dict)
+### 8.3. Diccionarios (dict)
 
 Un diccionario es una colección no ordenada que almacena pares clave-valor. Las claves son únicas y permiten acceder rápidamente a los valores asociados.
 
