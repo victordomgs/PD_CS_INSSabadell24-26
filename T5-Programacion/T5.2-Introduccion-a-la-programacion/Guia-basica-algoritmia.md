@@ -33,14 +33,14 @@
 ### 1.1. Variable Declaration
 
 ```plaintext
-variable ← initial_value
+variable = initial_value
 ```
 
 **Examples:**
 ```plaintext
-count ← 0
-name ← "Alice"
-active ← true
+count = 0
+name = "Alice"
+active = true
 ```
 
 ### 1.2. Operators
@@ -49,11 +49,11 @@ active ← true
 
 | Operation         | Symbol | Example         |
 |------------------|--------|-----------------|
-| Addition          | `+`    | `x ← a + b`     |
-| Subtraction       | `-`    | `x ← a - b`     |
-| Multiplication    | `*`    | `x ← a * b`     |
-| Division          | `/`    | `x ← a / b`     |
-| Modulo            | `mod`  | `r ← a mod b`   |
+| Addition          | `+`    | `x = a + b`     |
+| Subtraction       | `-`    | `x = a - b`     |
+| Multiplication    | `*`    | `x = a * b`     |
+| Division          | `/`    | `x = a / b`     |
+| Modulo            | `mod`  | `r = a mod b`   |
 
 #### 1.2.2. Comparison Operators
 
@@ -131,24 +131,24 @@ end loop
 
 **Example:**
 ```plaintext
-count ← 0
+count = 0
 loop while count < 5
    output count
-   count ← count + 1
+   count = count + 1
 end loop
 ```
 
 ### 3.2. FOR Loop
 
 ```plaintext
-for i ← start to end
+for i = start to end
    statements
 end for
 ```
 
 **Example:**
 ```plaintext
-for i ← 1 to 10
+for i = 1 to 10
    output i
 end for
 ```
@@ -161,12 +161,12 @@ end for
 
 **Declaration:**
 ```plaintext
-arr ← [0, 0, 0, 0, 0]
+arr = [0, 0, 0, 0, 0]
 ```
 
 **Access:**
 ```plaintext
-arr[index] ← value
+arr[index] = value
 output arr[index]
 ```
 
@@ -174,11 +174,11 @@ output arr[index]
 
 **Declaration:**
 ```plaintext
-matrix ← [[0, 0], [0, 0]]
+matrix = [[0, 0], [0, 0]]
 ```
 
 **Access:**
 ```plaintext
-matrix[row][column] ← value
+matrix[row][column] = value
 output matrix[row][column]
 ```
