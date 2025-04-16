@@ -164,6 +164,8 @@ print(matriz[i][j])
 
 Cuando `i = len(lista) - 1` (es decir, 3), se intenta acceder a `lista[4]`, fuera de rango.
 
+**Corrección:**
+
 ```python
 for i in range(len(lista) - 1):
 ```
@@ -176,6 +178,156 @@ Si "Luis" no está en la lista, la variable `encontrado` no se define y se inten
 
 `input` devuelve un string, no un entero.
 
+**Corrección:**
+
 ```python
 cantidad = int(input("¿Cuántos números?: "))
+```
+
+#### g)
+
+El acceso a matrices en Python no se hace con coma. Mismo error que en un ejercicio anterior. 
+
+**Corrección:**
+
+```python
+print(matriz[0][1])
+```
+
+#### h)
+
+El rango `range(3)` para `i` es incorrecto: la matriz solo tiene 2 filas, no 3.
+
+**Corrección:**
+
+```python
+for i in range(2):
+    for j in range(3):
+        print(matriz[i][j])
+```
+
+#### i)
+
+Este código es correcto. Imprime los elementos transpuestos (columnas como filas).
+
+#### j)
+
+Cuando `i = 1`, el código intenta acceder a `matriz[2]`, lo cual está fuera del rango → IndexError.
+
+#### k)
+
+La matriz tiene solo 2 filas, por lo tanto `matriz[2][1]` genera IndexError cuando `j = 2`.
+
+**Corrección:**
+
+```python
+for j in range(2):
+    print(matriz[j][1])
+```
+
+---
+
+### 3. Dados los siguientes programas en código: 
+
+#### a)
+
+```python
+numero = int(input())
+print(numero * numero)
+```
+
+#### b)
+
+```python
+numero = int(input())
+if numero % 2 == 0:
+    print("Es par")
+else:
+    print("Es impar")
+```
+
+#### c)
+
+```python
+numeros = [4, 7, 9, 6, 8]
+promedio = sum(numeros) / len(numeros)
+print(promedio)
+```
+
+#### d)
+
+```python
+numeros = [10, 5, 7, 20, 3]
+mayor = max(numeros)
+print(mayor)
+```
+
+#### e)
+
+```python
+numeros = [3, 4, 7, 10, 6, 5]
+pares = 0
+for i in range(len(numeros)):
+    if numeros[i] % 2 == 0:
+        pares += 1
+print(pares)
+```
+
+#### f)
+
+```python
+numeros = [-3, -2, -1, 5, 0, 9]
+positivos = 0
+for i in range(len(numeros)):
+    if numeros[i] > 0:
+        positivos += 1
+print(positivos)
+```
+
+#### g)
+
+```python
+matriz = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+suma = 0
+for i in range(len(matriz)):
+    for j in range(len(matriz[i])):
+        suma += matriz[i][j]
+print(suma)
+```
+
+#### h)
+
+```python
+matriz = [[5, 12, 7], [15, 3, 22]]
+contador = 0
+for i in range(len(matriz)):
+    for j in range(len(matriz[i])):
+        if matriz[i][j] > 10:
+            contador += 1
+print(contador)
+```
+
+#### i)
+
+```python
+matriz = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+for i in range(len(matriz)):
+    print(matriz[i][i])
+```
+
+#### j)
+
+> [!IMPORTANT]  
+> Este tipo de ejercicios no saldrá en el examen ya que no hemos trabajado todavía la creación de una matriz de 0.
+
+#### k)
+
+```python
+matriz = [[10, 5, 7], [3, 12, 6]]
+mayor = matriz[0][0]
+for i in range(len(matriz)):
+    for j in range(len(matriz[i])):
+        if matriz[i][j] > mayor:
+            mayor = matriz[i][j]
+print(mayor)
 ```
