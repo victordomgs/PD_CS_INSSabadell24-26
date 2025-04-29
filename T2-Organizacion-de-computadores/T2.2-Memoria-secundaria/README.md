@@ -19,6 +19,13 @@
     - [2.2.3. Memoria Caché](#223-memoria-caché)  
     - [2.2.4. Memoria Virtual](#224-memoria-virtual)
 
+[3. Memoria secundaria](#3-memoria-secundaria)  
+  - [3.1. Características principales](#31-características-principales)  
+  - [3.2. Tipos de memoria secundaria](#32-tipos-de-memoria-secundaria)  
+  - [3.3. Importancia en los sistemas informáticos](#33-importancia-en-los-sistemas-informáticos)  
+  - [3.4. Evolución tecnológica](#34-evolución-tecnológica)  
+  - [3.5. Comparación entre tipos de almacenamiento](#35-comparación-entre-tipos-de-almacenamiento)  
+
 # 1. Introducción a la memoria
 
 La memoria de yun sistema informático se define como el medio físico capaz de almacenar la información de forma temporal o permanente. Esta información puede ser leída o escrita segun las características de cada tipo de memoria. 
@@ -101,3 +108,52 @@ Es una memoria SRAM de alta velocidad situada entre la CPU y la RAM para reducir
 ### 2.2.4. Memoria Virtual
 
 Es una técnica que permite simular más memoria RAM utilizando espacio en disco, gestionada por el sistema operativo.
+
+## 3. Memoria secundaria
+
+La memoria secundaria, también conocida como almacenamiento masivo, cumple una función vital en los sistemas informáticos: el almacenamiento permanente de datos. A diferencia de la memoria principal (RAM), los datos no se pierden cuando el sistema se apaga. Esta memoria es más lenta, pero ofrece una gran capacidad de almacenamiento a un coste relativamente bajo.
+
+### 3.1. Características principales
+
+- **Capacidad**: Las memorias secundarias pueden alcanzar capacidades de varios terabytes (TB), lo que las hace adecuadas para almacenar grandes volúmenes de datos como bases de datos, vídeos, copias de seguridad, etc.
+- **Persistencia**: Una de sus principales ventajas es la retención de datos sin necesidad de energía eléctrica. Esto es fundamental para la integridad y conservación de la información.
+- **Velocidad**: Aunque son más lentas que la memoria RAM, las tecnologías actuales como las SSD han reducido esta brecha significativamente.
+- **Costo**: Su precio por gigabyte es considerablemente más bajo que el de la memoria principal, lo que las hace idóneas para almacenamiento a largo plazo.
+
+### 3.2. Tipos de memoria secundaria
+
+- **Discos duros (HDD)**: Utilizan platos magnéticos giratorios y cabezales de lectura/escritura. Son ideales para almacenamiento masivo a bajo costo. Sin embargo, presentan mayor latencia debido a las partes mecánicas.
+- **Unidades de estado sólido (SSD)**: Basadas en memoria flash, ofrecen velocidades de lectura y escritura muy superiores a los HDD. No tienen partes móviles, lo que reduce su desgaste y mejora su resistencia a impactos.
+- **Memorias USB (pendrives)**: Utilizadas habitualmente para transferencias rápidas de datos entre dispositivos. Aunque su velocidad puede ser limitada, destacan por su portabilidad y facilidad de uso.
+- **Tarjetas de memoria**: Comunes en cámaras digitales, teléfonos y dispositivos portátiles. Utilizan también tecnología flash y presentan diversas capacidades y velocidades.
+- **Cintas magnéticas**: Aunque han caído en desuso en el ámbito doméstico, siguen siendo una solución viable para almacenamiento masivo a largo plazo en entornos empresariales, especialmente para copias de seguridad.
+
+### 3.3. Importancia en los sistemas informáticos
+
+La memoria secundaria es esencial en múltiples aspectos del funcionamiento de un sistema informático:
+
+- Almacena el sistema operativo, que se carga en la memoria principal al arrancar.
+- Guarda las aplicaciones y los archivos del usuario.
+- Permite realizar copias de seguridad para evitar la pérdida de información crítica.
+- Facilita la gestión de grandes volúmenes de datos de forma estructurada (por ejemplo, en servidores y bases de datos).
+
+### 3.4. Evolución tecnológica
+
+La evolución de la memoria secundaria ha sido constante, con mejoras notables en capacidad, velocidad y fiabilidad:
+
+- De los antiguos disquetes a los actuales discos duros y SSD.
+- Disminución del tamaño físico con aumento de capacidad (por ejemplo, microSD de 1 TB).
+- Avances como NVMe y PCIe han incrementado significativamente la velocidad de acceso en los SSD modernos.
+- Aparición del almacenamiento en la nube como forma de memoria secundaria accesible remotamente.
+
+### 3.5. Comparación entre tipos de almacenamiento
+
+| Tipo             | Capacidad típica | Velocidad      | Precio por GB | Durabilidad | Portabilidad |
+|------------------|------------------|----------------|---------------|-------------|--------------|
+| HDD              | 500 GB – 16 TB   | Media          | Bajo          | Moderada    | Baja         |
+| SSD (SATA/NVMe)  | 120 GB – 8 TB    | Alta           | Medio         | Alta        | Media        |
+| USB              | 8 GB – 2 TB      | Variable       | Medio         | Alta        | Alta         |
+| Tarjeta de memoria | 4 GB – 1 TB     | Variable       | Medio         | Alta        | Alta         |
+| Cinta magnética  | Hasta 30 TB      | Muy baja       | Muy bajo      | Alta        | Baja         |
+
+Cada tipo de memoria secundaria tiene su contexto de uso ideal, por lo que es habitual encontrar varios tipos coexistiendo en un mismo entorno informático.
