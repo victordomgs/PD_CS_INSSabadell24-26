@@ -135,7 +135,7 @@ La interfaz de acceso a los recursos de hardware que proporciona el sistema oper
 La interfaz más conocida es la **interfaz gráfica de usuario**, que permite al usuario convencional interactuar con el sistema de forma amigable y representa la imagen visual del sistema operativo que utilizamos.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/T2-Organizacion-de-computadores/T2.3-Sistemas-operativos-y-sistemas-de-aplicacion/images/interfaz-de-Windows.jpg" alt="Superordenador MareNostrum" width="450" height="auto"/>
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/T2-Organizacion-de-computadores/T2.3-Sistemas-operativos-y-sistemas-de-aplicacion/images/interfaz-de-Windows.jpg" alt="Superordenador MareNostrum" width="550" height="auto"/>
     <p><em>Figura 1: Interfaz gráfica de un sistema Windows. Fuente: NetView</em></p>
   </div>
   
