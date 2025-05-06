@@ -119,3 +119,24 @@ Una de las clasificaciones más populares es la que organiza los sistemas inform
 - **Minicomputadoras**: más pequeñas que los mainframes pero más grandes que los ordenadores personales. Se utilizan en empresas para permitir la conexión simultánea de muchos usuarios a través de una red, compartiendo recursos y procesando información de forma centralizada.
 - **Microordenadores**: incluyen los ordenadores personales y portátiles. Están destinados al uso individual y sirven para tareas ofimáticas, navegación por Internet, entretenimiento y tareas empresariales ligeras. Son compactos, portátiles y pueden funcionar con baterías.
 - **Sistemas embebidos**: integrados en electrodomésticos, vehículos, relojes inteligentes, etc. Están pensados para usos específicos y permiten ejecutar aplicaciones, conectarse a Internet, recibir llamadas, correos electrónicos y otras funciones propias del dispositivo.
+
+## 1.2. El sistema operativo
+
+El **sistema operativo** es el software más importante de un sistema informático. Este software ofrece al usuario la posibilidad de interactuar con el sistema informático de forma sencilla, permitiéndole gestionar la información y los recursos disponibles.
+
+Podemos definir los sistemas operativos atendiendo a sus dos funciones básicas:
+
+1. Proporcionar a los usuarios y aplicaciones una **interfaz de acceso** a los recursos de hardware.
+2. Gestionar dichos **recursos**.
+
+El sistema operativo **administra todos los recursos del hardware**, proporciona la base para la ejecución del software de aplicación y actúa como **interfaz entre el equipo y los usuarios**.
+
+La interfaz de acceso a los recursos de hardware que proporciona el sistema operativo permite tanto a usuarios como a aplicaciones acceder al hardware del sistema informático.
+La interfaz más conocida es la **interfaz gráfica de usuario**, que permite al usuario convencional interactuar con el sistema de forma amigable y representa la imagen visual del sistema operativo que utilizamos.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/T2-Organizacion-de-computadores/T2.3-Sistemas-operativos-y-sistemas-de-aplicacion/images/interfaz-de-Windows.jpg" alt="Superordenador MareNostrum" width="450" height="auto"/>
+    <p><em>Figura 1: Interfaz gráfica de un sistema Windows. Fuente: NetView</em></p>
+  </div>
+  
+En cuanto a la gestión de recursos del hardware —entendiendo "recurso" como cualquier componente físico del sistema informático—, el sistema operativo se encarga de **planificar los accesos a dichos componentes** y de **almacenar la información** en ellos.
