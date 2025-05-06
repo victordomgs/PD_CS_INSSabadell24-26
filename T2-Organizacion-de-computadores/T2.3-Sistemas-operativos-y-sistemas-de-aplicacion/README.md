@@ -1,4 +1,4 @@
-<h1 align="center">Memoria secundaria
+<h1 align="center">Sistemas operativos y sistemas de aplicación
 <div align="center">
 
 <a href="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
