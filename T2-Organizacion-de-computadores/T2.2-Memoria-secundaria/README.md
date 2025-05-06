@@ -53,8 +53,8 @@ Expresada en bytes (B), kilbytes (KB), megabytes (MB), gigabytes (GB), etc.
 | 1 bit         | (b)              |
 | 4 bits        | nibble           |
 | 8 bits        | byte (B)         |
-| 16 bits       | paraula          |
-| 32 bits       | doble paraula    |
+| 16 bits       | palabra          |
+| 32 bits       | doble palabra    |
 
 | Unitat | Equivalència                         |
 |--------|--------------------------------------|
