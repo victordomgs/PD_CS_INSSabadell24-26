@@ -111,7 +111,7 @@ Una de las clasificaciones más populares es la que organiza los sistemas inform
 - **Superordenadores**: tienen una altísima capacidad de cálculo, capaces de procesar enormes cantidades de datos por segundo. Se utilizan principalmente en investigación y desarrollo. Están compuestos por muchos procesadores muy potentes y requieren instalaciones especiales y refrigeración avanzada.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/T2-Organizacion-de-computadores/T2.3-Sistemas-operativos-y-sistemas-de-aplicacion/images/superordenador_marenostrum-4.jpg" alt="Superordenador MareNostrum" width="750" height="auto"/>
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/T2-Organizacion-de-computadores/T2.3-Sistemas-operativos-y-sistemas-de-aplicacion/images/superordenador_marenostrum-4.jpg" alt="Superordenador MareNostrum" width="550" height="auto"/>
     <p><em>Figura 1: Superordenador MareNostrum. Fuente: BSC</em></p>
   </div>
   
