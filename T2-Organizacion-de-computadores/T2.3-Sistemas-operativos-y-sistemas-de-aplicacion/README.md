@@ -136,7 +136,7 @@ La interfaz más conocida es la **interfaz gráfica de usuario**, que permite al
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/T2-Organizacion-de-computadores/T2.3-Sistemas-operativos-y-sistemas-de-aplicacion/images/interfaz-de-Windows.jpg" alt="Superordenador MareNostrum" width="550" height="auto"/>
-    <p><em>Figura 1: Interfaz gráfica de un sistema Windows. Fuente: NetView</em></p>
+    <p><em>Figura 2: Interfaz gráfica de un sistema Windows. Fuente: NetView</em></p>
   </div>
   
 En cuanto a la gestión de recursos del hardware —entendiendo "recurso" como cualquier componente físico del sistema informático—, el sistema operativo se encarga de **planificar los accesos a dichos componentes** y de **almacenar la información** en ellos.
