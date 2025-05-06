@@ -28,7 +28,7 @@
 
 # 1. Introducción a la memoria
 
-La memoria de yun sistema informático se define como el medio físico capaz de almacenar la información de forma temporal o permanente. Esta información puede ser leída o escrita segun las características de cada tipo de memoria. 
+La memoria de un sistema informático se define como el medio físico capaz de almacenar la información de forma temporal o permanente. Esta información puede ser leída o escrita segun las características de cada tipo de memoria. 
 
 # 2. Memoria: especificaciones físicas
 
