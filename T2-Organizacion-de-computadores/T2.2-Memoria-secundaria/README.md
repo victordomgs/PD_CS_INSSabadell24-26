@@ -29,11 +29,6 @@
 # 1. Introducción a la memoria
 
 La memoria de un sistema informático se define como el medio físico capaz de almacenar la información de forma temporal o permanente. Esta información puede ser leída o escrita segun las características de cada tipo de memoria. 
-
-  <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/T2-Organizacion-de-computadores/T2.2-Memoria-secundaria/images/cpumemoria.png" alt="Relación CPU i memoria" width="750" height="auto"/>
-    <p><em>Figura 1: Relación CPU i memoria. Fuente: Abacus</em></p>
-  </div>
   
 # 2. Memoria: especificaciones físicas
 
@@ -114,6 +109,11 @@ Es una memoria SRAM de alta velocidad situada entre la CPU y la RAM para reducir
 
 Es una técnica que permite simular más memoria RAM utilizando espacio en disco, gestionada por el sistema operativo.
 
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/T2-Organizacion-de-computadores/T2.2-Memoria-secundaria/images/cpumemoria.png" alt="Relación CPU i memoria" width="750" height="auto"/>
+    <p><em>Figura 1: Relación CPU i memoria virtual. Fuente: Abacus</em></p>
+  </div>
+
 ## 3. Memoria secundaria
 
 La memoria secundaria, también conocida como almacenamiento masivo, cumple una función vital en los sistemas informáticos: el almacenamiento permanente de datos. A diferencia de la memoria principal (RAM), los datos no se pierden cuando el sistema se apaga. Esta memoria es más lenta, pero ofrece una gran capacidad de almacenamiento a un coste relativamente bajo.
@@ -162,3 +162,10 @@ La evolución de la memoria secundaria ha sido constante, con mejoras notables e
 | Cinta magnética  | Hasta 30 TB      | Muy baja       | Muy bajo      | Alta        | Baja         |
 
 Cada tipo de memoria secundaria tiene su contexto de uso ideal, por lo que es habitual encontrar varios tipos coexistiendo en un mismo entorno informático.
+
+A continuación, se muestra un diagrama con las jerarquias de memoria: 
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/T2-Organizacion-de-computadores/T2.2-Memoria-secundaria/images/jerarquiamemoria.png" alt="Jerarquía de memoria" width="750" height="auto"/>
+    <p><em>Figura 2: Jerarquía de memoria. Fuente: Abacus</em></p>
+  </div>
