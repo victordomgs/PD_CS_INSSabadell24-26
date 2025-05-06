@@ -31,7 +31,7 @@
 La memoria de un sistema informático se define como el medio físico capaz de almacenar la información de forma temporal o permanente. Esta información puede ser leída o escrita segun las características de cada tipo de memoria. 
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/T2-Organizacion-de-computadores/T2.2-Memoria-secundaria/images/cpumemoria.png" alt="Relación CPU i memoria" width="445" height="auto"/>
+    <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/T2-Organizacion-de-computadores/T2.2-Memoria-secundaria/images/cpumemoria.png" alt="Relación CPU i memoria" width="600" height="auto"/>
     <p><em>Figura 1: Relación CPU i memoria. Fuente: Abacus</em></p>
   </div>
   
