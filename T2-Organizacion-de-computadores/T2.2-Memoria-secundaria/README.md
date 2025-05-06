@@ -79,8 +79,6 @@ Expresada en bytes (B), kilbytes (KB), megabytes (MB), gigabytes (GB), etc.
 
 - **Acceso aleatorio**: Se puede acceder directamente a cualquier posición de memoria (por ejemplo, la RAM).
 - **Acceso secuencial**: Es necesario recorrer la memoria en orden hasta llegar a la posición deseada (por ejemplo, cintas magnéticas).
-- **Acceso directo**: Primero se localiza el bloque de datos y luego se busca dentro del bloque (por ejemplo, discos duros).
-- **Acceso asociativo**: Se busca la información por contenido y no por dirección (por ejemplo, memorias caché tipo CAM).
 
 ## 2.2. Tipos de memorias
 
