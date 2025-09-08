@@ -2,7 +2,7 @@
 <div align="center">
 
 </div>
-
+</br>
 ---
 
 A continuación se muestran algunos de los conceptos esenciales que se trabajarán a lo largo del temario: 
