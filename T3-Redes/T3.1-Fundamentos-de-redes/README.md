@@ -2,7 +2,15 @@
 <div align="center">
 
 </div>
-</br>
+
+## Contenido:
+
+[3.1.1. Diferentes tipos de redes](#3.1.1.-diferentes-tipos-de-redes)
+[3.1.2. Importancia de los estándares en la construcción de redes](#3.1.1.-importancia-de-los-estándares-en-la-construcción-de-redes)
+[3.1.3. Capas en la comunicación de red](#3.1.3.-capas-en-la-comunicación-de-red)
+[3.1.4. Introducción a VPN](#3.1.4.-introducción-a-vpn)
+[3.1.5. Uso de VPN](#3.1.4.-uso-de-vpn)
+
 ---
 
 A continuación se muestran algunos de los conceptos esenciales que se trabajarán a lo largo del temario: 
@@ -30,15 +38,6 @@ A continuación se muestran algunos de los conceptos esenciales que se trabajar�
 | **protocol** (protocolo) | Reglas internacionales que garantizan la transferencia de datos entre sistemas. Un protocolo reconocido como estándar para un tipo específico de transferencia se llama protocolo estándar. Ejemplo: TCP/IP es un protocolo estándar. |
 | **TCP/IP (Transmission Control Protocol / Internet Protocol)** | Protocolos de comunicación usados para conectar hosts en Internet. |
 | **wide area network (WAN)** (red de área amplia) | Red de computadoras donde todos los equipos conectados están en un área geográfica mayor que la de una LAN o una MAN (red de área metropolitana). |
-
-## Contenido:
-
-[3.1.1. Diferentes tipos de redes](#3.1.1.-diferentes-tipos-de-redes)
-[3.1.2. Importancia de los estándares en la construcción de redes](#3.1.1.-importancia-de-los-estándares-en-la-construcción-de-redes)
-[3.1.3. Capas en la comunicación de red](#3.1.3.-capas-en-la-comunicación-de-red)
-[3.1.4. Introducción a VPN](#3.1.4.-introducción-a-vpn)
-[3.1.5. Uso de VPN](#3.1.4.-uso-de-vpn)
-
 
 ---
 
