@@ -32,7 +32,7 @@ Según la Organización Mundial de la Salud (OMS), 2014:
 
 **Efectos a corto plazo:**
 
-> “Hasta la fecha, la investigación no sugiere evidencia consistente de efectos adversos para la salud por la exposición a campos de > radiofrecuencia en niveles inferiores a los que causan calentamiento tisular. Además, la investigación no ha podido aportar > pruebas que respalden una relación causal entre la exposición a campos electromagnéticos y los síntomas autoinformados, o la llamada > ‘hipersensibilidad electromagnética’.”
+> “Hasta la fecha, la investigación no sugiere evidencia consistente de efectos adversos para la salud por la exposición a campos de radiofrecuencia en niveles inferiores a los que causan calentamiento tisular. Además, la investigación no ha podido aportar pruebas que respalden una relación causal entre la exposición a campos electromagnéticos y los síntomas autoinformados, o la llamada ‘hipersensibilidad electromagnética’.”
 
 **Efectos a largo plazo:**
 
