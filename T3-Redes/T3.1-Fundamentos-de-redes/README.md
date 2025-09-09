@@ -132,7 +132,7 @@ Una WLAN conecta dos o más sistemas informáticos dentro de un área geográfic
 
 Las WLAN tienen todos los beneficios de las LAN, además de la facilidad de la conexión inalámbrica, que permite el uso de dispositivos móviles en movimiento. Sin embargo, las WLAN pueden ser menos seguras que las LAN cableadas, ya que un posible intruso no necesita tener una conexión física con la red. Por ejemplo, un intruso podría intentar acceder a la WLAN de una escuela incluso desde fuera del recinto escolar si la señal de la red inalámbrica es lo suficientemente fuerte.
 
-La tecnología más común utilizada para construir LAN inalámbricas es Wi-Fi, que permite el intercambio de datos entre sistemas informáticos utilizando ondas de radio. La Figura 5 muestra una LAN compuesta por un servidor, tres clientes y una impresora conectada al servidor. Dos de los clientes están conectados de manera inalámbrica a través de un hub o switch inalámbrico.
+La tecnología más común utilizada para construir LAN inalámbricas es **Wi-Fi**, que permite el intercambio de datos entre sistemas informáticos utilizando ondas de radio. La Figura 5 muestra una LAN compuesta por un servidor, tres clientes y una impresora conectada al servidor. Dos de los clientes están conectados de manera inalámbrica a través de un hub o switch inalámbrico.
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%205.%20Redes.png" alt="Local Area Network" width="420" height="auto"/>
@@ -162,6 +162,109 @@ En lugar de tener que instalar switches y cableado adicional para crear LAN sepa
     <p><em>Figura 6: Virtual Local Area Network con dos redes lógicas separadas. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
+La Figura 6 muestra una VLAN compuesta por dos servidores (cada uno para un departamento diferente de una empresa) y cuatro clientes (dos en cada departamento). La VLAN está configurada de tal manera que la LAN se segmenta en dos redes lógicas más pequeñas y separadas.
+
+> [!NOTE] 
+> Cuadro comparativo de las similitudes y diferencias entre LAN y VLAN:
+> | **LAN - VLAN** | **Similitudes** | **Diferencias** |
+> |----------------|-----------------|-----------------|
+> |                | Ambas actúan a nivel local. | Una VLAN ofrece mejor rendimiento. |
+> |                | Ambas tienen los mismos atributos. | Una VLAN es más segura. |
+> |                | Ambas permiten la comunicación. | La formación de grupos de trabajo virtuales es sencilla. |
+> |                | Ambas se utilizan para conectar dispositivos. | Las VLAN ofrecen mayor flexibilidad. Incluso si alguien que usa un portátil se mueve a otro lugar, seguirá en su VLAN dedicada. |
+> |                | Ambas permiten compartir recursos. | La partición de recursos es más sencilla. |
+> |                |  | Las VLAN son independientes del medio y de la topología física de la red. |
+> |                |  | A veces la gestión/administración de una VLAN es compleja. |
+
+> [!NOTE] 
+> Pros y contras de LAN y VLAN
+> | **LAN** | Pros | Cons | **VLAN** | Pros | Cons |
+> |---------|------|------|----------|------|------|
+> |         | A veces la gestión de una LAN es más sencilla. | Una LAN ofrece peor rendimiento. |          | Una VLAN ofrece mejor rendimiento. | A veces la gestión de una VLAN es compleja. |
+> |         |      | Una LAN no es tan segura. |          | Una VLAN es más segura. | Una red puede acomodar un número máximo de VLAN (este número es grande, por lo que no es una desventaja real). |
+> |         |      | No permite la formación de grupos de trabajo virtuales. |          | La formación de grupos de trabajo virtuales es sencilla. |      |
+> |         | LANs ofrecen menos flexibilidad. |      |          | Las VLAN ofrecen mayor flexibilidad. Incluso si alguien que usa un portátil se mueve a otro lugar, seguirá en su VLAN dedicada. |      |
+> |         |      | La partición de recursos es más difícil. |          | La partición de recursos es más sencilla. |      |
+> |         | LANs dependen del medio y de la topología física de la red. |      |          | Las VLAN son independientes del medio y de la topología física de la red. |      |
+
+### Red de Área Amplia (WAN)
+
+Una WAN es una red informática que conecta sistemas informáticos dentro de una gran área geográfica. El ejemplo más evidente de una WAN es **Internet**.
+Una WAN cubre un área extensa, como una ciudad, un país o incluso una red de países, lo que permite que individuos, empresas y gobiernos realicen sus actividades diarias sin importar su ubicación.
+
+Típicamente, una WAN está compuesta por **LANs interconectadas** a lo largo de un área geográfica amplia. La Figura 7 muestra una WAN compuesta por cuatro LANs conectadas entre sí en distintas partes del mundo.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%207.%20Redes.png" alt="Wide Area Network" width="370" height="auto"/>
+    <p><em>Figura 7: Wide Area Network. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+
+### Red de Área de Almacenamiento (SAN)
+
+Una SAN es una red creada para que **grandes dispositivos de almacenamiento** puedan ser accesibles desde los servidores de forma conveniente y sencilla.
+
+En una red (por ejemplo, la LAN de una empresa) puede haber varios servidores conectados.
+En la Figura 8, se muestra una LAN con cuatro clientes (dos de ellos conectados de forma inalámbrica) y tres servidores, todos conectados mediante un Hub/Switch.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%208.%20Redes.png" alt="Wide Area Network" width="570" height="auto"/>
+    <p><em>Figura 8: WAN conectada a una LAN empresarial. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+
+Los **tres servidores** proporcionan servicios distintos a los clientes:
+
+- Un **servidor de correo**, responsable de gestionar los emails.
+- Un **servidor de aplicaciones**, encargado de gestionar aplicaciones centralizadas que pueden ser utilizadas por los clientes.
+- Un **servidor de bases de datos**, encargado de gestionar los datos de la empresa almacenados en una base de datos (por ejemplo, una lista de clientes con sus datos).
+
+Estos servidores requieren espacio de almacenamiento para guardar su información y crear **copias de seguridad** que eviten la pérdida de datos en caso de fallo del almacenamiento.
+Aquí es donde se necesita la **red de área de almacenamiento (SAN)**: una red que conecta los servidores con los dispositivos de almacenamiento para que dispongan del espacio necesario para realizar sus tareas.
+
+La SAN de la Figura 8 está compuesta por tres **dispositivos de almacenamiento** conectados a los tres servidores mediante un switch y cableado Ethernet.
+
+### Internet
+
+Internet es una WAN global que conecta millones de sistemas informáticos.
+Al ser una WAN, Internet conecta un gran número de redes más pequeñas entre sí, creando así la red WAN más grande, utilizada por miles de millones de usuarios en todo el mundo.
+
+Internet proporciona a los usuarios una amplia variedad de servicios, como la **World Wide Web (WWW)**, que consiste en sitios web y páginas web, además de soporte para correo electrónico, transferencia de archivos y otros servicios.
+Por lo tanto, **Internet no es lo mismo que la WWW**, sino que la WWW es un **servicio dentro de Internet**.
+
+A diferencia de otras redes, **Internet está descentralizada por diseño**. Esto significa que sus recursos no están almacenados ni controlados de manera centralizada por un único servidor.
+Cada sistema informático conectado a Internet es independiente y puede compartir servicios con la comunidad global, convirtiéndose, en esencia, en un **servidor por sí mismo**.
+
+En la mayoría de los casos, el acceso a Internet se realiza a través de un **Proveedor de Servicios de Internet (ISP)**, que es una empresa que proporciona servicios de conexión a cambio de una cuota mensual.
+A diferencia de la mayoría de las LAN y WAN, **Internet no pertenece a una sola entidad** (persona u organización).
+
+### Internet de las Cosas (IoT)
+
+El Internet de las Cosas (IoT) es la red de “cosas” individuales que pueden conectarse a Internet, comunicarse e intercambiar datos.
+Cada “cosa” cuenta con el hardware y software necesarios y tiene asignada una dirección IP.
+
+Ejemplos de “cosas” en el IoT incluyen:
+
+- Un paciente con un implante.
+- Un coche con un sistema de emergencia.
+- Un sistema de alarma con aviso avanzado.
+- Un animal salvaje con un sistema de rastreo.
+
+Cada objeto físico tiene un sistema embebido único que lo identifica de manera exclusiva.
+
+### Extranet
+
+Una extranet es una red informática que utiliza Internet para permitir el acceso controlado de usuarios específicos a una LAN o WAN concreta.
+
+Por ejemplo, imagina una empresa que gestiona una red de sistemas informáticos para sus operaciones diarias. Esta red privada está contenida dentro de la empresa, ya sea una LAN o una WAN, y solo puede ser accedida por el personal que tenga las credenciales necesarias (por ejemplo, nombre de usuario y contraseña).
+
+La empresa puede desear **compartir de manera segura una parte de su red (y de su información)** con proveedores, socios, clientes u otras empresas, sin hacer que toda su red esté disponible para ellos o para el público en general.
+
+A esta parte de la red que se extiende a usuarios externos autorizados se le denomina extranet.
+
+Las extranets requieren técnicas de **seguridad y privacidad**, de manera que el público o los usuarios externos no puedan acceder a datos confidenciales.
+
+En otras palabras, una extranet puede considerarse como una **intranet que es parcialmente accesible para usuarios externos autorizados**.
+
+Un **firewall** controla los derechos de acceso y permite el ingreso a la intranet únicamente a las personas autorizadas.
 
 ## 3.1.2. Importancia de los estándares en la construcción de redes
 ## 3.1.3. Capas en la comunicación de red
