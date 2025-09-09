@@ -117,7 +117,7 @@ Otro beneficio de formar una LAN es que, además de los periféricos, también s
 La tecnología más común utilizada para construir LAN cableadas es un hub o un switch con cableado Ethernet. La Figura 4 muestra una LAN cableada compuesta por un servidor, tres clientes y una impresora conectada al servidor a través de un hub o un switch.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%204.%20Redes.png" alt="Local Area Network" width="420" height="auto"/>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%204.%20Redes.png" alt="Local Area Network" width="570" height="auto"/>
     <p><em>Figura 4: Local Area Network. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
@@ -131,7 +131,7 @@ Las WLAN tienen todos los beneficios de las LAN, además de la facilidad de la c
 La tecnología más común utilizada para construir LAN inalámbricas es **Wi-Fi**, que permite el intercambio de datos entre sistemas informáticos utilizando ondas de radio. La Figura 5 muestra una LAN compuesta por un servidor, tres clientes y una impresora conectada al servidor. Dos de los clientes están conectados de manera inalámbrica a través de un hub o switch inalámbrico.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%205.%20Redes.png" alt="Local Area Network" width="420" height="auto"/>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%205.%20Redes.png" alt="Local Area Network" width="570" height="auto"/>
     <p><em>Figura 5: Local Area Network. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
