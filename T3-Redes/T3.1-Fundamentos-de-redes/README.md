@@ -504,7 +504,7 @@ Este tipo de VPN conecta **hosts individuales** a redes privadas y facilita el t
 Cada host debe tener instalado un **software cliente VPN**.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2016.%20Redes.png" height="auto"/>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2016.%20Redes.png" width="470" height="auto"/>
     <p><em>Figura 16: Remote-Access VPN. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
