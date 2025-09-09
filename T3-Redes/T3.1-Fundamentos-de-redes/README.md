@@ -7,7 +7,7 @@
 
 [3.1.1. Diferentes tipos de redes](#311-diferentes-tipos-de-redes)
 
-[3.1.2. Importancia de los estándares en la construcción de redes](#311-importancia-de-los-estándares-en-la-construcción-de-redes)
+[3.1.2. Importancia de los estándares en la construcción de redes](#311-importancia-de-los-estandares-en-la-construccion-de-redes)
 
 [3.1.3. Capas en la comunicación de red](#313-capas-en-la-comunicación-de-red)
 
