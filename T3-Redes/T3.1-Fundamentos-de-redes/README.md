@@ -266,7 +266,76 @@ En otras palabras, una extranet puede considerarse como una **intranet que es pa
 
 Un **firewall** controla los derechos de acceso y permite el ingreso a la intranet únicamente a las personas autorizadas.
 
+### Red Privada Virtual (VPN)
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%209.%20Redes.png" alt="Virtual Private Network" width="370" height="auto"/>
+    <p><em>Figura 9: Virtual Private Network. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+
+Imagina que una empresa tiene una LAN que conecta dos o más sistemas informáticos dentro de un área geográfica limitada, como su oficina.
+Ahora imagina que algunos empleados necesitan viajar al extranjero por trabajo, pero aun así requieren acceder a la LAN de la empresa para utilizar archivos y recursos compartidos.
+Eso no sería posible con una LAN, o incluso con una WLAN, si el empleado está lejos y no puede conectarse físicamente mediante cable o de forma inalámbrica.
+
+Aquí es donde una VPN resuelve el problema.
+
+Una VPN es una red informática que conecta dos o más sistemas, similar a una LAN o una WLAN, pero que además permite a clientes en ubicaciones remotas conectarse a la red y **aparecer como si estuvieran dentro de la LAN**, como si estuvieran presentes físicamente.
+
+En otras palabras, una VPN permite la creación de una LAN gestionada a través de una aplicación de servidor, a la cual los clientes pueden conectarse también desde ubicaciones remotas, incluso a través de otra red (por ejemplo, Internet).
+
+Una VPN ofrece **todos los beneficios de una LAN**, permitiendo a los usuarios compartir datos y recursos sin comprometer la seguridad.
+Además, una VPN puede **conectar de manera segura y rentable oficinas geográficamente dispersas de una empresa**, dentro de una red que dispone de todas las funcionalidades de una única LAN.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2010.%20Redes.png" alt="Virtual Private Network" width="370" height="auto"/>
+    <p><em>Figura 10: A virtual private network (VPN). Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+
+La Figura 10 muestra una VPN compuesta por un servidor, dos clientes y una impresora conectada al servidor.
+Uno de los clientes está conectado a la VPN de forma remota a través de Internet, utilizando un nombre de usuario y una contraseña.
+
+### Personal Area Network (PAN)
+
+Una PAN es una red que interconecta dispositivos centrados en el espacio de trabajo de una persona.
+Se puede entender como una **LAN que solo da soporte a un individuo** en lugar de a un grupo de personas, y que cubre un rango muy corto, de un máximo de **10 metros**.
+
+Un ejemplo típico de PAN sería un ordenador portátil, un smartphone y una tableta interconectados y compartiendo datos como correos electrónicos, calendarios, fotografías, etc.
+
+Los dispositivos en una PAN pueden conectarse tanto de forma **cableada** (normalmente mediante USB) como de forma inalámbrica (normalmente mediante Bluetooth), según las tecnologías utilizadas.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2011.%20Redes.png" alt="Personal Area Network" width="370" height="auto"/>
+    <p><em>Figura 11: Personal Area Network (PAN). Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+
+Una PAN que utiliza un grupo de dispositivos inalámbricos mediante tecnología **Bluetooth** para interconectarse también se conoce como **piconet**.
+
+### Red entre Pares (P2P)
+
+Una **P2P** es una red que **no utiliza el modelo cliente/servidor**, en el que los clientes solicitan recursos y los servidores los proporcionan.
+
+En lugar de ello, una red P2P emplea una **arquitectura de red distribuida** donde todos los sistemas informáticos (llamados nodos o peers) están **descentralizados** y actúan **tanto como clientes como servidores al mismo tiempo**, consumiendo y suministrando recursos de y hacia los demás sistemas conectados a la red.
+
+El modelo P2P elimina la dependencia de servidores centralizados, evitando posibles **cuellos de botella**, y permite que cada ordenador aporte parte de sus recursos para que otros puedan utilizarlos.
+
 ## 3.1.2. Importancia de los estándares en la construcción de redes
+
+Imagina que una empresa necesita configurar una LAN con varios clientes y servidores.
+Si el hardware no sigue algunas reglas comunes (o estándares específicos), es posible que los sistemas informáticos no puedan interconectarse para crear la red.
+
+**Información útil:** existen dos organizaciones que estandarizan los protocolos de red:
+
+- **Institute of Electrical and Electronics Engineers (IEEE)**
+- **Internet Engineering Task Force (IETF)**
+
+Si existieran muchos estándares distintos y los fabricantes de hardware o software siguieran cada uno diferentes, el resultado sería **hardware y software incompatibles**.
+Por ejemplo, en una situación hipotética sin estándares, podría desarrollarse un sistema informático que solo admitiese **puertos USB**, mientras que un switch se desarrollase únicamente con soporte para **puertos Ethernet**. Estos dos elementos de hardware no podrían conectarse entre sí, ya que estarían utilizando estándares de comunicación diferentes.
+
+Los **estándares** desempeñan un papel fundamental en la construcción de redes.
+Los estándares describen una **base común** en la que los fabricantes de hardware y software (Apple, Microsoft, Linux, etc.) pueden apoyarse para construir sistemas capaces de comunicarse entre sí.
+
+En este sentido, los estándares pueden considerarse como un **“lenguaje internacional común”** que permite la **compatibilidad** entre todos los sistemas informáticos a nivel global.
+
 ## 3.1.3. Capas en la comunicación de red
 ## 3.1.4. Introducción a VPN
 ## 3.1.5. Uso de VPN
