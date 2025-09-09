@@ -13,7 +13,7 @@
 
 [3.1.4. Introducción a VPN](#314-introducción-a-vpn)
 
-[3.1.5. Uso de VPN](#314-uso-de-vpn)
+[3.1.5. Uso de VPN](#315-uso-de-vpn)
 
 ---
 
