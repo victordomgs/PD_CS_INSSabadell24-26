@@ -5,15 +5,15 @@
 
 ## Contenido:
 
-[3.1.1. Diferentes tipos de redes](#3.1.1.-diferentes-tipos-de-redes)
+[3.1.1. Diferentes tipos de redes](#311-diferentes-tipos-de-redes)
 
-[3.1.2. Importancia de los estándares en la construcción de redes](#3.1.1.-importancia-de-los-estándares-en-la-construcción-de-redes)
+[3.1.2. Importancia de los estándares en la construcción de redes](#311-importancia-de-los-estándares-en-la-construcción-de-redes)
 
-[3.1.3. Capas en la comunicación de red](#3.1.3.-capas-en-la-comunicación-de-red)
+[3.1.3. Capas en la comunicación de red](#313-capas-en-la-comunicación-de-red)
 
-[3.1.4. Introducción a VPN](#3.1.4.-introducción-a-vpn)
+[3.1.4. Introducción a VPN](#314-introducción-a-vpn)
 
-[3.1.5. Uso de VPN](#3.1.4.-uso-de-vpn)
+[3.1.5. Uso de VPN](#314-uso-de-vpn)
 
 ---
 
