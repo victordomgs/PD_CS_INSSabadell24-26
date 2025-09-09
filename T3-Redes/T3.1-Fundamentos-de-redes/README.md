@@ -139,14 +139,14 @@ La tecnología más común utilizada para construir LAN inalámbricas es **Wi-Fi
     <p><em>Figura 5: Local Area Network. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
-> [!NOTE]  
-> Cuadro comparativo de las similitudes y diferencias entre LAN y WLAN:
-> | **LAN - WLAN** | **Similitudes** | **Diferencias** |
-> |----------------|-----------------|-----------------|
-> |                | Ambas actúan a nivel local. | Usan diferentes medios de transmisión. |
-> |                | Ambas permiten la comunicación. | Una LAN es más segura. |
-> |                | Ambas se utilizan para conectar dispositivos. | La LAN es más rápida. |
-> |                | Ambas permiten compartir recursos. | Las WLAN ofrecen mayor flexibilidad. |
+**Tabla 1: Cuadro comparativo de las similitudes y diferencias entre LAN y WLAN**
+
+| **LAN - WLAN** | **Similitudes** | **Diferencias** |
+|----------------|-----------------|-----------------|
+|                | Ambas actúan a nivel local. | Usan diferentes medios de transmisión. |
+|                | Ambas permiten la comunicación. | Una LAN es más segura. |
+|                | Ambas se utilizan para conectar dispositivos. | La LAN es más rápida. |
+|                | Ambas permiten compartir recursos. | Las WLAN ofrecen mayor flexibilidad. |
 
 
 ### Virtual Local Area Network (VLAN)
@@ -164,28 +164,28 @@ En lugar de tener que instalar switches y cableado adicional para crear LAN sepa
 
 La Figura 6 muestra una VLAN compuesta por dos servidores (cada uno para un departamento diferente de una empresa) y cuatro clientes (dos en cada departamento). La VLAN está configurada de tal manera que la LAN se segmenta en dos redes lógicas más pequeñas y separadas.
 
-> [!NOTE] 
-> Cuadro comparativo de las similitudes y diferencias entre LAN y VLAN:
-> | **LAN - VLAN** | **Similitudes** | **Diferencias** |
-> |----------------|-----------------|-----------------|
-> |                | Ambas actúan a nivel local. | Una VLAN ofrece mejor rendimiento. |
-> |                | Ambas tienen los mismos atributos. | Una VLAN es más segura. |
-> |                | Ambas permiten la comunicación. | La formación de grupos de trabajo virtuales es sencilla. |
-> |                | Ambas se utilizan para conectar dispositivos. | Las VLAN ofrecen mayor flexibilidad. Incluso si alguien que usa un portátil se mueve a otro lugar, seguirá en su VLAN dedicada. |
-> |                | Ambas permiten compartir recursos. | La partición de recursos es más sencilla. |
-> |                |  | Las VLAN son independientes del medio y de la topología física de la red. |
-> |                |  | A veces la gestión/administración de una VLAN es compleja. |
+**Tabla 2: Cuadro comparativo de las similitudes y diferencias entre LAN y VLAN**
 
-> [!NOTE] 
-> Pros y contras de LAN y VLAN
-> | **LAN** | Pros | Cons | **VLAN** | Pros | Cons |
-> |---------|------|------|----------|------|------|
-> |         | A veces la gestión de una LAN es más sencilla. | Una LAN ofrece peor rendimiento. |          | Una VLAN ofrece mejor rendimiento. | A veces la gestión de una VLAN es compleja. |
-> |         |      | Una LAN no es tan segura. |          | Una VLAN es más segura. | Una red puede acomodar un número máximo de VLAN (este número es grande, por lo que no es una desventaja real). |
-> |         |      | No permite la formación de grupos de trabajo virtuales. |          | La formación de grupos de trabajo virtuales es sencilla. |      |
-> |         | LANs ofrecen menos flexibilidad. |      |          | Las VLAN ofrecen mayor flexibilidad. Incluso si alguien que usa un portátil se mueve a otro lugar, seguirá en su VLAN dedicada. |      |
-> |         |      | La partición de recursos es más difícil. |          | La partición de recursos es más sencilla. |      |
-> |         | LANs dependen del medio y de la topología física de la red. |      |          | Las VLAN son independientes del medio y de la topología física de la red. |      |
+| **LAN - VLAN** | **Similitudes** | **Diferencias** |
+|----------------|-----------------|-----------------|
+|                | Ambas actúan a nivel local. | Una VLAN ofrece mejor rendimiento. |
+|                | Ambas tienen los mismos atributos. | Una VLAN es más segura. |
+|                | Ambas permiten la comunicación. | La formación de grupos de trabajo virtuales es sencilla. |
+|                | Ambas se utilizan para conectar dispositivos. | Las VLAN ofrecen mayor flexibilidad. Incluso si alguien que usa un portátil se mueve a otro lugar, seguirá en su VLAN dedicada. |
+|                | Ambas permiten compartir recursos. | La partición de recursos es más sencilla. |
+|                |  | Las VLAN son independientes del medio y de la topología física de la red. |
+|                |  | A veces la gestión/administración de una VLAN es compleja. |
+
+**Tabla 3: Pros y contras de LAN y VLAN**
+
+| **LAN** | Pros | Cons | **VLAN** | Pros | Cons |
+|---------|------|------|----------|------|------|
+|         | A veces la gestión de una LAN es más sencilla. | Una LAN ofrece peor rendimiento. |          | Una VLAN ofrece mejor rendimiento. | A veces la gestión de una VLAN es compleja. |
+|         |      | Una LAN no es tan segura. |          | Una VLAN es más segura. | Una red puede acomodar un número máximo de VLAN (este número es grande, por lo que no es una desventaja real). |
+|         |      | No permite la formación de grupos de trabajo virtuales. |          | La formación de grupos de trabajo virtuales es sencilla. |      |
+|         | LANs ofrecen menos flexibilidad. |      |          | Las VLAN ofrecen mayor flexibilidad. Incluso si alguien que usa un portátil se mueve a otro lugar, seguirá en su VLAN dedicada. |      |
+|         |      | La partición de recursos es más difícil. |          | La partición de recursos es más sencilla. |      |
+|         | LANs dependen del medio y de la topología física de la red. |      |          | Las VLAN son independientes del medio y de la topología física de la red. |      |
 
 ### Red de Área Amplia (WAN)
 
@@ -337,5 +337,192 @@ Los estándares describen una **base común** en la que los fabricantes de hardw
 En este sentido, los estándares pueden considerarse como un **“lenguaje internacional común”** que permite la **compatibilidad** entre todos los sistemas informáticos a nivel global.
 
 ## 3.1.3. Capas en la comunicación de red
+
+Si solo existiera un fabricante de sistemas informáticos, ofreciendo un único tipo de ordenador para usarse en todas partes, la comunicación entre sistemas informáticos sería sencilla.
+Habría un único estándar de comunicación y ningún otro.
+Sin embargo, este no es el caso en el mundo actual. Existen numerosos fabricantes de sistemas informáticos y una gran variedad de tipos diferentes de ordenadores.
+
+Aunque el hardware de estos sistemas difiere, puede ser necesario que se comuniquen entre sí. Para lograrlo, debe seguirse un estándar específico.
+
+Los desarrolladores de **aplicaciones de software** también deben respetar ciertos estándares para poder crear aplicaciones capaces de comunicarse con otros programas a través de una WAN (Internet).
+Imagina un programa sencillo que solicita servicios de una base de datos en línea. Este proceso requiere que el programa:
+
+1. Pase la solicitud a través de diferentes capas.
+2. Obtenga una respuesta también a través de diferentes capas.
+
+Está claro que las distintas capas cumplen diferentes funciones y utilizan **protocolos distintos para el intercambio de información**.
+Organizar el diseño de una red en capas hace que el proceso sea **menos complejo**, porque cualquier problema se divide en módulos diferenciados.
+El protocolo de cada capa ejecuta una secuencia de operaciones.
+
+Cada sistema informático conectado a una red utiliza un proceso específico para **transferir o recibir datos** a través del medio de conexión (por ejemplo, un cable).
+Imagina que una aplicación de software en un sistema informático genera datos para ser enviados a otra aplicación de software en otro sistema conectado a la red.
+
+El flujo de transmisión es el siguiente:
+
+- Los datos que se envían deben colocarse en un formato comprensible para ambas aplicaciones de software.
+- Una vez hecho esto, los datos se **codifican** en un formato adecuado para colocarse en la red.
+- Los datos se dividen en **pequeños grupos llamados paquetes**.
+- Cada paquete contiene una pequeña parte de los datos, así como otra información importante, como la **dirección de destino**.
+- Los paquetes viajan a través de la red hasta alcanzar su destino final.
+- Diversos procedimientos se encargan del **enrutamiento** de los paquetes a través de la red y de los dispositivos intermedios.
+- En el medio de transmisión viajan únicamente **bits (0s y 1s)**.
+- Finalmente, la aplicación receptora recibe los datos reensamblados en un formato adecuado.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2012.%20Redes.png" width="470" height="auto"/>
+    <p><em>Figura 12: Comunicación de datos a través de diferentes capas. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+
+#### Ventajas de las capas
+
+- Fácil de gestionar.
+- Mayor comprensión de cada capa.
+- Proporciona un lenguaje común para cada capa.
+- Facilita el diseño de protocolos.
+- Un fabricante puede centrarse en las tecnologías de una capa en particular.
+- Los productos de diferentes fabricantes pueden trabajar juntos.
+- Los avances tecnológicos de una capa son independientes de los avances en otras capas (por ejemplo, los avances en tecnología inalámbrica no dependen de los avances en compresión de formatos multimedia como GIF).
+
+### Modelo OSI (modelo de referencia)
+
+El estándar de red más utilizado es el **Modelo de Interconexión de Sistemas Abiertos (OSI)**.
+El modelo OSI fue establecido por la **Organización Internacional de Normalización (ISO)** y tiene como objetivo **facilitar la comunicación entre una gran variedad de sistemas**.
+
+El modelo OSI contiene **siete capas**.
+
+Cabe mencionar que el modelo OSI ofrece una **representación abstracta** y una explicación del proceso de comunicación en red.
+Es decir, se trata únicamente de un **modelo de referencia**.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2013.%20Redes.png" width="470" height="auto"/>
+    <p><em>Figura 13: Modelo OSI. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+
+**Tabla 4: Modelo OSI**
+
+| Nº | Capa            | Descripción y protocolos utilizados |
+|----|-----------------|-------------------------------------|
+| 1  | **Aplicación**  | Realiza varios servicios para las aplicaciones usadas por los usuarios finales. **Protocolo de ejemplo:** HTTP (HyperText Transfer Protocol). |
+| 2  | **Presentación** | Proporciona información sobre el formato de datos, compresión de datos e información de encriptación de datos a la aplicación. **Protocolo de ejemplo:** PNG (Portable Network Graphics). |
+| 3  | **Sesión**      | Gestiona las sesiones entre dos usuarios. **Protocolo de ejemplo:** Protocolo central del sistema de ventanas UNIX X. |
+| 4  | **Transporte**  | Conexiones de extremo a extremo (hosts). Define los segmentos de datos → asignación de números → transferencia de datos → reensamblaje de datos en el destino. **Protocolo de ejemplo:** TCP. |
+| 5  | **Red**         | Gestiona el enrutamiento de paquetes a través de la red mediante dispositivos intermedios. **Protocolo de ejemplo:** IP. |
+| 6  | **Enlace de Datos** | Manejo de errores en la transmisión física. Construye tramas y ajusta la tasa de transmisión según el búfer del receptor (control de flujo). **Protocolos de ejemplo:** Ethernet, HDLC. |
+| 7  | **Física**      | Transmite 0s y 1s sobre el medio entre dispositivos. Define las especificaciones del medio y niveles de voltaje. **Protocolo de ejemplo:** RS232-C (puerto serie). |
+
+### TCP/IP (modelo de protocolos)
+
+El **TCP/IP** (Transfer Control Protocol / Internet Protocol) describe todas las funciones que tienen lugar en cada capa de protocolos dentro de la **suite TCP/IP**.
+
+Se trata de un **modelo jerárquico** que representa toda la funcionalidad necesaria para lograr una comunicación exitosa entre usuarios.
+
+Su funcionamiento está estructurado en **cuatro capas de abstracción**.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2014.%20Redes.png" width="470" height="auto"/>
+    <p><em>Figura 14: Comparación del modelo OSI y TCP/IP. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+
+**Tabla 5: Comparación del modelo OSI con el modelo TCP/IP**
+
+| Nº | Capa              | Descripción y protocolos utilizados (TCP/IP) |
+|----|-------------------|-----------------------------------------------|
+| 1  | **Aplicación**    | Realiza varios servicios para las aplicaciones de software utilizadas por el usuario final. **Protocolo de ejemplo:** HTTP (HyperText Transfer Protocol). |
+| 2  | **Transporte**    | Conexiones de extremo a extremo (hosts). Definición de segmentos de datos → asignación de números → transferencia de datos → reensamblaje de los datos en el destino. **Protocolo de ejemplo:** TCP. |
+| 3  | **Internet**      | Gestiona el enrutamiento de paquetes a través de la red mediante dispositivos intermedios. **Protocolo de ejemplo:** IP. |
+| 4  | **Acceso a la red** | Medios y dispositivos de transmisión. |
+
 ## 3.1.4. Introducción a VPN
+
+Una **Red Privada Virtual (VPN)** crea una conexión de red “tunneled” (túnel) a través de Internet u otra red pública.
+Se considera ideal para establecer una conexión segura y privada entre redes con usuarios remotos y sedes remotas.
+
+Una VPN permite que un dispositivo **intercambie datos a través de Internet como si estuviera conectado directamente a una red privada**.
+Los usuarios pueden usar una VPN para acceder a datos, archivos, bases de datos y recursos almacenados en su ordenador del trabajo desde su ordenador en casa.
+
+Los usuarios de VPN pueden intercambiar datos manteniendo la **privacidad** gracias al uso de un protocolo de túnel (tunnelling protocol) y diversos procedimientos de seguridad.
+
+### Tecnologías de VPN
+
+#### A. Requisitos de hardware y software
+
+1. Acceso a Internet.
+2. **Software VPN** (software cliente, utilidades y software de servidor). El software VPN permite la comunicación privada a través de Internet.
+3. **Routers VPN**.
+4. **Dispositivos/appliances VPN**.
+5. **Concentradores VPN**: dispositivo único para gestionar un gran número de túneles VPN entrantes.
+6. **Servidores VPN**.
+
+#### B. VPN Seguras
+
+Todo el tráfico en una VPN segura debe ser **cifrado, autenticado y enviado a través de túneles virtuales**.
+
+**Tecnologías de VPN segura:**
+
+- **Protocolo de seguridad de Internet (IPSec)**, que funciona en modo transporte y en modo túnel: Permite la transmisión segura de datos a través de redes públicas basadas en IP. Utiliza algoritmos estándar de cifrado para proporcionar confidencialidad (ejemplo: **AES**). Proporciona autenticación mediante certificados digitales.
+- **Secure Sockets Layer (SSL) 3.0 o Transport Layer Security (TLS)** con cifrado. Las VPN basadas en SSL/TLS son más simples que las basadas en IPSec. No requieren software cliente especial, ya que todos los servidores web y navegadores web soportan este método de VPN.
+
+#### C. VPN de Confianza (Trusted VPN)
+
+En este caso, todo el tráfico de la VPN depende de la seguridad de la red del proveedor de servicios para proteger la comunicación.
+
+Los proveedores modernos ofrecen diferentes soluciones de VPN de confianza, que generalmente se clasifican en:
+
+- **VPN de Capa 2**
+- **VPN de Capa 3**
+
+**Tecnologías de VPN de Capa 2:**
+
+- Circuitos **ATM (Asynchronous Transfer Mode)**.
+- Circuitos de **Frame Relay**.
+- Transporte de tramas de Capa 2 sobre **MPLS (MultiProtocol Label Switching)**.
+
+**Tecnologías de VPN de Capa 3:**
+
+- **MPLS (MultiProtocol Label Switching)** con distribución restringida de información de enrutamiento mediante **BGP (Border Gateway Protocol)**.
+
+#### D. VPN Híbridas
+
+Las **VPN híbridas** combinan tecnologías de VPN seguras y de confianza, o bien una combinación de dos tecnologías de VPN diferentes.
+
+### Tipos comunes de VPN
+
+#### VPN de sitio a sitio (Site-to-Site VPN)
+Este tipo de VPN conecta **redes completas** y facilita el **intercambio seguro de datos** entre diferentes sedes.
+Para ello se utilizan **gateways VPN** (puertas de enlace).
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2015.%20Redes.png" width="470" height="auto"/>
+    <p><em>Figura 15: Site-to-Site VPN. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+
+
+#### VPN de acceso remoto (Remote-Access VPN)
+Este tipo de VPN conecta **hosts individuales** a redes privadas y facilita el trabajo de **empleados remotos o teletrabajadores** que necesitan acceder de forma segura a la red de su empresa utilizando Internet.
+Cada host debe tener instalado un **software cliente VPN**.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2016.%20Redes.png" height="auto"/>
+    <p><em>Figura 16: Remote-Access VPN. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+  
 ## 3.1.5. Uso de VPN
+
+#### Beneficios de una VPN:
+
+1. Facilita la comunicación.
+2. Las empresas aprovechan Internet para ofrecer conexiones seguras.
+3. Reduce los costes operativos en comparación con las redes de área amplia tradicionales (WAN).
+4. Los empleados trabajan como si estuvieran conectados directamente a la red de la empresa.
+5. Extiende las conexiones a numerosas sedes geográficas sin necesidad de una línea alquilada.
+6. Mejora la productividad general.
+7. Incrementa la productividad de los empleados remotos.
+8. Mejora la seguridad.
+9. Ofrece flexibilidad a los empleados para aprovechar la Intranet de la empresa a través de una conexión existente a Internet.
+10. Proporciona flexibilidad a las oficinas remotas.
+11. Ofrece oportunidades de interconexión global.
+12. Ofrece soporte a los teletrabajadores.
+13. Reduce la huella medioambiental.
+14. Reduce los tiempos de viaje y los costes de desplazamiento de los usuarios remotos.
+15. Simplifica la topología de red para administradores y empresas.
+16. Genera cambios positivos en los patrones de trabajo.
