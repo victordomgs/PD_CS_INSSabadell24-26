@@ -140,7 +140,7 @@ La tecnología más común utilizada para construir LAN inalámbricas es Wi-Fi, 
   </div>
 
 > [!NOTE]  
-> Ejemplo 1: Comparar y contrastar las similitudes y diferencias entre LAN y WLAN
+> Cuadro comparativo de las similitudes y diferencias entre LAN y WLAN:
 
 > | **LAN - WLAN** | **Similitudes** | **Diferencias** |
 > |----------------|-----------------|-----------------|
