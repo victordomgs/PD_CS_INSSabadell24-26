@@ -36,7 +36,7 @@ Según la Organización Mundial de la Salud (OMS), 2014:
 
 **Efectos a largo plazo:**
 
-> “Aunque no se ha establecido un mayor riesgo de tumores cerebrales, el uso creciente de teléfonos móviles y la falta de datos      > sobre períodos de uso superiores a 15 años justifican más investigaciones sobre la relación entre el uso de teléfonos móviles y el > riesgo de cáncer cerebral. En particular, con la reciente popularidad del uso de móviles entre personas jóvenes, y por lo tanto    > una exposición potencialmente más prolongada a lo largo de la vida, la OMS ha promovido más investigaciones en este grupo. Varios > estudios que investigan los posibles efectos en la salud de niños y adolescentes están en marcha.”
+> “Aunque no se ha establecido un mayor riesgo de tumores cerebrales, el uso creciente de teléfonos móviles y la falta de datos      sobre períodos de uso superiores a 15 años justifican más investigaciones sobre la relación entre el uso de teléfonos móviles y el riesgo de cáncer cerebral. En particular, con la reciente popularidad del uso de móviles entre personas jóvenes, y por lo tanto   una exposición potencialmente más prolongada a lo largo de la vida, la OMS ha promovido más investigaciones en este grupo. Varios estudios que investigan los posibles efectos en la salud de niños y adolescentes están en marcha.”
 
 ## 3.1.13. Componentes de las redes inalámbricas
 
