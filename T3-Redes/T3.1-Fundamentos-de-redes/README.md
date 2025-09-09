@@ -46,6 +46,30 @@ A continuación se muestran algunos de los conceptos esenciales que se trabajar�
 ---
 
 ## 3.1.1. Diferentes tipos de redes
+
+Una red informática está compuesta por dos o más sistemas informáticos que están conectados y son capaces de comunicarse e intercambiar datos. Dichos sistemas informáticos están conectados mediante cable o medios inalámbricos. Hay dos términos clave en las redes informáticas que desempeñan un papel importante:
+
+- Servidor
+- Cliente
+
+### Servidor
+Un servidor puede ser tanto un sistema informático como una aplicación de software que proporciona un servicio a los otros sistemas informáticos conectados a la misma red. Por ejemplo, un servidor puede ofrecer al resto de ordenadores de la red la capacidad de almacenar y compartir archivos, adoptando el rol de servidor de archivos.
+
+### Cliente
+Un cliente puede ser tanto un sistema informático como una aplicación de software que solicita un servicio a un servidor conectado a la misma red. Por ejemplo, una aplicación cliente de correo electrónico puede solicitar a una aplicación de servidor de correo electrónico que recupere los correos electrónicos nuevos que se hayan recibido.
+
+En resumen, un sistema informático servidor es un host que ejecuta aplicaciones de software de servidor y comparte sus recursos con clientes que hacen solicitudes. Un cliente, en cambio, no comparte ninguno de sus recursos, sino que solicita contenido a un servidor. Los servidores, por tanto, esperan solicitudes de contenido por parte de los clientes.
+
+Existen varias maneras de conectar dos o más sistemas informáticos para crear una red. Sin embargo, los tres siguientes son los componentes de red más utilizados y que desempeñan un papel esencial en la creación de una red: Hub, Switch y Router. Aunque estos tres componentes se han integrado en una sola caja, siguen siendo dispositivos diferentes que son esenciales para el trabajo en red y presentan diferencias significativas entre ellos. Un host típico que incluye un hub o un switch y un router cableado o inalámbrico sería similar al dispositivo representado en la Figura 1.
+
+  <div style="text-align: center;">
+    <img src="https://thumb.pccomponentes.com/w-530-530/articles/1081/10813982/1416-tp-link-er706w-router-inalambrico-vpn-gigabit-omada-ax3000-doble-banda.jpg" alt="Switch Hub" width="421" height="auto"/>
+    <p><em>Figura 1: Switch Hub. Fuente: PcCompomentes</em></p>
+  </div>
+
+
+
+
 ## 3.1.2. Importancia de los estándares en la construcción de redes
 ## 3.1.3. Capas en la comunicación de red
 ## 3.1.4. Introducción a VPN
