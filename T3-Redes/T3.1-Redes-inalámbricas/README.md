@@ -232,19 +232,29 @@ Cuando configuras tu red inalámbrica, probablemente no quieras proporcionar acc
 ### Métodos de seguridad de red
 
 **1. Usar contraseñas seguras:** Deben tener al menos 8 caracteres, combinando números, letras mayúsculas, minúsculas y símbolos. Las contraseñas débiles son fáciles de descifrar.
+
 **2. Instalar un antivirus** en cada dispositivo para prevenir, detectar y eliminar software malicioso.
+
 **3. Utilizar un firewall de software** en cada dispositivo para evitar intrusiones de hackers o malware.
+
 **4. Proteger la interfaz web del router/punto de acceso** con una contraseña.
+
 **5. Encender/apagar la conectividad inalámbrica:** muchos routers incluyen un botón para habilitar o deshabilitar la conexión Wi-Fi. Muy útil si no se necesita acceso inalámbrico.
+
 **6. Activar/desactivar la difusión del SSID:** Un router o punto de acceso transmite su nombre de red (SSID) para que los dispositivos puedan detectarlo. Desactivar la difusión evita que la red sea visible, pero **no es una medida de seguridad real**, ya que existen herramientas (sniffers) capaces de detectar SSID ocultos.
+
 **7. Filtrado por dirección MAC:** Cada tarjeta de red (NIC) tiene una dirección **MAC única de 48 bits** (ej. 00:40:96:9d:68:16). Se puede restringir el acceso solo a dispositivos de confianza. Aumenta la seguridad, pero mantener una lista actualizada de direcciones MAC confiables puede ser complejo.
 
 ### Protocolos de seguridad inalámbrica
 
 **1. WEP (Wired Equivalent Privacy):** Introducido en 1999. Longitudes de clave: 40/64 bits y 128 bits. Añade sobrecarga en el procesamiento, reduciendo la velocidad. Es vulnerable, pero ofrece compatibilidad con dispositivos antiguos.
+
 **2. WPA (Wi-Fi Protected Access):** Introducido en 2003 como solución temporal al WEP.
+
 **3. WPA2:** Aprobado en 2004. Utiliza AES (Advanced Encryption Standard). 
+
 **4. WPA3:** Es el protocolo de seguridad Wi-Fi más avanzado de la Wi-Fi Alliance, diseñado para reemplazar a WPA2 y mejorar la protección de las redes inalámbricas. Ofrece cifrado y autenticación más potentes, protege contra ataques de fuerza bruta y de diccionario, y utiliza un cifrado de hasta 192 bits en sus versiones empresariales.
+
 **5. WPS (Wi-Fi Protected Setup):** Diseñado para usuarios domésticos sin experiencia técnica. Permite configurar la red fácilmente si el router y los dispositivos son compatibles. Tiene vulnerabilidades conocidas, por lo que se recomienda deshabilitarlo.
 
 ## 3.1.16. Ventajas y desventajas de los métodos de seguridad para redes
