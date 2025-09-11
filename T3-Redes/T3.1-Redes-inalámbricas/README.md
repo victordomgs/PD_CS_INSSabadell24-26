@@ -259,8 +259,6 @@ Cuando configuras tu red inalámbrica, probablemente no quieras proporcionar acc
 
 ## 3.1.16. Ventajas y desventajas de los métodos de seguridad para redes
 
-### Métodos de seguridad avanzados en redes inalámbricas
-
 | **Método**                                          | **Ventajas**                                                                 | **Desventajas**                                                                 |
 |-----------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | **Instalar un antivirus en el dispositivo**         | Muy buena protección contra software malicioso.                              | Puede ralentizar el dispositivo.                                                |
