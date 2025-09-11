@@ -131,4 +131,52 @@ La compresión de archivos es muy usada al **enviar un archivo de un ordenador a
 
 ## 3.1.10. Características según el tipo de transmisión
 
+### Comunicación cableada
+
+**Cable de cobre (conductores metálicos):** Es el tipo de cableado más común en redes de computadoras.Tipos principales:
+
+**- Cable coaxial:** Consiste en dos conductores de cobre. Se utilizó en redes de computadoras y también para señales de TV. **Ventajas:** bajo coste de instalación.
+**- Cable de par trenzado no blindado (UTP):** Muy popular en LANs. Fácil de instalar. **Inconvenientes:** susceptible a interferencias eléctricas. **Ventajas:** bajo coste, seguro, adecuado para distancias cortas entre repetidores, utilizado en redes telefónicas.
+**- Cable de par trenzado blindado (STP):** Más difícil de instalar que UTP. **Ventaja:** reduce las interferencias.
+**- Fibra óptica:** Transmite datos mediante un haz de luz. **Ventajas:** altísimas velocidades, necesita menos repetidores, extremadamente segura. **Inconvenientes:** muy cara. **Usos:** transmisión de datos y líneas telefónicas.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2019.%20Redes.jpg" width="340" height="auto"/>
+    <p><em>Figura 19: Cable coaxial. Fuente: El cajón del electrónico</em></p>
+  </div>
+
+### Comunicación inalámbrica
+
+**- Radio de microondas:** Usado ampliamente en redes de telefonía móvil y LANs. Transmite la información a través del aire. **Ventajas:** alto ancho de banda (pero menor que los cables). **Inconvenientes:** requiere línea de visión (sin edificios u obstáculos), afectado por el clima, menos seguro que la comunicación cableada, difícil garantizar fiabilidad.
+**- Satélites:** Usan señales de microondas para transmisión a grandes distancias.
+**- Infrarrojos (IR):** Uso limitado a **distancias muy cortas**. No atraviesa objetos, requiere **línea de visión**. **Ventaja:** ofrece seguridad avanzada.
+**- RFID (Identificación por radiofrecuencia):** Usa diversas tecnologías de radio. **RFID activo:** necesita fuente de energía interna. **RFID pasivo:** no requiere energía interna.
+**- Bluetooth:** Usa radio de microondas para intercambiar datos. Transmite con **muy baja potencia**. Cambia frecuencias regularmente (para mejorar seguridad y fiabilidad).
+**- Óptica de espacio libre (FSO):** Usa **láseres** para la comunicación inalámbrica entre computadoras.
+
+### Comparación de medios de transmisión  
+(Escala: 1 = peor, 3 = mejor)
+
+| Medio de transmisión | Velocidad | Fiabilidad | Costo | Seguridad |
+|-----------------------|-----------|------------|-------|-----------|
+| Conductor metálico    | 2         | 2          | 2     | 2         |
+| Fibra óptica          | 3         | 3          | 3     | 3         |
+| Inalámbrico           | 1         | 1          | 1     | 1         |
+
+
 ## 3.1.11. Conmutación de paquetes
+
+Un **paquete de datos** es una unidad de información en una forma adecuada para viajar entre computadoras. En una **red de conmutación de paquetes**, el **datagrama** es la unidad básica de transferencia y, en ocasiones, se utiliza en lugar del término paquete de datos (un análisis detallado de las diferencias entre ambos queda fuera del alcance de este texto).
+
+La **conmutación de paquetes** es un método de comunicación usado en redes digitales de computadoras, en el cual los datos se agrupan en **paquetes**.
+
+- El archivo original se divide en paquetes antes de la transmisión.
+- Cada paquete puede seguir un camino distinto hacia el destino.
+- Cada paquete se envía de manera individual y puede llegar a través de rutas diferentes.
+
+Este método permite que el canal de comunicación se use de forma más eficiente y que se **minimicen los retrasos**.
+
+#### Tipos de conmutación de paquetes:
+
+**- Conmutación de paquetes por datagramas:** Cada paquete contiene la dirección del receptor. Los datagramas entre la misma fuente y destino pueden seguir caminos distintos.
+**- Conmutación de paquetes por circuito virtual:** Se establece una ruta entre origen y destino antes de que tenga lugar la transmisión.
