@@ -141,7 +141,7 @@ La compresión de archivos es muy usada al **enviar un archivo de un ordenador a
 **- Fibra óptica:** Transmite datos mediante un haz de luz. **Ventajas:** altísimas velocidades, necesita menos repetidores, extremadamente segura. **Inconvenientes:** muy cara. **Usos:** transmisión de datos y líneas telefónicas.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2019.%20Redes.jpg" width="340" height="auto"/>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2019.%20Redes.jpg" width="450" height="auto"/>
     <p><em>Figura 19: Cable coaxial. Fuente: El cajón del electrónico</em></p>
   </div>
 
