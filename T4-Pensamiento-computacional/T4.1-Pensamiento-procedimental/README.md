@@ -56,7 +56,7 @@ Ejemplo:
 Supongamos un programa que calcula las soluciones de una **ecuación cuadrática**.
 Un **subprocedimiento** llamado Discriminante podría usarse para calcular el discriminante **D**.
 
-'''
+```
 Entrada: a, b, c
 Llamar al subprocedimiento Discriminante que devuelve el valor D
 
@@ -76,4 +76,4 @@ Salida: x1, x2
 Subprocedimiento Discriminante:
     Calcular D = b² - 4 * a * c
     Retornar D
-'''
+```
