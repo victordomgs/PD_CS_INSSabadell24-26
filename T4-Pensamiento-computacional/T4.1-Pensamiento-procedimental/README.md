@@ -51,7 +51,7 @@ De este modo, el procedimiento se divide en una serie de subprocedimientos; este
 
 Un **identificador** es el nombre que utiliza el programador para identificar de forma única una variable, un objeto, un subprocedimiento, etc.
 
-Ejemplo: 
+**Ejemplo:**
 
 Supongamos un programa que calcula las soluciones de una **ecuación cuadrática**.
 Un **subprocedimiento** llamado Discriminante podría usarse para calcular el discriminante **D**.
