@@ -314,7 +314,6 @@ En lugar de ello, una red P2P emplea una **arquitectura de red distribuida** don
 
 El modelo P2P elimina la dependencia de servidores centralizados, evitando posibles **cuellos de botella**, y permite que cada ordenador aporte parte de sus recursos para que otros puedan utilizarlos.
 
----
 
 ## 3.1.2. Importancia de los estándares en la construcción de redes
 
@@ -334,7 +333,6 @@ Los estándares describen una **base común** en la que los fabricantes de hardw
 
 En este sentido, los estándares pueden considerarse como un **“lenguaje internacional común”** que permite la **compatibilidad** entre todos los sistemas informáticos a nivel global.
 
----
 
 ## 3.1.3. Capas en la comunicación de red
 
@@ -432,7 +430,6 @@ Su funcionamiento está estructurado en **cuatro capas de abstracción**.
 | 3  | **Internet**      | Gestiona el enrutamiento de paquetes a través de la red mediante dispositivos intermedios. **Protocolo de ejemplo:** IP. |
 | 4  | **Acceso a la red** | Medios y dispositivos de transmisión. |
 
----
 
 ## 3.1.4. Introducción a VPN
 
@@ -508,7 +505,6 @@ Cada host debe tener instalado un **software cliente VPN**.
     <p><em>Figura 16: Remote-Access VPN. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
----
 
 ## 3.1.5. Uso de VPN
 
