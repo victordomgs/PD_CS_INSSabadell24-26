@@ -1,4 +1,4 @@
-<h1 align="center">4.1. Lenguaje procedimental
+<h1 align="center">4.1. Pensamiento procedimental
 <div align="center">
 
 </div>
