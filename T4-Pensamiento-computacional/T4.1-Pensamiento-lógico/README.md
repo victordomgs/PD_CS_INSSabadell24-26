@@ -124,8 +124,8 @@ La notación aprobada por el **IB** para desarrollar pseudocódigo no incluye el
 I = O
 X = input("How many times do you want to see the message")
 loop while I < x
-I=I+1
-output ("it will be printed (number entered) times")
+  I=I+1
+output("it will be printed (number entered) times")
 end while
 ```
 
@@ -135,10 +135,10 @@ end while
 //to print a message
 //user selects the number of times
 I = 0
-X = input-.("How many times do you want to see the message")
+X = input("How many times do you want to see the message")
 loop I from 1 to X
-output ("it will be printed (number entered) times")
-and loop
+  output("it will be printed (number entered) times")
+end loop
 ```
 
 ## 4.1.7. Relación entre decisión y condición
