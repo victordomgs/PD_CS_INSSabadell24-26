@@ -136,8 +136,11 @@ La compresión de archivos es muy usada al **enviar un archivo de un ordenador a
 **Cable de cobre (conductores metálicos):** Es el tipo de cableado más común en redes de computadoras.Tipos principales:
 
 **- Cable coaxial:** Consiste en dos conductores de cobre. Se utilizó en redes de computadoras y también para señales de TV. **Ventajas:** bajo coste de instalación.
+
 **- Cable de par trenzado no blindado (UTP):** Muy popular en LANs. Fácil de instalar. **Inconvenientes:** susceptible a interferencias eléctricas. **Ventajas:** bajo coste, seguro, adecuado para distancias cortas entre repetidores, utilizado en redes telefónicas.
+
 **- Cable de par trenzado blindado (STP):** Más difícil de instalar que UTP. **Ventaja:** reduce las interferencias.
+
 **- Fibra óptica:** Transmite datos mediante un haz de luz. **Ventajas:** altísimas velocidades, necesita menos repetidores, extremadamente segura. **Inconvenientes:** muy cara. **Usos:** transmisión de datos y líneas telefónicas.
 
   <div style="text-align: center;">
