@@ -148,10 +148,15 @@ La compresión de archivos es muy usada al **enviar un archivo de un ordenador a
 ### Comunicación inalámbrica
 
 **- Radio de microondas:** Usado ampliamente en redes de telefonía móvil y LANs. Transmite la información a través del aire. **Ventajas:** alto ancho de banda (pero menor que los cables). **Inconvenientes:** requiere línea de visión (sin edificios u obstáculos), afectado por el clima, menos seguro que la comunicación cableada, difícil garantizar fiabilidad.
+
 **- Satélites:** Usan señales de microondas para transmisión a grandes distancias.
+
 **- Infrarrojos (IR):** Uso limitado a **distancias muy cortas**. No atraviesa objetos, requiere **línea de visión**. **Ventaja:** ofrece seguridad avanzada.
+
 **- RFID (Identificación por radiofrecuencia):** Usa diversas tecnologías de radio. **RFID activo:** necesita fuente de energía interna. **RFID pasivo:** no requiere energía interna.
+
 **- Bluetooth:** Usa radio de microondas para intercambiar datos. Transmite con **muy baja potencia**. Cambia frecuencias regularmente (para mejorar seguridad y fiabilidad).
+
 **- Óptica de espacio libre (FSO):** Usa **láseres** para la comunicación inalámbrica entre computadoras.
 
 ### Comparación de medios de transmisión  
