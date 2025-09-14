@@ -79,3 +79,123 @@ El siguiente **diagrama de Gantt** representa un proyecto general. Este gráfico
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%207.%20Pensamiento%20computacional.png" alt="Gráfico de Gantt" width="550" height="auto"/>
     <p><em>Figura 6: Gráfico de Gantt en un proyecto genérico. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
+
+## 4.1.11. Necesidad de precondiciones
+
+En la mayoría de los casos, cuando un equipo de programación se enfrenta a un **problema grande**, este problema se divide en **subproblemas más fáciles de resolver y controlar**.
+
+Cada miembro del equipo resolverá uno o más de estos “subproblemas fáciles”.
+Cada solución será un **subprocedimiento**, y se expresará como un **algoritmo**.
+
+Cada subprocedimiento será llamado mediante su **identificador** y tendrá una tarea concreta que cumplir.
+
+- La **precondición** indica lo que debe ser verdadero **antes de que el subprocedimiento sea llamado**.
+- La **postcondición** indica lo que será verdadero **cuando el subprocedimiento complete su tarea**.
+
+En resumen:
+
+- La **precondición** describe el **estado inicial** antes de la ejecución de un algoritmo.
+- La **postcondición** describe el **estado final** después de la ejecución de un algoritmo.
+
+## 4.1.12. Precondiciones y postcondiciones
+
+Al **cocinar una comida para la cena**, todos los ingredientes necesarios deben estar disponibles **antes de cocinar**.
+Esto es la **precondición** del algoritmo cocinar.
+
+Después de cocinar, se necesita una mesa para poder comer.
+Esto es la **postcondición** para una cena adecuada.
+
+El siguiente fragmento de algoritmo tiene como **precondición** ```A = 2``` y como **postcondición** ```B = 30```:
+
+```
+//pre—condition A=2 
+X = 3
+B = X + A
+if A > 0 then
+    B = 3 * 6
+else
+    B = 0
+end if
+//post-condition B=30
+```
+
+El siguiente algoritmo calcula e imprime la **raíz cuadrada** de un número entero ```x```.
+Tiene como **precondición** que ```x >= 0``` y como **postcondición** el cálculo de ```√x```.
+
+```
+// Pre-condition: x >= 0
+// Post-condition: calculates the square root of x
+Sub-procedure square_root(x como parámetro)
+    x = √x
+    output x
+End of Sub-procedure
+```
+
+Ejemplos de ejecución del subprocedimiento ```square_root```:
+
+- **Entrada: 9** → Salida: 3
+- **Entrada: 0** → Salida: 0
+- **Entrada: -1** → Viola la precondición, ya que la raíz cuadrada de un número negativo no está definida en los enteros (la raíz de un número siempre es positiva o compleja).
+
+## 4.1.13. Excepciones que requieren consideración
+
+Una **excepción** es un acto o evento que interrumpe el flujo previsto de la ejecución de un programa.
+Las excepciones ocurren durante la ejecución del programa y pueden ser gestionadas eficazmente mediante mecanismos específicos que proporcionan la mayoría de los lenguajes de programación modernos.
+
+El término **excepción**, en este punto del temario, se refiere a una ocasión o caso que **no es compatible con la regla general**.
+
+El siguiente ejemplo aclara la importancia de identificar diversas **excepciones** en la solución de un problema específico.
+
+### Ejemplo de programación: Alternativas y precondiciones
+
+Una empresa tiene la siguiente política para calcular la prima de fin de año de sus empleados:
+
+- Si el empleado ha trabajado en la empresa **9 meses o más**, entonces la prima es igual al **30% de su salario mensual**.
+- Si el empleado ha trabajado en la empresa **menos de 9 meses** y su salario es **menor de 2000 €**, entonces la prima es igual al **20% de su salario mensual**.
+- Si el empleado ha trabajado en la empresa **menos de 9 meses** y su salario es igual o **superior a 2000 €**, entonces la prima es igual al **10% de su salario mensual**.
+
+Un programador no entendió el problema y escribió el siguiente pseudocódigo, que **viola tanto las precondiciones como las postcondiciones**:
+
+```
+// Pre—condition violated: Months = the correct number of months the employee worked for the company
+// Post-conditions violated: the program calculates and outputs the correct bonus for each employee according to the company’s policy
+
+// Wrong BONUS PROGRAM
+BONUS = 0
+TOTAL = 0
+SALARY = 1200
+BONUS = (30/100) * (SALARY)
+TOTAL = BONUS + (SALARY * 12)
+output "TOTAL IS:" , TOTAL , "Euros"
+output "BONUS IS:" , BONUS , "Euros"
+```
+
+El siguiente pseudocódigo **sí satisface las precondiciones y postcondiciones del problema**:
+
+```
+// Correct BONUS PROGRAM
+MONTHS = 0
+SALARY = 0
+BONUS
+TOTAL
+
+SALARY = input("what is the salary of the employee?")
+MONTHS = input("How many months did he/she work?")
+
+if MONTHS >= 9 then
+    BONUS = (30/100) * (SALARY)
+    TOTAL = BONUS + (SALARY * MONTHS)
+
+else if MONTHS < 9 AND SALARY < 2000 then
+    BONUS = (20/100) * (SALARY)
+    TOTAL = BONUS + (SALARY * MONTHS)
+
+else if MONTHS < 9 AND SALARY >= 2000 then
+    BONUS = (10/100) * (SALARY)
+    TOTAL = BONUS + (SALARY * MONTHS)
+
+end if
+
+output "TOTAL IS:" , TOTAL , "Euros"
+output "BONUS IS:" , BONUS , "Euros"
+```
