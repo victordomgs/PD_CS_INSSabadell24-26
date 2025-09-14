@@ -195,4 +195,94 @@ end if
 
 Compara **pares de elementos adyacentes** y los intercambia si están en el orden incorrecto. Repite el proceso hasta que no haya más cambios. Es sencillo pero **ineficiente en listas grandes**.
 
-**Complejidad:** 𝑂(𝑛^2).
+**Complejidad:** 𝑂(𝑛²).
+
+```pseudocode
+array = [5, 1, 4, 2, 8]
+n = length(array)
+
+for i from 0 to n-1
+    for j from 0 to n-2
+        if array[j] > array[j+1] then
+            swap array[j], array[j+1]
+        end if
+    end for
+end for
+
+output array
+```
+
+#### Selection Sort (Ordenamiento por Selección)
+
+Encuentra el **menor elemento** y lo coloca en la primera posición. Luego encuentra el segundo menor y lo coloca en la segunda posición, y así sucesivamente.
+
+**Complejidad:** 𝑂(𝑛²).
+
+```pseudocode
+array = [64, 25, 12, 22, 11]
+n = length(array)
+
+for i from 0 to n-1
+    min_index = i
+    for j from i+1 to n-1
+        if array[j] < array[min_index] then
+            min_index = j
+        end if
+    end for
+    swap array[i], array[min_index]
+end for
+
+output array
+```
+
+## 4.2.2. Operaciones estándares de las colecciones
+
+Un **array** es una elección perfecta cuando un programador desea almacenar información del mismo tipo (por ejemplo, un grupo de strings) y sabe de antemano cuántos elementos desea guardar.
+
+**Problema:** ¿qué ocurre si el programador quiere almacenar enteros, arrays, objetos, booleanos y strings en una misma estructura de datos?
+
+La respuesta es usar **colecciones**, porque algunas permiten especificar los tipos de elementos que contendrán.
+
+- En **C#** y **Visual Basic**, las **colecciones genéricas** solo pueden contener datos de un mismo tipo.
+- Las **colecciones no genéricas**, en cambio, pueden almacenar elementos de diferentes tipos de datos.
+
+**Ventaja principal de las colecciones**: actúan como un array redimensionable.
+El programador **no necesita saber de antemano** cuántos elementos se colocarán en la estructura de datos.
+
+### Operaciones estándar en colecciones
+
+- `addItem()`: Se usa para añadir un elemento a la colección (adición).
+
+```pseudocode
+TEMPERATURES.addItem(32)
+```
+➝ Agrega `32` a la colección `TEMPERATURES`.
+
+- `getNext()`: Devuelve el primer elemento de la colección la primera vez que es llamado (lectura).
+
+```pseudocode
+A = TEMPERATURES.getNext()
+```
+➝ Asigna a la variable `A` el valor del primer elemento de la colección.
+
+### Operaciones adicionales
+
+- `resetNext()`: Reinicia la iteración de la colección.
+
+```pseudocode
+TEMPERATURES.resetNext()
+```
+
+- `hasNext()`: Indica si quedan elementos por recorrer en la colección.
+
+```pseudocode
+if TEMPERATURES.hasNext() then ...
+```
+➝ Devuelve `TRUE` si aún existen elementos sin acceder.
+
+- `isEmpty()`: Comprueba si la colección está vacía.
+
+```pseudocode
+if TEMPERATURES.isEmpty() then ...
+```
+➝ Devuelve TRUE si la colección no tiene elementos.
