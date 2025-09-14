@@ -5,7 +5,7 @@
 
 ## Contenido:
 
-- [4.2.1. Algoritmos en matrices](#421-algoritmos-en-matrices)
+- [4.2.1. Algoritmos en arreglos](#421-algoritmos-en-arreglos)
 - [4.2.2. Operaciones estándares de las colecciones](#422-operaciones-estándares-de-las-colecciones)
 - [4.2.3. Algoritmos para problemas concretos](#423-algoritmos-para-problemas-concretos)
 - [4.2.4. Algoritmos presentados en diagramas de flujos](#424-algoritmos-presentados-en-diagramas-de-flujos)
@@ -126,3 +126,73 @@ loop MONTH from 0 to 11
     end loop
 end loop
 ```
+
+### Algoritmos de búsqueda en arreglos
+
+#### Sequential Search (búsqueda secuencial o lineal)
+
+Se recorre la lista **uno por uno** hasta encontrar el elemento buscado o hasta llegar al final. Funciona tanto en **listas ordenadas com no ordenadas**.
+
+**Complejidad:** Mejor caso: 𝑂(1) (si el elemento está al principio).Peor caso: 𝑂(𝑛).
+
+#### Ejemplo de programación 3: Búsqueda secuencial
+
+```pseudocode
+array = [8, 3, 5, 2, 9]
+target = 5
+found = False
+
+for i from 0 to length(array)-1
+    if array[i] = target then
+        output "Element found in position ", i
+        found = True
+        break
+    end if
+end for
+
+if found = False then
+    output "Element not found"
+end if
+```
+
+#### Binary Search (búsqueda binaria)
+
+Solo funciona en **listas ordenadas**. Divide el arreglo a la mitad en cada paso: 
+
+- Si el valor está en el medio → encontrado.
+- Si el valor buscado es menor → buscar en la mitad izquierda.
+- Si el valor buscado es mayor → buscar en la mitad derecha.
+
+**Complejidad:** 𝑂(log 𝑛)
+
+```pseudocode
+array = [2, 3, 5, 8, 9, 12, 15]  // ordenado
+target = 9
+low = 0
+high = length(array) - 1
+found = False
+
+while low <= high AND found = False
+    mid = (low + high) DIV 2
+    if array[mid] = target then
+        output "Element found in position ", mid
+        found = True
+    else if array[mid] < target then
+        low = mid + 1
+    else
+        high = mid - 1
+    end if
+end while
+
+if found = False then
+    output "Element not found"
+end if
+```
+
+### Algoritmos de ordenación en arreglos
+
+#### Bubble Sort (Ordenamiento Burbuja)
+
+Compara **pares de elementos adyacentes** y los intercambia si están en el orden incorrecto. Repite el proceso hasta que no haya más cambios. Es sencillo pero **ineficiente en listas grandes**.
+
+**Complejidad:** 𝑂(𝑛^2).
