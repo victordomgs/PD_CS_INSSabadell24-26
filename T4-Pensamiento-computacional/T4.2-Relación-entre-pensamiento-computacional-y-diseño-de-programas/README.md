@@ -71,3 +71,58 @@ Array position 7 contains the value 8
 Array position 8 contains the value 9
 Array position 9 contains the value 10
 ```
+### Arreglos bidimensionales
+
+Un **array unidimensional** se considera como una sola línea de elementos.  
+Sin embargo, en muchos casos, los datos vienen en forma de tabla.  
+Un ejemplo típico es una tabla que muestra la **temperatura media mensual** de 10 ciudades.
+
+|                 | City 1 (Index 0) | City 2 (Index 1) | City 3 (Index 2) | ... | City 10 (Index 9) |
+|-----------------|------------------|------------------|------------------|-----|-------------------|
+| January (Index 0)   | 15               | 28               | 20               | ... | 20                |
+| February (Index 1)  | 14               | 27               | 20               | ... | 19                |
+| ...             | ...              | ...              | ...              | ... | ...               |
+| December (Index 11) | 15               | 26               | 21               | ... | 20                |
+
+
+> [!NOTE]
+> 1. Los arrays 2D se indexan con dos subíndices.  
+>    - El primero se refiere a la **fila**.  
+>    - El segundo se refiere a la **columna**.  
+>    - Ejemplo: `TEMP[1][1]` → temperatura de febrero en la ciudad 2.
+> 2. En este caso, el valor `27` corresponde a `TEMP[1][1]`.  
+> 3. Todos los elementos de un array bidimensional deben ser del **mismo tipo de dato**.  
+
+#### Ejemplo de programación 2: Arreglo bidimensional (temperaturas)
+
+```pseudocode
+// This program will use the array TEMP which is a 2D ARRAY
+// It will print the contents of the array
+// 12 months 5 cities
+
+TEMP = [
+    [10,11,12,13,10],
+    [10,13,14,12,12],
+    [13,13,14,15,12],
+    [16,17,17,17,16],
+    [22,23,24,24,24],
+    [26,25,24,25,26],
+    [29,28,26,27,26],
+    [29,28,27,28,28],
+    [24,23,24,25,25],
+    [20,21,22,23,24],
+    [15,16,17,18,18],
+    [12,11,13,11,11]
+]
+
+MONTH = 0
+CITY = 0
+
+loop MONTH from 0 to 11
+    output MONTH+1, "Month"
+
+    loop CITY from 0 to 4
+        output "City", CITY+1, TEMP[MONTH][CITY]
+    end loop
+end loop
+```
