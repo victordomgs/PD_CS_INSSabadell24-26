@@ -140,7 +140,7 @@ Si el programador confía en el rendimiento de ```computeSomething()```, entonce
 
 Así que: la **modularización facilita la abstracción**.
 
-    <div style="text-align: center;">
+  <div style="text-align: center;">
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%208.%20Pensamiento%20computacional.png" alt="Sub-procedure program" width="650" height="auto"/>
     <p><em>Figura 8: Programa que contiene un subproceso. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
