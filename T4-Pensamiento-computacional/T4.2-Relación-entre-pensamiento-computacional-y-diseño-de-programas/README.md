@@ -39,7 +39,7 @@ Un arreglo tiene:
 
 Un **arreglo unidimensional** es un tipo de arreglo lineal. Muchos lenguajes de programación, incluido Java, definen siempre el límite inferior del arreglo empezando en el número **0**.
 
-#### Ejemplo de programación 1: Uso de un arreglo (arreglo de números)
+#### 📌Ejemplo de programación 1: Uso de un arreglo (arreglo de números)
 
 El siguiente programa llenará el arreglo **A** con valores del **1 al 10** y luego imprimirá sus valores.
 
@@ -93,7 +93,7 @@ Un ejemplo típico es una tabla que muestra la **temperatura media mensual** de 
 > 2. En este caso, el valor `27` corresponde a `TEMP[1][1]`.  
 > 3. Todos los elementos de un array bidimensional deben ser del **mismo tipo de dato**.  
 
-#### Ejemplo de programación 2: Arreglo bidimensional (temperaturas)
+#### 📌Ejemplo de programación 2: Arreglo bidimensional (temperaturas)
 
 ```pseudocode
 // This program will use the array TEMP which is a 2D ARRAY
@@ -135,7 +135,7 @@ Se recorre la lista **uno por uno** hasta encontrar el elemento buscado o hasta 
 
 **Complejidad:** Mejor caso: 𝑂(1) (si el elemento está al principio).Peor caso: 𝑂(𝑛).
 
-#### Ejemplo de programación 3: Búsqueda secuencial
+#### 📌Ejemplo de programación 3: Búsqueda secuencial
 
 ```pseudocode
 array = [8, 3, 5, 2, 9]
