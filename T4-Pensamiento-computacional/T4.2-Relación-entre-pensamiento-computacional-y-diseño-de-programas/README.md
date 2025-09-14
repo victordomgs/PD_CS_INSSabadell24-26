@@ -5,7 +5,7 @@
 
 ## Contenido:
 
-- [4.2.1. Algoritmos en arreglos](#421-algoritmos-en-arreglos)
+- [4.2.1. Algoritmos con arreglos](#421-algoritmos-con-arreglos)
 - [4.2.2. Operaciones estándares de las colecciones](#422-operaciones-estándares-de-las-colecciones)
 - [4.2.3. Algoritmos para problemas concretos](#423-algoritmos-para-problemas-concretos)
 - [4.2.4. Algoritmos presentados en diagramas de flujos](#424-algoritmos-presentados-en-diagramas-de-flujos)
@@ -17,7 +17,7 @@
 
 ---
 
-## 4.2.1. Algoritmos en matrices
+## 4.2.1. Algoritmos con arreglos
 
 ### Variables
 
