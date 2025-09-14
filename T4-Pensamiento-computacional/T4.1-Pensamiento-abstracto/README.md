@@ -144,3 +144,16 @@ Así que: la **modularización facilita la abstracción**.
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%208.%20Pensamiento%20computacional.png" alt="Sub-procedure program" width="650" height="auto"/>
     <p><em>Figura 8: Programa que contiene un subproceso. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
+
+## 4.1.20. Mundo real y abstracción
+
+Un **mapa temático** es una abstracción de la realidad que muestra la **distribución espacial** y enfatiza un tema en particular, como la distribución promedio de ingresos en un área geográfica específica.
+
+Los **mapas topográficos** muestran abstracciones de características físicas seleccionadas del mundo tridimensional real a una escala reducida en dos dimensiones, ya sea en papel o en una pantalla.
+
+Los **mapas políticos** están diseñados para mostrar datos como las fronteras de países y estados, y la ubicación de las principales ciudades. Estos mapas son una abstracción del territorio político.
+
+En estos casos, ocurren diversos niveles de **abstracción**.
+La Tierra es única, pero el punto de interés guía la manera en que los científicos representan su superficie en un trozo de papel.
+
+Este enfoque de “**ignorancia selectiva**” facilita el estudio y la comprensión de componentes e interacciones específicas.
