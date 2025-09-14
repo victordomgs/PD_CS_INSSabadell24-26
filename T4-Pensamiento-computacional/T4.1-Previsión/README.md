@@ -25,7 +25,7 @@ Usamos la ecuación **V = s / t** para calcular la velocidad media de un objeto 
 - t representa el **tiempo transcurrido** y es otra de las **entradas** requeridas en la solución.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%205.%20Pensamiento%20computacional.png" alt="Calculo de velocidad" width="330" height="auto"/>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%205.%20Pensamiento%20computacional.png" alt="Calculo de velocidad" width="550" height="auto"/>
     <p><em>Figura 5: Calculo de V. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
