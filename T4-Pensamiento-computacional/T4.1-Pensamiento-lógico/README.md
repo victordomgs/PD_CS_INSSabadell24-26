@@ -45,8 +45,8 @@ End If
 ```
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2020.%20Redes.png" alt="Conditional operation" width="550" height="auto"/>
-    <p><em>Figura 20: Operación condicional. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%201.%20Pensamiento%20computacional.png" alt="Conditional operation" width="550" height="auto"/>
+    <p><em>Figura 1: Operación condicional. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
 ## 4.1.5. Decisión requerida para problema concreto
@@ -88,8 +88,8 @@ End If
 ## 4.1.6. Condición asociada a una decisión concreta a un problema
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2021.%20Redes.png" alt="The loop while" width="550" height="auto"/>
-    <p><em>Figura 21: The loop while. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%202.%20Pensamiento%20computacional.png" alt="The loop while" width="550" height="auto"/>
+    <p><em>Figura 2: The loop while. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
 > [!TIP]
@@ -105,15 +105,15 @@ La notación aprobada por el **IB** para desarrollar pseudocódigo incluye los s
 La figura en forma de **rombo** realiza una prueba booleana, evalúa una expresión y devuelve un valor booleano (**true o false**).
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2022.%20Redes.png" alt="The from to loop" width="550" height="auto"/>
-    <p><em>Figura 22: The from to loop (IB notation). Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%203.%20Pensamiento%20computacional.png" alt="The from to loop" width="550" height="auto"/>
+    <p><em>Figura 3: The from to loop (IB notation). Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
 La notación aprobada por el **IB** para desarrollar pseudocódigo no incluye el siguiente **símbolo de diagrama de flujo**, aunque está ampliamente aceptado.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2023.%20Redes.png" alt="The from to loop" width="550" height="auto"/>
-    <p><em>Figura 23: The from to loop. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%204.%20Pensamiento%20computacional.png" alt="The from to loop" width="550" height="auto"/>
+    <p><em>Figura 4: The from to loop. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
 #### Ejemplo: loop while
