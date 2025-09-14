@@ -65,7 +65,7 @@ El siguiente diagrama de Gantt representa un proyecto de construcción. Este gr�
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%206.%20Pensamiento%20computacional.png" alt="Gráfico de Gantt" width="550" height="auto"/>
-    <p><em>Figura 5: Gráfico de Gantt en un proyecto en construcción. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+    <p><em>Figura 6: Gráfico de Gantt en un proyecto en construcción. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
 El siguiente **diagrama de Gantt** representa un proyecto general. Este gráfico proporciona los siguientes detalles:
@@ -77,7 +77,7 @@ El siguiente **diagrama de Gantt** representa un proyecto general. Este gráfico
 
     <div style="text-align: center;">
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%207.%20Pensamiento%20computacional.png" alt="Gráfico de Gantt" width="550" height="auto"/>
-    <p><em>Figura 6: Gráfico de Gantt en un proyecto genérico. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+    <p><em>Figura 7: Gráfico de Gantt en un proyecto genérico. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
 ## 4.1.11. Necesidad de precondiciones
