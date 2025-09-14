@@ -56,3 +56,18 @@ loop N from 0 to 9
     output "Array position ", N, " contains the value ", A[N]
 end loop
 ```
+
+Salida esperada: 
+
+```sql
+Array position 0 contains the value 1
+Array position 1 contains the value 2
+Array position 2 contains the value 3
+Array position 3 contains the value 4
+Array position 4 contains the value 5
+Array position 5 contains the value 6
+Array position 6 contains the value 7
+Array position 7 contains the value 8
+Array position 8 contains the value 9
+Array position 9 contains the value 10
+```
