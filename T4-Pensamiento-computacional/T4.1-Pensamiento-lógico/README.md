@@ -143,7 +143,66 @@ end loop
 
 ## 4.1.7. Relación entre decisión y condición
 
+Una **sentencia condicional** ejecuta diferentes instrucciones dependiendo de una **prueba booleana**.
+La sentencia condicional ```if–then–else``` es común en muchos lenguajes de programación y en la lógica humana.
+
+Aunque existen algunas variaciones, la estructura en forma de pseudocódigo es:
+
+```
+IF (Boolean condition) THEN 
+(Consequent) 
+ELSE (Alternative) 
+END I
+```
+
+Cuando se utiliza un If en un algoritmo, se evalúa una **condición booleana** (ejemplo: x > 0, x = y, etc.).
+
+- Si la condición es **verdadera**, se ejecutará la instrucción o instrucciones del **(Consecuente)**.
+- De lo contrario, la ejecución continuará con la instrucción o instrucciones de la **(Alternativa)**.
+- Si no existe una rama **else**, el algoritmo continúa después del ```END IF```.
+
+#### Ejemplo: if then else
+```
+//A way to use if—end if
+//It finds if a numbered entered is positive, negative or 0
+X = input ("Please enter a number")
+if x > 0 then
+  output "Positive" 
+end if
+if X = 0 then 
+  output "0" 
+end if
+if x < 0 then 
+  output "Negative" 
+and if 
+```
+
+#### Ejemplo: if then else
+```
+//A way to use if—then—else—end if
+//It finds if a numbered entered is positive, negative or 0
+x = input ("Please enter a number“)
+if X > 0 then
+  output "Positive"
+else if x = 0 then
+  output "0"
+else
+  output "Negative"
+end if
+```
+
 ## 4.1.8. Reglas lógicas para decisiones reales
 
+Las **reglas lógicas** o **reglas de inferencia** son reglas obvias para la mayoría de los seres humanos.
+La programación y el pensamiento algorítmico implican la **traducción de estas reglas en algoritmos**.
 
+Los siguientes ejemplos cotidianos implican el uso del sentido común:
+
+- Si llueve, me pondré un impermeable.
+- Estudiaré todas mis lecciones.
+- Tengo que pagar mis facturas.
+
+A veces, la lógica conduce a descubrimientos brillantes, como la **ecuación de Einstein E = m * c²**, que es una manera matemática de expresar la lógica.
+
+Einstein fue capaz de combinar con éxito su lógica con el conocimiento científico.
 
