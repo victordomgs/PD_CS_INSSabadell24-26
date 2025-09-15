@@ -13,7 +13,7 @@
 - [4.2.6. Elaboración de pseudocódigo](#426-elaboración-de-pseudocódigo)
 - [4.2.7. Algoritmos adecuados para problemas específicos](#427-algoritmos-presentados-en-diagramas-de-flujos)
 - [4.2.8. Eficacia de un algoritmo según el contexto](#428-eficacia-de-un-algoritmo-según-el-contexto)
-- [4.2.9. Determinación del número de iteraciones según las entradas](#428-determinación-del-número-de-iteraciones-según-las-entradas)
+- [4.2.9. Determinación del número de iteraciones según las entradas](#429-determinación-del-número-de-iteraciones-según-las-entradas)
 
 ---
 
