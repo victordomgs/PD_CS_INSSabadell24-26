@@ -406,7 +406,7 @@ La **documentación del usuario** puede estar en forma escrita o en línea, para
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%205.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Los sistemas de información en las organizaciones" width="350" height="auto"/>
-    <p><em>Figura 8:  Diferentes métodos para usar documentación. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+    <p><em>Figura 9:  Diferentes métodos para usar documentación. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
 ### Manuales
@@ -451,7 +451,7 @@ La formación de usuarios puede impartirse de diferentes maneras, dependiendo de
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%206.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Los sistemas de información en las organizaciones" width="350" height="auto"/>
-    <p><em>Figura 9:  Diferentes métodos para proporcionar capacitación al usuario. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+    <p><em>Figura 10:  Diferentes métodos para proporcionar capacitación al usuario. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
 ### Autoformación o autoestudio
@@ -519,7 +519,7 @@ En todos los casos la pérdida de datos es algo que queremos prevenir, pero hay 
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%207.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Los sistemas de información en las organizaciones" width="350" height="auto"/>
-    <p><em>Figura 10:  Pérdida de datos. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+    <p><em>Figura 11:  Pérdida de datos. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
 ### Consecuencias de la pérdida de datos
@@ -569,7 +569,7 @@ Los medios extraíbles, como discos duros externos, unidades USB y cintas magné
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%208.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Los sistemas de información en las organizaciones" width="350" height="auto"/>
-    <p><em>Figura 11:  Medio extraíble. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+    <p><em>Figura 12:  Medio extraíble. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
 #### Ventajas
