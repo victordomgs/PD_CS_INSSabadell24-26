@@ -112,3 +112,115 @@ Un objeto está compuesto de **datos** y **acciones**.
 - Las acciones se refieren a las operaciones que pueden realizarse sobre el objeto y también se llaman **métodos**.
 
 Los miembros de datos se usan para almacenar el estado actual de un objeto y los métodos se utilizan para cambiar o acceder a esos datos.
+
+## 4.3.7. Definición de operadores
+
+Los siguientes operadores aparecen en la notación aprobada por el IBO para desarrollar pseudocódigo:
+
+- = Definido como “es igual a”. También se usa para asignar un valor a una variable. Ejemplo: `Min = 6` significa que el valor 6 se asigna a la variable Min.
+- ≠ Definido como “no es igual a”. Ejemplo: `Min ≠ Max` significa que Min no es igual a Max.
+- > Definido como “es mayor que”.
+- ≥ Definido como “es mayor o igual que”.
+- < Definido como “es menor que”.
+- ≤ Definido como “es menor o igual que”.
+- div Definido como “parte entera del cociente”. Ejemplo: `22 div 3 = 7`.
+
+mod Definido como “operación módulo”. Calcula el resto de la división de un número entre otro.
+
+La siguiente tabla ilustra algunos ejemplos de uso de mod y div:
+
+| Operando1 | Operador | Operando2 | Resultado |
+|-----------|----------|-----------|-----------|
+| 9         | mod      | 3         | 0 |
+| 11        | mod      | 3         | 2 |
+| 0         | mod      | 3         | 0 |
+| 22        | div      | 3         | 7 |
+| 2         | mod      | 44        | 2 |
+
+## 4.3.8. Análisis del uso de variables, constantes y operadores en algoritmos
+
+Está claro que una constante es una variable cuyo valor no cambia durante la ejecución del programa.
+
+| Nombre de la constante | Valor de la constante |
+|-------------------------|-----------------------|
+| π (pi)                  | 3.141592653           |
+| e (logaritmo natural)   | 2.718281828           |
+| c (velocidad de la luz) | 299,792,458 (m/s)     |
+
+En algunos casos, cuando se desarrolla un programa informático, es más conveniente y seguro usar **constantes** en lugar de variables. Cuando se utiliza la palabra clave final, Java entiende que el valor del elemento de datos no puede modificarse.
+Si intentas cambiar una constante, como Pi, aparecerá un mensaje:
+“**cannot assign a value to final variable Pi**” (no se puede asignar un valor a la variable final Pi).
+
+### Valores locales y globales
+
+El **ámbito (scope) de una variable** define la visibilidad de esa variable. Es decir, determina qué partes del algoritmo pueden almacenar, acceder y recuperar los datos de la variable.
+
+En algunos casos es muy útil limitar el ámbito de una variable:
+
+- Una **variable global** es visible en todas las partes del programa.
+- Una **variable local** tiene un ámbito limitado.
+
+## 4.3.9. Elaboración de algoritmos usando bucles y bifurcaciones
+
+WIP
+
+## 4.3.10. Descripción de las características de una colección
+
+Con frecuencia, en la programación informática existe la necesidad de **agrupar y almacenar datos** que se usarán para la solución de un problema.
+
+Una **colección** o **contenedor** está compuesta por cero o más elementos, como objetos y valores, y cuenta con las operaciones necesarias para gestionar los datos.
+
+Las colecciones permiten elementos duplicados y pueden contener datos ordenados o no ordenados.
+
+Las operaciones más importantes de una colección son **añadir (add), eliminar (remove)**, etc. Cada tipo de colección tiene sus propias operaciones específicas.
+
+Los elementos de una colección concreta suelen ser todos del mismo tipo y representar una entidad.
+
+Un **array de tamaño fijo** generalmente **no se considera una colección**, ya que almacena un número fijo de elementos.
+
+## 4.3.11. Desarrollo de algoritmos con el método de acceso a una colección
+
+WIP
+
+## 4.3.12. Importancia de los subprogramas en colecciones
+
+Un **subprograma** es una unidad que contiene una secuencia de instrucciones que realizan una tarea específica y predefinida. Los subprogramas son muy útiles porque permiten a los programadores aprovechar código y soluciones existentes desarrolladas por otros (o por ellos mismos) para acelerar sus tareas.
+
+La **reutilización de código** ahorra tiempo y recursos, y permite completar proyectos exigentes en el menor tiempo posible. Los autores de nuevos programas pueden aprovechar las **bibliotecas de software**, que contienen subprogramas reutilizables en distintos tipos de programas.
+
+### Ventajas de dividir un programa en subprogramas:
+
+- Descomponer un problema complejo de programación en tareas más simples.
+- Distribuir un problema de programación muy grande entre distintos programadores en diferentes lugares.
+- Habilitar la reutilización de código en múltiples programas.
+- Facilitar la abstracción al ocultar detalles de implementación dentro del subprograma.
+- Mejorar el mantenimiento y la trazabilidad.
+- Reducir la duplicación de código dentro de un mismo programa.
+
+### Ventajas de usar colecciones:
+
+- Los métodos de las colecciones son algoritmos predefinidos que el programador puede usar inmediatamente.
+- El rendimiento aumenta gracias a las capacidades de gestión de datos que proporciona la colección.
+- Se facilita la reutilización de software porque el uso de métodos se basa en un lenguaje común y una interfaz estándar.
+
+## 4.3.13. Elaboración de algoritmos usando subprogramas predefinidios, matrices unidimensionales y colecciones
+
+En los distintos lenguajes de programación se utilizan términos como **procedimiento, subprocedimientos, función, rutina, método, subrutinas, módulos**, etc., para referirse a los **subprogramas**.
+
+Un **subprograma** es una unidad que contiene una secuencia de instrucciones de computadora que realizan una tarea específica y predefinida. Esta unidad puede usarse en distintos programas cuando esa tarea debe implementarse.
+
+Los subprogramas pueden definirse dentro de un programa o bien de forma separada en **bibliotecas**, que pueden ser reutilizadas por múltiples programas.
+
+En el lenguaje de programación **C++**, por ejemplo:
+
+- Un **procedimiento** realiza una tarea.
+- Una **función** produce información y devuelve un valor.
+
+Es importante señalar que, en la mayoría de los casos, una **función** devuelve un valor mientras que un **procedimiento** simplemente ejecuta comandos.
+
+En **Java** se usan los **métodos** para representar subprogramas. Un método en Java puede devolver un valor, y el programa principal puede pasar una o más variables a un método.
+
+- Un **parámetro** es el nombre de la información que se usa en un método, función o procedimiento.
+- Un **argumento** es el valor que se pasa a un método, función o procedimiento.
+
+Normalmente, un **módulo** se refiere a una pequeña sección de un programa que está personalizada para ejecutar una tarea particular. Los módulos pueden adaptarse por un programador para realizar un trabajo concreto.
