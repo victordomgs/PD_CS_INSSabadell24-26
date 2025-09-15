@@ -425,3 +425,470 @@ output n
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2011.%20Pensamiento%20computacional.png" alt="Diagrama de flujos" width="430" height="auto"/>
     <p><em>Figura 11: Diagrama de flujos utilizando from/to loop. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
+
+## 4.2.5. Algoritmos presentados en pseudocódigo
+
+#### 📌Ejemplo de programación 7: Trace table
+
+Tenemos el siguiente algoritmo:
+
+```pseudocode
+MAX = 10
+SUM = 0
+COUNT = 0
+
+loop COUNT from 0 to MAX-6
+    if COUNT = 0 AND MAX > 0 then
+        output "Hello"
+    else if COUNT > 2 then
+        output "Go for it"
+    else
+        output "OK"
+    end if
+end loop
+
+SUM = SUM + COUNT
+
+output "Total = ", SUM
+```
+
+La siguiente tabla muestra la traza del algoritmo:
+
+| MAX | SUM | COUNT | OUTPUT    | COMMENTS                             |
+|-----|-----|-------|-----------|--------------------------------------|
+| 10  | 0   | 0     | Hello     | COUNT = 0 AND MAX > 0 TRUE           |
+| 10  | 0   | 1     | OK        | COUNT = 0 FALSE, COUNT > 2 FALSE     |
+| 10  | 0   | 2     | OK        | COUNT = 0 FALSE, COUNT > 2 FALSE     |
+| 10  | 0   | 3     | Go for it | COUNT > 2 TRUE                       |
+| 10  | 0   | 4     | Go for it | COUNT > 2 TRUE                       |
+| 10  | 5   | 5     | Total = 5 | Exit from loop, SUM = SUM + COUNT = 5 |
+
+#### 📌Ejemplo de programación 8: Calcular resultado de un algoritmo
+
+¿Cuál será el resultado del siguiente algoritmo?
+
+```pseudocode
+// Find the output of the following algorithm
+
+DECLARE INTEGER MAX ← 10
+DECLARE INTEGER SUM ← 0
+DECLARE INTEGER COUNT ← 0
+
+FOR COUNT ← 0 TO MAX - 4 DO
+    SUM ← MAX - 4
+    COUNT ← MAX - 3
+
+    FOR SUM ← 3 TO 4 DO
+        IF COUNT = 0 AND MAX > 0 THEN
+            OUTPUT "Hello"
+        ELSE IF COUNT < 4 THEN
+            OUTPUT "Go for it"
+        ELSE
+            OUTPUT "OK"
+        END IF
+    END FOR
+END FOR
+
+SUM ← SUM + COUNT
+
+OUTPUT "Total = ", SUM
+OUTPUT "MAX = ", COUNT
+```
+
+El resultado sería: 
+
+| Iteración COUNT | SUM (dentro del bucle) | OUTPUT | Comentarios                      |
+|-----------------|-------------------------|--------|----------------------------------|
+| 0               | 6                       | OK     | COUNT = 0 → no entra en if, else |
+| 1               | 6                       | OK     | COUNT < 4 → imprime "Go for it"  |
+| 2               | 6                       | OK     | COUNT < 4 → imprime "Go for it"  |
+| 3               | 6                       | OK     | COUNT < 4 → imprime "Go for it"  |
+| 4               | 6                       | OK     | COUNT >= 4 → imprime "OK"        |
+
+**Resultado final:**  
+- OUTPUT → OK, OK  
+- Total = 13  
+- MAX = 8
+
+#### 📌Ejemplo de programación 9: Identifica el error
+
+Encuentra el error en el siguiente algoritmo:
+
+```pseudocode
+// This program is supposed
+// to print the common factors of two numbers
+// Find the error!!
+
+DECLARE INTEGER FIRST ← 14
+DECLARE INTEGER SECOND ← 12
+
+OUTPUT "Common factors of numbers ", FIRST, " and ", SECOND
+
+FOR COUNT ← 1 TO SECOND DO
+    IF (FIRST MOD COUNT = 0) OR (SECOND MOD COUNT = 0) THEN
+        OUTPUT COUNT
+    END IF
+END FOR
+```
+
+Respuesta incorrecta: 
+
+```pseudocode
+Wrong Output: 
+Common factors of numbers 14 and 12 
+1
+2
+3
+4
+6
+7
+12 
+```
+
+Se debe realizar el siguiente cambio:
+
+```pseudocode
+IF (FIRST MOD COUNT = 0) OR (SECOND MOD COUNT = 0) THEN
+```
+
+por:
+
+```pseudocode
+IF (FIRST MOD COUNT = 0) AND (SECOND MOD COUNT = 0) THEN
+```
+
+Respuesta correcta:
+
+```pseudocode
+Correct Output: 
+Common factors of numbers 14 and 12
+ 1
+ 2
+```
+
+#### 📌Ejemplo de programación 10: Identifica el error
+
+El siguiente programa se supone que debe mostrar los elementos comunes que aparecen en dos arreglos. Contiene un error. Identifica este error.
+
+```pseudocode
+// This algorithm is supposed to
+// compare two arrays and finds
+// duplicates that appear in both arrays
+
+DECLARE ARRAY1 = ["aa", "11", "34", "ff", "mn"]
+DECLARE ARRAY2 = ["ff", "hh", "mn", "33", "34"]
+
+OUTPUT "The following items appear in both arrays"
+
+FOR A1 ← 0 TO 4 DO
+    FOR A2 ← 0 TO 4 DO
+        IF ARRAY1[A1] = ARRAY2[A2] THEN
+            OUTPUT ARRAY2[A1]
+        END IF
+    END FOR
+END FOR
+```
+
+Respuesta incorrecta: 
+
+```pseudocode
+The following appear in both arrays
+mn
+33
+```
+
+Se debe realizar el siguiente cambio:
+
+```pseudocode
+output ARRAY2[A1]
+```
+
+por:
+
+```pseudocode
+output ARRAY2[A2]
+```
+
+Respuesta correcta:
+
+```pseudocode
+The following appear in both arrays
+34
+ff
+```
+
+## 4.2.6. Elaboración de pseudocódigo
+
+#### 📌Ejemplo de programación 11: Ordenación ascendente o descendente
+
+```pseudocode
+// Algorithm that identifies if an array is sorted in ascending or descending order
+
+I = 0
+SORTEDA = 1      // Flag for ascending order
+SORTEDD = 1      // Flag for descending order
+SAMPLE = new Array()
+
+// Input values
+loop I from 0 to 4
+    SAMPLE[I] = input("Enter the measurement")
+end loop
+
+// Check ascending order
+loop I from 0 to 3
+    if SAMPLE[I] > SAMPLE[I+1] then
+        SORTEDA = 0
+    end if
+end loop
+
+// Check descending order
+loop I from 0 to 3
+    if SAMPLE[I] < SAMPLE[I+1] then
+        SORTEDD = 0
+    end if
+end loop
+
+// Output array values
+output "The array is:"
+loop I from 0 to 4
+    output SAMPLE[I]
+end loop
+
+// Results
+if SORTEDA = 1 then
+    output "The array is sorted in ASCENDING order"
+else
+    output "The array is not sorted in ASCENDING order"
+end if
+
+if SORTEDD = 1 then
+    output "The array is sorted in DESCENDING order"
+else
+    output "The array is not sorted in DESCENDING order"
+end if
+```
+
+Resultado:
+
+```
+User enters: 3, 5, 6, 4, 4. 
+
+Output 1: 
+
+The array is: 
+3
+5
+6
+4
+4
+The array is not sorted in ASCENDING order 
+The array is not sorted in DESCENDING order
+
+User enters: 6, 5, 3, 2, 1.
+
+Output 2:
+
+The array is:
+
+6
+5
+3
+2
+1
+The array is not sorted in ASCENDING order 
+The array is sorted in DESCENDING order 
+
+User enters: 2, 4, 78, 89, 99. 
+
+Output 3: 
+
+The array is:
+ 2
+ 4 
+78 
+89 
+99 
+The array is sorted in ASCENDING order 
+The array is not sorted in DESCENDING order
+```
+
+#### 📌Ejemplo de programación 12: Creación de arreglo de 10 enteros aleatorio entre 0 y 9
+
+```pseudocode
+// Algorithm to build and display an array of ten random integers
+
+Declare Integer n
+Declare Integer RandomM[10]
+
+// Fill the array with random numbers between 0 and 9
+For n = 0 To 9
+    Set RandomM[n] = random(10)      // generates a random integer 0–9
+End For
+
+// Print all elements of the array
+For n = 0 to 9
+    Output RandomM[n]
+End For
+Declare Integer n
+```
+
+## 4.2.7. Algoritmos adecuados para problemas específicos
+
+La **eficiencia** de un algoritmo se refiere a la cantidad de recursos de la computadora requeridos para realizar sus funciones. Minimizar el uso de varios recursos como la CPU y la memoria de la computadora es muy importante.
+
+La **corrección** de un algoritmo se refiere al grado en que el algoritmo satisface su especificación, está libre de fallas y cumple todos los objetivos establecidos durante la fase de diseño e implementación.
+
+La **confiabilidad** se refiere a la capacidad del algoritmo para mantener un nivel de rendimiento predefinido y realizar todas las funciones requeridas bajo las condiciones establecidas, teniendo un largo tiempo medio entre fallas.
+
+La **flexibilidad** de un algoritmo se refiere al esfuerzo requerido para modificar el algoritmo para otros propósitos distintos de aquellos para los que fue desarrollado inicialmente.
+
+#### 📌Ejemplo de programación 13: Frecuencia de aparición de un número en un arreglo
+
+```pseudocode
+// PROGRAM TO CALCULATE THE FREQUENCY OF NUMBERS IN AN ARRAY
+
+ARRAY = [-30, -13, 4, -3, -30, -3, -3, -3, -15]
+SIZE = 9
+COUNTS = new Array()
+
+// Bubble Sort para ordenar el array
+for I from 0 to SIZE-2
+    for J from 0 to SIZE-2
+        if ARRAY[J] > ARRAY[J+1] then
+            TEMP = ARRAY[J]
+            ARRAY[J] = ARRAY[J+1]
+            ARRAY[J+1] = TEMP
+        end if
+    end for
+end for
+
+// Ahora el array está ordenado
+PREVIOUS = ARRAY[0]
+X = 1   // para contar frecuencia
+
+for I from 1 to SIZE-1
+    if ARRAY[I] = PREVIOUS then
+        X = X + 1
+        if I == SIZE-1 then
+            output "Number:", ARRAY[I], "frequency:", X
+        end if
+    else
+        output "Number:", ARRAY[I-1], "frequency:", X
+        PREVIOUS = ARRAY[I]
+        X = 1
+        if I == SIZE-1 then
+            output "Number:", ARRAY[I], "frequency:", X
+        end if
+    end if
+end for
+```
+Resultado:
+
+```pseudocode
+Number: -30 frequency: 2
+Number: -15 frequency: 1
+Number: -13 frequency: 1
+Number: -3 frequency: 4
+Number: 4 frequency: 1
+```
+
+## 4.2.8. Eficacia de un algoritmo según el contexto
+
+La notación Big O es extremadamente útil cuando se analizan algoritmos, ya que es una medida de la eficiencia de un algoritmo. Cuando decimos que un algoritmo es O(n) lo que se quiere decir es que la tasa de crecimiento de las instrucciones en este algoritmo en particular se ejecutará **n** veces.
+
+#### Algoritmo A
+```pseudocode
+// Un algoritmo que calcula la suma 1+2+3+...+n
+// Complejidad: O(1)
+
+SUM = 0
+n = 5 // n como entrada
+SUM = n * (n + 1) / 2
+output "The SUM is: " + SUM
+```
+
+#### Algoritmo B
+```pseudocode
+// Un algoritmo que calcula la suma 1+2+3+...+n
+// Complejidad: O(n)
+
+I = 0
+SUM = 0
+n = 5 // n como entrada
+
+loop I from 1 to n
+    SUM = SUM + I
+end loop
+
+output "The SUM is: " + SUM
+```
+
+#### Algoritmo C
+```pseudocode
+// Un algoritmo que calcula la suma 1+2+3+...+n
+// Complejidad: O(n^2)
+
+I = 0
+SUM = 0
+n = 5 // n como entrada
+m = 0
+
+loop I from 1 to n
+    loop m from 1 to I
+        SUM = SUM + 1
+    end loop
+end loop
+
+output "The SUM is: " + SUM
+```
+
+- **Algoritmo A (O(1)):** Usa una fórmula matemática directa:
+  
+SUM = 𝑛(𝑛+1)/2​
+
+No requiere bucles, solo una operación, por lo que es muy eficiente.
+
+- **Algoritmo B (O(𝑛)):** Usa un bucle desde 1 hasta 𝑛, sumando cada número. El tiempo de ejecución crece proporcionalmente al tamaño de 𝑛.
+
+- **Algoritmo C (O(𝑛²)):** Usa dos bucles anidados: el primero de 1 a 𝑛 y dentro otro de 1 a i. Esto genera muchas más operaciones, haciendo que el tiempo de ejecución crezca proporcionalmente a 𝑛².
+
+## 4.2.9. Determinación del número de iteraciones según las entradas
+
+#### 📌Ejemplo de programación 14: Cálculo del número de iteraciones
+
+```pseudocode
+Declare Integer a
+Declare Integer b
+
+Input a
+Input b
+If a > b Then
+    Set a = b - 3
+    While a < b
+        Display "loop 1"
+        Set b = a * 2
+        While b > 7
+            Set b = a - 2
+            Display "loop 3"
+        End While
+        Display "loop 2"
+    End While
+End If
+```
+
+Q1. ¿Qué va a ser la salida cuando a = 10 y b = 4?
+A1. El programa nunca terminará. Será un bucle infinito.
+
+Q2. ¿Qué va a ser la salida cuando a = 4 y b = 10?
+A2. No hay salida.
+
+Q3. ¿Qué va a ser la salida cuando a = 10 y b = 9?
+A3. Salida: loop1 loop2 loop3
+
+Q4. ¿Qué va a ser la salida cuando a = 10 y b = 0?
+A4. Salida: loop1 loop2
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2012.%20Pensamiento%20computacional.png" alt="Diagrama de flujos" width="550" height="auto"/>
+    <p><em>Figura 12: Diagrama de flujos del ejemplo de programación 14. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
