@@ -286,3 +286,142 @@ if TEMPERATURES.hasNext() then ...
 if TEMPERATURES.isEmpty() then ...
 ```
 ➝ Devuelve TRUE si la colección no tiene elementos.
+
+## 4.2.3. Algoritmos para problemas concretos
+
+#### 📌Ejemplo de programación 4: Temperaturas mínimas y máximas
+
+Este programa que muestras es un **ejemplo clásico de uso de arrays y condicionales** para analizar temperaturas de varias ciudades.
+
+Objetivo del programa: 
+
+- Guardar **nombres de ciudades**, sus **temperaturas máximas** y **mínimas**.
+- Calcular el **promedio de temperaturas máximas** y el **promedio de temperaturas mínimas**.
+- Mostrar: Ciudades con máximas por encima del promedio. Ciudades con mínimas por debajo del promedio.
+
+##### Declaración de variables y arreglos
+
+```pseudocode
+TOTALH = 0    // suma de las temperaturas máximas
+TOTALL = 0    // suma de las temperaturas mínimas
+AVGH = 0      // promedio de máximas
+AVGL = 0      // promedio de mínimas
+
+CITYNAMES = new Array()   // nombres de las ciudades
+HIGHTEMP = new Array()    // temperaturas máximas
+LOWTEMP = new Array()     // temperaturas mínimas
+```
+
+##### Entrada de datos
+
+```pseudocode
+loop I from 0 to 3
+    CITYNAMES[I] = input("Type the name of the city")
+    HIGHTEMP[I] = input("Type the Maximum temperature of the city")
+    LOWTEMP[I] = input("Type the Minimum temperature of the city")
+
+    TOTALH = TOTALH + HIGHTEMP[I]
+    TOTALL = TOTALL + LOWTEMP[I]
+end loop
+```
+➝ Aquí el usuario introduce **4 ciudades** (porque `0 to 3` son 4 iteraciones). Además, se van acumulando las máximas y mínimas para luego calcular promedios.
+
+##### Cálculo de promedios
+
+```pseudocode
+AVGH = TOTALH / 4
+AVGL = TOTALL / 4
+```
+
+##### Mostrar resultados
+
+- Ciudades con máxima > promedio máximo:
+
+```pseudocode
+output "Cities Above Avg. High:"
+loop I from 0 to 3
+    if HIGHTEMP[I] > AVGH then
+        output CITYNAMES[I], "+"
+    end if
+end loop
+```
+
+- Ciudades con mínima > promedio mínimo:
+
+```pseudocode
+output "Cities Below Avg. Low:"
+loop I from 0 to 3
+    if LOWTEMP[I] < AVGL then
+        output CITYNAMES[I], "+"
+    end if
+end loop
+```
+
+## 4.2.4. Algoritmos presentados en diagramas de flujos
+
+#### 📌Ejemplo de programación 5: Verificación de contraseñas
+
+**1. Declaración de variables:**
+
+- `A` contendrá la contraseña correcta (`"MORGAN"`).
+- `PASSWORD` contendrá la contraseña que introduce el usuario.
+
+**2. Entrada:**
+
+- Se le pide al usuario que introduzca una contraseña (`PASSWORD`).
+
+**3. Condición:**
+
+- Se compara `PASSWORD` con `A`.
+- Si son iguales, se muestra "`CORRECT`".
+- Si son diferentes, se muestra "`WRONG`".
+
+```pseudocode
+DECLARE A : STRING
+DECLARE PASSWORD : STRING
+
+A ← "MORGAN"
+INPUT PASSWORD
+
+IF PASSWORD = A THEN
+    OUTPUT "CORRECT"
+ELSE
+    OUTPUT "WRONG"
+END IF
+```
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%209.%20Pensamiento%20computacional.png" alt="Diagrama de flujos" width="550" height="auto"/>
+    <p><em>Figura 9: Diagrama de flujos de verificación de contraseña. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+
+#### 📌Ejemplo de programación 6: Verificación de contraseñas
+
+```pseudocode
+n = 0
+loop while n <= 3
+    output "OK"
+    n = n + 1
+end loop
+output n
+```
+➝ El ciclo se repite mientras n <= 3 sea verdadero. Cada vez imprime "OK" y aumenta n en 1. Cuando n = 4, la condición se vuelve falsa y termina el bucle. Finalmente, imprime n = 4.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2010.%20Pensamiento%20computacional.png" alt="Diagrama de flujos" width="430" height="auto"/>
+    <p><em>Figura 10: Diagrama de flujos utilizando while loop. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+
+```pseudocode
+n = 0
+loop n from 0 to 3
+    output "OK"
+end loop
+output n
+```
+➝ Aquí el bucle establece que n recorrerá de 0 a 3 automáticamente. Imprime "OK" cuatro veces. Al final, cuando termina, n = 3 (depende de la implementación, algunos lenguajes lo dejan en 4, otros en 3).
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2011.%20Pensamiento%20computacional.png" alt="Diagrama de flujos" width="430" height="auto"/>
+    <p><em>Figura 11: Diagrama de flujos utilizando from/to loop. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
