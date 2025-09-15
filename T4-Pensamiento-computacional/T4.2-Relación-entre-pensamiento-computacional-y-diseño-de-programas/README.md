@@ -408,7 +408,7 @@ output n
 ➝ El ciclo se repite mientras n <= 3 sea verdadero. Cada vez imprime "OK" y aumenta n en 1. Cuando n = 4, la condición se vuelve falsa y termina el bucle. Finalmente, imprime n = 4.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2010.%20Pensamiento%20computacional.png" alt="Diagrama de flujos" width="430" height="auto"/>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2010.%20Pensamiento%20computacional.png" alt="Diagrama de flujos" width="350" height="auto"/>
     <p><em>Figura 10: Diagrama de flujos utilizando while loop. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
@@ -422,7 +422,7 @@ output n
 ➝ Aquí el bucle establece que n recorrerá de 0 a 3 automáticamente. Imprime "OK" cuatro veces. Al final, cuando termina, n = 3 (depende de la implementación, algunos lenguajes lo dejan en 4, otros en 3).
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2011.%20Pensamiento%20computacional.png" alt="Diagrama de flujos" width="430" height="auto"/>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2011.%20Pensamiento%20computacional.png" alt="Diagrama de flujos" width="350" height="auto"/>
     <p><em>Figura 11: Diagrama de flujos utilizando from/to loop. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
