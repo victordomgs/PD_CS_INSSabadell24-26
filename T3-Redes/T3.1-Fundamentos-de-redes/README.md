@@ -64,7 +64,7 @@ Existen varias maneras de conectar dos o más sistemas informáticos para crear 
   </div>
 
 ### Concentradores (Hubs)
-Un hub es el punto de conexión para los dispositivos en una sola red. Los dispositivos de red y los sistemas informáticos se conectan a un hub utilizando cables Ethernet que se conectan a un puerto. Por ejemplo, el hub de la Figura 3.1 tiene ocho puertos, lo que significa que ocho dispositivos o sistemas informáticos pueden conectarse a él. Así, un hub consta de múltiples puertos.
+Un hub es el punto de conexión para los dispositivos en una sola red. Los dispositivos de red y los sistemas informáticos se conectan a un hub utilizando cables Ethernet que se conectan a un puerto. Por ejemplo, el hub de la Figura 1 tiene ocho puertos, lo que significa que ocho dispositivos o sistemas informáticos pueden conectarse a él. Así, un hub consta de múltiples puertos.
 Cuando un dispositivo de red quiere enviar datos a otro dispositivo en la red, los envía al hub. El hub entonces copia los datos y los envía a todos los dispositivos conectados a sus puertos. El dispositivo que espera recibir los datos los acepta. Todos los demás simplemente los ignoran. Aunque enviar los datos a todos los puertos garantiza que llegarán a su destino, también se genera mucho tráfico en la red, ya que todos los demás puertos, aunque ignoren los datos, igualmente los reciben. Esto ralentiza la red.
 
 ### Conmutadores (Switches)
