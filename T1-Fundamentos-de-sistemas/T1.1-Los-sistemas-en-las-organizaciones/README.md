@@ -78,20 +78,20 @@ Componentes tecnológicos:
 
 ## Contenido:
 
-[1.1.1. Contexto en la planificación de un nuevo sistema](#111-contexto-en-la-planificación-de-un-nuevo-sistema)  
-[1.1.2. Gestión del cambio](#112-gestión-del-cambio)
-[1.1.3. Problemas de compatibilidad entre sistemas heredados o fusiones de negocio](#113-problemas-de-compatibilidad-entre-sistemas-heredados-o-fusiones-de-negocio)
-[1.1.4. La implantación del sistema de información](#114-la-implantación-del-sistema-de-información) 
-[1.1.5. Procesos alternativos de instalación](#115-procesos-alternativos-de-instalación) 
-[1.1.6. Problemas en la migración de datos](#116-problemas-en-la-migración-de-datos)
-[1.1.7. Tipos de pruebas](#117-tipos-de-pruebas)
-[1.1.8. Documentación de usuario](#118-documentación-de-usuario)
-[1.1.9. Métodos para proporcionar documentación](#119-métodos-para-proporcionar-documentación)
-[1.1.10. Métodos para proporcionar formación](#119-métodos-para-proporcionar-formación)
-[1.1.11. Causas de las pérdidas de datos](#1111-causas-de-las-pérdidas-de-datos)
-[1.1.12. Consecuencias de la pérdida de datos](#1112-consecuencias-de-la-pérdida-de-datos)
-[1.1.13. Métodos para evitar la pérdida de datos](#1113-métodos-para-evitar-la-pérdida-de-datos)
-[1.1.14. Gestión de versiones y actualizaciones](#1114-gestión-de-versiones-y-actualizaciones)
+- [1.1.1. Contexto en la planificación de un nuevo sistema](#111-contexto-en-la-planificación-de-un-nuevo-sistema)  
+- [1.1.2. Gestión del cambio](#112-gestión-del-cambio)
+- [1.1.3. Problemas de compatibilidad entre sistemas heredados o fusiones de negocio](#113-problemas-de-compatibilidad-entre-sistemas-heredados-o-fusiones-de-negocio)
+- [1.1.4. La implantación del sistema de información](#114-la-implantación-del-sistema-de-información) 
+- [1.1.5. Procesos alternativos de instalación](#115-procesos-alternativos-de-instalación) 
+- [1.1.6. Problemas en la migración de datos](#116-problemas-en-la-migración-de-datos)
+- [1.1.7. Tipos de pruebas](#117-tipos-de-pruebas)
+- [1.1.8. Documentación de usuario](#118-documentación-de-usuario)
+- [1.1.9. Métodos para proporcionar documentación](#119-métodos-para-proporcionar-documentación)
+- [1.1.10. Métodos para proporcionar formación](#119-métodos-para-proporcionar-formación)
+- [1.1.11. Causas de las pérdidas de datos](#1111-causas-de-las-pérdidas-de-datos)
+- [1.1.12. Consecuencias de la pérdida de datos](#1112-consecuencias-de-la-pérdida-de-datos)
+- [1.1.13. Métodos para evitar la pérdida de datos](#1113-métodos-para-evitar-la-pérdida-de-datos)
+- [1.1.14. Gestión de versiones y actualizaciones](#1114-gestión-de-versiones-y-actualizaciones)
 
 ---
 
