@@ -17,7 +17,7 @@
 - [4.3.10. Descripción de las características de una colección](#4310-descripción-de-las-características-de-una-colección)
 - [4.3.11. Desarrollo de algoritmos con el método de acceso a una colección](#4311-desarrollo-de-algoritmos-con-el-método-de-acceso-a-una-colección)
 - [4.3.12. Importancia de los subprogramas en colecciones](#4312-importancia-de-los-subprogramas-en-colecciones)
-- [4.3.13. Elaboración de algoritmos usando subprogramas predefinidios, matrices unidimensionales y colecciones](#4313-elaboración-de-algoritmos-usando-subprogramas predefinidos-matrices-unidimensionales-y-colecciones)
+- [4.3.13. Elaboración de algoritmos usando subprogramas predefinidios, matrices unidimensionales y colecciones](#4313-elaboración-de-algoritmos-usando-subprogramas-predefinidos-matrices-unidimensionales-y-colecciones)
 
 ---
 
