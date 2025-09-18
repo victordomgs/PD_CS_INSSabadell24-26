@@ -1,34 +1,27 @@
-<h1 align="center">Fundamentos de diseño de sistemas
+<h1 align="center">1.2. Fundamentos de diseño de sistemas
 <div align="center">
 
 </div>
 
 ## Contenido:
 
-[1. Conceptos fundamentales](#1-conceptos-fundamentales)  
-  - [1.1. Definición de términos clave](#11-definición-de-términos-clave)  
-  - [1.2. Funciones del computador en un mundo interconectado](#12-funciones-del-computador-en-un-mundo-interconectado)  
-  - [1.3. Cuestiones éticas y sociales en un mundo interconectado](#13-cuestiones-éticas-y-sociales-en-un-mundo-interconectado)  
-
-[2. Planificación y diseño de sistemas](#2-planificación-y-diseño-de-sistemas)  
-  - [2.1. Ingeniería de requisitos](#21-ingeniería-de-requisitos)
-  - [2.2. Representación de los requisitos](#22-representación-de-los-requisitos)
-    - [2.2.1. Diagramas de flujos](#221-diagramas-de-flujo)
-    - [2.2.2. Diagramas de flujo de datos](#222-diagramas-de-flujo-de-datos)
-    - [2.2.3. Diagramas de estructuras](#223-diagramas-de-estructuras)
-
-[3. La importancia de la iteración en el proceso de diseño](#3-la-importancia-de-la-iteración-en-el-proceso-de-diseño)  
-  - [3.1. ¿Qué es la iteración?](#31-¿qué-es-la-iteración?)
-  - [3.2. El ciclo de diseño PAI](#32-el-ciclo-de-diseño-PAI)
-
-[4. El concepto de usabilidad](#4-el-concepto-de-usabilidad)  
-  - [4.1. Objetivos de la usabilidad](#41-objetivos-de-la-usabilidad)
-  - [4.2. Principios de la usabilidad](#42-principios-de-la-usabilidad)
-  - [4.3. Usabilidad y experiencia de usuario](#43-usabilidad-y-experiencia-de-usuario)
+- [1.2.1. Definición de términos clave](#121-definición-de-términos-clave)  
+- [1.2.2. Funciones del computador en un mundo interconectado](#122-funciones-de-un-computador-en-un-mundo-interconectado)
+- [1.2.3. Cuestiones éticas y sociales en un mundo interconectado](#123-cuestiones-éticas-y-sociales-en-un-mundo-interconectado)
+- [1.2.4. Partes interesadas al planificar un nuevo sistema](#124-la-implantación-del-sistema-de-información) 
+- [1.2.5. Ingeniería de requisitos](#125-ingeniería-de-requisitos) 
+- [1.2.6. Representación de los requisitos](#126-representación-de-los-requisitos)
+- [1.2.7. El propósito de un prototipo](#127-el-propósito-de-un-prototipo)
+- [1.2.8. La importancia de la iteración en el proceso de diseño](#128-la-importancia-de-la-iteración-en-el-proceso-de-diseño)
+- [1.2.9. Posibles consecuencias de no implicar al usuario final en el proceso de diseño](#129-posibles-consecuencias-de-no-implicar-al-usuario-final-en-el-proceso-de-diseño)
+- [1.2.10 Cuestiones éticas y sociales asociadas a la introducción de un nuevo sistema de TI](#1210-cuestiones-éticas-y-sociales-asociadas-a-la-introducción-de-un-nuevo-sistema-de-TI)
+- [1.2.11. El concepto de usabilidad](#1211-el-concepto-de-usabilidad)
+- [1.2.12. Problemas de usabilidad en dispositivos digitales](#1212-problemas-de-usabilidad-en-dispositivos-digitales)
+- [1.2.13. Métodos para mejorar la accesibilidad en los sistemas](#1213-métodos-para-mejorar-la-accesibilidad-en-los-sistemas)
+- [1.2.14. Implicaciones morales, éticas, sociales, económicas y ambientales de la interacción entre humanos y máquinas](#1214-implicaciones-morales-éticas-sociales-económicas-y-ambientales-de-la-interacción-entre-humanos-y-máquinas)
 
 
-# 1. Conceptos fundamentales
-## 1.1. Definición de términos clave
+## 1.2.1. Definición de términos clave
 
 En el diseño de sistemas es fundamental comprender ciertos conceptos clave que forman la base de cualquier sistema de información. A continuación, se definen los términos más relevantes:
 
@@ -77,11 +70,11 @@ Los recursos humanos en un sistema de información incluyen a todas las personas
 
 Los recursos humanos son un elemento clave en el éxito de cualquier sistema de información, ya que garantizan su correcto funcionamiento y evolución.  
 
-## 1.2. Funciones del computador en un mundo interconectado
+## 1.2.2. Funciones del computador en un mundo interconectado
 
 En la actualidad, los computadores desempeñan múltiples funciones en un mundo cada vez más interconectado. Desde el acceso a la información hasta la gestión de infraestructuras críticas, su papel es fundamental en numerosos ámbitos. A continuación, se presentan las principales funciones que un computador puede desempeñar en una red:
 
-### **1. Computador como cliente**
+### Computador como cliente
 Un cliente es un dispositivo que solicita servicios o recursos a un servidor dentro de una red. Puede ser una computadora personal, un smartphone, una tablet o cualquier otro dispositivo conectado a internet.  
 Ejemplos de funciones como cliente:
 - Acceso a páginas web mediante un navegador.
@@ -89,7 +82,7 @@ Ejemplos de funciones como cliente:
 - Descarga de archivos desde servidores remotos.
 - Comunicación a través de mensajería instantánea y correo electrónico.
 
-### **2. Computador como servidor**
+### Computador como servidor
 Un servidor es un computador diseñado para proporcionar servicios a otros dispositivos (clientes) en una red. Puede ser un servidor físico o virtual y está optimizado para manejar grandes volúmenes de datos y múltiples solicitudes simultáneas.  
 
 Tipos de servidores y sus funciones:
@@ -99,7 +92,7 @@ Tipos de servidores y sus funciones:
 - **Servidor de impresión:** Administra impresoras y gestiona solicitudes de impresión en una red corporativa.
 - **Servidor de juegos:** Facilita el acceso multijugador a videojuegos en línea.
 
-### **3. Servidor de correo electrónico**
+### Servidor de correo electrónico
 Los servidores de correo electrónico gestionan el envío, recepción y almacenamiento de correos electrónicos en una red. Utilizan protocolos específicos como:
 - **SMTP (Simple Mail Transfer Protocol):** Para enviar correos.
 - **IMAP (Internet Message Access Protocol) y POP3 (Post Office Protocol):** Para recibir y gestionar correos.
@@ -109,7 +102,7 @@ Ejemplo de servidores de correo:
 - Gmail (Google Workspace).
 - Postfix y Exim en servidores Linux.
 
-### **4. Servidor DNS**
+### Servidor DNS
 El **Servidor DNS (Domain Name System)** convierte los nombres de dominio (como `www.google.com`) en direcciones IP comprensibles para los computadores.  
 Funciones clave:
 - Traducción de nombres de dominio a direcciones IP.
@@ -126,7 +119,7 @@ Ejemplos de servidores DNS:
 - Cloudflare DNS (1.1.1.1).
 - OpenDNS.
 
-### **5. Encaminador (Router)**
+### Encaminador (Router)
 Un **router** es un dispositivo que dirige el tráfico de red entre diferentes redes.  
 Funciones principales:
 - Conectar múltiples dispositivos a internet.
@@ -140,7 +133,7 @@ Funciones principales:
   
 Ejemplo: Los routers domésticos permiten la conexión de computadoras, teléfonos y televisores inteligentes a internet.
 
-### **6. Cortafuegos (Firewall)**
+### Cortafuegos (Firewall)
 Un **firewall** es un sistema de seguridad que supervisa y controla el tráfico de red basado en reglas de seguridad predefinidas.  
 Funciones principales:
 - Filtrar tráfico no autorizado para prevenir ciberataques.
@@ -154,11 +147,11 @@ Funciones principales:
 
 Existen firewalls de software (como Windows Defender Firewall) y de hardware (como Cisco ASA o Fortinet).
 
-## 1.3. Cuestiones éticas y sociales en un mundo interconectado
+## 1.2.3. Cuestiones éticas y sociales en un mundo interconectado
 
 El mundo interconectado actual ha generado numerosos beneficios en términos de comunicación, acceso a la información y globalización. Sin embargo, también plantea diversas cuestiones éticas y sociales que deben abordarse para garantizar un uso responsable de la tecnología. A continuación, se analizan algunos de los principales desafíos en este ámbito.
 
-### **1. Privacidad y protección de datos**  
+### Privacidad y protección de datos 
 La privacidad es una de las principales preocupaciones en un mundo digital. Las empresas, gobiernos y plataformas tecnológicas recopilan grandes volúmenes de datos personales, lo que puede generar riesgos como:  
 - **Exposición de información personal:** Filtraciones de datos en plataformas y redes sociales.  
 - **Uso indebido de datos:** Comercialización de información sin el consentimiento del usuario.  
@@ -168,7 +161,7 @@ Ejemplos de regulaciones para la protección de datos:
 - **GDPR (Reglamento General de Protección de Datos)** en la Unión Europea.  
 - **Ley de Privacidad del Consumidor de California (CCPA)** en EE. UU.  
 
-### **2. Ciberseguridad y ciberdelincuencia**  
+### Ciberseguridad y ciberdelincuencia
 El aumento de la conectividad ha incrementado los riesgos de ciberataques y fraudes en línea. Entre las principales amenazas se encuentran:  
 - **Phishing:** Engaños por correo o mensajes para obtener credenciales.  
 - **Ransomware:** Secuestro de datos mediante malware con petición de rescate.  
@@ -180,7 +173,7 @@ Medidas para la ciberseguridad:
 - Encriptación de datos.  
 - Educación digital en ciberseguridad.  
 
-### **3. Brecha digital**  
+### Brecha digital 
 El acceso desigual a la tecnología ha generado una **brecha digital** entre diferentes sectores de la población. Factores que influyen en esta desigualdad incluyen:  
 - **Diferencias económicas:** Falta de acceso a dispositivos o internet en comunidades de bajos recursos.  
 - **Diferencias geográficas:** Falta de infraestructuras digitales en zonas rurales.  
@@ -191,7 +184,7 @@ Estrategias para reducir la brecha digital:
 - Educación digital para grupos vulnerables.  
 - Desarrollo de infraestructuras de conectividad en zonas rurales.  
 
-### **4. Ética en la inteligencia artificial y automatización**  
+### Ética en la inteligencia artificial y automatización 
 El uso de **inteligencia artificial (IA)** plantea dilemas éticos, como:  
 - **Discriminación algorítmica:** Sesgos en la IA que pueden perjudicar a ciertos grupos.  
 - **Automatización del empleo:** Desplazamiento de trabajos humanos por máquinas.  
@@ -202,7 +195,7 @@ Propuestas para una IA ética:
 - Supervisión humana en decisiones críticas.  
 - Desarrollo de IA sin sesgos de discriminación.  
 
-### **5. Dependencia tecnológica y bienestar digital**  
+### Dependencia tecnológica y bienestar digital
 El uso excesivo de la tecnología puede afectar la salud mental y la calidad de vida de los usuarios. Problemas asociados:  
 - **Adicción a las redes sociales y dispositivos móviles.**  
 - **Afectaciones en la concentración y productividad.**  
@@ -213,8 +206,15 @@ Recomendaciones para un uso equilibrado de la tecnología:
 - Promover actividades fuera del entorno digital.  
 - Desarrollar conciencia sobre el impacto de la hiperconectividad.  
 
-# 2. Planificación y diseño de sistemas de software
-## 2.1. Ingeniería de requisitos
+## 1.2.4. Interesados a la hora de planificar un nuevo sistema
+
+Los **stakeholders** son individuos, equipos, grupos u organizaciones que tienen un interés en la realización de un proyecto o que pueden verse afectados por el resultado de un proyecto. Por lo tanto, cualquier persona que tenga intereses en un sistema de información existente o propuesto puede describirse como un stakeholder del sistema.
+
+El **usuario final** es la persona que va a utilizar el producto. Un stakeholder relevante también puede ser un usuario frecuente del sistema actual. Esta persona podrá identificar fallos y errores del sistema actual o inconvenientes que haya detectado. También podrá proponer mejoras que serán cruciales para la actualización del sistema.
+
+El **gerente o supervisor** del procedimiento que el sistema lleva a cabo también puede tener algunos comentarios. Asimismo, se puede pedir consejo a **especialistas** que hayan tratado con una situación similar en el pasado.
+
+## 1.2.5. Ingeniería de requisitos
 
 > [!IMPORTANT]  
 > La **ingeniería de requisitos** es la disciplina que nos ayuda a identificar, gestionar y mantener el conjunto de requisitos del software que hemos de desarrollar.
@@ -228,21 +228,7 @@ Denominamos ingeniería de requisitos a aquel subconjunto de la ingeniería del 
 
 Verificación de requisitos: verificar si el sistema desarrollado (o parcialmente desarrollado en el caso de ciclos de vida iterativos) satisface o no los requisitos y cuáles.
 
-### 2.1.1. Requisitos y stakeholders
-
-Para poder desarrollar un sistema informático, obviamente, hay que entender qué sistema hay que desarrollar y, por lo tanto, hay que entender bien los requisitos de todo tipo que los diferentes stakeholders tienen sobre el sistema. Varias de las actividades de la ingeniería del software hacen referencia a estos requisitos y, de hecho, podemos considerar que estos son una pieza clave para el éxito o fracaso de todo proyecto de desarrollo de software.
-
-> [!IMPORTANT]  
-> Los **requisitos** son características observables de un sistema que expresan una necesidad o restricción que un stakeholder tiene sobre él.
-
-Los requisitos nos sirven, por lo tanto, para delimitar cuáles de las posibles soluciones a un problema son adecuadas (las que cumplen los requisitos) y cuáles no.
-
-> [!IMPORTANT]  
-> Los **stakeholders** son aquellas personas o entidades que tienen algún impacto o interés en este sistema.
-
-A pesar de que todos los usuarios de un sistema son stakeholders, puesto que todos lo usan y, por lo tanto, tienen intereses en él, no todos los stakeholders son usuarios, puesto que puede haber muchas personas o entidades que, a pesar de que no utilicen el sistema, se ven afectadas por su implantación y que, por lo tanto, también tienen intereses en él.
-
-## 2.2. Tipos de requisitos
+### Tipos de requisitos
 
 En este apartado establecemos una taxonomía para tipificar los requisitos con el fin de evitar la ambigüedad a la hora de determinar el tipo de un requisito. Cada obra e incluso cada organización usa su propia taxonomía, pero hay ciertos puntos comunes en la mayoría de ellas.
 
@@ -254,7 +240,7 @@ En este apartado establecemos una taxonomía para tipificar los requisitos con e
     <p><em>Figura 4: Tipos de requisitos. Fuente: UOC</em></p>
   </div>
 
-### 2.2.1. Requisitos de producto
+### Requisitos de producto
 
 Los requisitos de producto definen aquellas necesidades o restricciones que los stakeholders tienen sobre el producto que se desarrollará como tal. Es decir, nos interesará que, una vez desarrollado, el producto satisfaga estos requisitos.
 > [!NOTE]  
@@ -265,7 +251,7 @@ Los requisitos de producto definen aquellas necesidades o restricciones que los 
 
 A su vez, los requisitos de producto se pueden clasificar en: 
 
-**1. Requisitos funcionales**
+#### Requisitos funcionales
 
 Los requisitos funcionales hacen referencia a la funcionalidad que debe proporcionar el sistema y los datos que tiene que conocer y guardar. Nos indican qué cálculos hace el sistema, qué datos mantiene, cómo los manipula, etc.
 Podemos distinguir, dentro de los requisitos funcionales, entre los requisitos de **funcionalidad** y los de **datos**.
@@ -289,7 +275,7 @@ Los **requisitos de datos** describen qué datos tiene que conocer el sistema. E
 > - El sistema tiene que conocer el cliente de un viaje; en particular, debe saber el nombre, los apellidos, la dirección de correo electrónico, la dirección postal y el teléfono.
 > - El sistema tiene que conocer el hotel u hoteles de un viaje. De los hoteles tiene que saber el nombre, la dirección y el teléfono. En relación con el viaje tiene que saber las fechas de entrada y salida, las horas de check-in y check-out, el tipo de habitación, las observaciones del hotel y la opinión del agente que ha reservado el viaje.
 
-**1. Requisitos no funcionales**
+#### Requisitos no funcionales
 
 Los **requisitos no funcionales** son aquellos requisitos de producto que, como su nombre indica, no son funcionales sino calidades esperadas del sistema, como por ejemplo usabilidad, fiabilidad, rendimiento o mantenibilidad. Son, por lo tanto, restricciones sobre el conjunto de soluciones tales que si una solución no satisface aquella calidad, no se considera válida.
 
@@ -298,17 +284,75 @@ Los **requisitos no funcionales** son aquellos requisitos de producto que, como 
     <p><em>Figura 6: Tipos de requisitos no funcionales. Fuente: UOC</em></p>
   </div>
 
-### 2.2.2. Requisitos de proceso
+#### Requisitos de proceso
 
 Los **requisitos de proceso** establecen restricciones en el propio proceso de desarrollo de software en lugar de hacerlo sobre el producto final desarrollado. Cualquier necesidad o restricción que no sea del producto una vez terminado sino del proceso que se sigue para completarlo será, por lo tanto, un requisito de proceso.
 
 Uno de los requisitos de proceso más importante es el coste de desarrollo, tanto en tiempo como en dinero. A pesar de no tratarse de una característica observable en el producto ya desarrollado, sí que lo es en el proceso. Y, evidentemente, los stakeholders tendrán necesidades y restricciones que imponer.
 
-## 2.2. Representación de los requisitos
+### Métodos para la obtención de requisitos
+
+**La recopilación de diversos detalles sobre un sistema existente y la obtención de los requisitos de los stakeholders para un sistema planificado implica:**
+
+#### Entrevistas con los stakeholders
+
+Una entrevista es un procedimiento directo y presencial que se centra en obtener datos fiables y válidos en forma de respuestas verbales de una persona o de un grupo (grupo de stakeholders).
+
+- **Entrevistas estructuradas:** están estrictamente estandarizadas y prescritas. Se presenta un conjunto de preguntas preparadas de la misma manera y en el mismo orden a cada stakeholder.
+
+- **Entrevistas no estructuradas:** son flexibles. Se anima a los stakeholders a expresar libremente sus pensamientos y creencias personales.
+
+Una entrevista es un proceso conversacional que consume tiempo, pero que permite al entrevistador aclarar preguntas y observar los comportamientos verbales y no verbales de los stakeholders.
+Una desventaja es que las entrevistas no estructuradas a menudo producen datos demasiado difíciles de resumir, evaluar o someter a análisis estadístico.
+
+#### Uso de cuestionarios
+
+Su aplicación es efectiva cuando las preguntas están cuidadosamente diseñadas para obtener respuestas no ambiguas.
+La **metodología de encuestas** hace referencia a un ámbito de la estadística aplicada que se centra en tomar muestras de una población, así como en mejorar las diferentes técnicas de recogida de datos (p. ej., cuestionarios).
+
+- **Cuestionarios cerrados o restringidos:** incluyen respuestas de “sí” o “no”, preguntas de respuesta corta y casillas de verificación. Este tipo de cuestionario facilita el análisis estadístico, la presentación tabular de datos y los procesos de resumen.
+
+- **Cuestionarios abiertos o no restringidos:** incluyen preguntas de respuesta libre, lo que permite obtener respuestas más profundas del stakeholder. Sin embargo, son difíciles de interpretar o resumir y hacen imposible el análisis estadístico.
+
+Los cuestionarios garantizan la **uniformidad de las preguntas** y, por lo tanto, generan datos más fácilmente comparables que la información obtenida en una entrevista. Además, es un método que ahorra tiempo, resulta rentable y permite llegar rápidamente a muchos stakeholders. Sin embargo, es difícil evaluar la **motivación de los encuestados**, y los stakeholders pueden no responder, contestar solo a algunas preguntas o malinterpretar la cuestión.
+
+#### Observación directa de los procedimientos actuales
+
+Implica pasar tiempo en diferentes departamentos. Se considera un estudio de tiempos y movimientos, capaz de mostrar dónde se podrían hacer más eficientes los procedimientos y procesos, o dónde pueden estar presentes posibles cuellos de botella.
+
+La observación directa permite recopilar distintos tipos de datos e información. Estar en el lugar durante un periodo de tiempo familiariza al analista con el caso de estudio, lo que facilita la participación en todas las actividades y procesos. La observación es independiente del sesgo del usuario, pero es un método que consume tiempo.
+
+Sin embargo, a veces las personas cambian su comportamiento cuando saben que están siendo observadas. El término **“efecto Hawthorne”** se utiliza para describir situaciones en las que los trabajadores mejoran su rendimiento al saber que participan en un proceso de observación.
+
+## 1.2.5. Ingeniería de requisitos
+
+**Examinar los sistemas actuales** es un proceso que implica la revisión detallada del sistema en funcionamiento, el análisis de sus funciones y procedimientos, así como el estudio de la documentación empresarial y del sistema, como documentos de pedidos, documentos de logística y procedimientos y reportes informáticos utilizados por los responsables de operaciones y directivos.
+
+Según Auston et al. (1992), la **búsqueda bibliográfica** hace referencia a la identificación, recuperación y gestión de diversas fuentes con el fin de encontrar información sobre un tema, detectar áreas de interés para estudios posteriores, extraer conclusiones y desarrollar guías para la práctica.
+
+Hoy en día, la manera más eficiente de identificar estudios publicados y buscar información específica es mediante el uso de **bases de datos en línea, motores de búsqueda, etc**.
+
+**Examinar productos competidores** puede incluir el análisis de factores competitivos, sus beneficios, vulnerabilidades, características exitosas, innovaciones introducidas, elementos de diseño, así como la aceptación de los usuarios y de los stakeholders.
+
+Durante las fases de **análisis y diseño** deben identificarse todas las capacidades organizativas críticas que resulten esenciales para apoyar una planificación y desarrollo efectivos del nuevo sistema de TI. Un sistema de TI exitoso debe traducirse en una **ventaja competitiva**.
+
+Según Hell (2011), las capacidades organizativas como la **interpretación de la información (sense-making), la toma de decisiones, la disponibilidad de recursos y la gestión de operaciones** están totalmente vinculadas a la implementación eficaz de un sistema de información, lo cual a su vez repercute positivamente en el rendimiento de la organización.
+
+Los sistemas de información utilizados en las empresas modernas desempeñan un papel crítico, y la mayoría de las compañías utilizan los datos y la información como **activos para obtener ventajas competitivas**.
+
+Debemos tener en cuenta que un sistema de información moderno debe planificarse para:
+
+- aumentar la confianza del cliente,
+- preservar la fortaleza de la marca,
+- proteger la reputación de la organización,
+- mantener la resiliencia corporativa,
+- mejorar la estabilidad organizacional.
+
+## 1.2.6. Representación de los requisitos
 
 En el **desarrollo de sistemas de información** es fundamental plasmar de manera gráfica y clara los requisitos y la lógica del sistema. Esto facilita la comunicación entre los distintos miembros del equipo y permite detectar posibles errores o mejoras en etapas tempranas del diseño.
 
-### 2.2.1. Diagramas de flujo
+### Diagramas de flujo
 
 Los diagramas de flujo de sistemas son representaciones gráficas que muestran el recorrido de los datos y el procesamiento de la información dentro de un sistema.
 
@@ -324,7 +368,7 @@ Los diagramas de flujo de sistemas son representaciones gráficas que muestran e
     <p><em>Figura 7: Diagrama de flujo. Fuente: Epitech</em></p>
   </div>
 
-### 2.2.2. Diagramas de flujo de datos
+### Diagramas de flujo de datos
 
 Los diagramas de flujo de datos se centran en la forma en que la información se mueve y transforma a lo largo del sistema.
 
@@ -339,7 +383,7 @@ Los diagramas de flujo de datos se centran en la forma en que la información se
     <p><em>Figura 8: Diagrama de flujo de datos. Fuente: Manuel Cillero</em></p>
   </div>
 
-### 2.2.3. Diagramas de estructuras
+### Diagramas de estructuras
 
 Estos diagramas representan la organización y la jerarquía de los componentes o módulos del sistema.
 
@@ -352,11 +396,31 @@ Estos diagramas representan la organización y la jerarquía de los componentes 
     <p><em>Figura 9: Diagrama de estructuras. Fuente: Manuel Cillero</em></p>
   </div>
 
-# 3. La importancia de la iteración en el proceso de diseño
+## 1.2.7. El propósito de un prototipo
+
+**Competencias de salida.** Los estudiantes deben ser capaces de:
+
+- Explicar la necesidad de crear prototipos durante la etapa de diseño.
+- Describir la necesidad de la retroalimentación del usuario/cliente.
+- Explicar la necesidad de una colaboración eficaz.
+
+Existen muchas ventajas en la creación de un **prototipo**.
+Un prototipo es una versión preliminar, ya sea funcional o no funcional, del producto final, o una versión simple del sistema final que se utiliza como parte de la fase de diseño para demostrar cómo funcionará el producto final.
+
+Un prototipo:
+
+- Atrae la atención del cliente, ya que lo anima a usarlo y a “probarlo”.
+- Proporciona lo suficiente del concepto para que los inversores decidan si quieren financiar la producción completa o no.
+- Fomenta la participación activa entre usuarios y desarrolladores.
+- Ofrece una idea del producto final.
+- Ayuda a identificar problemas relacionados con la eficiencia o el diseño.
+- Incrementa la velocidad de desarrollo del sistema.
+
+## 1.2.8. La importancia de la iteración en el proceso de diseño
 
 El proceso de diseño en sistemas y productos no es lineal, sino que requiere de una revisión constante y de la adaptación a nuevos requerimientos y descubrimientos. La iteración se convierte en una herramienta clave para alcanzar un diseño óptimo, permitiendo mejorar y refinar el producto a lo largo de todo el proceso.
 
-## 3.1. ¿Qué es la iteración?
+### ¿Qué es la iteración?
 
 La iteración consiste en repetir ciclos de trabajo en el proceso de diseño. Cada ciclo se utiliza para:
 - **Evaluar el diseño actual:** Detectar errores o áreas de mejora.
@@ -365,7 +429,7 @@ La iteración consiste en repetir ciclos de trabajo en el proceso de diseño. Ca
 
 Esta metodología permite que, en cada vuelta, el diseño se acerque cada vez más a los objetivos planteados.
 
-## 3.2. El ciclo de diseño PAI
+### El ciclo de diseño PAI
 
 El Ciclo PAI es una metodología que estructura el proceso de diseño en tres fases fundamentales:
 
@@ -401,7 +465,34 @@ Imaginemos el desarrollo de una aplicación móvil:
 
 Este ciclo se repite hasta que el producto cumpla con los estándares de calidad y satisfaga las necesidades del usuario.
 
-# 4. El concepto de usabilidad
+## 1.2.9. Posibles consecuencias de no implicar al usuario final en el proceso de diseño
+
+Para que un sistema tenga éxito, el análisis y el diseño deben involucrar a todos los **stakeholders clave**, incluyendo al **cliente** (la persona u organización que financia el proyecto) y a los **usuarios finales** (las personas que utilizarán el sistema).
+
+La **implicación, la colaboración y la participación activa** son fundamentales, ya que un proyecto con objetivos de los stakeholders mal definidos tiene pocas probabilidades de ser exitoso.
+
+El sistema desarrollado puede terminar resolviendo un problema distinto o abordando cuestiones que están fuera del alcance del proyecto.
+
+## 1.2.10 Cuestiones éticas y sociales asociadas a la introducción de un nuevo sistema de TI
+
+Los **cajeros automáticos (ATM)** reemplazaron a los cajeros de banco, los sistemas de **peaje electrónico (E-pass) **sustituyeron a los cobradores de autopistas, las **agencias de viajes en internet** reemplazaron a las pequeñas agencias de viajes, los **sistemas automatizados de voz** sustituyeron a los representantes de atención al cliente, el correo electrónico reemplazó a los carteros, los **sistemas de reconocimiento de voz** sustituyeron a los mecanógrafos, y los **blogs, periodistas ciudadanos y usuarios de redes sociales** están reemplazando a los reporteros.
+
+Las máquinas están reemplazando a los humanos en innumerables tareas, lo que ha forzado a millones de personas al desempleo. Un contraargumento es que los empleos no desaparecen, sino que cambian. Finalmente, los avances en **robótica** e **inteligencia artificial** podrían eventualmente reemplazar a una cantidad cada vez mayor de trabajadores con robots inteligentes. Esto podría generar una **alteración social** similar a la ocurrida durante la **Revolución Industrial** (cuando la introducción de máquinas tuvo un impacto semejante en la sociedad).
+
+La introducción de **nuevos sistemas y aplicaciones de tecnologías de la información** (o el desarrollo constante de los ya existentes) ciertamente tiene un gran impacto en la sociedad y plantea preguntas éticas sobre hasta qué punto este desarrollo incontrolable puede o debe continuar.
+
+Por ejemplo, la creación de **Facebook y Twitter**. Estas redes sociales se hicieron cada vez más populares, penetrando en la vida social y personal de los usuarios, hasta convertirse en un componente vital de ella. Facebook cambió la forma en que ocurren las interacciones sociales. Es importante señalar que la **interacción social** también es un elemento esencial del **cambio social**, que afecta a las ideas, creencias y valores morales.
+
+Otros desarrollos de TI pueden tener un impacto social más indirecto, pero, dado que el **objetivo principal del desarrollo de sistemas de tecnologías de la información** debería ser mejorar la vida humana, este impacto debe ser examinado.
+
+El **desarrollo continuo de sistemas informatizados** puede absorber a las personas y alejarlas del mundo físico, confinándolas en **entornos virtuales**. La participación en estos entornos puede llegar a desorientar completamente a algunos usuarios. Además, los entornos automatizados, como la “**casa inteligente**”, que se encarga de tareas cotidianas como revisar el contenido del refrigerador y realizar pedidos de suministros, pueden privar a las personas de oportunidades de socialización e interacción que antes ofrecían estas actividades. Considerando estos posibles resultados, surgen más cuestiones morales y éticas.
+
+Un hallazgo sorprendente es que, en un **entorno empresarial**, la introducción de un nuevo sistema de información mejorado a menudo genera **mayor estrés en el personal**, ya que deben estudiar, aprender y familiarizarse con el nuevo sistema mientras cumplen con sus tareas habituales.
+
+Es necesario determinar hasta qué punto los avances en TI son realmente **beneficiosos**, para garantizar que no afecten negativamente a la sociedad humana.
+
+## 1.2.11. El concepto de usabilidad
+
 > [!IMPORTANT]  
 > La usabilidad hace referencia a la eficiencia, efectividad y satisfacción con la que un usuario puede interactuar con un sistema digital. Incluye aspectos como la ergonomía y la accesibilidad, permitiendo que el sistema sea intuitivo y fácil de manejar para diferentes tipos de usuarios.
 
@@ -416,23 +507,19 @@ utilizado dicho sistema.
 
 **5) Satisfacción.** Este atributo se refiere a la impresión subjetiva del usuario respecto al sistema.
 
-## 4.1. Objetivos de la usabilidad
+### Objetivos de la usabilidad
 
 Es necesario marcar unos objetivos cuantificables que nos ayuden a saber en todo momento si nuestro sitio es fácil de usar por parte de los usuarios en los que hemos pensado. Facilitar al usuario el acceso a un sistema o satisfacer sus necesidades en el menor tiempo posible son factores que optimizan y mejoran la productividad de nuestras acciones y decisiones. No obstante, aún es necesario especificar más.
 
 Apoyándonos en los conceptos que trabajamos al definir la usabilidad, podemos ir marcando objetivos que ayuden a mejorar el producto. Además, debemos formularnos varias preguntas en el equipo de trabajo:
 
-• ¿El target con el que vamos a trabajar está claro?
+- ¿El target con el que vamos a trabajar está claro?
+- ¿Qué proceso, método o técnica vamos a utilizar para medir el objetivo?
+- ¿Contaremos con recursos materiales y humanos para medirlo?
+- ¿Todo el equipo de trabajo está de acuerdo en medir dicho objetivo?
+- ¿El objetivo se adecua al proyecto en su conjunto y facilita la obtención de resultados relevantes?
 
-• ¿Qué proceso, método o técnica vamos a utilizar para medir el objetivo?
-
-• ¿Contaremos con recursos materiales y humanos para medirlo?
-
-• ¿Todo el equipo de trabajo está de acuerdo en medir dicho objetivo?
-
-• ¿El objetivo se adecua al proyecto en su conjunto y facilita la obtención de resultados relevantes?
-
-## 4.2. Principios de la usabilidad
+### Principios de la usabilidad
 
 Un principio sería una solución posible a un problema de diseño que ayuda a definir cómo debe mostrarse y comportarse un sistema, lo que mejora elementos de la interfaz. Conseguimos así que se proporcione a los usuarios lo necesario para interactuar exitosamente y que se presente la información de manera que se facilite su entendimiento.
 
@@ -451,7 +538,33 @@ Los usuarios deben poder personalizar la interfaz según sus preferencias, lo qu
 #### Opciones
 Se deben ofrecer múltiples formas de acceder a la información, permitiendo a los usuarios elegir entre enlaces de texto, gráficos, buscadores, índices o mapas del sitio. La flexibilidad en la interfaz facilita la adaptación a diferentes capacidades y contextos de uso.
 
-## 4.3. Usabilidad y experiencia de usuario
+## 1.2.12. Problemas de usabilidad en dispositivos digitales
+
+### Tabletas
+
+- Los toques accidentales provocan selecciones no deseadas.
+- Difícil de aprender las distintas funciones gestuales de los diferentes fabricantes.
+- Escalado y control de zoom deficientes o de mala calidad.
+- Controles difíciles de usar.
+- Botones laterales pequeños.
+- Instrucciones mal redactadas.
+
+### Consolas de videojuegos
+
+- Algunas consolas portátiles tienen pantallas relativamente pequeñas.
+- Los botones pueden ser demasiado pequeños.
+- Difíciles de usar en exteriores (brillo insuficiente).
+- Vida de batería corta.
+
+
+### Ordenadores personales (PCs)
+
+- El uso excesivo del teclado puede provocar **RSI (síndrome de lesiones por esfuerzo repetitivo)**.
+- El uso excesivo de una pantalla grande y brillante puede causar **problemas de visión** o cansancio ocular.
+- Una **iluminación deficiente en la habitación** puede generar reflejos molestos en la pantalla.
+- El ratón del PC está diseñado para **personas diestras**, lo que dificulta su uso a las personas zurdas.
+
+## 1.2.13. Métodos para mejorar la accesibilidad en los sistemas
 
 > [!IMPORTANT]  
 > El **diseño centrado en el usuario (DCU)** asume que todo el proceso tiene que estar orientado hacia las necesidades y objetivos del usuario y éstos deben estar involucrados desde el comienzo en el proceso de diseño.
@@ -479,3 +592,29 @@ El DCU algunos expertos lo dividen en 5 etapas. Algunas de las cuales tienen, ca
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%2011.%20Fundamento%20de%20dise%C3%B1o%20de%20sistemas.png" alt="Fundamentos de diseño de sistemas" width="708" height="auto"/>
     <p><em>Figura 11: Etapas del DCU. Fuente: UOC</em></p>
   </div>
+
+## 1.2.14. Implicaciones morales, éticas, sociales, económicas y ambientales de la interacción entre humanos y máquinas
+
+La **Inteligencia Artificial (IA)** y la **robótica** son dos campos de la informática que apuntan hacia un futuro muy diferente. Una pregunta difícil aún sin respuesta es: ¿cómo podemos **replicar a los seres vivos** utilizando chips de silicio, redes informáticas y software?
+
+Los avances en IA hacen posible predecir que en un futuro cercano, las computadoras alcanzarán algún tipo de inteligencia. Sin embargo, la vida artificial no posee dos de las principales características asociadas con la vida orgánica planetaria:
+
+- No está basada en carbono y agua.
+- No ha evolucionado junto con otras formas de vida.
+
+Muchos científicos están preocupados porque los avances en IA puedan conducir a situaciones **impredecibles y peligrosas**, sin control humano sobre los robots inteligentes.
+
+Imagina una situación donde la **manipulación de sonido, imagen o video** engañe a tus sentidos para hacerte experimentar algo que nunca ocurrió. Es aceptable ver una película de ciencia ficción o escuchar voces digitalmente modificadas, pero es inaceptable **chantajear a alguien con un video alterado digitalmente**.
+
+Las acciones deben considerarse bajo diferentes marcos:
+
+- La **religión, la sociedad, la profesión y la familia** establecen el marco ético.
+- Los **principios personales** establecen la moral.
+
+A pesar de las predicciones en contra, la TI ha **aumentado drásticamente la cantidad de papel impreso**. Incluso cuando los usuarios son cuidadosos con la impresión, enormes cantidades de papel acaban cada día en el contenedor de reciclaje. Y aun reciclar papel requiere un **uso intensivo de químicos y energía**. Las consecuencias ambientales deben tenerse en cuenta al imprimir documentos desde la computadora.
+
+Además, los **residuos electrónicos** contienen plomo, cadmio, mercurio, cromo, PVC y otros productos químicos peligrosos que terminan en vertederos, provocando contaminación.
+
+La **brecha digital** existe no solo entre hogares de ingresos altos y bajos, sino también entre países. Portátiles, tabletas, teléfonos inteligentes, pizarras digitales interactivas, multimedia, tecnologías inalámbricas, motores de búsqueda, redes sociales, intercambio de archivos, música y fotografía digital, y otras tecnologías de vanguardia forman parte de la vida diaria de los afortunados, pero son solo un sueño para muchos otros.
+
+Las consecuencias de la brecha digital generan una **creciente desigualdad** y una reducción de las oportunidades de educación, entretenimiento e ingresos.
