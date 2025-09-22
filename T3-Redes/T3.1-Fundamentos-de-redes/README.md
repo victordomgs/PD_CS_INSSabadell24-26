@@ -445,7 +445,7 @@ Los usuarios de VPN pueden intercambiar datos manteniendo la **privacidad** grac
 
 #### A. Requisitos de hardware y software
 
-1. Acceso a Internet.
+1. **Acceso a Internet.**
 2. **Software VPN** (software cliente, utilidades y software de servidor). El software VPN permite la comunicación privada a través de Internet.
 3. **Routers VPN**.
 4. **Dispositivos/appliances VPN**.
