@@ -181,5 +181,5 @@ Este método permite que el canal de comunicación se use de forma más eficient
 
 #### Tipos de conmutación de paquetes:
 
-**- Conmutación de paquetes por datagramas:** Cada paquete contiene la dirección del receptor. Los datagramas entre la misma fuente y destino pueden seguir caminos distintos.
-**- Conmutación de paquetes por circuito virtual:** Se establece una ruta entre origen y destino antes de que tenga lugar la transmisión.
+- **Conmutación de paquetes por datagramas:** Cada paquete contiene la dirección del receptor. Los datagramas entre la misma fuente y destino pueden seguir caminos distintos.
+- **Conmutación de paquetes por circuito virtual:** Se establece una ruta entre origen y destino antes de que tenga lugar la transmisión.
