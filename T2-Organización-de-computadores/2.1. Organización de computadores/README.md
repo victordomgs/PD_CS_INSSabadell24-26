@@ -1,4 +1,4 @@
-<img width="678" height="715" alt="image" src="https://github.com/user-attachments/assets/bc6cae2d-a1ae-4214-b146-5322904ec911" /><h1 align="center">2.1. Organización de computadores
+<h1 align="center">2.1. Organización de computadores
 <div align="center">
 
 </div>
