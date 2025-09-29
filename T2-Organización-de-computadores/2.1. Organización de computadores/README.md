@@ -516,7 +516,7 @@ Esto permite que una combinación de bits pueda representar cualquier número de
 ### Bits y bytes: unidad de medida en binario
 Un **bit** es la unidad más pequeña de información en el sistema binario. Sin embargo, trabajar con bits individuales sería poco práctico en la mayoría de las aplicaciones. Por esta razón, los bits se agrupan en conjuntos de 8 llamados **bytes**.
 
-    <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%202.%20Organizaci%C3%B3n%20de%20computadores.png" alt="Conexión del dispositivo E/S" width="550" height="auto"/>
     <p><em>Figura 9: Byte. Fuente: Kostas Dimitriou, Markos Hatzitaskos</em></p>
   </div>
@@ -677,7 +677,7 @@ ASCII facilita la interoperabilidad entre diferentes sistemas y dispositivos, ya
 
   <div style="text-align: center;">
   <img src="https://elcodigoascii.com.ar/codigo-americano-estandar-intercambio-informacion/codigo-ascii.png" alt="XT color" width="1199" height="669"/>
-  <p><em>Figura 1: El código ASCII. Fuente: <a href="https://elcodigoascii.com.ar/">El codigo ASCII</a></em></p>
+  <p><em>Figura 10: El código ASCII. Fuente: <a href="https://elcodigoascii.com.ar/">El codigo ASCII</a></em></p>
   </div>
 
 #### Conversión de letras y caracteres a código binario
@@ -1033,3 +1033,321 @@ Además de las direcciones de memoria y la representación de colores, el sistem
 
 - **Direcciones MAC en redes**: Las direcciones MAC (Media Access Control) se expresan en hexadecimal. Una dirección MAC típica tiene el formato `00:1A:2B:3C:4D:5E`, donde cada par de dígitos representa 8 bits.
 
+## 2.1.10. Representación de datos
+
+El código binario es la base de toda la tecnología digital. Su uso permite que las computadoras y otros dispositivos digitales representen, almacenen y procesen distintos tipos de datos. Gracias al sistema binario, es posible manejar la información de manera eficiente, fiable y segura en múltiples áreas de aplicación.
+
+### Uso en almacenamiento de datos
+El almacenamiento digital se basa completamente en el código binario. Cada bit (0 o 1) se utiliza para representar una unidad de información, y al agrupar múltiples bits, se pueden almacenar cantidades más grandes de datos en formas de bytes, kilobytes, megabytes, etc.
+
+  - **Discos duros, SSD y memorias flash:** Utilizan combinaciones de bits para guardar documentos, imágenes, videos, y más.
+  - **Memoria RAM:** Emplea el código binario para guardar temporalmente los datos que la CPU necesita procesar, proporcionando un acceso rápido y eficiente.
+  - **Base de datos y archivos:** Todo archivo digital, desde texto hasta gráficos complejos, se almacena en una secuencia de bits que los dispositivos pueden interpretar y utilizar.
+
+### Comunicación digital
+El código binario es esencial para la **comunicación digital**, ya que los datos transmitidos a través de redes (como Internet) se envían en forma de secuencias de bits. Este sistema permite enviar y recibir información de manera rápida y sin errores.
+
+  - **Protocolo de Internet (IP)**: Los datos se dividen en paquetes binarios, que se transmiten a través de la red y se vuelven a ensamblar en su destino.
+  - **Redes inalámbricas (Wi-Fi y Bluetooth)**: Utilizan secuencias binarias para comunicar dispositivos de manera eficiente y rápida.
+  - **Códigos de corrección de errores**: Utilizan bits adicionales en la transmisión de datos para detectar y corregir errores de transmisión.
+
+  <div style="text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Suite_de_Protocolos_TCPIP.png" alt="XT color" width="693" height="627"/>
+  <p><em>Figura 11: Suite de protocolos TCP/IP. Fuente: <a href="https://elcodigoascii.com.ar/">Wikipedia</a></em></p>
+  </div>
+  
+### Representación de imágenes, sonidos y otros tipos de datos
+El código binario permite la **representación de datos complejos**, como imágenes, sonidos y videos, que se pueden almacenar, editar y reproducir en dispositivos digitales.
+
+  - **Imágenes:** Representadas mediante mapas de bits donde cada píxel se convierte en una secuencia de bits. Formatos como JPEG, PNG y BMP se basan en el código binario.
+  - **Audio:** Los sonidos se graban y almacenan en formatos binarios como MP3, WAV, y AAC. Estos formatos utilizan muestras digitales que representan la onda sonora mediante bits.
+  - **Video:** Videos como los de formato MP4 y AVI están compuestos por secuencias de imágenes y audio, todo codificado en binario para reproducirse en dispositivos.
+
+## 2.1.11. Operadores lógicos
+
+Las **puertas lógicas** son los componentes básicos de los circuitos digitales y permiten realizar operaciones fundamentales del álgebra de Boole. Estas operaciones son esenciales para procesar información binaria en dispositivos electrónicos como ordenadores, calculadoras y sistemas automáticos. 
+
+A través del uso de puertas lógicas como AND, OR, NOT, entre otras, es posible diseñar y analizar circuitos que realicen tareas específicas basadas en combinaciones de entradas binarias.
+
+### Representación de funciones lógicas
+
+#### Definición de operadores booleanos
+
+Los **operadores booleanos** son herramientas fundamentales del álgebra de Boole. A continuación, se presentan los operadores más comunes:
+
+1. **NOT** (Negación): Produce el valor opuesto de una entrada. Si la entrada es `1`, el resultado es `0` y viceversa.
+
+| Entrada A | NOT A |
+|-----------|-------|
+| 0         | 1     |
+| 1         | 0     |
+
+2. **AND** (Conjunción): Devuelve `1` si todas las entradas son `1`. Si alguna es `0`, el resultado es `0`.
+
+| Entrada A | Entrada B | A AND B |
+|-----------|-----------|---------|
+| 0         | 0         | 0       |
+| 0         | 1         | 0       |
+| 1         | 0         | 0       |
+| 1         | 1         | 1       |
+
+3. **OR** (Disyunción): Devuelve `1` si al menos una de las entradas es `1`. Solo es `0` si todas las entradas son `0`.
+
+| Entrada A | Entrada B | A OR B |
+|-----------|-----------|--------|
+| 0         | 0         | 0      |
+| 0         | 1         | 1      |
+| 1         | 0         | 1      |
+| 1         | 1         | 1      |
+
+4. **NAND** (Negación de AND): Devuelve el valor opuesto al de la operación AND.
+
+| Entrada A | Entrada B | A NAND B |
+|-----------|-----------|----------|
+| 0         | 0         | 1        |
+| 0         | 1         | 1        |
+| 1         | 0         | 1        |
+| 1         | 1         | 0        |
+
+5. **NOR** (Negación de OR): Devuelve el valor opuesto al de la operación OR.
+
+| Entrada A | Entrada B | A NOR B |
+|-----------|-----------|---------|
+| 0         | 0         | 1       |
+| 0         | 1         | 0       |
+| 1         | 0         | 0       |
+| 1         | 1         | 0       |
+
+6. **XOR** (Disyunción exclusiva): Devuelve `1` si exactamente una de las entradas es `1`. Si todas las entradas son iguales, devuelve `0`.
+
+| Entrada A | Entrada B | A XOR B |
+|-----------|-----------|---------|
+| 0         | 0         | 0       |
+| 0         | 1         | 1       |
+| 1         | 0         | 1       |
+| 1         | 1         | 0       |
+
+## 2.1.12. Tablas de la verdad
+
+Las tablas de verdad permiten visualizar los resultados de los operadores booleanos para todas las combinaciones posibles de entradas. A continuación, se muestra un ejemplo para los operadores definidos:
+
+| Entrada A | Entrada B | NOT A | NOT B | A AND B | A OR B | A NAND B | A NOR B | A XOR B |
+|-----------|-----------|--------|--------|---------|---------|----------|---------|---------|
+| 0         | 0         | 1      | 1      | 0       | 0       | 1        | 1       | 0       |
+| 0         | 1         | 1      | 0      | 0       | 1       | 1        | 0       | 1       |
+| 1         | 0         | 0      | 1      | 0       | 1       | 1        | 0       | 1       |
+| 1         | 1         | 0      | 0      | 1       | 1       | 0        | 0       | 0       |
+
+#### Ejemplos:
+
+##### Ejemplo 1:
+
+Un sistema de riego automático funciona si está activado manualmente o si el sensor de humedad detecta que el suelo está seco.
+
+Consideramos las siguientes entradas: 
+- Entrada A: Se activa manualmente.
+- Entrada B: Detecta humedad el sensor.
+
+Esta lógica la podemos interpretar como una combinación de operaciones booleanas:
+
+**Salida (Sistema de riego activado)** = (A OR B)
+
+| A         | B          | Salida      |
+|-----------|------------|-------------|
+| 0         | 0          | 0           |
+| 0         | 1          | 1           |
+| 1         | 0          | 1           |
+| 1         | 1          | 1           |
+
+##### Ejemplo 2:
+
+Un sistema de seguridad activa la alarma solo si ambas puertas de entrada y ventana están abiertas al mismo tiempo.
+
+Consideramos las siguientes entradas: 
+- Entrada A: Puerta de entrada abierta.
+- Entrada B: Ventana abierta.
+
+ Esta lógica la podemos interpretar como una combinación de operaciones booleanas:
+
+ **Salida (Sistema de alarmas activado)** = A AND B
+
+| A         | B          | Salida      |
+|-----------|------------|-------------|
+| 0         | 0          | 0           |
+| 0         | 1          | 0           |
+| 1         | 0          | 0           |
+| 1         | 1          | 1           |
+
+##### Ejemplo 3:
+
+Un sistema de seguridad activa la alarma si no se cumplen ambas condiciones: la puerta está cerrada y la ventana está cerrada.
+
+Consideramos las siguientes entradas: 
+- Entrada A: Puerta cerrada.
+- Entrada B: Ventana cerrada.
+
+ Esta lógica la podemos interpretar como una combinación de operaciones booleanas:
+
+**Salida (Alarmas activada)** = NOT(A AND B)
+
+| A                   | B                   | A AND B | NAND                    |
+|---------------------|---------------------|---------|-------------------------|
+| 0                   | 0                   | 0       | 1                       |
+| 0                   | 1                   | 0       | 1                       |
+| 1                   | 0                   | 0       | 1                       |
+| 1                   | 1                   | 1       | 0                       |
+
+
+##### Ejemplo 4:
+
+Un sistema de ahorro de energía apaga las luces si ningún interruptor está activado.
+
+Consideramos las siguientes entradas: 
+- Entrada A: Interruptor 1 activado.
+- Entrada B: Interruptor 2 activado.
+
+Esta lógica la podemos interpretar como una combinación de operaciones booleanas:
+
+**Salida (Luces apagadas)** = NOT(A OR B)
+
+| A                   | B                   | A OR B  | NOR                     |
+|---------------------|---------------------|---------|-------------------------|
+| 0                   | 0                   | 0       | 1                       |
+| 0                   | 1                   | 1       | 0                       |
+| 1                   | 0                   | 1       | 0                       |
+| 1                   | 1                   | 1       | 0                       |
+  
+##### Ejemplo 5:
+
+Un sistema de encendido alternativo activa un dispositivo si exactamente uno de los botones está presionado.
+
+Consideramos las siguientes entradas: 
+- Entrada A: Botón 1 activado.
+- Entrada B: Botón 2 activado.
+
+Esta lógica la podemos interpretar como una combinación de operaciones booleanas:
+
+**Salida (Dispositivo activado)** = A XOR B
+
+| A                   | B                   |  XOR                     |
+|---------------------|---------------------| -------------------------|
+| 0                   | 0                   |  0                       |
+| 0                   | 1                   |  1                       |
+| 1                   | 0                   |  1                       |
+| 1                   | 1                   |  0                       |
+  
+
+##### Ejemplo 6:
+
+Una alarma de seguridad suena si la puerta está abierta y no hay luz en la habitación.
+
+Consideramos las siguientes entradas: 
+- Entrada A: Puerta abierta.
+- Entrada B: Luz encendida.
+
+ Esta lógica la podemos interpretar como una combinación de operaciones booleanas:
+
+  **Salida (Alarma de seguridad suena)** = A AND (NOT B)
+
+| A         | B          | NOT B       | Salida      |
+|-----------|------------|-------------|-------------|
+| 0         | 0          | 1           | 0           |
+| 0         | 1          | 0           | 0           |
+| 1         | 0          | 1           | 1           |
+| 1         | 1          | 0           | 0           |
+
+##### Ejemplo 7:
+
+Un sistema de calefacción se enciende si hace frío y alguien esta en casa o si se activa manualmente.
+
+O, dicho de otra manera: Un sistema de calefacción se enciende si hace frío (A) y si alguien esta en casa (B) o si se activa manualmente (C).
+
+Consideramos las siguientes entradas: 
+- Entrada A: Hace frío.
+- Entrada B: Alguien en casa.
+- Entrada C: Se activa manualmente.
+
+Esta lógica la podemos interpretar como una combinación de operaciones booleanas: 
+
+**Salida (Sistema de calefacción se enciende)** = (A AND B) OR C
+
+| A         | B          | (A AND B)   | C           | Salida        |
+|-----------|------------|-------------|-------------|---------------|
+| 0         | 0          | 0           | 0           | 0             |
+| 0         | 0          | 0           | 1           | 1             |
+| 0         | 1          | 0           | 0           | 0             |
+| 0         | 1          | 0           | 1           | 1             |
+| 1         | 0          | 0           | 0           | 0             |
+| 1         | 0          | 0           | 1           | 1             |
+| 1         | 1          | 1           | 0           | 1             |
+| 1         | 1          | 1           | 1           | 1             |
+
+
+### Transformación de una tabla de la verdad a álgebra de Boole
+
+A continuación, se explicará cómo transformar una tabla de la verdad en una expresión en Álgebra de Boole.
+
+#### Ejemplo 1: Dos entradas y una salida
+
+Dada la siguiente tabla de la verdad:
+
+| A | B | S |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
+
+##### Paso 1: Identificar las combinaciones donde S = 1
+En la tabla, S es 1 en las siguientes combinaciones:
+- A = 0, B = 1
+- A = 1, B = 0
+
+##### Paso 2: Escribir la expresión en forma de suma de productos (SoP)
+Cada fila donde la salida es 1 se traduce a un término AND con las variables en su forma directa (si son 1) o negada (si son 0):
+
+- Para A=0 y B=1 → `A'B`
+- Para A=1 y B=0 → `AB'`
+
+La función en Álgebra de Boole se expresa como:
+
+```
+S = A'B + AB'
+```
+
+#### Ejemplo 2: Tres entradas y una salida
+
+Dada la siguiente tabla de la verdad:
+
+| A | B | C | S |
+|---|---|---|---|
+| 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 1 |
+| 0 | 1 | 0 | 1 |
+| 0 | 1 | 1 | 0 |
+| 1 | 0 | 0 | 1 |
+| 1 | 0 | 1 | 0 |
+| 1 | 1 | 0 | 0 |
+| 1 | 1 | 1 | 1 |
+
+##### Paso 1: Identificar las combinaciones donde S = 1
+
+La salida es 1 en las siguientes combinaciones:
+- A = 0, B = 0, C = 1
+- A = 0, B = 1, C = 0
+- A = 1, B = 0, C = 0
+- A = 1, B = 1, C = 1
+
+##### Paso 2: Escribir la expresión en forma de suma de productos (SoP)
+Cada fila donde la salida es 1 se traduce a un término AND:
+
+- Para A=0, B=0, C=1 → `A'B'C`
+- Para A=0, B=1, C=0 → `A'BC'`
+- Para A=1, B=0, C=0 → `AB'C'`
+- Para A=1, B=1, C=1 → `ABC`
+
+La función resultante es:
+
+```
+S = A'B'C + A'BC' + AB'C' + ABC
+```
