@@ -1351,3 +1351,4 @@ La función resultante es:
 ```
 S = A'B'C + A'BC' + AB'C' + ABC
 ```
+ ## 2.1.13. Diagrama lógico y diagrama de Venn
