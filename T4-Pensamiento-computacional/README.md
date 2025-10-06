@@ -68,3 +68,117 @@ Las notas que siguen a algunos enunciados de evaluación sirven como orientació
 | 4.3.11 Elabore algoritmos usando los métodos de acceso de una colección. | 3 | **VÍNCULO:** Relación entre el pensamiento computacional y el diseño de programas. |
 | 4.3.12 Discuta la necesidad de subprogramas y colecciones dentro de las soluciones programadas. | 3 | Mostrar conocimientos de la utilidad del código reutilizable y la organización de los programas para el programador individual, los miembros del equipo y el mantenimiento futuro. **VÍNCULO:** Principios generales del pensamiento computacional, Relación entre el pensamiento computacional y el diseño de programas. **PAI Tecnología:** utilizar un software como Alice. |
 | 4.3.13 Elabore algoritmos usando subprogramas predefinidos, matrices unidimensionales y/o colecciones. | 3 | **PAI Matemáticas:** Usar diagramas de flujo para resolver problemas en contextos reales, lógica y algoritmos. **PAI Tecnología:** Ciclo de diseño (entradas, procesos, salidas, comentarios y opiniones, iteración), uso de un software como Alice. En los componentes de evaluación externa los alumnos solo tendrán que analizar diagramas de flujo. En los componentes de evaluación externa se espera que los alumnos escriban y analicen pseudocódigo. **S/E, OBJ. GEN. 8:** Apreciar las implicaciones de usar código disponible en fuentes como foros en línea. **VÍNCULO:** Relación entre el pensamiento computacional y el diseño de programas. |
+
+## El concepto de un problema
+
+Según el diccionario de Cambridge: “Un problema es una situación que necesita atención y que debe ser tratada o resuelta”. Cada vez que tenemos que enfrentarnos a un problema, debemos tomar una o más decisiones. Herbert A. Simon (Premio Nobel de Ciencias Económicas, 1978) fue pionero en muchos campos, incluido el de la toma de decisiones. Originalmente definió tres pasos en la toma de decisiones: recopilación de información (intelligence gathering), diseño y elección (Simon, 1960). Otros investigadores (Mintzberg et al., 1976) redefinieron estas tres etapas como una secuencia de identificación, desarrollo y selección. En ambos casos, a estas fases les sigue una de implementación (Figura A).
+
+Cada vez que necesitas resolver un problema, debes tomar una decisión siguiendo estos pasos. A veces, una persona que busca la solución de un problema debe volver a una fase anterior y mejorar el resultado antes de continuar hacia la siguiente. Imagina una situación en la que, durante la fase de selección, la alternativa escogida no produce los resultados deseados de manera eficiente. Entonces es necesario regresar a la fase de desarrollo y explorar nuevamente distintas alternativas (Figura B).
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2013.%20Pensamiento%20computacional.png" alt="Decision making process" width="650" height="auto"/>
+    <p><em>Figura A: Decision making process. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+
+Seguir el proceso anterior resolverá la mayoría de los problemas, pero no garantiza la solución de todos ellos.
+Existen muchos problemas matemáticos que aún permanecen sin resolver. Algunos de estos problemas no resueltos son:
+
+- La conjetura de Goldbach
+- La hipótesis de Riemann
+- La conjetura de que existe una matriz de Hadamard para todo múltiplo positivo de 4
+- La conjetura de los primos gemelos
+- La determinación de si los problemas NP son en realidad problemas P
+- El problema de Collatz
+
+Sin embargo, podemos suponer que todos ellos serán resueltos algún día, casi con toda certeza utilizando el proceso de toma de decisiones mencionado.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2014.%20Pensamiento%20computacional.png" alt="Decision making process" width="650" height="auto"/>
+    <p><em>Figura B: Decision making process is not linear. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+
+Otros problemas, como la predicción precisa de terremotos, el origen del Universo o la cuestión del “libre albedrío”, todavía están en investigación ¡y quizás lo estén para siempre! Es muy importante comprender que los ordenadores solo pueden resolver problemas que también son resolubles por los seres humanos, pero además, que los ordenadores **no pueden resolver algunos problemas que sí pueden ser resueltos por los humanos**.
+
+Toma, por ejemplo, el Completely Automated Public Turing test to tell Computers and Humans Apart (CAPTCHA). Este es un programa usado para evitar que los bots o software automatizado manipulen encuestas en línea, registren cuentas de correo electrónico, etc. Algunos problemas requieren inteligencia humana, percepción humana, intuición humana y lógica humana, y únicamente los programas de Inteligencia Artificial avanzada pueden acercarse a imitar el rendimiento humano en estas áreas.
+
+La programación consiste en la creación de una serie de pasos que permitan resolver un problema. Es un proceso de resolución por fases. Es muy importante comprender que un programa informático es una secuencia de instrucciones que indica al ordenador cómo resolver un problema específico. Algunos problemas son muy complicados, mientras que otros son fáciles de resolver.
+
+Compárese con los siguientes problemas:
+
+1. Escribir un programa que calcule la probabilidad de que ocurra un terremoto en Estados Unidos en los próximos 34 minutos.
+2. Escribir un programa que muestre en pantalla “Hello world”.
+
+Una búsqueda en Google sobre el primer problema devuelve **72.200.000 resultados**. Te tomaría aproximadamente **4.178 días** leer, a razón de 10 segundos por resultado, la mitad de ellos. Y lo curioso es que es prácticamente imposible escribir un programa decente para abordar ese problema en particular.
+
+En cambio, Google devuelve **1.280.000 resultados** para el segundo problema, y encontrarás una respuesta perfecta haciendo clic en los primeros enlaces.
+
+## Algoritmo
+
+Un algoritmo es una serie de instrucciones no ambiguas diseñadas para resolver un problema y alcanzar un objetivo determinado en un número finito de pasos. Según Knuth (1968), un algoritmo debe poseer las siguientes propiedades:
+
+- **Finitud:** “Un algoritmo debe terminar siempre después de un número finito de pasos —un número muy finito, un número razonable—”.
+- **Definición precisa:** “Cada paso de un algoritmo debe estar definido con exactitud; las acciones que se deben llevar a cabo han de estar especificadas de manera rigurosa y sin ambigüedad en cada caso”.
+- **Entrada (Input):** “…cantidades que se proporcionan inicialmente antes de que comience el algoritmo. Estas entradas se toman de conjuntos de objetos especificados”.
+- **Salida (Output):** “…cantidades que guardan una relación determinada con las entradas”.
+- **Efectividad:** “…todas las operaciones que se realizan en el algoritmo deben ser lo suficientemente básicas como para que, en principio, puedan hacerse de manera exacta y en un tiempo finito por una persona usando papel y lápiz”.
+
+Piensa en un algoritmo como una receta. Es sencillo escribir una receta para un huevo hervido:
+
+1. Coge un huevo a temperatura ambiente.
+2. Pon a hervir un cazo pequeño con agua.
+3. Mete el huevo en el cazo.
+4. Hiérvelo durante 4 minutos.
+5. ¡Listo!
+
+Ahora considera una receta para hacer una tortilla:
+
+1. Bate dos huevos con un poco de leche, sal y pimienta.
+2. Calienta un poco de aceite en una sartén y añade la mezcla.
+3. Después de un minuto, remueve y baja el fuego.
+4. Añade jamón, champiñones y queso sobre la superficie.
+5. Espera a que la parte inferior de la tortilla cuaje.
+6. Dóblala por la mitad y sirve.
+7. ¡Delicioso!
+
+Hervir un huevo no es tan simple como hervir agua. Cuanto más sencillo es el problema, más sencillo será el algoritmo. Cuanto más difícil sea el problema, más grande y complejo será el algoritmo. Es muy importante comprender que **escribir un algoritmo es, en esencia, resolver un problema**.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2015.%20Pensamiento%20computacional.png" alt="Expressions" width="650" height="auto"/>
+    <p><em>Figura C: Many expressions can solve the same problem. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
+
+Para cada problema pueden existir muchos algoritmos, y para cada algoritmo puede haber muchas formas diferentes de expresarlo (implementaciones). Un algoritmo puede expresarse de varias maneras, entre ellas:
+
+1. **Lenguaje natural (inglés sencillo, por ejemplo):** No es muy común porque suele ser extenso y ambiguo.
+2. **Diagrama de flujo:** Un método gráfico formalizado de representación que evita la mayoría de los problemas de ambigüedad.
+3. **Pseudocódigo:** Es un lenguaje artificial genérico que describe algoritmos informáticos pero que no utiliza la sintaxis de ningún lenguaje de programación en particular. El pseudocódigo a menudo puede contener lenguaje natural para describir algunas partes de un algoritmo. Estas partes, escritas en lenguaje natural, se reemplazan posteriormente.
+4. **Lenguaje de programación:** Es un lenguaje artificial diseñado de tal forma que pueda ser usado por los humanos para comunicarse con un sistema informático. Existen diversos lenguajes de programación que pueden utilizarse para distintos fines o problemas. Una característica común a todos los lenguajes de programación es que permiten describir algoritmos, crear programas y controlar maquinaria.
+
+## Pseudocódigo
+
+El propósito principal del **pseudocódigo** es ayudar a los programadores a desarrollar programas informáticos.
+Como el pseudocódigo está escrito para humanos, la sintaxis que se utiliza no es tan estricta como la que se emplea en los lenguajes de programación.
+
+El pseudocódigo normalmente omite detalles que no son importantes para la comprensión humana del algoritmo. Los ordenadores no pueden interpretar una solución en forma de pseudocódigo, por lo tanto, este debe convertirse en un lenguaje de programación.
+
+Cuando un programador desarrolla pseudocódigo, no necesariamente piensa en un lenguaje de programación en particular. Normalmente, un pseudocódigo puede convertirse con relativa facilidad en cualquier lenguaje de programación.
+
+Es importante entender que **escribir pseudocódigo es una actividad que se realiza con papel y lápiz**.
+
+```
+loop A from 1 to 2
+    output "THIS WILL BE PRINTED TWICE"
+end loop
+C = 1
+loop while C < 5
+    output "THIS MESSAGE WILL BE PRINTED FOUR TIMES"
+    C = C + 1
+end loop
+```
+
+Dicho algoritmo se puede presentar como un diagrama de flujos:
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2016.%20Pensamiento%20computacional.png" alt="" width="650" height="auto"/>
+    <p><em>Figura D: Flowchart with IB CS Approved. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
+  </div>
