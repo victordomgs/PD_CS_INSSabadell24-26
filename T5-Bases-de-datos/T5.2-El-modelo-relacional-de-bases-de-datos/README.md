@@ -191,7 +191,7 @@ Cuando se diseña una base de datos, no se trabaja directamente con los datos ni
 Este enfoque se organiza en **tres niveles de esquema**: conceptual, lógico y físico.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%203.%20Bases%20de%20datos.png" alt="ANSI arquitecture" width="450" height="auto"/>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%203.%20Bases%20de%20datos.png" alt="ANSI arquitecture" width="600" height="auto"/>
     <p><em>Figura 3: Arquitectura de 3 niveles. Fuente: Dongee</em></p>
   </div>
 
