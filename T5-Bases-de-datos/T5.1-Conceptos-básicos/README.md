@@ -184,3 +184,91 @@ Incluso si el sistema falla inmediatamente después, los cambios no se pierden. 
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%201.%20Bases%20de%20datos.gif" alt="ACID" width="850" height="auto"/>
     <p><em>Figura 1: ACID. Fuente: SubStack</em></p>
   </div>
+
+## 5.1.8. Funciones de consulta y actualización
+
+En una base de datos, todo el trabajo que realizan los usuarios y las aplicaciones se puede agrupar en dos grandes tipos de funciones: **consultas y actualizaciones**. Estas funciones representan dos formas distintas de interactuar con los datos y son esenciales para comprender cómo se gestiona la información en un sistema moderno.
+
+### Funciones de consulta: obtener información sin modificar los datos
+
+Las **consultas** son operaciones diseñadas para **leer** datos de la base de datos sin alterarlos. Son fundamentales porque permiten a los usuarios responder preguntas y obtener información útil a partir de los datos almacenados.
+
+Una consulta puede ser tan sencilla como recuperar todos los registros de una tabla, o tan compleja como combinar datos de varias tablas, aplicar filtros, ordenar resultados o realizar cálculos. Los lenguajes de consulta, como SQL, permiten transformar datos brutos en información significativa.
+
+Ejemplos típicos de consultas incluyen:
+
+- “Mostrar todos los estudiantes matriculados en un curso”.
+- “Calcular la venta total del mes”.
+- “Buscar los productos cuyo stock es inferior a un valor determinado”.
+
+Lo más importante es que **las consultas no cambian el contenido de la base de datos**: son operaciones seguras, que solo leen y presentan información.
+
+### Funciones de actualización: modificar el contenido de la base de datos
+
+Las **actualizaciones** son operaciones que **cambian** los datos almacenados. Engloban tres tipos principales de acciones:
+
+- **Inserción (INSERT):** añadir nuevos datos.
+- **Modificación (UPDATE):** cambiar datos existentes.
+- **Eliminación (DELETE):** borrar datos que ya no son necesarios.
+
+Estas funciones afectan directamente al estado interno de la base de datos y, por tanto, deben realizarse con especial cuidado. Cada actualización debe respetar las reglas de integridad definidas (como claves foráneas, valores permitidos o unicidad), y normalmente se ejecuta dentro de una **transacción** para garantizar que la base de datos nunca quede en un estado incoherente.
+
+Ejemplos habituales de actualizaciones:
+
+- Registrar un nuevo cliente.
+- Cambiar la dirección de un empleado.
+- Eliminar un pedido cancelado.
+
+Las actualizaciones pueden tener un impacto significativo en el sistema, pues modifican la información que otros usuarios podrían necesitar.
+
+### Un equilibrio fundamental
+
+Las bases de datos modernas deben manejar cientos o miles de consultas y actualizaciones simultáneas. Las consultas suelen ser más frecuentes, ya que los usuarios pasan más tiempo leyendo información que modificándola. Sin embargo, las actualizaciones son igual de críticas porque mantienen la base de datos actualizada y precisa.
+
+Para garantizar la coherencia en entornos concurrentes, los sistemas de bases de datos aplican mecanismos como transacciones ACID, bloqueos y control de aislamiento, que permiten que ambas funciones coexistan sin comprometer la integridad de la información.
+
+## 5.1.9. Validación y verificación de datos
+
+En cualquier sistema de información, especialmente en bases de datos, no basta con almacenar datos: es fundamental asegurarse de que esos datos sean correctos, coherentes y fiables. Para lograrlo, entran en juego dos procesos que suelen confundirse, pero que cumplen funciones distintas y complementarias: la **validación** y la **verificación** de datos.
+
+Aunque ambos persiguen la calidad de la información, lo hacen desde perspectivas diferentes.
+
+### Validación: comprobar si los datos cumplen las reglas establecidas
+
+La **validación** es el proceso mediante el cual la base de datos o el sistema comprueba que los datos introducidos **son aceptables según un conjunto de reglas o restricciones predefinidas**.
+Estas reglas están diseñadas para evitar errores comunes: valores fuera de rango, formatos incorrectos o datos que no cumplen con las normas lógicas del sistema.
+
+Ejemplos de validación incluyen:
+
+- Comprobar que un correo electrónico tiene un formato válido.
+- Verificar que una edad no es negativa.
+- Asegurar que un campo obligatorio no se queda vacío.
+- Revisar que una fecha existe realmente (por ejemplo, que no se introduzca “31 de febrero”).
+
+Estas validaciones pueden realizarse tanto desde la interfaz de usuario como desde el propio SGBD, mediante **restricciones de integridad** (CHECK, NOT NULL, UNIQUE…) o reglas de negocio.
+
+La validación **no garantiza que los datos sean verdaderos**, solo que son **lógicamente correctos y cumplen el formato requerido**.
+
+### Verificación: comprobar si los datos son correctos respecto a la realidad
+
+La **verificación** va un paso más allá. Su objetivo es comprobar si los datos **son auténticos, exactos o coinciden con la realidad** que representan.
+
+Mientras que la validación se centra en el formato y la estructura, la verificación se ocupa del **contenido real**.
+
+Ejemplos de verificación:
+
+- Confirmar que un número de teléfono pertenece realmente al usuario.
+- Comprobar que un DNI introducido existe y corresponde a una persona real.
+- Revisar físicamente una factura para asegurar que la cantidad registrada es correcta.
+- Comparar un registro con su fuente original (documento, sensor, sistema externo).
+
+La verificación suele requerir una comprobación manual o una comparación contra otra base de datos o un sistema confiable. Por eso, es habitual en contextos donde la precisión es crucial, como bancos, hospitales o instituciones educativas.
+
+### Por qué son necesarias: proteger la integridad de la información
+
+Tanto la validación como la verificación contribuyen a mejorar la calidad de los datos, pero lo hacen desde ángulos distintos:
+
+- **La validación evita errores de entrada y mantiene la coherencia interna.**
+- **La verificación garantiza que los datos son verdaderos y exactos respecto al mundo real.**
+
+Cuando ambas se aplican correctamente, reducen errores, evitan inconsistencias y fortalecen la integridad de la base de datos, permitiendo que la información resultante sea fiable y útil para la toma de decisiones.
