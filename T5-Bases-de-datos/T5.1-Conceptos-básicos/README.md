@@ -181,6 +181,6 @@ La durabilidad garantiza que, una vez una transacción se completa y se confirma
 Incluso si el sistema falla inmediatamente después, los cambios no se pierden. Los sistemas de bases de datos utilizan mecanismos como registros de transacciones, archivos de recuperación y almacenamiento seguro para asegurar esta permanencia.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%201.%20Bases%20de%20datos.gif" alt="ACID" width="650" height="auto"/>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%201.%20Bases%20de%20datos.gif" alt="ACID" width="850" height="auto"/>
     <p><em>Figura 1: ACID. Fuente: SubStack</em></p>
   </div>
