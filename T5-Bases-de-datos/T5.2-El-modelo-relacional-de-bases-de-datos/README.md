@@ -239,3 +239,41 @@ Se centra en aspectos internos del SGBD que afectan al rendimiento, como:
 - utilización de memoria y cachés.
 
 Este diseño tiene como objetivo optimizar **la velocidad y la eficiencia**, pero es invisible para los usuarios finales y para la mayoría de los programadores.
+
+<br>
+
+## 5.2.6. Los diccionarios de datos
+
+El diccionario de datos es un **repositorio centralizado** de metadatos que describe la estructura, las reglas y los elementos de una base de datos. El SGBD lo mantiene y utiliza para garantizar el funcionamiento correcto, seguro y eficiente del sistema.
+
+<br>
+
+## 5.2.7. El lenguaje de definición de datos
+
+Cuando se diseña una base de datos, se parte de un **modelo de datos**, que describe cómo debe organizarse la información: qué entidades existirán, qué atributos las caracterizan y cómo se relacionan entre sí. Pero un modelo, por sí solo, es solo una representación conceptual. Para convertir ese diseño en una base de datos real y funcional, se necesita una herramienta clave: el **Lenguaje de Definición de Datos**, conocido como **DDL (Data Definition Language)**.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%204.%20Base%20de%20datos.jpg" alt="SQL language" width="600" height="auto"/>
+    <p><em>Figura 4: El lenguaje SQL. Fuente: Geeks for Geeks</em></p>
+  </div>
+
+### Convertir el diseño conceptual en estructura real
+
+Mediante el DDL, el diseñador define:
+
+- **Tablas**, que representan entidades del modelo.
+- **Columnas y sus tipos de datos**, que corresponden a los atributos.
+- **laves primarias**, que garantizan la identificación única de los registros.
+- **Claves foráneas**, que establecen las relaciones entre tablas.
+- **Restricciones de integridad**, que aseguran que los datos cumplen reglas lógicas.
+
+### Garantizar la integridad desde el principio
+
+El DDL no solo crea la estructura: también define reglas que protegen la integridad de la base de datos.
+Estas reglas pueden incluir:
+
+- valores permitidos,
+- longitudes máximas,
+- integridad referencial,
+- unicidad,
+- obligatoriedad de ciertos campos.
