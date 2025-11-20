@@ -127,7 +127,7 @@ En última instancia, estos mecanismos garantizan que la base de datos mantenga 
 
 ## 5.1.5. Transacción de bases de datos
 
-Una **ransacción de bases de datos** es una unidad lógica de trabajo compuesta por una o varias operaciones que deben ejecutarse de manera completa y coherente. En otras palabras, es un conjunto de acciones que la base de datos trata como un único bloque indivisible: o se realizan todas correctamente, o no se realiza ninguna.
+Una **transacción de bases de datos** es una unidad lógica de trabajo compuesta por una o varias operaciones que deben ejecutarse de manera completa y coherente. En otras palabras, es un conjunto de acciones que la base de datos trata como un único bloque indivisible: o se realizan todas correctamente, o no se realiza ninguna.
 
 La idea fundamental es evitar que la base de datos quede en un estado inconsistente. Si una transacción incluye varias operaciones —por ejemplo, insertar un registro, actualizar otro o eliminar un tercero—, el sistema debe garantizar que todas se ejecutan de forma correcta antes de confirmar los cambios. Si algo sale mal en mitad del proceso (un error, una violación de integridad o un fallo de sistema), la transacción se **revierte** por completo y la base de datos vuelve al estado anterior, como si nada hubiera ocurrido.
 
