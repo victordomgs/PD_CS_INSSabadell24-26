@@ -505,3 +505,16 @@ Se han definido dos relaciones:
     <img src="https://github.com/victordomgs/M0372_M0377_BBDD_ASIX/blob/main/BA1-RA1_RA2/images/Figura%2011.%20Diagrama%20E-R%20de%20les%20relacions%20entre%20departaments%20i%20empleats.png" alt="BD" width="950" height="auto"/>
     <p><em>Figura 13: Diagrama E-R de les relacions entre departaments i empleats.</em></p>
   </div
+
+<br>
+
+## 5.2.11. Redundancia de datos
+
+La redundancia de datos se produce cuando la misma información se almacena varias veces dentro de una base de datos. Esto suele ocurrir cuando el diseño de la base de datos no está bien estructurado o no sigue correctamente los principios del modelo relacional.
+
+Un ejemplo de redundancia seria la siguiente tabla mal diseñada:
+
+| id_matricula | nombre_alumno | email_alumno                          | asignatura  |
+| ------------ | ------------- | ------------------------------------- | ----------- |
+| 1            | Ana López     | [ana@email.com](mailto:ana@email.com) | Matemáticas |
+| 2            | Ana López     | [ana@email.com](mailto:ana@email.com) | Física      |
