@@ -277,3 +277,151 @@ Estas reglas pueden incluir:
 - integridad referencial,
 - unicidad,
 - obligatoriedad de ciertos campos.
+
+### Principales sentencias del DDL
+
+1. **CREATE** – Crear estructuras
+
+Se utiliza para crear nuevos objetos en la base de datos, como bases de datos, tablas o vistas.
+
+Ejemplo: creación de una tabla en un modelo relacional
+
+```sql
+CREATE TABLE Alumno (
+    id_alumno INT PRIMARY KEY,
+    nombre VARCHAR(50),
+    email VARCHAR(100) UNIQUE,
+    edad INT
+);
+```
+
+En este ejemplo:
+
+- Se crea la tabla `Alumno`
+- `id_alumno` es la clave primaria
+- Se definen tipos de datos y restricciones
+
+2. **ALTER** – Modificar estructuras existentes
+
+Permite cambiar la estructura de una tabla ya creada, por ejemplo:
+
+- Añadir columnas
+- Eliminar columnas
+- Modificar tipos de datos
+
+Ejemplo: añadir una nueva columna
+
+```sql
+ALTER TABLE Alumno
+ADD telefono VARCHAR(15);
+```
+
+3. **DROP** – Eliminar estructuras
+
+Se utiliza para eliminar completamente un objeto de la base de datos.
+
+Ejemplo:
+
+```sql
+DROP TABLE Alumno;
+```
+
+> [!WARNING]  
+> Esta acción es irreversible: se pierde la estructura y los datos.
+
+4. **TRUNCATE** – Vaciar una tabla
+
+Elimina todos los registros de una tabla, pero mantiene su estructura.
+
+```sql
+TRUNCATE TABLE Alumno;
+```
+
+Diferencia clave:
+
+- `DROP` elimina la tabla
+- `TRUNCATE` solo elimina los datos
+
+### Restricciones de integridad en DDL
+
+El DDL permite definir reglas que garantizan la coherencia de los datos, muy importantes en el modelo relacional.
+
+Principales restricciones:
+
+`PRIMARY KEY`: identifica de forma única cada fila
+`FOREIGN KEY`: establece relaciones entre tablas
+`UNIQUE`: evita valores duplicados
+`NOT NULL`: impide valores nulos
+`CHECK`: impone condiciones
+`DEFAULT`: asigna valores por defecto
+
+Ejemplo con clave foránea:
+
+```sql
+CREATE TABLE Matricula (
+    id_matricula INT PRIMARY KEY,
+    id_alumno INT,
+    asignatura VARCHAR(50),
+    FOREIGN KEY (id_alumno) REFERENCES Alumno(id_alumno)
+);
+```
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%205.%20Bases%20de%20datos.png" alt="Bases de datos" width="600" height="auto"/>
+    <p><em>Figura 5: Relaciones entre tablas. Fuente: Astera.com</em></p>
+  </div>
+
+<br>
+
+## 5.2.8. Modelos de datos
+
+Un modelo de datos es una **forma de describir cómo se estructuran, organizan y relacionan los datos** dentro de una base de datos. Define **qué datos se almacenan, cómo se relacionan entre sí y qué reglas deben cumplir**.
+
+Los modelos de datos permiten pasar de una **necesidad del mundo real** a una **base de datos estructurada y coherente**.
+
+### Niveles de abstracción de los modelos de datos
+
+Los modelos de datos se pueden clasificar según su nivel de abstracción:
+
+#### 1. Modelo conceptual
+
+Es el modelo más abstracto, independiente de cualquier sistema gestor.
+
+- Representa la información del mundo real
+- Se centra en qué datos existen y cómo se relacionan
+- No incluye detalles técnicos
+
+Normalmente se representa mediante:
+
+- Diagramas entidad–relación (E-R)
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/M0372_M0377_BBDD_ASIX/blob/main/BA1-RA1_RA2/images/Figura%2014.%20Una%20relaci%C3%B3%20amb%20una%20altra%20relaci%C3%B3.png" alt="Bases de datos" width="600" height="auto"/>
+    <p><em>Figura 6: Diagrama E-R. Fuente: Astera.com</em></p>
+  </div>
+
+#### 2. Modelo lógico
+
+Describe la estructura de la base de datos **siguiendo un modelo concreto**, normalmente el **modelo relacional**, pero sin depender aún de un SGBD específico.
+
+Características:
+
+- Entidades → tablas
+- Atributos → columnas
+- Relaciones → claves foráneas
+- Se definen claves primarias
+
+Ejemplo:
+
+- Tabla Customers(customerID, firstName, lastName, birthDate, moneySpent, anniversary)
+- Tabla Orders(orderID, customerID, employeeID, productID, orderTotal, orderDate)
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%206.%20Bases%20de%20datos.png" alt="Bases de datos" width="600" height="auto"/>
+    <p><em>Figura 7: Modelo lógico. Fuente: planetscale.com</em></p>
+  </div>
+
+#### 3. Modelo físico
+
+Es el nivel más cercano a la implementación real. Depende del SGBD, incluye tipos de datos concretos y considera aspectos de rendimiento y almacenamiento. La implementación se realiza con el lenguaje de definición de datos.
+
