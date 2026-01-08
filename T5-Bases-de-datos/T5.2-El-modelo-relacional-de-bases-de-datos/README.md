@@ -425,3 +425,83 @@ Ejemplo:
 
 Es el nivel más cercano a la implementación real. Depende del SGBD, incluye tipos de datos concretos y considera aspectos de rendimiento y almacenamiento. La implementación se realiza con el lenguaje de definición de datos.
 
+<br>
+
+## 5.2.9. Términos clave de las bases de datos
+
+| Término        | Descripción                  |
+| -------------- | ---------------------------- |
+| Base de datos  | Conjunto organizado de datos |
+| SGBD           | Software que gestiona la BD  |
+| Tabla          | Estructura principal         |
+| Registro       | Fila de la tabla             |
+| Campo          | Columna de la tabla          |
+| Clave primaria | Identificador único          |
+| Clave foránea  | Relación entre tablas        |
+| Dominio        | Valores permitidos           |
+| Restricción    | Regla de integridad          |
+| Vista          | Tabla virtual                |
+
+<br>
+
+## 5.2.10. Tipologias de relaciones
+
+Se define el grado de una relación como el número de conjuntos de entidades que participan en el conjunto de relaciones, o lo que es lo mismo, el número de entidades que participan en una relación. Las relaciones en las que participan dos entidades son binarias o de grado dos. Si participan tres, serán ternarias o de grado tres. Los conjuntos de relaciones pueden tener cualquier grado, aunque lo ideal es tener relaciones binarias.
+
+Las relaciones en las que solo participa una entidad se denominan de anillo o de grado uno; relacionan una entidad consigo misma y se denominan relaciones reflexivas. Por ejemplo, la entidad EMPLEADO puede tener una relación JEFE DE consigo misma: un empleado es JEFE DE muchos empleados y, a la vez, el jefe también es un empleado.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/M0372_M0377_BBDD_ASIX/blob/main/BA1-RA1_RA2/images/Figura%206.%20Relacions%20de%20grau%201.png" alt="BD" width="450" height="auto"/>
+    <p><em>Figura 8: Relacions de grau 1.</em></p>
+  </div>
+
+En la Figura 9 se muestra una relación de grado dos, que representa a un proveedor que suministra artículos, y otra de grado tres, que representa a un cliente de un banco que tiene varias cuentas, y cada una en una sucursal.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/M0372_M0377_BBDD_ASIX/blob/main/BA1-RA1_RA2/images/Figura%207.%20Relacions%20de%20grau%202%20i%203.png" alt="BD" width="550" height="auto"/>
+    <p><em>Figura 9: Relacions de grau 2 i 3.</em></p>
+  </div
+
+En el modelo E-R se representan ciertas restricciones a las que deben ajustarse los datos contenidos en una base de datos. Estas son las restricciones de las cardinalidades de asignación, que expresan el número de entidades a las que puede asociarse otra entidad mediante un conjunto de relaciones.
+
+Las cardinalidades de asignación se describen para conjuntos binarios de relaciones. Son las siguientes:
+
+- **1:1, uno a uno.** A cada elemento de la primera entidad le corresponde solo uno de la segunda entidad, y a la inversa. Por ejemplo, un cliente de un hotel ocupa una habitación, o un curso de alumnos pertenece a un aula, y a esa aula solo asiste ese grupo de alumnos. Véase la Figura 8.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/M0372_M0377_BBDD_ASIX/blob/main/BA1-RA1_RA2/images/Figura%208.%20Representaci%C3%B3%20de%20relacions%201%20a%201.png" alt="BD" width="550" height="auto"/>
+    <p><em>Figura 10: Representació de relacions 1 a 1.</em></p>
+  </div>
+  
+- **1:N, uno a muchos.** A cada elemento de la primera entidad le corresponden uno o más elementos de la segunda entidad, y a cada elemento de la segunda entidad le corresponde solo uno de la primera entidad. Por ejemplo, un proveedor suministra muchos artículos (véase la Figura 9).
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/M0372_M0377_BBDD_ASIX/blob/main/BA1-RA1_RA2/images/Figura%209.%20Representaci%C3%B3%20de%20relacions%201%20a%20molts.png" alt="BD" width="550" height="auto"/>
+    <p><em>Figura 11: Representació de relacions 1 a molts.</em></p>
+  </div>
+
+- **N:1, muchos a uno.** Es el mismo caso que el anterior pero a la inversa; a cada elemento de la primera entidad le corresponde un elemento de la segunda, y a cada elemento de la segunda entidad le corresponden varios de la primera.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/M0372_M0377_BBDD_ASIX/blob/main/BA1-RA1_RA2/images/Figura%2010.%20Representaci%C3%B3%20de%20relacions%20molts%20a%20molts.png" alt="BD" width="550" height="auto"/>
+    <p><em>Figura 12: Representació de relacions molts a molts.</em></p>
+  </div>
+
+La cardinalidad de una entidad sirve para conocer su grado de participación en la relación, es decir, el número de correspondencias en las que interviene cada elemento de la entidad. Mide la obligatoriedad de correspondencia entre dos entidades.
+
+Se representa entre paréntesis indicando los valores máximo y mínimo: (máximo, mínimo). Los valores para la cardinalidad son: (0,1), (1,1), (0,N), (1,N) y (M,N). El valor 0 se indica cuando la participación de la entidad es opcional.
+
+En la Figura 13, que se muestra a continuación, se representa el diagrama E-R en el que contamos con las siguientes entidades:
+
+- **EMPLEADO** está formada por los atributos Núm. Emple, Apellido, Salario y Comisión, siendo el atributo Núm. Emple la clave principal (representada mediante subrayado).
+- **DEPARTAMENTO** está formada por los atributos Núm. Depart, Nombre y Localidad, siendo el atributo Núm. Depart la clave principal.
+
+Se han definido dos relaciones:
+
+- La relación «pertenece» entre las entidades EMPLEADOS y DEPARTAMENTO, cuyo tipo de correspondencia es 1:N; es decir, a un departamento le pertenecen cero o más empleados (0,N). Un empleado pertenece a un departamento y solo a uno (1,1).
+- La relación «responsable», que asocia la entidad EMPLEADO consigo misma. Su tipo de correspondencia es 1:N; es decir, un empleado es jefe de cero o más empleados (0,N). Un empleado tiene un jefe y solo uno (1,1). Véase la Figura 13.
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/M0372_M0377_BBDD_ASIX/blob/main/BA1-RA1_RA2/images/Figura%2011.%20Diagrama%20E-R%20de%20les%20relacions%20entre%20departaments%20i%20empleats.png" alt="BD" width="950" height="auto"/>
+    <p><em>Figura 13: Diagrama E-R de les relacions entre departaments i empleats.</em></p>
+  </div
