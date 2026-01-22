@@ -725,7 +725,7 @@ Ahora:
 <br>
 
 ## 5.2.14. Bases de datos normalizadas
-Una base de datos normalizada es aquella que ha sido diseñada siguiendo el proceso de normalización y que cumple las formas normales del modelo relacional. Su objetivo principal es organizar los datos de forma eficiente, coherente y sin redundancias innecesarias.
+Una **base de datos normalizada** es aquella que ha sido diseñada siguiendo el proceso de **normalización** y que cumple las **formas normales** del modelo relacional. Su objetivo principal es organizar los datos de forma eficiente, coherente y sin redundancias innecesarias.
 
 <br>
 
