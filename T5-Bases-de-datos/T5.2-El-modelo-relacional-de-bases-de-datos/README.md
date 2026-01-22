@@ -20,11 +20,6 @@
 - [5.2.13. Formas normales](#5213-formas-normales)
 - [5.2.14. Bases de datos normalizadas](#5214-bases-de-datos-normalizadas)
 - [5.2.15. Tipologia de datos](#5215-tipologia-de-datos)
-- [5.2.16. Diagrama ERD](#5216-diagrama-ERD)
-- [5.2.17. Elaboración de una base de datos relacional](#5217-elaboración-de-una-base-de-datos-relacional)
-- [5.2.18. Consultas en bases de datos](#5218-consultas-en-bases-de-datos)
-- [5.2.19. Consultas simples y compuestas](#5219-consultas-simples-y-compuestas)
-- [5.2.20. Elaboración de consultas](#5220-elaboración-de-consultas)
 
 ---
 
@@ -481,6 +476,8 @@ Las cardinalidades de asignación se describen para conjuntos binarios de relaci
   </div>
 
 - **N:1, muchos a uno.** Es el mismo caso que el anterior pero a la inversa; a cada elemento de la primera entidad le corresponde un elemento de la segunda, y a cada elemento de la segunda entidad le corresponden varios de la primera.
+  
+- - **N:M, muchos a muchos.** Cada elemento de la primera entidad le corresponden muchos elementos de la segunda, y a cada elemento de la segunda entidad le corresponden varios de la primera.
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/M0372_M0377_BBDD_ASIX/blob/main/BA1-RA1_RA2/images/Figura%2010.%20Representaci%C3%B3%20de%20relacions%20molts%20a%20molts.png" alt="BD" width="550" height="auto"/>
@@ -518,3 +515,266 @@ Un ejemplo de redundancia seria la siguiente tabla mal diseñada:
 | ------------ | ------------- | ------------------------------------- | ----------- |
 | 1            | Ana López     | [ana@email.com](mailto:ana@email.com) | Matemáticas |
 | 2            | Ana López     | [ana@email.com](mailto:ana@email.com) | Física      |
+
+### Problemas derivados de la redundancia de datos
+
+- **Inconsistencia de datos.** Si se modifica un dato en un registro y no se actualiza en los demás, la información queda incoherente. Por ejemplo, si Ana cambia su correo electrónico y solo se actualiza una fila, la base de datos contendrá dos correos diferentes para la misma persona.
+
+- **Mayor consumo de almacenamiento.** Al repetir la misma información varias veces, se ocupa más espacio del necesario, especialmente en bases de datos grandes con miles de registros.
+
+- **Dificultad de mantenimiento.** Las operaciones de actualización se vuelven más complejas, ya que hay que modificar múltiples filas en lugar de una sola.
+
+- **Anomalías de actualización.** La redundancia provoca anomalías en la modificación de datos: inserció, borrado y actualización.
+
+## 5.2.12. Integridad referencial
+
+La **integridad referencial** es un conjunto de reglas que garantizan que las relaciones entre tablas de una base de datos sean **coherentes y válidas**. Su objetivo principal es asegurar que los valores de las **claves foráneas** siempre hagan referencia a registros existentes en la tabla relacionada.
+
+En un modelo relacional, las tablas no funcionan de forma aislada, sino que están conectadas entre sí mediante relaciones. La integridad referencial evita que estas relaciones se rompan.
+
+### Clave primaria y clave foránea
+
+Para entender la integridad referencial es necesario recordar dos conceptos clave:
+
+- **Clave primaria (Primary Key):** identifica de forma única cada registro de una tabla. Ejemplo: `id_alumno` en la tabla ALUMNOS.
+
+- **Clave foránea (Foreign Key):** es un atributo que referencia la clave primaria de otra tabla. Ejemplo: `id_alumno` en la tabla MATRICULAS apunta a id_alumno en ALUMNOS.
+
+#### Ejemplo: 
+
+Supongamos las siguientes tablas:
+
+**Tabla ALUMNOS**
+
+| id_alumno | nombre      |
+| --------- | ----------- |
+| 1         | Ana López   |
+| 2         | Carlos Ruiz |
+
+**Tabla MATRICULAS**
+
+| id_matricula | id_alumno | asignatura  |
+| ------------ | --------- | ----------- |
+| 1            | 1         | Matemáticas |
+| 2            | 2         | Física      |
+
+Aquí:
+
+- `id_alumno` es clave primaria en ALUMNOS.
+- `id_alumno` es clave foránea en MATRICULAS.
+
+La integridad referencial obliga a que:
+
+- Todo valor de `id_alumno` en MATRICULAS exista previamente en la tabla ALUMNOS.
+
+#### Un ejemplo de violación de integridad referencial sería:
+
+Si intentamos insertar el siguiente registro:
+
+| id_matricula | id_alumno | asignatura |
+| ------------ | --------- | ---------- |
+| 3            | 5         | Química    |
+
+Se produce un error porque **no existe ningún alumno con id = 5** en la tabla ALUMNOS.
+
+Esto generaría un registro “huérfano”, es decir, una matrícula asociada a un alumno inexistente.
+
+Existen diferentes técnicas que pueden emplear los sistemas gestores de bases de datos, aplicando estas **acciones referenciales**: RESTRICT, CASCADE, SET NULL o SET DEFAULT.
+
+## 5.2.13. Formas normales
+
+Las **formas normales** son un conjunto de reglas que se utilizan para **organizar correctamente las tablas de una base de datos relacional**, con el objetivo de:
+
+- Reducir la redundancia de datos.
+- Evitar anomalías de actualización.
+- Mejorar la integridad y consistencia de la información.
+- Facilitar el mantenimiento de la base de datos.
+
+El proceso de aplicar estas reglas se denomina normalización.
+
+### ¿Qué es la normalización?
+
+La **normalización** es el proceso de dividir una base de datos en varias tablas relacionadas entre sí para que cada dato se almacene una sola vez y dependa únicamente de la clave primaria.
+
+### Primera Forma Normal (1FN)
+
+Una tabla está en **Primera Forma Normal** cuando:
+
+- Todos los atributos contienen **valores atómicos** (no divisibles).
+- No existen **grupos repetidos** ni listas dentro de una misma columna.
+- Cada registro puede identificarse de forma única.
+
+#### Ejemplo NO normalizado en 1FN
+
+| id_alumno | nombre | asignaturas         |
+| --------- | ------ | ------------------- |
+| 1         | Ana    | Matemáticas, Física |
+
+Problemas: 
+
+- Hay varios valores en un mismo campo.
+- No se pueden hacer consultas eficientes.
+- No cumple el modelo relacional.
+
+#### En 1FN
+
+| id_alumno | nombre | asignatura  |
+| --------- | ------ | ----------- |
+| 1         | Ana    | Matemáticas |
+| 1         | Ana    | Física      |
+
+Ahora:
+
+- Cada celda contiene un único valor.
+- Los datos son atómicos.
+
+### Segunda Forma Normal (2FN)
+
+Una tabla está en **Segunda Forma Normal** cuando:
+
+- Cumple la 1FN.
+- Todos los atributos no clave dependen **completamente de la clave primaria**.
+
+Esto es especialmente importante cuando la clave primaria es **compuesta** (formada por más de un atributo).
+
+#### Ejemplo NO normalizado en 2FN
+
+Tabla MATRICULAS:
+
+| id_alumno | id_asignatura | nombre_alumno | nombre_asignatura |
+| --------- | ------------- | ------------- | ----------------- |
+| 1         | 1             | Ana           | Matemáticas       |
+
+Problema:
+
+- `nombre_alumno` depende solo de `id_alumno`.
+- `nombre_asignatura` depende solo de `id_asignatura`.
+- No dependen de la clave completa.
+
+#### En 2FN
+
+Se separan las tablas:
+
+**ALUMNOS**
+| id_alumno | nombre |
+| --------- | ------ |
+| 1         | Ana    |
+
+**ASIGNATURAS**
+| id_asignatura | nombre      |
+| ------------- | ----------- |
+| 1             | Matemáticas |
+
+**MATRICULAS**
+| id_alumno | id_asignatura |
+| --------- | ------------- |
+| 1         | 1             |
+
+Ahora:
+
+- Cada atributo depende completamente de su clave primaria.
+- Se elimina redundancia.
+
+### Tercera Forma Normal (3FN)
+
+Una tabla está en Tercera Forma Normal cuando:
+
+- Cumple la 2FN.
+- No existen dependencias transitivas.
+
+Esto significa que:
+
+Un atributo no clave no debe depender de otro atributo no clave.
+
+#### Ejemplo NO normalizado en 3FN
+
+Tabla ALUMNOS:
+
+| id_alumno | nombre | codigo_postal | ciudad    |
+| --------- | ------ | ------------- | --------- |
+| 1         | Ana    | 08001         | Barcelona |
+
+Problema:
+
+- `ciudad` depende de `codigo_postal`, no directamente de `id_alumno`.
+- Existe dependencia transitiva.
+
+#### En 3FN
+
+Se separan las tablas:
+
+**ALUMNOS**
+| id_alumno | nombre | codigo_postal |
+| --------- | ------ | ------------- |
+| 1         | Ana    | 08001         |
+
+**CODIGO_POSTALES**
+| codigo_postal | ciudad    |
+| ------------- | --------- |
+| 08001         | Barcelona |
+
+Ahora:
+
+- Todos los atributos dependen directamente de la clave primaria.
+- Se elimina dependencia transitiva.
+
+## 5.2.15. Tipologia de datos
+
+La tipología de datos hace referencia a los distintos tipos de datos que pueden almacenarse en una base de datos. Cada atributo de una tabla debe tener asociado un tipo de dato que define:
+
+- Qué tipo de información puede almacenarse.
+- El formato del valor.
+- El espacio de almacenamiento necesario.
+- Las operaciones que se pueden realizar sobre ese dato.
+
+### Tipos numéricos
+
+Se utilizan para almacenar valores numéricos sobre los que se pueden realizar operaciones matemáticas.
+
+#### Ejemplos comunes:
+
+| Tipo              | Descripción                   | Ejemplo |
+| ----------------- | ----------------------------- | ------- |
+| INT               | Números enteros               | 25      |
+| SMALLINT          | Enteros pequeños              | 120     |
+| BIGINT            | Enteros grandes               | 1000000 |
+| DECIMAL / NUMERIC | Números con decimales exactos | 12.50   |
+| FLOAT / DOUBLE    | Números reales aproximados    | 3.1416  |
+
+### Tipos de texto (cadena de caracteres)
+
+Se utilizan para almacenar información alfanumérica.
+
+| Tipo       | Descripción       | Ejemplo             |
+| ---------- | ----------------- | ------------------- |
+| CHAR(n)    | Longitud fija     | "ES"                |
+| VARCHAR(n) | Longitud variable | "Ana López"         |
+| TEXT       | Texto largo       | Descripción extensa |
+
+### Tipos de fecha y tiempo
+
+Permiten almacenar información temporal y realizar operaciones relacionadas con fechas.
+
+| Tipo                 | Descripción  | Ejemplo             |
+| -------------------- | ------------ | ------------------- |
+| DATE                 | Fecha        | 2025-03-21          |
+| TIME                 | Hora         | 14:30:00            |
+| DATETIME / TIMESTAMP | Fecha y hora | 2025-03-21 14:30:00 |
+
+### Tipos booleanos (lógicos)
+
+Se utilizan para representar valores de tipo verdadero o falso.
+
+| Tipo    | Valores posibles |
+| ------- | ---------------- |
+| BOOLEAN | TRUE / FALSE     |
+
+### Tipos especiales
+
+Algunos SGBD incluyen tipos avanzados para necesidades específicas.
+
+| Tipo | Uso                                        |
+| ---- | ------------------------------------------ |
+| BLOB | Archivos binarios (imágenes, vídeos, PDFs) |
+| ENUM | Lista cerrada de valores posibles          |
+| JSON | Datos estructurados en formato JSON        |
