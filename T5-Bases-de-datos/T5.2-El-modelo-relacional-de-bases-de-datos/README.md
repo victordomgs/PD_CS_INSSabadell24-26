@@ -659,17 +659,17 @@ Problema:
 
 Se separan las tablas:
 
-**ALUMNOS**
+ALUMNOS
 | id_alumno | nombre |
 | --------- | ------ |
 | 1         | Ana    |
 
-**ASIGNATURAS**
+ASIGNATURAS
 | id_asignatura | nombre      |
 | ------------- | ----------- |
 | 1             | Matemáticas |
 
-**MATRICULAS**
+MATRICULAS
 | id_alumno | id_asignatura |
 | --------- | ------------- |
 | 1         | 1             |
@@ -707,12 +707,12 @@ Problema:
 
 Se separan las tablas:
 
-**ALUMNOS**
+ALUMNOS
 | id_alumno | nombre | codigo_postal |
 | --------- | ------ | ------------- |
 | 1         | Ana    | 08001         |
 
-**CODIGO_POSTALES**
+CODIGO_POSTALES
 | codigo_postal | ciudad    |
 | ------------- | --------- |
 | 08001         | Barcelona |
