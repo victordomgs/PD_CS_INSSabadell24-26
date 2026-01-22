@@ -526,6 +526,8 @@ Un ejemplo de redundancia seria la siguiente tabla mal diseñada:
 
 - **Anomalías de actualización.** La redundancia provoca anomalías en la modificación de datos: inserció, borrado y actualización.
 
+<br>
+
 ## 5.2.12. Integridad referencial
 
 La **integridad referencial** es un conjunto de reglas que garantizan que las relaciones entre tablas de una base de datos sean **coherentes y válidas**. Su objetivo principal es asegurar que los valores de las **claves foráneas** siempre hagan referencia a registros existentes en la tabla relacionada.
@@ -581,6 +583,8 @@ Esto generaría un registro “huérfano”, es decir, una matrícula asociada a
 
 Existen diferentes técnicas que pueden emplear los sistemas gestores de bases de datos, aplicando estas **acciones referenciales**: RESTRICT, CASCADE, SET NULL o SET DEFAULT.
 
+<br>
+
 ## 5.2.13. Formas normales
 
 Las **formas normales** son un conjunto de reglas que se utilizan para **organizar correctamente las tablas de una base de datos relacional**, con el objetivo de:
@@ -616,7 +620,7 @@ Problemas:
 - No se pueden hacer consultas eficientes.
 - No cumple el modelo relacional.
 
-#### En 1FN
+✅ En 1FN:
 
 | id_alumno | nombre | asignatura  |
 | --------- | ------ | ----------- |
@@ -651,7 +655,7 @@ Problema:
 - `nombre_asignatura` depende solo de `id_asignatura`.
 - No dependen de la clave completa.
 
-#### En 2FN
+✅ En 2FN:
 
 Se separan las tablas:
 
@@ -699,7 +703,7 @@ Problema:
 - `ciudad` depende de `codigo_postal`, no directamente de `id_alumno`.
 - Existe dependencia transitiva.
 
-#### En 3FN
+✅ En 3FN:
 
 Se separan las tablas:
 
@@ -717,6 +721,13 @@ Ahora:
 
 - Todos los atributos dependen directamente de la clave primaria.
 - Se elimina dependencia transitiva.
+
+<br>
+
+## 5.2.14. Bases de datos normalizadas
+Una base de datos normalizada es aquella que ha sido diseñada siguiendo el proceso de normalización y que cumple las formas normales del modelo relacional. Su objetivo principal es organizar los datos de forma eficiente, coherente y sin redundancias innecesarias.
+
+<br>
 
 ## 5.2.15. Tipologia de datos
 
