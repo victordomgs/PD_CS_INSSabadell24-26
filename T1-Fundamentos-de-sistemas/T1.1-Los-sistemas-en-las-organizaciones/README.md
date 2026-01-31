@@ -146,6 +146,8 @@ Hoy en día las tecnologías de la información ofrecen un enorme potencial para
 
 La **incompatibilidad de software** es una situación en la que diferentes entidades o sistemas de software no pueden operar satisfactoriamente, de manera cooperativa o independiente, en la misma computadora, o en diferentes computadoras vinculadas por una red informática local o de área amplia.
 
+<br>
+
 ## 1.1.4. Compare la puesta en práctica de sistemas que usan hardware cliente con el alojamiento remoto de sistemas
 
 El **sistema de información** es una pieza clave de la organización porque cubre buena parte (si no todos) los procesos de su cadena de valor. Además, también es un medio para materializar la estrategia de la organización y obtener información que puede ser determinante a la hora de tomar decisiones.
@@ -224,6 +226,8 @@ La adopción de tecnologías de vanguardia suele ser un pilar fundamental en la 
 > 
 > El **sistema de información** es la clave para materializar la transformación digital porque plasma el ciclo de vida del conocimiento que una organización necesita para llevar a cabo su estrategia.
 
+<br>
+
 ## 1.1.5. Evalúe procesos alternativos de instalación
 
 La instalación de un nuevo sistema es una situación a la que la mayoría de las empresas, organizaciones e individuos se enfrentarán una o más veces. Durante este proceso, el sistema antiguo será retirado y el nuevo sistema tomará su lugar.
@@ -242,6 +246,8 @@ El método piloto se utiliza principalmente en grandes organizaciones que tienen
 ### Por fases
 Con el método de conversión por fases, una empresa convierte un módulo del sistema a la vez, lo que significa que diferentes partes del sistema se convierten en diferentes momentos. El período de capacitación se prolonga y la adopción del nuevo sistema tarda más, ya que cada fase debe implementarse por separado. La instalación del nuevo sistema se realiza por módulo, por departamento, etc.
 
+<br>
+
 ## 1.1.6. Discuta problemas que puedan surgir como parte de una migración de datos
 
 La **migración de datos** se refiere a la transferencia de datos entre diferentes formatos, tipos de almacenamiento y sistemas informáticos. Generalmente se lleva a cabo de manera automática con el fin de lograr un uso eficiente de los recursos humanos.
@@ -256,6 +262,8 @@ Asimismo, los datos también pueden ser malinterpretados debido a incompatibilid
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%204.%20Los%20sistemas%20de%20informaci%C3%B3n%20en%20las%20organizaciones.png" alt="Los sistemas de información en las organizaciones" width="540" height="auto"/>
     <p><em>Figura 8:  Migración de datos. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
+
+<br>
 
 ## 1.1.7. Sugiera varios tipos de pruebas
 Las pruebas son una fase esencial en cualquier proceso de desarrollo e implementación de sistemas. Su objetivo principal es garantizar que el sistema cumple con los requisitos funcionales y no funcionales, así como detectar y corregir errores antes de que el producto final llegue al usuario. Sin un enfoque adecuado en las pruebas, la calidad del sistema puede verse comprometida, lo que afecta negativamente a la experiencia del usuario y a la productividad de la organización.
@@ -309,6 +317,8 @@ Las pruebas de rendimiento evalúan el rendimiento de un sistema con una carga d
 #### Pruebas beta
 Las pruebas beta, del inglés beta testing, son las pruebas de software que se realizan cuando el sistema está teóricamente correcto y pasa a ejecutarse en un entorno real. No importa cuán bueno que sea nuestro proceso de desarrollo, siempre habrá fallos que no han sido descubiertos por los desarrolladores ni por el equipo de pruebas.
 
+<br>
+
 ## 1.1.8. Describa la importancia de la documentación del usuario
 
 Los **programas y sistemas** pueden volverse cada vez más complejos a medida que su objetivo se vuelve más y más enrevesado. Además, la forma de pensar del usuario puede diferir de la de los desarrolladores; por lo tanto, el funcionamiento del producto puede no ser claro para el usuario. Todo lo anterior puede conducir a problemas serios durante la etapa de implementación u operación del **Ciclo de Vida del Software (SLC)**.
@@ -332,6 +342,8 @@ La **documentación interna** son las características de comprensión del códi
 Es muy difícil y probablemente imposible que el código fuente sea leído por el usuario final.
 
 La **documentación externa** normalmente se escribe como un documento separado del propio programa. Se proporciona a través de varios tipos de documentos de apoyo al usuario, como una **guía del usuario**, un documento de especificación de requisitos del software, una descripción detallada de las características de diseño e implementación del programa y un documento de pruebas.
+
+<br>
 
 ## 1.1.9. Evalúe distintos métodos de ofrecer documentación de usuario
 
@@ -369,6 +381,8 @@ El soporte en línea se proporciona de muchas maneras, dependiendo del producto 
 ### Conexiones de escritorio remoto
 
 El **Escritorio Remoto** es una función que permite a una persona especializada conectarse al PC del usuario a través de Internet desde prácticamente cualquier ordenador. El Escritorio Remoto permite en realidad que un técnico especializado tome el control del PC del usuario como si estuviera sentado directamente frente a él/ella. Esta solución es ideal si el usuario no tiene mucha experiencia. Esta solución tiene algunas **desventajas de seguridad**, ya que el técnico tiene acceso completo al PC del usuario.
+
+<br>
 
 ## 1.1.10. Evalúe distintos métodos de ofrecer capacitación al usuario
 
@@ -426,6 +440,8 @@ Los estudiantes e instructores deben poseer un **nivel mínimo de habilidades in
 
 La educación asincrónica en línea coloca **mayor responsabilidad sobre el estudiante** y les da control sobre su experiencia de aprendizaje, por lo que se considera **inapropiada para alumnos más dependientes e inmaduros**.
 
+<br>
+
 ## 1.1.11. Identifique varias causas de pérdida de datos
 
 La **pérdida de datos** se refiere a una condición de error en la que los datos se pierden o se destruyen debido a una falla del sistema, negligencia en el almacenamiento o incluso errores de transmisión o procesamiento. Se pueden tomar varias precauciones para prevenir o restaurar la pérdida de datos, tanto mediante hardware como software. El costo de la pérdida de datos depende de lo costoso que pueda ser continuar sin los datos, de lo costoso que pueda ser recrear los datos, así como de lo costoso que pueda ser notificar a los usuarios sobre la pérdida de datos.
@@ -446,6 +462,8 @@ La **pérdida de datos** se refiere a una condición de error en la que los dato
 | Daños físicos del dispositivo de almacenamiento      | • Copias de seguridad regulares <br> • Necesidad de cuidado                               |
 | Fallo de energía                                     | • Necesidad de UPS (fuente de alimentación ininterrumpida) <br> • Copias de seguridad regulares |
 
+<br>
+
 ## 1.1.12. Resuma las consecuencias de la pérdida de datos en una situación concreta
 
 En todos los casos la pérdida de datos es algo que queremos prevenir, pero hay casos en los que la pérdida de datos podría tener consecuencias extremadamente graves. Por ejemplo, si se pierden los registros médicos de un paciente en un hospital, entonces la vida del paciente puede estar en peligro si los datos no pueden ser recuperados, y algunos exámenes dolorosos podrían tener que repetirse. La pérdida de datos no es tan peligrosa en todos los casos, pero la recuperación consume tiempo y puede que no siempre sea posible, lo cual es un problema. Imagina una situación en la que un cliente reserva una habitación de hotel por teléfono. Pero cuando él/ella llega al hotel, el recepcionista le informa que no hay registro de su reserva y que no hay habitaciones disponibles. El cliente (después del impacto inicial) tiene que buscar otro hotel, quizás informando a amigos y colegas en redes sociales de su incomodidad y decepción.
@@ -465,6 +483,8 @@ En todos los casos la pérdida de datos es algo que queremos prevenir, pero hay 
 | **No crítica pero problemática** | Pérdida de una reserva de hotel | Cliente debe buscar otro hotel; genera incomodidad y mala reputación en redes sociales |
 | **No crítica pero costosa** | Pérdida de documentos de oficina no respaldados | Necesidad de rehacer el trabajo, pérdida de tiempo y productividad |
 | **No crítica** | Pérdida de datos de juegos en línea o aplicaciones de ocio | Molestia para el usuario, pero sin impacto grave |
+
+<br>
 
 ## 1.1.13. Describa varios métodos para evitar la pérdida de datos
 
@@ -532,6 +552,8 @@ El almacenamiento externo y en línea utiliza soluciones basadas en la nube o se
 
 #### Ejemplo práctico
 Una empresa utiliza servicios de almacenamiento en la nube como Google Drive o AWS S3 para realizar copias de seguridad automáticas de sus bases de datos y archivos de trabajo.
+
+<br>
 
 ## 1.1.14 Describa estrategias para gestionar versiones y actualizaciones
 
