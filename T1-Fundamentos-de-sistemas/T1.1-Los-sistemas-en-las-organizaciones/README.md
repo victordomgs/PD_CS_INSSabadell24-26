@@ -78,24 +78,24 @@ Componentes tecnológicos:
 
 ## Contenido:
 
-- [1.1.1. Contexto en la planificación de un nuevo sistema](#111-contexto-en-la-planificación-de-un-nuevo-sistema)  
-- [1.1.2. Gestión del cambio](#112-gestión-del-cambio)
-- [1.1.3. Problemas de compatibilidad entre sistemas heredados o fusiones de negocio](#113-problemas-de-compatibilidad-entre-sistemas-heredados-o-fusiones-de-negocio)
-- [1.1.4. La implantación del sistema de información](#114-la-implantación-del-sistema-de-información) 
-- [1.1.5. Procesos alternativos de instalación](#115-procesos-alternativos-de-instalación) 
-- [1.1.6. Problemas en la migración de datos](#116-problemas-en-la-migración-de-datos)
-- [1.1.7. Tipos de pruebas](#117-tipos-de-pruebas)
-- [1.1.8. Documentación de usuario](#118-documentación-de-usuario)
-- [1.1.9. Métodos para proporcionar documentación](#119-métodos-para-proporcionar-documentación)
-- [1.1.10. Métodos para proporcionar formación](#119-métodos-para-proporcionar-formación)
-- [1.1.11. Causas de las pérdidas de datos](#1111-causas-de-las-pérdidas-de-datos)
-- [1.1.12. Consecuencias de la pérdida de datos](#1112-consecuencias-de-la-pérdida-de-datos)
-- [1.1.13. Métodos para evitar la pérdida de datos](#1113-métodos-para-evitar-la-pérdida-de-datos)
-- [1.1.14. Gestión de versiones y actualizaciones](#1114-gestión-de-versiones-y-actualizaciones)
+- [1.1.1. Identifique el contexto para el cual se planifica un nuevo sistema](#111-identifique-el-contexto-para-el-cual-se-planifica-un-nuevo-sistema)  
+- [1.1.2. Describa la necesidad de la gestión de cambios](#112-describa-la-necesidad-de-la-gestión-de-cambios)
+- [1.1.3. Resuma problemas de compatibilidad derivados de situaciones que incluyan sistemas heredados o fusiones de negocios](#113-resuma-problemas-de-compatibilidad-derivados-de-situacions-que-incluyan-sistemas-heredados-o-fusiones-de-negocios)
+- [1.1.4. Compare la puesta en práctica de sistemas que usan hardware cliente con el alojamiento remoto de sistemas](#114-compare-la-puesta-en-práctica-de-sistemas-que-usan-hardware-cliente-con-el-alojamiento-remoto-de-sistemas) 
+- [1.1.5. Evalúe procesos alternativos de instalación](#115-evalúe-procesos-alternativos-de-instalación) 
+- [1.1.6. Discuta problemas que puedan surgir como parte de una migración de datos](#116-discuta-problemas-que-puedan-surgir-como-parte-de-una-migración-de-datos)
+- [1.1.7. Sugiera varios tipos de pruebas](#117-sugiera-varios-tipos-de-pruebas)
+- [1.1.8. Describa la importancia de la documentación del usuario](#118-describa-la-importancia-de-la-documentación-del-usuario)
+- [1.1.9. Evalúe distintos métodos de ofrecer documentación de usuario](#119-evalúe-distintos-métodos-de-ofrecer-documentación-de-usuario)
+- [1.1.10. Evalúe distintos métodos de ofrecer capacitación al usuario](#1110-evalúe-distintos-métodos-de-ofrecer-capacitación-al-usuario)
+- [1.1.11. Identifique varias causas de pérdida de datos](#1111-identifique-varias-causas-de-pérdida-de-datos)
+- [1.1.12. Resuma las consecuencias de la pérdida de datos en una situación concreta](#1112-resuma-las-consecuencias-de-la-pérdida-de-datos-en-una-situación-concreta)
+- [1.1.13. Describa varios métodos para evitar la pérdida de datos](#1113-describa-varios-métodos-para-evitar-la-pérdida-de-datos)
+- [1.1.14. Describa estrategias para gestionar versiones y actualizaciones](#1114-describa-estrategias-para-gestionar-versiones-y-actualizaciones)
 
 ---
 
-## 1.1.1. Contexto en la planificación de un nuevo sistema
+## 1.1.1. Identifique el contexto para el cual se planifica un nuevo sistema
 
 Un **nuevo sistema** puede crearse para reemplazar un sistema que sea ineficiente, que ya no sea adecuado para su propósito original, redundante o desactualizado. El propósito de un nuevo sistema también puede ser aumentar la **productividad** o la **calidad del resultado**, o incluso **minimizar costos**. El nuevo sistema debería reducir los errores o fallas del existente.  
 
@@ -123,7 +123,7 @@ Planificar un nuevo sistema implica organizar las actividades necesarias para lo
 | O     | Viabilidad operativa       | ¿Son suficientes las prácticas y procedimientos organizativos existentes para mantener y operar el nuevo sistema? |
 | S     | Viabilidad de calendario (schedule)   | ¿Cuánto tiempo tendremos que esperar?                                     |
 
-## 1.1.2. Gestión del cambio:
+## 1.1.2. Describa la necesidad de la gestión de cambios
 
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/Teoria-de-sistemas-i-computacion/blob/main/images/Figura%201.%20La%20gesti%C3%B3n%20del%20cambio.png" alt="La gestión del cambio" width="477" height="auto"/>
@@ -193,7 +193,7 @@ Un buen plan de formación tiene que cubrir los siguientes objetivos:
 - Crear una red de expertos generando "formadores internos", los cuales serán el primer soporte en el momento del arranque y ayudarán a que el sistema pueda evolucionar correctamente.
 - Utilizar el plan de formación como canal de comunicación para canalizar dudas y sugerencias.
 
-## 1.1.3. Problemas de compatibilidad entre sistemas heredados o fusiones de negocio
+## 1.1.3. Resuma problemas de compatibilidad derivados de situaciones que incluyan sistemas heredados o fusiones de negocios
 
 El término **sistema heredado** se refiere a una tecnología antigua, hardware, sistema informático o programa de aplicación. Algunos sistemas que pertenecen a esta categoría aún pueden desempeñar un papel importante en una organización. Dicho sistema aún puede estar en uso porque sus datos no pueden convertirse a formatos más nuevos, o sus aplicaciones no pueden actualizarse. Mantener en funcionamiento un sistema heredado implica varios desafíos de mantenimiento. Incluso agencias de alta tecnología como la NASA utilizan sistemas heredados porque el sistema todavía satisface las necesidades de los usuarios, aunque existan tecnologías más nuevas o más eficientes. Es claro que el intercambio de datos entre sistemas heredados y nuevos es un factor al que la administración debe prestar especial atención.
 
@@ -213,7 +213,7 @@ Hoy en día las tecnologías de la información ofrecen un enorme potencial para
 
 La **incompatibilidad de software** es una situación en la que diferentes entidades o sistemas de software no pueden operar satisfactoriamente, de manera cooperativa o independiente, en la misma computadora, o en diferentes computadoras vinculadas por una red informática local o de área amplia.
 
-## 1.1.4. La implantación del sistema de información
+## 1.1.4. Compare la puesta en práctica de sistemas que usan hardware cliente con el alojamiento remoto de sistemas
 
 El **sistema de información** es una pieza clave de la organización porque cubre buena parte (si no todos) los procesos de su cadena de valor. Además, también es un medio para materializar la estrategia de la organización y obtener información que puede ser determinante a la hora de tomar decisiones.
 
@@ -291,7 +291,7 @@ La adopción de tecnologías de vanguardia suele ser un pilar fundamental en la 
 > 
 > El **sistema de información** es la clave para materializar la transformación digital porque plasma el ciclo de vida del conocimiento que una organización necesita para llevar a cabo su estrategia.
 
-## 1.1.5. Procesos alternativos de instalación
+## 1.1.5. Evalúe procesos alternativos de instalación
 
 La instalación de un nuevo sistema es una situación a la que la mayoría de las empresas, organizaciones e individuos se enfrentarán una o más veces. Durante este proceso, el sistema antiguo será retirado y el nuevo sistema tomará su lugar.
 Una decisión crítica al pasar de un sistema antiguo a uno nuevo es la elección del método de implementación (conversión, cambio). El **cambio** es el proceso de poner en línea el nuevo sistema y retirar el antiguo. La razón por la que una organización elige un método de implementación en lugar de otro suele ser un equilibrio entre costos y riesgos. Debe mencionarse que, en la mayoría de los casos, puede haber resistencia por parte de empleados o clientes al cambio y la planificación debería tratar de minimizar los efectos negativos.
@@ -309,7 +309,7 @@ El método piloto se utiliza principalmente en grandes organizaciones que tienen
 ### Por fases
 Con el método de conversión por fases, una empresa convierte un módulo del sistema a la vez, lo que significa que diferentes partes del sistema se convierten en diferentes momentos. El período de capacitación se prolonga y la adopción del nuevo sistema tarda más, ya que cada fase debe implementarse por separado. La instalación del nuevo sistema se realiza por módulo, por departamento, etc.
 
-## 1.1.6. Problemas en la migración de datos
+## 1.1.6. Discuta problemas que puedan surgir como parte de una migración de datos
 
 La **migración de datos** se refiere a la transferencia de datos entre diferentes formatos, tipos de almacenamiento y sistemas informáticos. Generalmente se lleva a cabo de manera automática con el fin de lograr un uso eficiente de los recursos humanos.
 
@@ -324,7 +324,7 @@ Asimismo, los datos también pueden ser malinterpretados debido a incompatibilid
     <p><em>Figura 8:  Migración de datos. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
-## 1.1.7. Importancia de las pruebas
+## 1.1.7. Sugiera varios tipos de pruebas
 Las pruebas son una fase esencial en cualquier proceso de desarrollo e implementación de sistemas. Su objetivo principal es garantizar que el sistema cumple con los requisitos funcionales y no funcionales, así como detectar y corregir errores antes de que el producto final llegue al usuario. Sin un enfoque adecuado en las pruebas, la calidad del sistema puede verse comprometida, lo que afecta negativamente a la experiencia del usuario y a la productividad de la organización.
 
 ### Beneficios de las pruebas
@@ -376,7 +376,7 @@ Las pruebas de rendimiento evalúan el rendimiento de un sistema con una carga d
 #### Pruebas beta
 Las pruebas beta, del inglés beta testing, son las pruebas de software que se realizan cuando el sistema está teóricamente correcto y pasa a ejecutarse en un entorno real. No importa cuán bueno que sea nuestro proceso de desarrollo, siempre habrá fallos que no han sido descubiertos por los desarrolladores ni por el equipo de pruebas.
 
-## 1.1.8. Documentación de usuario
+## 1.1.8. Describa la importancia de la documentación del usuario
 
 Los **programas y sistemas** pueden volverse cada vez más complejos a medida que su objetivo se vuelve más y más enrevesado. Además, la forma de pensar del usuario puede diferir de la de los desarrolladores; por lo tanto, el funcionamiento del producto puede no ser claro para el usuario. Todo lo anterior puede conducir a problemas serios durante la etapa de implementación u operación del **Ciclo de Vida del Software (SLC)**.
 
@@ -400,7 +400,7 @@ Es muy difícil y probablemente imposible que el código fuente sea leído por e
 
 La **documentación externa** normalmente se escribe como un documento separado del propio programa. Se proporciona a través de varios tipos de documentos de apoyo al usuario, como una **guía del usuario**, un documento de especificación de requisitos del software, una descripción detallada de las características de diseño e implementación del programa y un documento de pruebas.
 
-## 1.1.9. Métodos para proporcionar documentación
+## 1.1.9. Evalúe distintos métodos de ofrecer documentación de usuario
 
 La **documentación del usuario** puede estar en forma escrita o en línea, para que el usuario pueda buscar en el documento de manera más fácil y rápida. La documentación del usuario debe incluir todas las instrucciones que son obligatorias para que el sistema funcione y debe contener **preguntas frecuentes (FAQ)**, que siempre son necesarias para los nuevos usuarios. El documento debe estar bien estructurado y dividido en las categorías apropiadas.
 
@@ -437,7 +437,7 @@ El soporte en línea se proporciona de muchas maneras, dependiendo del producto 
 
 El **Escritorio Remoto** es una función que permite a una persona especializada conectarse al PC del usuario a través de Internet desde prácticamente cualquier ordenador. El Escritorio Remoto permite en realidad que un técnico especializado tome el control del PC del usuario como si estuviera sentado directamente frente a él/ella. Esta solución es ideal si el usuario no tiene mucha experiencia. Esta solución tiene algunas **desventajas de seguridad**, ya que el técnico tiene acceso completo al PC del usuario.
 
-## 1.1.10. Métodos para proporcionar capacitación al usuario
+## 1.1.10. Evalúe distintos métodos de ofrecer capacitación al usuario
 
 Es imposible aprovechar al máximo un nuevo sistema avanzado de TI sin una capacitación adecuada.
 Además, incluso la mayor inversión en tecnología requiere usuarios que sean capaces y deseen utilizarla.
@@ -493,7 +493,7 @@ Los estudiantes e instructores deben poseer un **nivel mínimo de habilidades in
 
 La educación asincrónica en línea coloca **mayor responsabilidad sobre el estudiante** y les da control sobre su experiencia de aprendizaje, por lo que se considera **inapropiada para alumnos más dependientes e inmaduros**.
 
-## 1.1.11. Causas de las pérdidas de datos
+## 1.1.11. Identifique varias causas de pérdida de datos
 
 La **pérdida de datos** se refiere a una condición de error en la que los datos se pierden o se destruyen debido a una falla del sistema, negligencia en el almacenamiento o incluso errores de transmisión o procesamiento. Se pueden tomar varias precauciones para prevenir o restaurar la pérdida de datos, tanto mediante hardware como software. El costo de la pérdida de datos depende de lo costoso que pueda ser continuar sin los datos, de lo costoso que pueda ser recrear los datos, así como de lo costoso que pueda ser notificar a los usuarios sobre la pérdida de datos.
 
@@ -513,7 +513,7 @@ La **pérdida de datos** se refiere a una condición de error en la que los dato
 | Daños físicos del dispositivo de almacenamiento      | • Copias de seguridad regulares <br> • Necesidad de cuidado                               |
 | Fallo de energía                                     | • Necesidad de UPS (fuente de alimentación ininterrumpida) <br> • Copias de seguridad regulares |
 
-## 1.1.12. Consecuencias de la pérdida de datos
+## 1.1.12. Resuma las consecuencias de la pérdida de datos en una situación concreta
 
 En todos los casos la pérdida de datos es algo que queremos prevenir, pero hay casos en los que la pérdida de datos podría tener consecuencias extremadamente graves. Por ejemplo, si se pierden los registros médicos de un paciente en un hospital, entonces la vida del paciente puede estar en peligro si los datos no pueden ser recuperados, y algunos exámenes dolorosos podrían tener que repetirse. La pérdida de datos no es tan peligrosa en todos los casos, pero la recuperación consume tiempo y puede que no siempre sea posible, lo cual es un problema. Imagina una situación en la que un cliente reserva una habitación de hotel por teléfono. Pero cuando él/ella llega al hotel, el recepcionista le informa que no hay registro de su reserva y que no hay habitaciones disponibles. El cliente (después del impacto inicial) tiene que buscar otro hotel, quizás informando a amigos y colegas en redes sociales de su incomodidad y decepción.
 
@@ -533,7 +533,7 @@ En todos los casos la pérdida de datos es algo que queremos prevenir, pero hay 
 | **No crítica pero costosa** | Pérdida de documentos de oficina no respaldados | Necesidad de rehacer el trabajo, pérdida de tiempo y productividad |
 | **No crítica** | Pérdida de datos de juegos en línea o aplicaciones de ocio | Molestia para el usuario, pero sin impacto grave |
 
-## 1.1.13. Métodos para evitar la pérdida de datos
+## 1.1.13. Describa varios métodos para evitar la pérdida de datos
 
 ### Sistemas de conmutación por error
 
@@ -600,7 +600,7 @@ El almacenamiento externo y en línea utiliza soluciones basadas en la nube o se
 #### Ejemplo práctico
 Una empresa utiliza servicios de almacenamiento en la nube como Google Drive o AWS S3 para realizar copias de seguridad automáticas de sus bases de datos y archivos de trabajo.
 
-## 1.1.14 Gestión de versiones y actualizaciones
+## 1.1.14 Describa estrategias para gestionar versiones y actualizaciones
 
 ### ¿Qué es la gestión de versiones?
 
