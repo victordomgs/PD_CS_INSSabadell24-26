@@ -50,6 +50,8 @@ Planificar un nuevo sistema implica organizar las actividades necesarias para lo
 | O     | Viabilidad operativa       | ¿Son suficientes las prácticas y procedimientos organizativos existentes para mantener y operar el nuevo sistema? |
 | S     | Viabilidad de calendario (schedule)   | ¿Cuánto tiempo tendremos que esperar?                                     |
 
+<br>
+
 ## 1.1.2. Describa la necesidad de la gestión de cambios
 
   <div style="text-align: center;">
@@ -119,6 +121,8 @@ Un buen plan de formación tiene que cubrir los siguientes objetivos:
 - Desarrollar las habilidades y los conocimientos para un buen uso del sistema, o sea, que sepan operar las pantallas, entiendan el significado de los campos, etc.
 - Crear una red de expertos generando "formadores internos", los cuales serán el primer soporte en el momento del arranque y ayudarán a que el sistema pueda evolucionar correctamente.
 - Utilizar el plan de formación como canal de comunicación para canalizar dudas y sugerencias.
+
+<br>
 
 ## 1.1.3. Resuma problemas de compatibilidad derivados de situaciones que incluyan sistemas heredados o fusiones de negocios
 
