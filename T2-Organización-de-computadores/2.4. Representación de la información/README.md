@@ -6,7 +6,7 @@
 ## Contenido:
 
 - [2.4.1. Defina los términos "bit", "byte", "binario", "denario/decimal" y "hexadecimal"](#241-defina-los-términos-bit-byte-binario-denario-decimal-y-hexadecimal)
-- [2.4.2. Resuma la forma en que se representan los datos en un computador](#242-resuma-la-forma-en-que-se-representan-los-datos-en-un-computad)
+- [2.4.2. Resuma la forma en que se representan los datos en un computador](#242-resuma-la-forma-en-que-se-representan-los-datos-en-un-computadora)
 
 ---
 
