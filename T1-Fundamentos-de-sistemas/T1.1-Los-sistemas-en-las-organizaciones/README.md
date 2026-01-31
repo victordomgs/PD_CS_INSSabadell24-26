@@ -7,7 +7,7 @@
 
 - [1.1.1. Identifique el contexto para el cual se planifica un nuevo sistema](#111-identifique-el-contexto-para-el-cual-se-planifica-un-nuevo-sistema)  
 - [1.1.2. Describa la necesidad de la gestión de cambios](#112-describa-la-necesidad-de-la-gestión-de-cambios)
-- [1.1.3. Resuma problemas de compatibilidad derivados de situaciones que incluyan sistemas heredados o fusiones de negocios](#113-resuma-problemas-de-compatibilidad-derivados-de-situacions-que-incluyan-sistemas-heredados-o-fusiones-de-negocios)
+- [1.1.3. Resuma problemas de compatibilidad derivados de situaciones que incluyan sistemas heredados o fusiones de negocios](#113-resuma-problemas-de-compatibilidad-derivados-de-situaciones-que-incluyan-sistemas-heredados-o-fusiones-de-negocios)
 - [1.1.4. Compare la puesta en práctica de sistemas que usan hardware cliente con el alojamiento remoto de sistemas](#114-compare-la-puesta-en-práctica-de-sistemas-que-usan-hardware-cliente-con-el-alojamiento-remoto-de-sistemas) 
 - [1.1.5. Evalúe procesos alternativos de instalación](#115-evalúe-procesos-alternativos-de-instalación) 
 - [1.1.6. Discuta problemas que puedan surgir como parte de una migración de datos](#116-discuta-problemas-que-puedan-surgir-como-parte-de-una-migración-de-datos)
