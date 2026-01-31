@@ -5,23 +5,29 @@
 
 ## Contenido:
 
-- [1.2.1. Definición de términos clave](#121-definición-de-términos-clave)  
-- [1.2.2. Funciones del computador en un mundo interconectado](#122-funciones-de-un-computador-en-un-mundo-interconectado)
-- [1.2.3. Cuestiones éticas y sociales en un mundo interconectado](#123-cuestiones-éticas-y-sociales-en-un-mundo-interconectado)
-- [1.2.4. Partes interesadas al planificar un nuevo sistema](#124-la-implantación-del-sistema-de-información) 
-- [1.2.5. Ingeniería de requisitos](#125-ingeniería-de-requisitos) 
-- [1.2.6. Representación de los requisitos](#126-representación-de-los-requisitos)
-- [1.2.7. El propósito de un prototipo](#127-el-propósito-de-un-prototipo)
-- [1.2.8. La importancia de la iteración en el proceso de diseño](#128-la-importancia-de-la-iteración-en-el-proceso-de-diseño)
-- [1.2.9. Posibles consecuencias de no implicar al usuario final en el proceso de diseño](#129-posibles-consecuencias-de-no-implicar-al-usuario-final-en-el-proceso-de-diseño)
-- [1.2.10 Cuestiones éticas y sociales asociadas a la introducción de un nuevo sistema de TI](#1210-cuestiones-éticas-y-sociales-asociadas-a-la-introducción-de-un-nuevo-sistema-de-TI)
-- [1.2.11. El concepto de usabilidad](#1211-el-concepto-de-usabilidad)
-- [1.2.12. Problemas de usabilidad en dispositivos digitales](#1212-problemas-de-usabilidad-en-dispositivos-digitales)
-- [1.2.13. Métodos para mejorar la accesibilidad en los sistemas](#1213-métodos-para-mejorar-la-accesibilidad-en-los-sistemas)
-- [1.2.14. Implicaciones morales, éticas, sociales, económicas y ambientales de la interacción entre humanos y máquinas](#1214-implicaciones-morales-éticas-sociales-económicas-y-ambientales-de-la-interacción-entre-humanos-y-máquinas)
+- [1.2.1. Defina los términos siguientes: "hardware", "software", "periférico", "red", "recursos humanos"](#121-defina-los-términos-siguientes-hardware-software-periférico-red-recursos-humanos)
+- [1.2.2. Describa las funciones que puede tener un computador en un mundo interconectado](#122-describa-las-funciones-que-puede-tener-un-computador-en-un-mundo-interconectado)
+- [1.2.3. Discuta las cuestiones éticas y sociales asociadas a un mundo interconectado](#123-discuta-las-cuestiones-éticas-y-sociales-asociadas-a-un-mundo-interconectado)
+- [1.2.4. Identifique las partes interesadas pertinentes a la hora de planificar un nuevo sistema](#124-identifique-las-partes-interesadas-pertinentes-a-la-hora-de-planificar-un-nuevo-sistema)
+- [1.2.5. Describa métodos de obtener requisitos de las partes interesadas](#125-describa-métodos-de-obtener-requisitos-de-las-partes-interesadas)
+- [1.2.6. Describa técnicas adecuadas para obtener la información necesaria para llegar a una solución funcional](#126-describa-técnicas-adecuadas-para-obtener-la-información-necesaria-para-llegar-a-una-solución-funcional)
+- [1.2.7. Elabore representaciones adecuadas para ilustrar los requisitos del sistema](#127-elabore-representaciones-adecuadas-para-ilustrar-los-requisitos-del-sistema)
+- [1.2.8. Describa el propósito de los prototipos para hacer al cliente una demostración del sistema propuesto](#128-describa-el-propósito-de-los-prototipos-para-hacer-al-cliente-una-demostración-del-sistema-propuesto)
+- [1.2.9. Discuta la importancia de la iteración durante el proceso de diseño](#129-discuta-la-importancia-de-la-iteración-durante-el-proceso-de-diseño)
+- [1.2.10. Explique las posibles consecuencias de no implicar al usuario final en el proceso de diseño](#1210-explique-las-posibles-consecuencias-de-no-implicar-al-usuario-final-en-el-proceso-de-diseño)
+- [1.2.11. Discuta las cuestiones éticas y sociales asociadas a la introducción de un nuevo sistema de TI](#1211-discuta-las-cuestiones-éticas-y-sociales-asociadas-a-la-introducción-de-un-nuevo-sistema-de-ti)
+- [1.2.12. Defina el término "facilidad de uso"](#1212-defina-el-término-facilidad-de-uso)
+- [1.2.13. Identifique varios problemas relacionados con la facilidad de uso en los dispositivos digitales más frecuentemente usados](#1213-identifique-varios-problemas-relacionados-con-la-facilidad-de-uso-en-los-dispositivos-digitales-más-frecuentemente-usados)
+- [1.2.14. Identifique métodos para mejorar la accesibilidad de los sistemas](#1214-identifique-métodos-para-mejorar-la-accesibilidad-de-los-sistemas)
+- [1.2.15. Identifique varios problemas de facilidad de uso que puedan darse en un sistema](#1215-identifique-varios-problemas-de-facilidad-de-uso-que-puedan-darse-en-un-sistema)
+- [1.2.16. Discuta las implicaciones morales, éticas, sociales, económicas y ambientales de la interacción entre humanos y máquinas](#1216-discuta-las-implicaciones-morales-éticas-sociales-económicas-y-ambientales-de-la-interacción-entre-humanos-y-máquinas)
 
 
-## 1.2.1. Definición de términos clave
+---
+
+<br>
+
+## 1.2.1. Defina los términos siguientes: "hardware", "software", "periférico", "red", "recursos humanos"
 
 En el diseño de sistemas es fundamental comprender ciertos conceptos clave que forman la base de cualquier sistema de información. A continuación, se definen los términos más relevantes:
 
@@ -70,7 +76,9 @@ Los recursos humanos en un sistema de información incluyen a todas las personas
 
 Los recursos humanos son un elemento clave en el éxito de cualquier sistema de información, ya que garantizan su correcto funcionamiento y evolución.  
 
-## 1.2.2. Funciones del computador en un mundo interconectado
+<br>
+
+## 1.2.2. Describa las funciones que puede tener un computador en un mundo interconectado
 
 En la actualidad, los computadores desempeñan múltiples funciones en un mundo cada vez más interconectado. Desde el acceso a la información hasta la gestión de infraestructuras críticas, su papel es fundamental en numerosos ámbitos. A continuación, se presentan las principales funciones que un computador puede desempeñar en una red:
 
@@ -147,7 +155,9 @@ Funciones principales:
 
 Existen firewalls de software (como Windows Defender Firewall) y de hardware (como Cisco ASA o Fortinet).
 
-## 1.2.3. Cuestiones éticas y sociales en un mundo interconectado
+<br>
+
+## 1.2.3. Discuta las cuestiones éticas y sociales asociadas a un mundo interconectado
 
 El mundo interconectado actual ha generado numerosos beneficios en términos de comunicación, acceso a la información y globalización. Sin embargo, también plantea diversas cuestiones éticas y sociales que deben abordarse para garantizar un uso responsable de la tecnología. A continuación, se analizan algunos de los principales desafíos en este ámbito.
 
@@ -206,7 +216,9 @@ Recomendaciones para un uso equilibrado de la tecnología:
 - Promover actividades fuera del entorno digital.  
 - Desarrollar conciencia sobre el impacto de la hiperconectividad.  
 
-## 1.2.4. Interesados a la hora de planificar un nuevo sistema
+<br>
+
+## 1.2.4. Identifique las partes interesadas pertinentes a la hora de planificar un nuevo sistema
 
 Los **stakeholders** son individuos, equipos, grupos u organizaciones que tienen un interés en la realización de un proyecto o que pueden verse afectados por el resultado de un proyecto. Por lo tanto, cualquier persona que tenga intereses en un sistema de información existente o propuesto puede describirse como un stakeholder del sistema.
 
@@ -324,7 +336,9 @@ La observación directa permite recopilar distintos tipos de datos e informació
 
 Sin embargo, a veces las personas cambian su comportamiento cuando saben que están siendo observadas. El término **“efecto Hawthorne”** se utiliza para describir situaciones en las que los trabajadores mejoran su rendimiento al saber que participan en un proceso de observación.
 
-## 1.2.5. Ingeniería de requisitos
+<br>
+
+## 1.2.5. Describa métodos de obtener requisitos de las partes interesadas
 
 **Examinar los sistemas actuales** es un proceso que implica la revisión detallada del sistema en funcionamiento, el análisis de sus funciones y procedimientos, así como el estudio de la documentación empresarial y del sistema, como documentos de pedidos, documentos de logística y procedimientos y reportes informáticos utilizados por los responsables de operaciones y directivos.
 
@@ -348,7 +362,9 @@ Debemos tener en cuenta que un sistema de información moderno debe planificarse
 - mantener la resiliencia corporativa,
 - mejorar la estabilidad organizacional.
 
-## 1.2.6. Representación de los requisitos
+<br>
+
+## 1.2.6. Describa técnicas adecuadas para obtener la información necesaria para llegar a una solución funcional
 
 En el **desarrollo de sistemas de información** es fundamental plasmar de manera gráfica y clara los requisitos y la lógica del sistema. Esto facilita la comunicación entre los distintos miembros del equipo y permite detectar posibles errores o mejoras en etapas tempranas del diseño.
 
@@ -396,7 +412,9 @@ Estos diagramas representan la organización y la jerarquía de los componentes 
     <p><em>Figura 9: Diagrama de estructuras. Fuente: Manuel Cillero</em></p>
   </div>
 
-## 1.2.7. El propósito de un prototipo
+<br>
+
+## 1.2.7. Elabore representaciones adecuadas para ilustrar los requisitos del sistema
 
 **Competencias de salida.** Los estudiantes deben ser capaces de:
 
@@ -416,7 +434,9 @@ Un prototipo:
 - Ayuda a identificar problemas relacionados con la eficiencia o el diseño.
 - Incrementa la velocidad de desarrollo del sistema.
 
-## 1.2.8. La importancia de la iteración en el proceso de diseño
+<br>
+
+## 1.2.8. Describa el propósito de los prototipos para hacer al cliente una demostración del sistema propuesto
 
 El proceso de diseño en sistemas y productos no es lineal, sino que requiere de una revisión constante y de la adaptación a nuevos requerimientos y descubrimientos. La iteración se convierte en una herramienta clave para alcanzar un diseño óptimo, permitiendo mejorar y refinar el producto a lo largo de todo el proceso.
 
@@ -465,7 +485,9 @@ Imaginemos el desarrollo de una aplicación móvil:
 
 Este ciclo se repite hasta que el producto cumpla con los estándares de calidad y satisfaga las necesidades del usuario.
 
-## 1.2.9. Posibles consecuencias de no implicar al usuario final en el proceso de diseño
+<br>
+
+## 1.2.9. Discuta la importancia de la iteración durante el proceso de diseño
 
 Para que un sistema tenga éxito, el análisis y el diseño deben involucrar a todos los **stakeholders clave**, incluyendo al **cliente** (la persona u organización que financia el proyecto) y a los **usuarios finales** (las personas que utilizarán el sistema).
 
@@ -473,7 +495,9 @@ La **implicación, la colaboración y la participación activa** son fundamental
 
 El sistema desarrollado puede terminar resolviendo un problema distinto o abordando cuestiones que están fuera del alcance del proyecto.
 
-## 1.2.10 Cuestiones éticas y sociales asociadas a la introducción de un nuevo sistema de TI
+<br>
+
+## 1.2.10 Explique las posibles consecuencias de no implicar al usuario final en el proceso de diseño
 
 Los **cajeros automáticos (ATM)** reemplazaron a los cajeros de banco, los sistemas de **peaje electrónico (E-pass) **sustituyeron a los cobradores de autopistas, las **agencias de viajes en internet** reemplazaron a las pequeñas agencias de viajes, los **sistemas automatizados de voz** sustituyeron a los representantes de atención al cliente, el correo electrónico reemplazó a los carteros, los **sistemas de reconocimiento de voz** sustituyeron a los mecanógrafos, y los **blogs, periodistas ciudadanos y usuarios de redes sociales** están reemplazando a los reporteros.
 
@@ -491,7 +515,9 @@ Un hallazgo sorprendente es que, en un **entorno empresarial**, la introducción
 
 Es necesario determinar hasta qué punto los avances en TI son realmente **beneficiosos**, para garantizar que no afecten negativamente a la sociedad humana.
 
-## 1.2.11. El concepto de usabilidad
+<br>
+
+## 1.2.11. Discuta las cuestiones éticas y sociales asociadas a la introducción de un nuevo sistema de TI
 
 > [!IMPORTANT]  
 > La usabilidad hace referencia a la eficiencia, efectividad y satisfacción con la que un usuario puede interactuar con un sistema digital. Incluye aspectos como la ergonomía y la accesibilidad, permitiendo que el sistema sea intuitivo y fácil de manejar para diferentes tipos de usuarios.
@@ -538,7 +564,9 @@ Los usuarios deben poder personalizar la interfaz según sus preferencias, lo qu
 #### Opciones
 Se deben ofrecer múltiples formas de acceder a la información, permitiendo a los usuarios elegir entre enlaces de texto, gráficos, buscadores, índices o mapas del sitio. La flexibilidad en la interfaz facilita la adaptación a diferentes capacidades y contextos de uso.
 
-## 1.2.12. Problemas de usabilidad en dispositivos digitales
+<br>
+
+## 1.2.12. Defina el término "facilidad de uso"
 
 ### Tabletas
 
@@ -564,7 +592,9 @@ Se deben ofrecer múltiples formas de acceder a la información, permitiendo a l
 - Una **iluminación deficiente en la habitación** puede generar reflejos molestos en la pantalla.
 - El ratón del PC está diseñado para **personas diestras**, lo que dificulta su uso a las personas zurdas.
 
-## 1.2.13. Métodos para mejorar la accesibilidad en los sistemas
+<br>
+
+## 1.2.13. Identifique varios problemas relacionados con la facilidad de uso en los dispositivos digitales más frecuentemente usados
 
 > [!IMPORTANT]  
 > El **diseño centrado en el usuario (DCU)** asume que todo el proceso tiene que estar orientado hacia las necesidades y objetivos del usuario y éstos deben estar involucrados desde el comienzo en el proceso de diseño.
@@ -593,7 +623,9 @@ El DCU algunos expertos lo dividen en 5 etapas. Algunas de las cuales tienen, ca
     <p><em>Figura 11: Etapas del DCU. Fuente: UOC</em></p>
   </div>
 
-## 1.2.14. Implicaciones morales, éticas, sociales, económicas y ambientales de la interacción entre humanos y máquinas
+<br>
+
+## 1.2.14. Identifique métodos para mejorar la accesibilidad de los sistemas
 
 La **Inteligencia Artificial (IA)** y la **robótica** son dos campos de la informática que apuntan hacia un futuro muy diferente. Una pregunta difícil aún sin respuesta es: ¿cómo podemos **replicar a los seres vivos** utilizando chips de silicio, redes informáticas y software?
 
@@ -618,3 +650,11 @@ Además, los **residuos electrónicos** contienen plomo, cadmio, mercurio, cromo
 La **brecha digital** existe no solo entre hogares de ingresos altos y bajos, sino también entre países. Portátiles, tabletas, teléfonos inteligentes, pizarras digitales interactivas, multimedia, tecnologías inalámbricas, motores de búsqueda, redes sociales, intercambio de archivos, música y fotografía digital, y otras tecnologías de vanguardia forman parte de la vida diaria de los afortunados, pero son solo un sueño para muchos otros.
 
 Las consecuencias de la brecha digital generan una **creciente desigualdad** y una reducción de las oportunidades de educación, entretenimiento e ingresos.
+
+<br>
+
+## 1.2.15. Identifique varios problemas de facilidad de uso que puedan darse en un sistema
+
+<br>
+
+## 1.2.16. Discuta las implicaciones morales, éticas, sociales, económicas y ambientales de la interacción entre humanos y máquinas
