@@ -22,6 +22,8 @@
 
 ---
 
+<br>
+
 ## 1.1.1. Identifique el contexto para el cual se planifica un nuevo sistema
 
 Un **nuevo sistema** puede crearse para reemplazar un sistema que sea ineficiente, que ya no sea adecuado para su propósito original, redundante o desactualizado. El propósito de un nuevo sistema también puede ser aumentar la **productividad** o la **calidad del resultado**, o incluso **minimizar costos**. El nuevo sistema debería reducir los errores o fallas del existente.  
