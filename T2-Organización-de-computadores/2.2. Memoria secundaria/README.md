@@ -5,7 +5,7 @@
 
 ## Contenido:
 
-- [2.2.1. Identifique la necesidad de contar con almacenamiento persistente](#212-identifique-la-necesidad-de-contar-con-almacenamiento-persistente)
+- [2.2.1. Identifique la necesidad de contar con almacenamiento persistente](#221-identifique-la-necesidad-de-contar-con-almacenamiento-persistente)
 
 ---
 
