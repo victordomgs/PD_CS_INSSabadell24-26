@@ -1,15 +1,15 @@
-<h1 align="center">3.1. Redes inalámbricas
+<h1 align="center">3.3. Redes inalámbricas
 <div align="center">
 
 </div>
 
 ## Contenido:
 
-- [3.1.12. Ventajas y desventajas de las redes inalámbricas](#3112-ventajas-y-desventajas-de-las-redes-inalámbricas)
-- [3.1.13. Componentes de las redes inalámbricas](#3113-componentes-de-las-redes-inalámbricas)
-- [3.1.14. Características de las redes inalámbricas](#3114-características-de-las-redes-inalámbricas)
-- [3.1.15. Métodos de seguridad para redes](#3115-métodos-de-seguridad-para-redes)
-- [3.1.16. Ventajas y desventajas de los métodos de seguridad para redes](#3116-ventajas-y-desventajas-de-los-métodos-de-seguridad-para-redes)
+- [3.1.12. Resuma las ventajas y desventajas de las redes inalámbricas](#3112-resuma-las-ventajas-y-desventajas-de-las-redes-inalámbricas)
+- [3.1.13. Describa los componentes de las redes inalámbricas](#3113-describa-los-componentes-de-las-redes-inalámbricas)
+- [3.1.14. Describa las características de las redes inalámbricas](#3114-describa-las-características-de-las-redes-inalámbricas)
+- [3.1.15. Describa los distintos métodos de seguridad para redes](#3115-describa-los-distintos-métodos-de-seguridad-para-redes)
+- [3.1.16. Evalúe las ventajas y desventajas de los métodos de seguridad para redes](#3116-evalúe-las-ventajas-y-desventajas-de-los-métodos-de-seguridad-para-redes)
 
 ---
 
@@ -20,7 +20,7 @@ Los sistemas y dispositivos inalámbricos incluyen: Teléfonos móviles, teclado
 > [!NOTE]  
 > Hoy en día, los portátiles, smartphones y tabletas están equipados con **diversos adaptadores y tarjetas de red** que facilitan la integración entre **Wi-Fi** y **redes de telefonía móvil**.
 
-## 3.1.12. Ventajas y desventajas de las redes inalámbricas
+## 3.1.12. Resuma las ventajas y desventajas de las redes inalámbricas
 
 El uso extensivo de dispositivos y redes inalámbricas y móviles ha generado diversas preocupaciones:
 
@@ -73,7 +73,7 @@ Todos los dispositivos electrónicos deben **reciclarse** y **nunca enterrarse e
 | Es la única forma de conectar algunos dispositivos (tabletas, smartphones). | |
 | Flexibilidad / conveniencia. | |
 
-## 3.1.13. Componentes de las redes inalámbricas
+## 3.1.13. Describa los componentes de las redes inalámbricas
 
 ### Dispositivos de hardware necesarios:
 
@@ -115,7 +115,7 @@ Se usaba en transceptores de radio y teléfonos móviles. Hoy en día, su uso ha
 - **Navegador web (Web Browser):** software de aplicación usado para encontrar, recuperar y mostrar contenido en la **World Wide Web**, incluyendo páginas web, texto, imágenes, audio, vídeos y otros contenidos.
 La mayoría de los navegadores incluyen funciones como “favoritos”, “historial” o “buscar en una página web”.
 
-## 3.1.14. Características de las redes inalámbricas
+## 3.1.14. Describa las características de las redes inalámbricas
 
 ### Tasas de bits
 
@@ -160,7 +160,7 @@ La mayoría de los navegadores incluyen funciones como “favoritos”, “histo
 - **Popularidad:** LTE es mucho más extendido que WiMAX.
 - **Instalación:** WiMAX se considera mejor opción para **instalaciones de bajo coste en países en desarrollo**.
 
-## 3.1.15. Métodos de seguridad para redes
+## 3.1.15. Describa los distintos métodos de seguridad para redes
 
 ### Dispositivos inalámbricos y vulnerabilidades
 
@@ -257,7 +257,7 @@ Cuando configuras tu red inalámbrica, probablemente no quieras proporcionar acc
 
 **5. WPS (Wi-Fi Protected Setup):** Diseñado para usuarios domésticos sin experiencia técnica. Permite configurar la red fácilmente si el router y los dispositivos son compatibles. Tiene vulnerabilidades conocidas, por lo que se recomienda deshabilitarlo.
 
-## 3.1.16. Ventajas y desventajas de los métodos de seguridad para redes
+## 3.1.16. Evalúe las ventajas y desventajas de los métodos de seguridad para redes
 
 | **Método**                                          | **Ventajas**                                                                 | **Desventajas**                                                                 |
 |-----------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
