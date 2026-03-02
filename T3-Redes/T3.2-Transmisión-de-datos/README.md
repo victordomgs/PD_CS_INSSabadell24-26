@@ -1,20 +1,20 @@
-<h1 align="center">3.1. Transmisión de datos
+<h1 align="center">3.2. Transmisión de datos
 <div align="center">
 
 </div>
 
 ## Contenido:
 
-- [3.1.6. Protocolo y paquete de datos](#316-protocolo-y-paquete-de-datos)
-- [3.1.7. Necesidad de los protocolos](#317-necesidad-de-los-protocolos)
-- [3.1.8. Velocidad de transmisión de datos en red](#318-velocidad-de-transmisión-de-datos-en-red)
-- [3.1.9. Compresión de datos](#319-compresión-de-datos)
-- [3.1.10. Características según el tipo de transmisión](#3110-características-según-el-tipo-de-transmisión)
-- [3.1.11. Conmutación de paquetes](#3111-conmutación-de-paquetes)
+- [3.2.1. Defina los términos protocolo y paquete de datos](#321-defina-los-términos-protocolo-y-paquete-de-datos)
+- [3.2.2. Explique por qué son necesarios los protocolos](#322-explique-por-qué-son-necesarios-los-protocolos)
+- [3.2.3. Explique por qué puede variar la velocidad de transmisión de datos en red](#323-explique-por-qué-puede-variar-la-velocidad-de-transmisión-de-datos-en-red)
+- [3.2.4. Explique por qué es necesaria la compresión de datos cuanto se transmiten](#324-explique-por-qué-es-necesaria-la-compresión-de-datos-cuando-se-transmiten)
+- [3.2.5. Resuma las características según el tipo de transmisión](#325-características-según-el-tipo-de-transmisión)
+- [3.2.6. Explique cómo se transmiten datos mediante la conmutación de paquetes](#326-explique-cómo-se-transmiten-datos-mediante-la-conmutación-de-paquetes)
 
 ---
 
-## 3.1.6. Protocolo y paquete de datos
+## 3.2.1. Defina los términos protocolo y paquete de datos
 
 ### Packet (paquete)
 
@@ -24,7 +24,7 @@ Grupo de bits. Puede incluir señales de control, bits de error, información co
 
 Reglas internacionales que garantizan la transferencia de datos entre sistemas. Un protocolo reconocido como estándar para un tipo específico de transferencia se llama protocolo estándar. Ejemplo: TCP/IP es un protocolo estándar.
 
-## 3.1.7. Necesidad de los protocolos
+## 3.2.2. Explique por qué son necesarios los protocolos
 
 ### Protocolos de comunicación
 
@@ -62,7 +62,7 @@ Los **protocolos de red** también proporcionan:
 - **Verificación de errores:** Proceso de detección de errores en la transmisión.
 - **Corrección de errores:** Capacidad de **reparar** los errores detectados.
 
-## 3.1.8. Velocidad de transmisión de datos en red
+## 3.2.3. Explique por qué puede variar la velocidad de transmisión de datos en red
 
 Es importante mencionar que diferentes **medios de transmisión** soportan distintas velocidades. La unidad principal utilizada para medir la transferencia de datos es **bps (bits por segundo)**.
 
@@ -101,7 +101,7 @@ El término **goodput** se refiere a la **tasa de transferencia de datos útiles
 - RAM / caché de disco del PC del usuario.
 - Rendimiento de los subsistemas del PC del usuario.
 
-## 3.1.9. Compresión de datos
+## 3.2.4. Explique por qué es necesaria la compresión de datos cuanto se transmiten
 
 Todas las redes tienen un **ancho de banda limitado**. La **compresión de datos** reduce el tamaño de los archivos transmitidos a través de la red.
 
@@ -124,7 +124,7 @@ La compresión de archivos es muy usada al **enviar un archivo de un ordenador a
 - **Compresión con pérdida (Lossy):** Se acepta cierta pérdida de información. No es posible recuperar el archivo original. Ejemplos: JPEG, MPEG-2.
 - **Compresión sin pérdida (Lossless):** Reduce el número de bits eliminando redundancias estadísticas. No se pierde información en el proceso. Ejemplos: programas de compresión–descompresión (ZIP, RAR, 7z).
 
-## 3.1.10. Características según el tipo de transmisión
+## 3.2.5. Resuma las características según el tipo de transmisión
 
 ### Comunicación cableada
 
@@ -167,7 +167,7 @@ La compresión de archivos es muy usada al **enviar un archivo de un ordenador a
 | Inalámbrico           | 1         | 1          | 1     | 1         |
 
 
-## 3.1.11. Conmutación de paquetes
+## 3.2.6. Explique cómo se transmiten datos mediante la conmutación de paquetes
 
 Un **paquete de datos** es una unidad de información en una forma adecuada para viajar entre computadoras. En una **red de conmutación de paquetes**, el **datagrama** es la unidad básica de transferencia y, en ocasiones, se utiliza en lugar del término paquete de datos (un análisis detallado de las diferencias entre ambos queda fuera del alcance de este texto).
 
@@ -181,5 +181,20 @@ Este método permite que el canal de comunicación se use de forma más eficient
 
 #### Tipos de conmutación de paquetes:
 
-- **Conmutación de paquetes por datagramas:** Cada paquete contiene la dirección del receptor. Los datagramas entre la misma fuente y destino pueden seguir caminos distintos.
-- **Conmutación de paquetes por circuito virtual:** Se establece una ruta entre origen y destino antes de que tenga lugar la transmisión.
+- **Conmutación de datagramas:** Es el método más común (utilizado en el protocolo IP). Cada paquete se trata de forma independiente y contiene la dirección completa de destino. La red no garantiza que los paquetes lleguen en el mismo orden en que fueron enviados; es el dispositivo receptor el encargado de reordenarlos.
+- **Conmutación de circuitos virtuales:** Antes de enviar los paquetes, se establece una ruta lógica fija entre el emisor y el receptor. Aunque los datos siguen divididos en paquetes, todos siguen el mismo camino preestablecido, lo que facilita el orden y el control de flujo.
+
+### El proceso de transmisión paso a paso
+
+Para comprender cómo viaja la información en este sistema, podemos desglosar el proceso en las siguientes etapas:
+
+1. **Segmentación:** El mensaje original (por ejemplo, un correo electrónico o una imagen) se divide en trozos más pequeños. A cada trozo se le añade una cabecera (header) que contiene información crítica: dirección IP de origen y destino, número de secuencia del paquete y códigos de error.
+2. **Enrutamiento dinámico:** Los paquetes se lanzan a la red. Los routers (encaminadores) examinan la dirección de destino de cada paquete y deciden cuál es la mejor ruta disponible en ese preciso instante. Si un nodo de la red está saturado o caído, el paquete simplemente toma un desvío.
+3. **Almacenamiento y reenvío (Store and Forward):** Cada nodo intermedio recibe el paquete completo, verifica que no tenga errores y lo reenvía al siguiente salto.
+4. **Reensamblado:** Una vez que todos los paquetes llegan al destino, el protocolo de transporte (como el TCP) utiliza los números de secuencia para unirlos de nuevo y reconstruir el archivo original. Si falta algún paquete, se solicita su retransmisión.
+
+### Ventajas de la conmutación de paquetes
+
+- **Eficiencia del ancho de banda:** No es necesario reservar una línea exclusiva para una comunicación (a diferencia de la telefonía tradicional). Varios usuarios pueden compartir el mismo canal simultáneamente.
+- **Resiliencia:** Si un enlace falla, la red es capaz de redirigir los paquetes por caminos alternativos de forma automática, evitando la pérdida de la comunicación.
+- **Coste reducido:** Al maximizar el uso de la infraestructura existente, el coste por bit transmitido es significativamente menor que en la conmutación de circuitos.
