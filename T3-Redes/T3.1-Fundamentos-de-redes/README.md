@@ -5,11 +5,11 @@
 
 ## Contenido:
 
-- [3.1.1. Diferentes tipos de redes](#311-diferentes-tipos-de-redes)
-- [3.1.2. Importancia de los estándares en la construcción de redes](#312-importancia-de-los-estándares-en-la-construcción-de-redes)
-- [3.1.3. Capas en la comunicación de red](#313-capas-en-la-comunicación-de-red)
-- [3.1.4. Introducción a VPN](#314-introducción-a-vpn)
-- [3.1.5. Uso de VPN](#315-uso-de-vpn)
+- [3.1.1. Identifique distintos tipos de redes](#311-identifique-distintos-tipos-de-redes)
+- [3.1.2. Resuma la importancia de los estándares en la construcción de redes](#312-resuma-la-importancia-de-los-estándares-en-la-construcción-de-redes)
+- [3.1.3. Describa las capas de comunicación de red](#313-describa-las-capas-de-comunicación-de-red)
+- [3.1.4. Identifique las tecnologías necesarias para ofrecer una VPN](#314-identifique-las-tecnologías-necesarias-para-ofrecer-una-VPN)
+- [3.1.5. Evalúe-el-uso-de-una-VPN](#315-evalúe-el-uso-de-una-vpn)
 
 ---
 
@@ -41,7 +41,7 @@ A continuación se muestran algunos de los conceptos esenciales que se trabajar�
 
 ---
 
-## 3.1.1. Diferentes tipos de redes
+## 3.1.1. Identifique distintos tipos de redes
 
 Una red informática está compuesta por dos o más sistemas informáticos que están conectados y son capaces de comunicarse e intercambiar datos. Dichos sistemas informáticos están conectados mediante cable o medios inalámbricos. Hay dos términos clave en las redes informáticas que desempeñan un papel importante:
 
@@ -120,7 +120,6 @@ La tecnología más común utilizada para construir LAN cableadas es un hub o un
     <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%204.%20Redes.png" alt="Local Area Network" width="570" height="auto"/>
     <p><em>Figura 4: Local Area Network. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
-
 
 ### Red de Área Local Inalámbrica (WLAN)
 
@@ -315,7 +314,7 @@ En lugar de ello, una red P2P emplea una **arquitectura de red distribuida** don
 El modelo P2P elimina la dependencia de servidores centralizados, evitando posibles **cuellos de botella**, y permite que cada ordenador aporte parte de sus recursos para que otros puedan utilizarlos.
 
 
-## 3.1.2. Importancia de los estándares en la construcción de redes
+## 3.1.2. Resuma la importancia de los estándares en la construcción de redes
 
 Imagina que una empresa necesita configurar una LAN con varios clientes y servidores.
 Si el hardware no sigue algunas reglas comunes (o estándares específicos), es posible que los sistemas informáticos no puedan interconectarse para crear la red.
@@ -334,7 +333,7 @@ Los estándares describen una **base común** en la que los fabricantes de hardw
 En este sentido, los estándares pueden considerarse como un **“lenguaje internacional común”** que permite la **compatibilidad** entre todos los sistemas informáticos a nivel global.
 
 
-## 3.1.3. Capas en la comunicación de red
+## 3.1.3. Describa las capas de comunicación de red
 
 Si solo existiera un fabricante de sistemas informáticos, ofreciendo un único tipo de ordenador para usarse en todas partes, la comunicación entre sistemas informáticos sería sencilla.
 Habría un único estándar de comunicación y ningún otro.
@@ -431,7 +430,7 @@ Su funcionamiento está estructurado en **cuatro capas de abstracción**.
 | 4  | **Acceso a la red** | Medios y dispositivos de transmisión. |
 
 
-## 3.1.4. Introducción a VPN
+## 3.1.4. Identifique las tecnologías necesarias para ofrecer una VPN
 
 Una **Red Privada Virtual (VPN)** crea una conexión de red “tunneled” (túnel) a través de Internet u otra red pública.
 Se considera ideal para establecer una conexión segura y privada entre redes con usuarios remotos y sedes remotas.
@@ -506,7 +505,7 @@ Cada host debe tener instalado un **software cliente VPN**.
   </div>
 
 
-## 3.1.5. Uso de VPN
+## 3.1.5. Evalúe el uso de una VPN
 
 #### Beneficios de una VPN:
 
