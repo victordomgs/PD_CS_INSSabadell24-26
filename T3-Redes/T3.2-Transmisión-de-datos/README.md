@@ -178,7 +178,7 @@ La **conmutación de paquetes** es un método de comunicación usado en redes di
 - Cada paquete se envía de manera individual y puede llegar a través de rutas diferentes.
 
   <div style="text-align: center;">
-    <img src="[https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2019.%20Redes.jpg](https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2020.%20Redes.gif)" width="750" height="auto"/>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2020.%20Redes.gif" width="750" height="auto"/>
     <p><em>Figura 20: Packet switching. Fuente: Wikipedia</em></p>
   </div>
 
