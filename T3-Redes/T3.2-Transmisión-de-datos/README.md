@@ -9,7 +9,7 @@
 - [3.2.2. Explique por qué son necesarios los protocolos](#322-explique-por-qué-son-necesarios-los-protocolos)
 - [3.2.3. Explique por qué puede variar la velocidad de transmisión de datos en red](#323-explique-por-qué-puede-variar-la-velocidad-de-transmisión-de-datos-en-red)
 - [3.2.4. Explique por qué es necesaria la compresión de datos cuanto se transmiten](#324-explique-por-qué-es-necesaria-la-compresión-de-datos-cuando-se-transmiten)
-- [3.2.5. Resuma las características según el tipo de transmisión](#325-características-según-el-tipo-de-transmisión)
+- [3.2.5. Resuma las características según el tipo de transmisión](#325-resuma-las-características-según-el-tipo-de-transmisión)
 - [3.2.6. Explique cómo se transmiten datos mediante la conmutación de paquetes](#326-explique-cómo-se-transmiten-datos-mediante-la-conmutación-de-paquetes)
 
 ---
