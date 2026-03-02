@@ -20,19 +20,19 @@ Las notas que siguen a algunos enunciados de evaluación sirven como orientació
 
 | Enunciado de evaluación | Obj. | Notas para el profesor |
 |-------------------------|------|------------------------|
-| **3.1.6** Defina los términos “protocolo” y “paquete de datos”. | 1 | - |
-| **3.1.7** Explique por qué son necesarios los protocolos. | 3 | Incluir integridad de los datos, control del flujo, bloqueos, congestión y comprobación de errores. |
-| **3.1.8** Explique por qué puede variar la velocidad de la transmisión de datos a través de una red. | 3 | - |
-| **3.1.9** Explique por qué a menudo es necesaria la compresión de datos cuando se transmite información a través de una red. | 3 | S/E, INT La compresión ha permitido que la información se difunda más rápidamente. |
-| **3.1.10** Resuma las características de distintos tipos de transmisión. | 2 | Entre las características se encuentran la velocidad, fiabilidad, coste y seguridad. Entre los medios de transmisión se incluyen conductores metálicos, fibra óptica y comunicación inalámbrica. |
-| **3.1.11** Explique cómo se transmiten datos mediante la conmutación de paquetes. | 3 | - |
+| **3.2.1** Defina los términos “protocolo” y “paquete de datos”. | 1 | - |
+| **3.2.2** Explique por qué son necesarios los protocolos. | 3 | Incluir integridad de los datos, control del flujo, bloqueos, congestión y comprobación de errores. |
+| **3.2.3** Explique por qué puede variar la velocidad de la transmisión de datos a través de una red. | 3 | - |
+| **3.2.4** Explique por qué a menudo es necesaria la compresión de datos cuando se transmite información a través de una red. | 3 | S/E, INT La compresión ha permitido que la información se difunda más rápidamente. |
+| **3.2.5** Resuma las características de distintos tipos de transmisión. | 2 | Entre las características se encuentran la velocidad, fiabilidad, coste y seguridad. Entre los medios de transmisión se incluyen conductores metálicos, fibra óptica y comunicación inalámbrica. |
+| **3.2.6** Explique cómo se transmiten datos mediante la conmutación de paquetes. | 3 | - |
 
 ## 3.3. Redes inalámbricas
 
 | Enunciado de evaluación | Obj. | Notas para el profesor |
 |-------------------------|------|------------------------|
-| **3.1.12** Resuma las ventajas y las desventajas de las redes inalámbricas. | 2 | S/E Las redes inalámbricas han generado cambios en los patrones de trabajo y actividades sociales y han generado problemas de salud. |
-| **3.1.13** Describa los componentes de hardware y software de una red inalámbrica. | 2 | - |
-| **3.1.14** Describa las características de las redes inalámbricas. | 2 | Incluir: WiFi, Interoperabilidad mundial para acceso por microondas (WiMAX), tecnología móvil 3G y redes futuras. S/E, INT Conectividad entre distintas ubicaciones. |
-| **3.1.15** Describa los distintos medios de seguridad para redes. | 2 | Incluir tipos de encriptación, userID y direcciones MAC. S/E Las redes inalámbricas han generado preocupación acerca de la seguridad de los datos del usuario. |
-| **3.1.16** Evalúe las ventajas y desventajas de cada medio de seguridad para redes. | 3 | - |
+| **3.3.1** Resuma las ventajas y las desventajas de las redes inalámbricas. | 2 | S/E Las redes inalámbricas han generado cambios en los patrones de trabajo y actividades sociales y han generado problemas de salud. |
+| **3.3.2** Describa los componentes de hardware y software de una red inalámbrica. | 2 | - |
+| **3.3.3** Describa las características de las redes inalámbricas. | 2 | Incluir: WiFi, Interoperabilidad mundial para acceso por microondas (WiMAX), tecnología móvil 3G y redes futuras. S/E, INT Conectividad entre distintas ubicaciones. |
+| **3.3.4** Describa los distintos medios de seguridad para redes. | 2 | Incluir tipos de encriptación, userID y direcciones MAC. S/E Las redes inalámbricas han generado preocupación acerca de la seguridad de los datos del usuario. |
+| **3.3.5** Evalúe las ventajas y desventajas de cada medio de seguridad para redes. | 3 | - |
