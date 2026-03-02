@@ -90,7 +90,7 @@ Todos los dispositivos electrónicos deben **reciclarse** y **nunca enterrarse e
 > En la mayoría de los casos compramos un único dispositivo que integra un módem, un switch y un router en una sola caja.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2017.%20Redes.png" width="470" height="auto"/>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2017.%20Redes.png" width="550" height="auto"/>
     <p><em>Figura 17: WLAN. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
 
@@ -136,7 +136,7 @@ La mayoría de los navegadores incluyen funciones como “favoritos”, “histo
 - **WiMAX (Worldwide Interoperability for Microwave Access):** Estándar 4G diseñado inicialmente como alternativa a DSL, Cable y líneas T1. Velocidades: **30-40 Mbit/s** para múltiples usuarios. Con WiMAX 2.0: hasta **1 Gbit/s** en dispositivos fijos y **100 Mbit/s** en dispositivos móviles. Orientado a redes de **largo alcance (kilómetros)**. Usado para conectividad móvil en ciudades o incluso países. **Ventajas:** bajo coste de instalación, especialmente en zonas rurales o países en desarrollo. **Amenaza:** compite con proveedores de DSL y cable-módem.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2018.%20WiMAX.png" width="340" height="auto"/>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2018.%20WiMAX.png" width="550" height="auto"/>
     <p><em>Figura 17: WiMAX. Fuente: Core Computer Science (Kostas Dimitriou & Markos Hatzitaskos)</em></p>
   </div>
   
