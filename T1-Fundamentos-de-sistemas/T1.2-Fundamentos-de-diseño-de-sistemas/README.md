@@ -655,6 +655,48 @@ Las consecuencias de la brecha digital generan una **creciente desigualdad** y u
 
 ## 1.2.15. Identifique varios problemas de facilidad de uso que puedan darse en un sistema
 
+### 1. Sistemas de Venta de Entradas (Ticketing)
+
+En estos sistemas, el tiempo suele ser un factor crítico (especialmente en lanzamientos de eventos populares).
+
+- **Falta de retroalimentación en tiempo real:** No saber si un asiento sigue disponible mientras intentas seleccionarlo.
+- **Navegación compleja y lineal:** Obligar al usuario a pasar por demasiadas pantallas (selección, registro, complementos, pago) sin poder retroceder sin perder los datos.
+- **Timeouts agresivos:** Cerrar la sesión de compra demasiado rápido, lo que genera frustración si el usuario está buscando su tarjeta de crédito.
+
+### 2. Pago de Nóminas en Línea (Online Payroll)
+
+Aquí la precisión y la confianza son primordiales, ya que se maneja dinero y datos legales.
+
+- **Terminología técnica o contable:** Usar jerga que el empleado común no entiende (ej. códigos de impuestos crípticos).
+- **Dificultad para corregir errores:** Si un usuario ingresa mal sus horas, el sistema no permite una corrección fácil antes de enviar, lo que genera procesos administrativos largos.
+- **Visualización de datos deficiente:** Desgloses de pago que no son claros en dispositivos móviles o que son difíciles de exportar/imprimir.
+
+### 3. Sistemas de Planificación (Scheduling)
+
+Utilizados para calendarios, turnos médicos o gestión de proyectos.
+
+- **Sobrecarga visual (Clutter):** Demasiada información en una sola pantalla que dificulta identificar espacios libres.
+- **Conflictos de zona horaria:** No detectar o mostrar claramente la zona horaria, lo que lleva a citas programadas incorrectamente.
+- **Rigidez en la entrada de datos:** No permitir "arrastrar y soltar" (drag-and-drop) o requerir formatos de fecha muy específicos (ej. DD/MM/AAAA) sin ofrecer un calendario visual.
+
+### 4. Sistemas de Reconocimiento de Voz
+
+La interacción aquí es auditiva, lo que presenta retos únicos de accesibilidad y comprensión.
+
+- **Incapacidad para manejar acentos o ruido de fondo:** El sistema falla al no ser inclusivo con diversas formas de hablar o entornos no silenciosos.
+- **Falta de "salidas de emergencia":** No saber cómo cancelar una acción o hablar con un humano cuando el bot de voz entra en un bucle de incomprensión.
+- **Carga cognitiva:** Listas de opciones demasiado largas ("Para ventas marque 1, para soporte 2... para otros 9") que el usuario olvida antes de que terminen.
+
+### 5. Sistemas de Comentarios y Opiniones (Feedback Systems)
+
+Sistemas como encuestas o reseñas de productos.
+
+- **Longitud excesiva:** Formularios demasiado largos que desincentivan la participación.
+- **Escalas ambiguas:** Usar iconos o números sin etiquetas claras (ej. ¿una estrella es "pésimo" o "lo primero en la lista"?).
+- **Falta de confirmación:** El usuario envía su opinión y no recibe un mensaje claro de "Gracias, se ha enviado", dejándolo con la duda de si funcionó.
+
 <br>
 
 ## 1.2.16. Discuta las implicaciones morales, éticas, sociales, económicas y ambientales de la interacción entre humanos y máquinas
+
+La interacción entre humanos y máquinas plantea un escenario complejo donde las implicaciones **éticas y morales** se centran en la autonomía del individuo, la privacidad de los datos y la responsabilidad legal ante decisiones automatizadas por algoritmos que pueden perpetuar sesgos. Desde una perspectiva social, esta relación redefine la comunicación humana y puede generar aislamiento o una "brecha digital" que excluye a sectores vulnerables, mientras que en el ámbito económico, la automatización impulsa la productividad pero amenaza con el desplazamiento laboral masivo y la necesidad de una reestructuración de las competencias profesionales. Finalmente, las consecuencias ambientales son críticas debido al alto consumo energético de los centros de datos y la creciente generación de residuos electrónicos, lo que obliga a cuestionar la sostenibilidad de un progreso tecnológico que, aunque ofrece soluciones innovadoras, también exige una gobernanza global para equilibrar el beneficio técnico con la dignidad humana y la preservación del entorno.
