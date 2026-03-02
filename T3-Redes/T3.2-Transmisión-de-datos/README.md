@@ -139,7 +139,7 @@ La compresión de archivos es muy usada al **enviar un archivo de un ordenador a
 **- Fibra óptica:** Transmite datos mediante un haz de luz. **Ventajas:** altísimas velocidades, necesita menos repetidores, extremadamente segura. **Inconvenientes:** muy cara. **Usos:** transmisión de datos y líneas telefónicas.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2019.%20Redes.jpg" width="450" height="auto"/>
+    <img src="https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2019.%20Redes.jpg" width="550" height="auto"/>
     <p><em>Figura 19: Cable coaxial. Fuente: El cajón del electrónico</em></p>
   </div>
 
@@ -176,6 +176,11 @@ La **conmutación de paquetes** es un método de comunicación usado en redes di
 - El archivo original se divide en paquetes antes de la transmisión.
 - Cada paquete puede seguir un camino distinto hacia el destino.
 - Cada paquete se envía de manera individual y puede llegar a través de rutas diferentes.
+
+  <div style="text-align: center;">
+    <img src="[https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2019.%20Redes.jpg](https://github.com/victordomgs/PD_CS_INSSabadell24-26/blob/main/images/Figura%2020.%20Redes.gif)" width="750" height="auto"/>
+    <p><em>Figura 20: Packet switching. Fuente: Wikipedia</em></p>
+  </div>
 
 Este método permite que el canal de comunicación se use de forma más eficiente y que se **minimicen los retrasos**.
 
