@@ -5,11 +5,11 @@
 
 ## Contenido:
 
-- [3.1.12. Resuma las ventajas y desventajas de las redes inalámbricas](#3112-resuma-las-ventajas-y-desventajas-de-las-redes-inalámbricas)
-- [3.1.13. Describa los componentes de las redes inalámbricas](#3113-describa-los-componentes-de-las-redes-inalámbricas)
-- [3.1.14. Describa las características de las redes inalámbricas](#3114-describa-las-características-de-las-redes-inalámbricas)
-- [3.1.15. Describa los distintos métodos de seguridad para redes](#3115-describa-los-distintos-métodos-de-seguridad-para-redes)
-- [3.1.16. Evalúe las ventajas y desventajas de los métodos de seguridad para redes](#3116-evalúe-las-ventajas-y-desventajas-de-los-métodos-de-seguridad-para-redes)
+- [3.3.1. Resuma las ventajas y desventajas de las redes inalámbricas](#331-resuma-las-ventajas-y-desventajas-de-las-redes-inalámbricas)
+- [3.3.2. Describa los componentes de las redes inalámbricas](#332-describa-los-componentes-de-las-redes-inalámbricas)
+- [3.3.3. Describa las características de las redes inalámbricas](#333-describa-las-características-de-las-redes-inalámbricas)
+- [3.3.4. Describa los distintos métodos de seguridad para redes](#334-describa-los-distintos-métodos-de-seguridad-para-redes)
+- [3.3.5. Evalúe las ventajas y desventajas de los métodos de seguridad para redes](#335-evalúe-las-ventajas-y-desventajas-de-los-métodos-de-seguridad-para-redes)
 
 ---
 
