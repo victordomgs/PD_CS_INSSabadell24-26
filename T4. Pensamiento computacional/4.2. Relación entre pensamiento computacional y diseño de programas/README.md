@@ -12,7 +12,7 @@
 - [4.2.5 Analice un algoritmo que se presente como pseudocódigo](#425-analice-un-algoritmo-que-se-presente-como-pseudocódigo)
 - [4.2.6 Elabore pseudocódigo para representar un algoritmo](#426-elabore-pseudocódigo-para-representar-un-algoritmo)
 - [4.2.7 Sugiera algoritmos adecuados para resolver un problema específico](#427-sugiera-algoritmos-adecuados-para-resolver-un-problema-específico)
-- [4.2.8 Deduzca la eficacia de un algoritmo en el contexto de su uso](#428-deduzca-la-eficacia-of-un-algoritmo-en-el-contexto-de-su-uso)
+- [4.2.8 Deduzca la eficacia de un algoritmo en el contexto de su uso](#428-deduzca-la-eficacia-de-un-algoritmo-en-el-contexto-de-su-uso)
 - [4.2.9 Determine el número de veces que se ejecutará una instrucción en un algoritmo para unos datos de entrada concretos](#429-determine-el-número-de-veces-que-se-ejecutará-una-instrucción-en-un-algoritmo-para-unos-datos-de-entrada-concretos)
 
 ---
