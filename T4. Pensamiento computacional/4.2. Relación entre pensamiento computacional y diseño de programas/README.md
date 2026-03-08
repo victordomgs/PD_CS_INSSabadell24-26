@@ -5,19 +5,19 @@
 
 ## Contenido:
 
-- [4.2.1 Describa las características de los algoritmos estándares de matrices lineales.](#421-describa-las-características-de-los-algoritmos-estándares-de-matrices-lineales)
-- [4.2.2 Resuma las operaciones estándares de las colecciones.](#422-resuma-las-operaciones-estándares-de-las-colecciones)
-- [4.2.3 Discuta un algoritmo que resuelva un problema específico.](#423-discuta-un-algoritmo-que-resuelva-un-problema-específico)
-- [4.2.4 Analice un algoritmo que se presente en forma de diagrama de flujo.](#424-analice-un-algoritmo-que-se-presente-en-forma-de-diagrama-de-flujo)
-- [4.2.5 Analice un algoritmo que se presente como pseudocódigo.](#425-analice-un-algoritmo-que-se-presente-como-pseudocódigo)
-- [4.2.6 Elabore pseudocódigo para representar un algoritmo.](#426-elabore-pseudocódigo-para-representar-un-algoritmo)
-- [4.2.7 Sugiera algoritmos adecuados para resolver un problema específico.](#427-sugiera-algoritmos-adecuados-para-resolver-un-problema-específico)
-- [4.2.8 Deduzca la eficacia de un algoritmo en el contexto de su uso.](#428-deduzca-la-eficacia-of-un-algoritmo-en-el-contexto-de-su-uso)
-- [4.2.9 Determine el número de veces que se ejecutará una instrucción en un algoritmo para unos datos de entrada concretos.](#429-determine-el-número-de-veces-que-se-ejecutará-una-instrucción-en-un-algoritmo-para-unos-datos-de-entrada-concretos)
+- [4.2.1 Describa las características de los algoritmos estándares de matrices lineales](#421-describa-las-características-de-los-algoritmos-estándares-de-matrices-lineales)
+- [4.2.2 Resuma las operaciones estándares de las colecciones](#422-resuma-las-operaciones-estándares-de-las-colecciones)
+- [4.2.3 Discuta un algoritmo que resuelva un problema específico](#423-discuta-un-algoritmo-que-resuelva-un-problema-específico)
+- [4.2.4 Analice un algoritmo que se presente en forma de diagrama de flujo](#424-analice-un-algoritmo-que-se-presente-en-forma-de-diagrama-de-flujo)
+- [4.2.5 Analice un algoritmo que se presente como pseudocódigo](#425-analice-un-algoritmo-que-se-presente-como-pseudocódigo)
+- [4.2.6 Elabore pseudocódigo para representar un algoritmo](#426-elabore-pseudocódigo-para-representar-un-algoritmo)
+- [4.2.7 Sugiera algoritmos adecuados para resolver un problema específico](#427-sugiera-algoritmos-adecuados-para-resolver-un-problema-específico)
+- [4.2.8 Deduzca la eficacia de un algoritmo en el contexto de su uso](#428-deduzca-la-eficacia-of-un-algoritmo-en-el-contexto-de-su-uso)
+- [4.2.9 Determine el número de veces que se ejecutará una instrucción en un algoritmo para unos datos de entrada concretos](#429-determine-el-número-de-veces-que-se-ejecutará-una-instrucción-en-un-algoritmo-para-unos-datos-de-entrada-concretos)
 
 ---
 
-## 4.2.1. Algoritmos con arreglos
+## 4.2.1 Describa las características de los algoritmos estándares de matrices lineales
 
 ### Variables
 
@@ -237,7 +237,7 @@ output array
 
 <br>
 
-## 4.2.2. Operaciones estándares de las colecciones
+## 4.2.2 Resuma las operaciones estándares de las colecciones
 
 Un **array** es una elección perfecta cuando un programador desea almacenar información del mismo tipo (por ejemplo, un grupo de strings) y sabe de antemano cuántos elementos desea guardar.
 
@@ -291,7 +291,7 @@ if TEMPERATURES.isEmpty() then ...
 
 <br>
 
-## 4.2.3. Algoritmos para problemas concretos
+## 4.2.3 Discuta un algoritmo que resuelva un problema específico
 
 #### 📌Ejemplo de programación 4: Temperaturas mínimas y máximas
 
@@ -363,7 +363,7 @@ end loop
 
 <br>
 
-## 4.2.4. Algoritmos presentados en diagramas de flujos
+## 4.2.4 Analice un algoritmo que se presente en forma de diagrama de flujo
 
 #### 📌Ejemplo de programación 5: Verificación de contraseñas
 
@@ -434,7 +434,7 @@ output n
 
 <br>
 
-## 4.2.5. Algoritmos presentados en pseudocódigo
+## 4.2.5 Analice un algoritmo que se presente como pseudocódigo
 
 #### 📌Ejemplo de programación 7: Trace table
 
@@ -627,7 +627,7 @@ ff
 
 <br>
 
-## 4.2.6. Elaboración de pseudocódigo
+## 4.2.6 Elabore pseudocódigo para representar un algoritmo
 
 #### 📌Ejemplo de programación 11: Ordenación ascendente o descendente
 
@@ -744,7 +744,7 @@ Declare Integer n
 
 <br>
 
-## 4.2.7. Algoritmos adecuados para problemas específicos
+## 4.2.7 Sugiera algoritmos adecuados para resolver un problema específico
 
 La **eficiencia** de un algoritmo se refiere a la cantidad de recursos de la computadora requeridos para realizar sus funciones. Minimizar el uso de varios recursos como la CPU y la memoria de la computadora es muy importante.
 
@@ -806,7 +806,7 @@ Number: 4 frequency: 1
 
 <br>
 
-## 4.2.8. Eficacia de un algoritmo según el contexto
+## 4.2.8 Deduzca la eficacia de un algoritmo en el contexto de su uso
 
 La notación Big O es extremadamente útil cuando se analizan algoritmos, ya que es una medida de la eficiencia de un algoritmo. Cuando decimos que un algoritmo es O(n) lo que se quiere decir es que la tasa de crecimiento de las instrucciones en este algoritmo en particular se ejecutará **n** veces.
 
@@ -868,7 +868,7 @@ No requiere bucles, solo una operación, por lo que es muy eficiente.
 
 <br>
 
-## 4.2.9. Determinación del número de iteraciones según las entradas
+## 4.2.9 Determine el número de veces que se ejecutará una instrucción en un algoritmo para unos datos de entrada concretos
 
 #### 📌Ejemplo de programación 14: Cálculo del número de iteraciones
 
