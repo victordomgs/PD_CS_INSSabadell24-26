@@ -254,7 +254,7 @@ Aunque existen algunas variaciones, la estructura en forma de pseudocódigo es:
 IF (Boolean condition) THEN 
 (Consequent) 
 ELSE (Alternative) 
-END I
+END IF
 ```
 
 Cuando se utiliza un If en un algoritmo, se evalúa una **condición booleana** (ejemplo: x > 0, x = y, etc.).
