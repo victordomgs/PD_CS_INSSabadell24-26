@@ -131,7 +131,7 @@ end loop
 
 #### Sequential Search (búsqueda secuencial o lineal)
 
-Se recorre la lista **uno por uno** hasta encontrar el elemento buscado o hasta llegar al final. Funciona tanto en **listas ordenadas com no ordenadas**.
+Se recorre la lista **uno por uno** hasta encontrar el elemento buscado o hasta llegar al final. Funciona tanto en **listas ordenadas como no ordenadas**.
 
 **Complejidad:** Mejor caso: 𝑂(1) (si el elemento está al principio).Peor caso: 𝑂(𝑛).
 
